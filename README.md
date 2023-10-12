@@ -4,8 +4,7 @@
 
 </div>
 
-This repository maintains the code, data, and model checkpoints for the paper *Aspect-sentiment contrastive learning for 
-quantitative review summarization*
+This repository maintains the code, data, and model checkpoints for the paper *Aspect-based Key Point Analysis for Quantitative Summarization of Business Reviews*
 
 ## Installation
 ### 1. Create new virtual environment by
