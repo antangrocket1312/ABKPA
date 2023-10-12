@@ -1,0 +1,14 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,did margaritas <SEP> positive,Margaritas did n't disappoint either !  ,drink -> alcohol,Restaurants,0.4200383126735687
+kp_0_1,good selection of cocktails <SEP> positive,Good selection of cocktails .,drink -> alcohol,Restaurants,0.4355701804161072
+kp_0_2,great apple cider <SEP> positive,Great apple cider and donuts .,drink -> alcohol,Arts & Entertainment,0.4241575598716736
+kp_0_3,great local cocktails <SEP> positive,Great local cocktails,drink -> alcohol,Arts & Entertainment,0.477838397026062
+kp_0_4,impressive wine list <SEP> positive,Wine list is also impressive .  ,drink -> alcohol,Restaurants,0.4283636808395386
+kp_0_5,overpriced beer <SEP> negative,Beer was overpriced .,drink -> alcohol,Restaurants,0.5687693357467651
+kp_0_6,poor beer selection <SEP> negative,Beer selection is poor .,drink -> alcohol,Restaurants,0.5319820046424866
+kp_1_0,assigned seating <SEP> positive,I love the assigned seating .,restaurant -> comfort,Arts & Entertainment,0.44654580950737
+kp_1_1,comfortable seating <SEP> positive,Seating was comfortable and spacious .,restaurant -> comfort,Restaurants,0.5571481585502625
+kp_1_2,comfy recliners <SEP> positive,The recliners are so comfy,restaurant -> comfort,Arts & Entertainment,0.4253520667552948
+kp_1_3,super comfortable seats <SEP> positive,Super comfortable seats .,restaurant -> comfort,Arts & Entertainment,0.43422892689704895
+kp_1_4,unorganized place <SEP> negative,Very unorganized place .,restaurant -> comfort,Automotive,0.44703561067581177
+kp_1_5,very comfortable seating <SEP> positive,Very comfortable seating .,restaurant -> comfort,Arts & Entertainment,0.47915101051330566

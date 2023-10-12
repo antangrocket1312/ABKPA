@@ -1,0 +1,7 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,great apple cider <SEP> positive,Great apple cider and donuts .,drink -> alcohol,Arts & Entertainment,0.4241575598716736
+kp_0_1,great local cocktails <SEP> positive,Great local cocktails,drink -> alcohol,Arts & Entertainment,0.477838397026062
+kp_1_0,assigned seating <SEP> positive,I love the assigned seating .,restaurant -> comfort,Arts & Entertainment,0.44654580950737
+kp_1_1,comfy recliners <SEP> positive,The recliners are so comfy,restaurant -> comfort,Arts & Entertainment,0.4253520667552948
+kp_1_2,super comfortable seats <SEP> positive,Super comfortable seats .,restaurant -> comfort,Arts & Entertainment,0.43422892689704895
+kp_1_3,very comfortable seating <SEP> positive,Very comfortable seating .,restaurant -> comfort,Arts & Entertainment,0.47915101051330566

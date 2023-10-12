@@ -1,0 +1,496 @@
+,comment,keypoint,domain,label
+0,yum root beer float <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+1,great craft cocktails <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+2,favorite ginger margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+3,astoundingly good local blueberry honey ale <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+4,good selection of draft beers <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+5,horizontal tequila samplers <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+6,loved margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+7,nice wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+8,really good yogurt soju cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+9,unique beer selections <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+10,tasty margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+11,funnest alcoholic <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+12,best margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+13,inviting seating area outside <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+14,discounted wine list selections <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+15,good vodka sauce <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+16,quaint wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+17,nice local beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+18,great margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+19,short on fruit wines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+20,very strong wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+21,great wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+22,short on fruit wines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+23,yum root beer float <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+24,perfect martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+25,really good margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+26,packed table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+27,fine xiao long bao <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+28,cold draft beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+29,weird table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+30,nice wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+31,nice table <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+32,wonderful wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+33,wonderful wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+34,great deal beer combo <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+35,best margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+36,watered down margarita on <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+37,awful vodka recommendation <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+38,loved margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+39,awesome seafood cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+40,great beer menu <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+41,good beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+42,well made margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+43,strongest margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+44,potent margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+45,quaint little wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+46,very energizing tequila bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+47,favorite ginger margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+48,awful vodka recommendation <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+49,enormous beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+50,very nice wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+51,ice cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+52,cozy wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+53,discounted wine list selections <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+54,quaint wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+55,fantastic martinis <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+56,low beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+57,really tasty michelada beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+58,unique beer selections <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+59,better cocktails <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,1
+60,wonderful table <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+61,awesome seafood cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+62,best double char <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+63,low beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+64,best draft house <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+65,nice outside seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+66,fine xiao long bao <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+67,loved tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+68,nice local beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+69,cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+70,most awesome wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+71,dated booths <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+72,enormous beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+73,very refreshing mexican red beer ) beers <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+74,best draft house <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+75,really good margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+76,fancy soda machines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+77,great selection of beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+78,great deal beer combo <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+79,roadside mexican flare <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+80,poor beer selection <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+81,excellent margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+82,great deal beer combo <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+83,pretty good wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+84,great wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+85,so cheesy tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+86,good margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+87,good beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+88,good margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+89,short on fruit wines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+90,good tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+91,yum root beer float <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+92,great beer specials <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+93,wonderful wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+94,better cocktails <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+95,astoundingly good local blueberry honey ale <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+96,long standing restaurant in <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+97,so cheesy tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+98,very strong wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+99,great wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+100,fancy soda machines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+101,awesome seafood cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+102,unique beer selections <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+103,great selection of beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+104,loved tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+105,really good margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+106,perfect martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+107,watered down margarita on <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+108,tasty margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+109,good tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+110,half empty restaurant <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+111,loved margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+112,favorite ginger margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+113,pretty cool- wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+114,better cocktails <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+115,yum root beer float <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+116,enormous beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+117,strongest margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+118,better cocktails <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+119,best root beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+120,super cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+121,short on fruit wines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+122,nice local beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+123,always good beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+124,enough combo fajitas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+125,cold draft beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+126,excellent margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+127,best margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+128,favorite blue grata martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+129,horizontal tequila samplers <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+130,best margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+131,very nice wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+132,poor beer selection <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+133,never seat <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+134,best margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+135,yummy martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+136,decent wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+137,great margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+138,good vodka sauce <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+139,unique beer selections <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+140,enormous beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+141,enough combo fajitas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+142,great deal beer combo <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+143,potent margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+144,good tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+145,enough combo fajitas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+146,tasty margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+147,cozy wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+148,fantastic martinis <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+149,nice wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+150,funnest alcoholic <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+151,extensive wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+152,low beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+153,dusty napkin holders <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+154,quaint little wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+155,unique beer selections <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+156,most awesome wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+157,too seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+158,awesome seafood cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+159,very refreshing mexican red beer ) beers <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+160,favorite blue grata martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+161,great wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+162,so cheesy tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+163,fairly clean restaurant <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+164,best root beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+165,among the best spring rolls <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+166,watered down margarita on <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+167,best margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+168,very tables <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+169,astoundingly good local blueberry honey ale <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+170,enormous beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+171,very strong wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+172,better margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+173,never too packed place <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+174,horizontal tequila samplers <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+175,hard to find a seat <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+176,among the best spring rolls <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+177,discounted wine list selections <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+178,traditional seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+179,always good beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+180,understaffed place <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+181,loved wine selection suggestions <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+182,good beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+183,great beer menu <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+184,diverse wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+185,loved wine selection suggestions <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+186,nice big train /booth   <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+187,great margarita pizza <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+188,good selection of draft beers <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+189,good beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+190,favorite blue grata martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+191,wonderful wines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+192,extensive wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+193,very good margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+194,very energizing tequila bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+195,great beer specials <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+196,fantastic martinis <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+197,full bar <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+198,nice wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+199,good beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+200,great wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+201,extensive wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+202,divey place <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+203,yummy martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+204,very good margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+205,best margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+206,best double char <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+207,funnest alcoholic <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+208,best draft house <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+209,formidable craft beer menu <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+210,better margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+211,really good yogurt soju cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+212,favorite pinot noir <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+213,strongest margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+214,good selection of beers on tap <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+215,excellent margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+216,quaint little wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+217,really good margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+218,open tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+219,watered down margarita on <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+220,extensive wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+221,pretty good wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+222,good margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+223,awesome seafood cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+224,actual korean table seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+225,most awesome wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+226,good wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+227,great margarita pizza <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+228,decent wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+229,amazing shrimp cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+230,tiny place <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+231,so cheesy tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+232,fine xiao long bao <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+233,always good beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+234,among the best spring rolls <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+235,strongest margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+236,well made margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+237,good wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+238,ice cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+239,good tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+240,good beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+241,snug seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+242,cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+243,good wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+244,great craft cocktails <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+245,best double char <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+246,more open tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+247,diverse wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+248,better margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+249,good margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+250,great margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+251,loved wine selection suggestions <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+252,really tasty michelada beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+253,fancy soda machines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+254,very nice wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+255,good selection of draft beers <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+256,great beer menu <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+257,really good yogurt soju cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+258,quaint wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+259,loved tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+260,fancy soda machines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+261,better cocktails <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+262,favorite blue grata martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+263,cold draft beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+264,poor beer selection <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+265,low beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+266,good beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+267,great beer menu <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+268,perfect martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+269,really tasty michelada beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+270,favorite pinot noir <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+271,best root beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+272,pretty good wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+273,best root beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+274,best seat in <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+275,well made margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+276,very good margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+277,horizontal tequila samplers <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+278,pretty cool- wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+279,super cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+280,very strong wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+281,comfy seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+282,good margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+283,amazing shrimp cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+284,yummy martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+285,extensive wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+286,diverse wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+287,plenty of seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+288,really good margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+289,great beer selection <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+290,awful vodka recommendation <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+291,very refreshing mexican red beer ) beers <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+292,ice cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+293,funnest alcoholic <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+294,fine xiao long bao <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+295,strongest margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+296,great beer specials <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+297,great beer selection <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+298,quaint wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+299,watered down margarita on <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+300,great margarita pizza <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+301,very energizing tequila bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+302,pretty cool- wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+303,discounted wine list selections <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+304,best draft house <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+305,full korean bar <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+306,good selection of draft beers <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+307,loved wine selection suggestions <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+308,best margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+309,good beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+310,loved wine selection suggestions <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+311,pretty good wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+312,really good yogurt soju cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+313,loved tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+314,slanted outside table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+315,good selection of beers on tap <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+316,wonderful wines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+317,super cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+318,low beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+319,most awesome wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+320,large seats <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+321,well made margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+322,best draft house <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+323,ample seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+324,great beer specials <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+325,potent margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+326,tasty margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+327,discounted wine list selections <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+328,formidable craft beer menu <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+329,decent wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+330,nice seating areas <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+331,nice wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+332,delicious margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+333,roadside mexican flare <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+334,big tables <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+335,quaint little wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+336,super cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+337,better margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+338,wonderful wines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+339,very refreshing mexican red beer ) beers <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+340,very refreshing mexican red beer ) beers <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+341,amazing shrimp cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+342,awful vodka recommendation <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+343,good selection of beers on tap <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+344,fine xiao long bao <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+345,very energizing tequila bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+346,great deal beer combo <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+347,tasty margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+348,fancy soda machines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+349,roadside mexican flare <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+350,great selection of beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+351,wonderful wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+352,yum root beer float <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+353,cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+354,astoundingly good local blueberry honey ale <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+355,fantastic martinis <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+356,cozy wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+357,delicious margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+358,great craft cocktails <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+359,diverse wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+360,quickly seated <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+361,nice wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+362,potent margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+363,comfortable booths <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+364,really tasty michelada beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+365,good selection of draft beers <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+366,delicious margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+367,great beer selection <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+368,poor beer selection <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+369,enough combo fajitas <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+370,good wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+371,well made margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+372,wonderful wines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+373,fantastic martinis <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+374,delicious margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+375,divey place <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+376,most awesome wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+377,cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+378,great beer selection <SEP> negative,poor beer selection <SEP> negative,Restaurants,1
+379,astoundingly good local blueberry honey ale <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+380,great margarita pizza <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+381,favorite blue grata martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+382,great wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+383,ice cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+384,very good margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+385,really good yogurt soju cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+386,good tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+387,delicious margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+388,formidable craft beer menu <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+389,nice wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+390,good beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+391,super comfortable place <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+392,decent wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+393,great margarita pizza <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+394,very small parking lot <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+395,good selection of beers on tap <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+396,quaint little wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+397,long table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+398,loved margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+399,best double char <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+400,roadside mexican flare <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+401,funnest alcoholic <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+402,super cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+403,decent wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+404,best margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+405,cold draft beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+406,loved tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+407,diverse wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+408,occupied table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+409,good vodka sauce <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+410,cozy wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+411,covered outdoor seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+412,perfect martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+413,great craft cocktails <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+414,great beer specials <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+415,nice wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+416,roadside mexican flare <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+417,liked seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+418,cold draft beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+419,good beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+420,perfect martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+421,pretty cool- wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+422,good vodka sauce <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+423,cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+424,great margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+425,great beer selection <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+426,pretty cool- wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+427,very nice wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+428,cozy wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+429,always good beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+430,formidable craft beer menu <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+431,dirty tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+432,awful vodka recommendation <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+433,short on fruit wines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+434,excellent margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+435,very energizing tequila bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+436,horizontal tequila samplers <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+437,great wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+438,great selection of beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+439,comfy seats <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+440,dirty table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+441,great wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+442,love floor seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+443,great wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+444,pretty good wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+445,very strong wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+446,great wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+447,divey place <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+448,small restaurant <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+449,enough combo fajitas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+450,loved margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+451,nice local beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+452,yummy martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+453,favorite pinot noir <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+454,great selection of beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+455,good selection of beers on tap <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+456,very nice wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+457,great craft cocktails <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+458,great margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+459,amazing shrimp cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+460,really tasty michelada beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+461,nice wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+462,quaint wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+463,nice local beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+464,among the best spring rolls <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+465,potent margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+466,best root beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+467,low seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+468,divey place <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+469,favorite pinot noir <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+470,good vodka sauce <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+471,formidable craft beer menu <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+472,best margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+473,so cheesy tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+474,amazing shrimp cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+475,good wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+476,excellent margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+477,empty tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+478,favorite ginger margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+479,among the best spring rolls <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+480,best double char <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+481,great beer menu <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+482,nonexistent table service <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+483,wonderful wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+484,always good beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+485,yummy martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+486,very good margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+487,favorite pinot noir <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+488,lots of seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+489,divey place <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+490,ice cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+491,favorite ginger margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+492,nice wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+493,better margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+494,wonderful wines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0

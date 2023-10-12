@@ -1,0 +1,294 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,did margaritas <SEP> positive,Margaritas did n't disappoint either !  ,drink -> alcohol,Restaurants,0.4200383126735687
+kp_0_1,good selection of cocktails <SEP> positive,Good selection of cocktails .,drink -> alcohol,Restaurants,0.4355701804161072
+kp_0_2,impressive wine list <SEP> positive,Wine list is also impressive .  ,drink -> alcohol,Restaurants,0.4283636808395386
+kp_0_3,overpriced beer <SEP> negative,Beer was overpriced .,drink -> alcohol,Restaurants,0.5687693357467651
+kp_0_4,poor beer selection <SEP> negative,Beer selection is poor .,drink -> alcohol,Restaurants,0.5319820046424866
+kp_1_0,broken pool fountains <SEP> negative,The pool fountains are broken .,drink -> quality,Hotels,0.4682809114456177
+kp_1_1,dirty water glasses <SEP> negative,Water glasses were dirty .,drink -> quality,Restaurants,0.4253019392490387
+kp_1_2,fairly priced drinks <SEP> positive,Fairly priced drinks .,drink -> quality,Restaurants,0.4422309100627899
+kp_1_3,great brisket <SEP> positive,Brisket is great and moist .,drink -> quality,Restaurants,0.45488879084587097
+kp_1_4,leaked room <SEP> negative,Room leaked water from rain .,drink -> quality,Hotels,0.4957803785800934
+kp_1_5,very strong chemical smell <SEP> negative,Very strong chemical smell .,drink -> quality,Beauty & Spas,0.4272124469280243
+kp_2_0,good portions omelets <SEP> positive,Omelets are good portions .,food -> healthiness,Restaurants,0.5367823243141174
+kp_2_1,lacked seasoning king crab legs <SEP> negative,King crab legs lacked seasoning .   ,food -> healthiness,Restaurants,0.5532650947570801
+kp_2_2,lumpy bedspreads <SEP> negative,Bedspreads are lumpy and stained .  ,food -> healthiness,Hotels,0.6835253834724426
+kp_2_3,wilted lettuce <SEP> negative,Lettuce was wilted and brown .  ,food -> healthiness,Restaurants,0.4988867938518524
+kp_3_0,a bit breakfast <SEP> negative,Breakfast is a bit overpriced .,food -> quality,Hotels,0.5505643486976624
+kp_3_1,addictive sandwiches <SEP> negative,The sandwiches are addictive ...,food -> quality,Restaurants,0.43320509791374207
+kp_3_2,always delicious food <SEP> positive,The food is always delicious,food -> quality,Restaurants,0.43751397728919983
+kp_3_3,authentic korean food <SEP> positive,"Very good , authentic Korean food .",food -> quality,Restaurants,0.45634445548057556
+kp_3_4,authentic mexican food <SEP> positive,Authentic Mexican food .,food -> quality,Restaurants,0.5013257265090942
+kp_3_5,best massage <SEP> positive,The best massage In Vegas .,food -> quality,Beauty & Spas,0.433723509311676
+kp_3_6,best pedicure <SEP> positive,The best pedicure / massages .,food -> quality,Beauty & Spas,0.4832943081855774
+kp_3_7,best pedicures <SEP> positive,She gives the Best Pedicures !,food -> quality,Beauty & Spas,0.48454612493515015
+kp_3_8,cold food <SEP> negative,"Food was cold , dry , flavorless .",food -> quality,Restaurants,0.5471324324607849
+kp_3_9,cold fries <SEP> negative,Burger and fries were cold .,food -> quality,Restaurants,0.45567020773887634
+kp_3_10,consistently quality food <SEP> positive,Consistently quality food and margaritas ! ! !,food -> quality,Restaurants,0.46908339858055115
+kp_3_11,cooked poorly burger <SEP> negative,Burger was cooked poorly .,food -> quality,Restaurants,0.523705780506134
+kp_3_12,disappointing food <SEP> negative,The food was just disappointing .,food -> quality,Restaurants,0.44684672355651855
+kp_3_13,excellent enchiladas <SEP> positive,Excellent chile relleno and enchiladas .  ,food -> quality,Restaurants,0.42821601033210754
+kp_3_14,excellent food <SEP> positive,"Excellent food , atmosphere and ambience .",food -> quality,Restaurants,0.4282650053501129
+kp_3_15,fresh salads <SEP> positive,Salads are fresh and healthy .,food -> quality,Restaurants,0.49485647678375244
+kp_3_16,good food <SEP> positive,"Food is good , but overpriced .",food -> quality,Restaurants,0.5861688256263733
+kp_3_17,good quality mexican food <SEP> positive,"Good quality "" regular "" Mexican food .",food -> quality,Restaurants,0.4222522974014282
+kp_3_18,great affordable food <SEP> positive,Great affordable food .,food -> quality,Restaurants,0.5067029595375061
+kp_3_19,great family restaurant <SEP> positive,Great family restaurant .,food -> quality,Restaurants,0.46143510937690735
+kp_3_20,great food <SEP> positive,"Great food , drinks and service !",food -> quality,Restaurants,0.48235538601875305
+kp_3_21,great for night time snackers <SEP> positive,Great for night time snackers .,food -> quality,Restaurants,0.4537307322025299
+kp_3_22,great korean fusion <SEP> positive,Great Korean fusion .,food -> quality,Restaurants,0.5673350095748901
+kp_3_23,great late night grub spot <SEP> positive,Great late night grub spot !,food -> quality,Restaurants,0.4616958796977997
+kp_3_24,great meats <SEP> positive,Flavorful stocks and great meats .,food -> quality,Restaurants,0.4887421429157257
+kp_3_25,great mexican food <SEP> positive,Great Mexican food and service .  ,food -> quality,Restaurants,0.43739035725593567
+kp_3_26,great pedicures <SEP> positive,Pedicures are great as well !,food -> quality,Beauty & Spas,0.42646631598472595
+kp_3_27,great quality sushi <SEP> positive,Sushi was great quality .,food -> quality,Restaurants,0.4825296401977539
+kp_3_28,great ramen <SEP> positive,Great Ramen and Udon too !,food -> quality,Restaurants,0.45488375425338745
+kp_3_29,great sauces <SEP> positive,Great sauces and salsas .  ,food -> quality,Restaurants,0.43798819184303284
+kp_3_30,great soups <SEP> positive,Great soups and sandwiches .  ,food -> quality,Restaurants,0.45854759216308594
+kp_3_31,homemade pastas <SEP> positive,Homemade pastas and pizza .,food -> quality,Restaurants,0.42002835869789124
+kp_3_32,kept clean washrooms <SEP> positive,Washrooms are kept clean .,food -> quality,Hotels,0.4482811987400055
+kp_3_33,moist chicken <SEP> negative,Chicken was moist but bland .  ,food -> quality,Restaurants,0.47033339738845825
+kp_3_34,outstanding deep tissue massage <SEP> positive,Outstanding deep tissue massage .,food -> quality,Beauty & Spas,0.4324500858783722
+kp_3_35,perfect consistency refried beans <SEP> positive,Refried beans the perfect consistency .,food -> quality,Restaurants,0.4637437164783478
+kp_3_36,perfection cooked <SEP> positive,Both were cooked to perfection .,food -> quality,Hotels,0.5633606314659119
+kp_3_37,perfectly seasoned fries <SEP> positive,The fries were perfectly seasoned,food -> quality,Restaurants,0.5393614172935486
+kp_3_38,prepared food <SEP> positive,Food is prepared with care .  ,food -> quality,Restaurants,0.5275498628616333
+kp_3_39,reliable korean cuisine <SEP> positive,Tasty and reliable Korean cuisine .,food -> quality,Restaurants,0.5516496300697327
+kp_3_40,ridiculous badgering <SEP> negative,His badgering was absolutely ridiculous .    ,food -> quality,Restaurants,0.5158945322036743
+kp_3_41,seasoned perfectly meat <SEP> positive,The meat is seasoned perfectly .  ,food -> quality,Restaurants,0.4949682950973511
+kp_3_42,seasoned well rice <SEP> positive,The rice was seasoned well,food -> quality,Restaurants,0.4282238781452179
+kp_3_43,spicy food <SEP> negative,Food is spicy and flavorful .,food -> quality,Restaurants,0.42209866642951965
+kp_3_44,very nice breakfast buffet <SEP> positive,Very Nice Breakfast Buffet Sat&Sun,food -> quality,Hotels,0.43447884917259216
+kp_3_45,wide selection of food <SEP> positive,Wide selection of food,food -> quality,Restaurants,0.48513397574424744
+kp_3_46,wonderful restaurant <SEP> positive,Wonderful restaurant in Old Montreal .,food -> quality,Restaurants,0.42443251609802246
+kp_3_47,worst carwash <SEP> negative,Worst carwash in the Valley .,food -> quality,Automotive,0.48082101345062256
+kp_4_0,convenient for apex convention attendees <SEP> positive,Convenient for APEX convention attendees !,food -> variety,Hotels,0.47449496388435364
+kp_4_1,great store selection <SEP> positive,Great store selection,food -> variety,Beauty & Spas,0.4685426652431488
+kp_4_2,lack of attention details <SEP> negative,Lack of attention on details .,food -> variety,Automotive,0.43933749198913574
+kp_4_3,poor effort <SEP> negative,Poor effort all around .,food -> variety,Automotive,0.4419107139110565
+kp_4_4,well above expectations pdq <SEP> positive,PDQ was well above expectations .  ,food -> variety,Restaurants,0.5713996887207031
+kp_5_0,generous portions <SEP> positive,Portions are generous .,food-quantity,Restaurants,0.46274229884147644
+kp_5_1,good portions <SEP> positive,Servings are good portions .,food-quantity,Restaurants,0.5650215148925781
+kp_5_2,small dessert portions <SEP> negative,Dessert portions small,food-quantity,Restaurants,0.5648941993713379
+kp_5_3,smaller portions <SEP> negative,Portions are getting smaller .  ,food-quantity,Restaurants,0.4733462333679199
+kp_6_0,great location <SEP> positive,Great location and amenities .  ,location,Hotels,0.42586058378219604
+kp_7_0,family friendly place <SEP> positive,"Relaxed , quiet , family friendly place .",recommendation,Hotels,0.5604457855224609
+kp_7_1,family oriented place <SEP> positive,Definitely a family oriented place .,recommendation,Hotels,0.43907630443573
+kp_7_2,fraudulent place <SEP> negative,This place is fraudulent !  ,recommendation,Automotive,0.5248994827270508
+kp_7_3,over rated park <SEP> negative,Park is over rated .,recommendation,Hotels,0.5012179613113403
+kp_7_4,worst car buying experience <SEP> negative,Worst car buying experience .,recommendation,Automotive,0.5024353265762329
+kp_7_5,worst place <SEP> negative,Worst place to eat,recommendation,Restaurants,0.43149179220199585
+kp_8_0,a little outdated rooms <SEP> negative,Rooms are a little outdated .,restaurant -> atmosphere,Hotels,0.5268270969390869
+kp_8_1,accessible parking <SEP> positive,Parking was accessible and easy .  ,restaurant -> atmosphere,Hotels,0.6373403668403625
+kp_8_2,ample parking <SEP> positive,Ample parking and seating .,restaurant -> atmosphere,Restaurants,0.48428580164909363
+kp_8_3,astonishing gym <SEP> positive,Astonishing Gym / Fitness facilities .,restaurant -> atmosphere,Beauty & Spas,0.44396597146987915
+kp_8_4,beautiful car <SEP> positive,Beautiful car with every feature .,restaurant -> atmosphere,Automotive,0.43682247400283813
+kp_8_5,best airport parking <SEP> positive,Best Airport Parking around !,restaurant -> atmosphere,Automotive,0.46217650175094604
+kp_8_6,best wings <SEP> positive,Best wings hands down,restaurant -> atmosphere,Restaurants,0.4394696056842804
+kp_8_7,classic music <SEP> positive,Current and classic music .,restaurant -> atmosphere,Restaurants,0.4569137692451477
+kp_8_8,clean bathrooms <SEP> positive,"Clean bathrooms , towels , and shower .",restaurant -> atmosphere,Hotels,0.48445433378219604
+kp_8_9,clean comfortable rooms <SEP> positive,Clean comfortable rooms .,restaurant -> atmosphere,Hotels,0.42004215717315674
+kp_8_10,clean everything <SEP> positive,Everything was clean and functional .,restaurant -> atmosphere,Hotels,0.43491050601005554
+kp_8_11,clean facilities <SEP> positive,"Clean facilities , seems family owned .",restaurant -> atmosphere,Automotive,0.5078080892562866
+kp_8_12,clean hotel <SEP> positive,Hotel was clean and modern .,restaurant -> atmosphere,Hotels,0.48079392313957214
+kp_8_13,clean room <SEP> positive,Room was clean and comfortable .,restaurant -> atmosphere,Hotels,0.4978311359882355
+kp_8_14,clean rooms <SEP> positive,"Beautiful , relaxing , and clean rooms .",restaurant -> atmosphere,Beauty & Spas,0.4449475109577179
+kp_8_15,crisp wings <SEP> positive,Wings were crisp as requested .,restaurant -> atmosphere,Restaurants,0.426022469997406
+kp_8_16,dirty place <SEP> negative,Place felt dirty and disorganized .,restaurant -> atmosphere,Restaurants,0.5058704018592834
+kp_8_17,excellent massage <SEP> positive,Kris is excellent at massage .,restaurant -> atmosphere,Hotels,0.49023619294166565
+kp_8_18,excellent resort <SEP> positive,Sanctuary is an excellent resort .,restaurant -> atmosphere,Hotels,0.4822734296321869
+kp_8_19,fitting decor <SEP> positive,Decor is fitting and colorful .,restaurant -> atmosphere,Restaurants,0.42034777998924255
+kp_8_20,flatscreen tvs <SEP> positive,Flatscreen TVs Bluetooth stereo .,restaurant -> atmosphere,Hotels,0.43619295954704285
+kp_8_21,free parking <SEP> positive,Parking is free and plenty,restaurant -> atmosphere,Hotels,0.4962938129901886
+kp_8_22,ghetto accomadations <SEP> negative,Ghetto accomadations and clientele .,restaurant -> atmosphere,Hotels,0.421877920627594
+kp_8_23,gorgeous mountain views <SEP> positive,Pool had gorgeous mountain views  ,restaurant -> atmosphere,Hotels,0.5180358290672302
+kp_8_24,great ambience <SEP> positive,Great ambience and service .  ,restaurant -> atmosphere,Restaurants,0.42304539680480957
+kp_8_25,great amenities <SEP> positive,Great amenities and snacks .,restaurant -> atmosphere,Beauty & Spas,0.4230084717273712
+kp_8_26,great and comfortable beds <SEP> positive,Great and comfortable beds .,restaurant -> atmosphere,Hotels,0.4525858461856842
+kp_8_27,great artistry <SEP> positive,Professional and great artistry .,restaurant -> atmosphere,Beauty & Spas,0.45667126774787903
+kp_8_28,great atmosphere <SEP> positive,Great atmosphere and patio service .,restaurant -> atmosphere,Restaurants,0.4623757600784302
+kp_8_29,great attention to <SEP> positive,Great attention to detail,restaurant -> atmosphere,Beauty & Spas,0.4649989902973175
+kp_8_30,great communication <SEP> positive,Great communication and customer service .,restaurant -> atmosphere,Automotive,0.5061662793159485
+kp_8_31,great conversationalist <SEP> positive,Great conversationalist too !,restaurant -> atmosphere,Beauty & Spas,0.45214882493019104
+kp_8_32,great date night spot <SEP> positive,Great date night spot or,restaurant -> atmosphere,Restaurants,0.42508503794670105
+kp_8_33,great detail <SEP> positive,Great detail and professional .,restaurant -> atmosphere,Beauty & Spas,0.44057390093803406
+kp_8_34,great flavor <SEP> positive,Great flavor and texture .,restaurant -> atmosphere,Restaurants,0.4240235984325409
+kp_8_35,great for business travel <SEP> positive,Great for business travel .,restaurant -> atmosphere,Hotels,0.4395638406276703
+kp_8_36,great hiking location <SEP> positive,Great hiking location .,restaurant -> atmosphere,Hotels,0.45885950326919556
+kp_8_37,great neighborhood <SEP> positive,Great neighborhood burger joint .,restaurant -> atmosphere,Restaurants,0.42043861746788025
+kp_8_38,great neighborhood restaurant <SEP> positive,Great neighborhood restaurant .,restaurant -> atmosphere,Restaurants,0.43458959460258484
+kp_8_39,great quality work <SEP> positive,Great quality work .,restaurant -> atmosphere,Beauty & Spas,0.4215850234031677
+kp_8_40,great setting <SEP> positive,Great setting to relax .,restaurant -> atmosphere,Hotels,0.4520997107028961
+kp_8_41,great view <SEP> positive,Great view facing the river .,restaurant -> atmosphere,Hotels,0.4274769723415375
+kp_8_42,horrible parking <SEP> negative,Parking was horrible .,restaurant -> atmosphere,Hotels,0.44283562898635864
+kp_8_43,huge bathtubs <SEP> positive,Huge bathtubs plus shower .,restaurant -> atmosphere,Hotels,0.426009863615036
+kp_8_44,little privacy bathroom <SEP> negative,The bathroom offered little privacy .,restaurant -> atmosphere,Hotels,0.6901896595954895
+kp_8_45,luxurious lodging <SEP> positive,"Comfortable , modern , luxurious lodging .",restaurant -> atmosphere,Hotels,0.49368101358413696
+kp_8_46,minor parking <SEP> negative,Parking is a minor annoyance .,restaurant -> atmosphere,Restaurants,0.4353095293045044
+kp_8_47,modern bathrooms <SEP> positive,Bathrooms are modern and clean .,restaurant -> atmosphere,Hotels,0.59064781665802
+kp_8_48,modern decor <SEP> positive,Very clean and modern decor .,restaurant -> atmosphere,Beauty & Spas,0.45340779423713684
+kp_8_49,multiple level parking <SEP> positive,They have multiple level parking,restaurant -> atmosphere,Beauty & Spas,0.46758636832237244
+kp_8_50,nice and updated style <SEP> positive,Style was nice and updated .,restaurant -> atmosphere,Hotels,0.47951704263687134
+kp_8_51,nice rooms <SEP> positive,"Nice rooms , comfortable , clean .",restaurant -> atmosphere,Hotels,0.431693434715271
+kp_8_52,nicely appointed bathrooms <SEP> positive,Both bathrooms were nicely appointed .,restaurant -> atmosphere,Hotels,0.42002323269844055
+kp_8_53,no pride in workmanship <SEP> negative,No pride in workmanship .,restaurant -> atmosphere,Automotive,0.5125594735145569
+kp_8_54,outdated carpet <SEP> negative,Furniture and carpet outdated .,restaurant -> atmosphere,Hotels,0.4517658054828644
+kp_8_55,perfect gem <SEP> positive,Perfect hidden Gem .,restaurant -> atmosphere,Restaurants,0.4555741846561432
+kp_8_56,poor tv reception <SEP> negative,The TV reception was poor .,restaurant -> atmosphere,Hotels,0.550639808177948
+kp_8_57,professional environment <SEP> positive,"Awesome , friendly , and professional environment .",restaurant -> atmosphere,Beauty & Spas,0.4366248548030853
+kp_8_58,slippery stairs <SEP> negative,"Rocky , uneven , slippery stairs .",restaurant -> atmosphere,Hotels,0.4419647753238678
+kp_8_59,soothing lighting <SEP> positive,"Lighting , relaxing and soothing .",restaurant -> atmosphere,Beauty & Spas,0.49554571509361267
+kp_8_60,spacious rooms <SEP> positive,Rooms are spacious and comfortable .,restaurant -> atmosphere,Hotels,0.6357814073562622
+kp_8_61,spotless room <SEP> positive,Room was spotless and clean .,restaurant -> atmosphere,Hotels,0.45524972677230835
+kp_8_62,sunny outdoor seating <SEP> positive,"Great , sunny , outdoor seating .",restaurant -> atmosphere,Restaurants,0.47357580065727234
+kp_8_63,thoroughly enjoyed massage <SEP> positive,I thoroughly enjoyed my massage .,restaurant -> atmosphere,Beauty & Spas,0.42037826776504517
+kp_8_64,too much noise <SEP> negative,Too much noise at times .,restaurant -> atmosphere,Beauty & Spas,0.4496946334838867
+kp_8_65,very comfortable rooms <SEP> positive,Rooms are very comfortable,restaurant -> atmosphere,Hotels,0.471422016620636
+kp_8_66,very dated furniture <SEP> negative,Furniture was very dated .  ,restaurant -> atmosphere,Hotels,0.49447789788246155
+kp_8_67,worst costumer <SEP> negative,And worst costumer service .,restaurant -> atmosphere,Beauty & Spas,0.479880690574646
+kp_8_68,worst experience <SEP> negative,Worst experience of my life .,restaurant -> atmosphere,Hotels,0.482030987739563
+kp_8_69,worst vacuum <SEP> negative,Worst vacuum and customer service .,restaurant -> atmosphere,Automotive,0.6290580630302429
+kp_9_0,always comfortable beds <SEP> positive,The beds are always comfortable .  ,restaurant -> comfort,Hotels,0.4446079134941101
+kp_9_1,comfortable beds <SEP> positive,Beds were comfortable .,restaurant -> comfort,Hotels,0.47147607803344727
+kp_9_2,comfortable seating <SEP> positive,Seating was comfortable and spacious .,restaurant -> comfort,Restaurants,0.5571481585502625
+kp_9_3,comfy beds <SEP> positive,"beds were comfy ,",restaurant -> comfort,Hotels,0.44575774669647217
+kp_9_4,comfy chairs <SEP> positive,Comfy chairs and couches .,restaurant -> comfort,Hotels,0.5078995227813721
+kp_9_5,super comfortable beds <SEP> positive,The beds are super comfortable .,restaurant -> comfort,Hotels,0.42564818263053894
+kp_9_6,understaffed front desk <SEP> negative,The front desk is understaffed .  ,restaurant -> comfort,Hotels,0.6296270489692688
+kp_9_7,unorganized place <SEP> negative,Very unorganized place .,restaurant -> comfort,Automotive,0.44703561067581177
+kp_10_0,a+ customer service <SEP> positive,Customer Service was A+,staff,Restaurants,0.474484384059906
+kp_10_1,above and beyond staff <SEP> positive,Staff goes above and beyond .,staff,Hotels,0.5060063004493713
+kp_10_2,absolutely terrible service <SEP> negative,The service was absolutely terrible .,staff,Restaurants,0.4390981197357178
+kp_10_3,absolutely top notch service <SEP> positive,Service was absolutely Top Notch .   ,staff,Automotive,0.4355175793170929
+kp_10_4,always great service <SEP> positive,Service always great,staff,Restaurants,0.4421516954898834
+kp_10_5,amazing customer <SEP> positive,What amazing customer service !  ,staff,Automotive,0.48310303688049316
+kp_10_6,amazing professional <SEP> positive,Amazing professional and skilled piercer !,staff,Beauty & Spas,0.5200863480567932
+kp_10_7,amazing service <SEP> positive,Great wings and amazing service .,staff,Restaurants,0.44838273525238037
+kp_10_8,amazing staff <SEP> positive,Amazing staff & customer service .,staff,Hotels,0.5119611024856567
+kp_10_9,amazing stylist <SEP> positive,Rob was an AMAZING stylist .,staff,Beauty & Spas,0.4648326635360718
+kp_10_10,attentive service <SEP> positive,Service was also attentive .,staff,Restaurants,0.45108696818351746
+kp_10_11,attentive staff <SEP> positive,Amazing and attentive staff .,staff,Hotels,0.45420023798942566
+kp_10_12,attentively managed textures <SEP> positive,"Colors , textures were attentively managed .",staff,Restaurants,0.49409019947052
+kp_10_13,best attention to <SEP> positive,Best attention to detail,staff,Beauty & Spas,0.42942488193511963
+kp_10_14,best costumer service <SEP> positive,THE BEST Costumer Service ! !,staff,Restaurants,0.4397377669811249
+kp_10_15,best customer <SEP> positive,BEST CUSTOMER SERVICE :),staff,Automotive,0.4981174170970917
+kp_10_16,caring folks <SEP> positive,Talented and caring folks throughout .,staff,Hotels,0.44755664467811584
+kp_10_17,clean shop <SEP> positive,Shop is clean and comfortable .,staff,Beauty & Spas,0.4734035134315491
+kp_10_18,commendable patience <SEP> positive,His patience was commendable .  ,staff,Automotive,0.48679763078689575
+kp_10_19,courteous front desk folks <SEP> positive,Front desk folks were courteous .  ,staff,Hotels,0.43098440766334534
+kp_10_20,courteous front desk personnel <SEP> positive,Front desk personnel are courteous,staff,Hotels,0.625623881816864
+kp_10_21,dishonest people <SEP> negative,Very dishonest people .,staff,Automotive,0.5407615303993225
+kp_10_22,down to earth staff <SEP> positive,"Friendly , down to earth staff .",staff,Restaurants,0.5271258354187012
+kp_10_23,efficient service department <SEP> positive,Efficient Service Department .,staff,Automotive,0.45676857233047485
+kp_10_24,efficient staff <SEP> positive,Staff was efficient and helpful .,staff,Hotels,0.44979459047317505
+kp_10_25,excellent customer service <SEP> positive,The customer service was excellent .,staff,Automotive,0.4504282772541046
+kp_10_26,exceptional customer service <SEP> positive,Exceptional customer service .,staff,Hotels,0.4563208222389221
+kp_10_27,extremely accommodating staff <SEP> positive,The staff is extremely accommodating .,staff,Hotels,0.5257200598716736
+kp_10_28,extremely friendly staff <SEP> positive,Their staff is extremely friendly !    ,staff,Restaurants,0.4279281497001648
+kp_10_29,extremely mediocre service <SEP> negative,The service was extremely mediocre .,staff,Restaurants,0.5177798867225647
+kp_10_30,extremely professional service <SEP> positive,The service was extremely professional .,staff,Restaurants,0.4800845682621002
+kp_10_31,filthy facility <SEP> negative,The facility itself is filthy .  ,staff,Beauty & Spas,0.49379342794418335
+kp_10_32,fine customer service <SEP> positive,Customer Service was fine,staff,Beauty & Spas,0.425849050283432
+kp_10_33,"friendly , efficient service <SEP> positive","Friendly , efficient service .",staff,Restaurants,0.5315314531326294
+kp_10_34,friendly and attentive management <SEP> positive,Management was friendly and attentive .  ,staff,Hotels,0.4823489487171173
+kp_10_35,friendly and helpful staff <SEP> positive,"Attentive , friendly and helpful staff .",staff,Hotels,0.4853518605232239
+kp_10_36,friendly and helpful waitress <SEP> positive,Waitress was friendly and helpful .,staff,Restaurants,0.4317294657230377
+kp_10_37,friendly and knowledgeable staff <SEP> positive,Friendly and knowledgeable staff .,staff,Beauty & Spas,0.6284707188606262
+kp_10_38,friendly and professional front desk <SEP> positive,Friendly and professional front desk ..,staff,Beauty & Spas,0.4550662636756897
+kp_10_39,friendly and speedy service <SEP> positive,Service was friendly and speedy .,staff,Restaurants,0.5385202765464783
+kp_10_40,friendly and thorough gina <SEP> positive,Gina was friendly and thorough .,staff,Beauty & Spas,0.4799707531929016
+kp_10_41,friendly and welcoming owner <SEP> positive,Owner was friendly and welcoming .,staff,Restaurants,0.47182348370552063
+kp_10_42,friendly service <SEP> positive,"Service : friendly , efficient  ",staff,Restaurants,0.4887009263038635
+kp_10_43,friendly staff <SEP> positive,"Friendly staff , bilingual .",staff,Restaurants,0.4999805688858032
+kp_10_44,friendly waitress <SEP> positive,Waitress is friendly and personable .  ,staff,Restaurants,0.5046147704124451
+kp_10_45,good customer service <SEP> positive,Good quality and customer service .  ,staff,Beauty & Spas,0.45089027285575867
+kp_10_46,good service <SEP> positive,Good service all around .,staff,Automotive,0.43069589138031006
+kp_10_47,gracious and friendly staff <SEP> positive,Gracious and friendly staff .,staff,Hotels,0.42003440856933594
+kp_10_48,great and attentive service <SEP> positive,Service was great and attentive !,staff,Restaurants,0.5071854591369629
+kp_10_49,great and friendly service <SEP> positive,Great and friendly service .,staff,Restaurants,0.4324455261230469
+kp_10_50,great cleaning staff <SEP> positive,Great cleaning staff .  ,staff,Hotels,0.43451493978500366
+kp_10_51,great customer <SEP> positive,Great customer service !,staff,Beauty & Spas,0.4432879686355591
+kp_10_52,great customer service <SEP> positive,Workers had great customer service !,staff,Restaurants,0.5226187705993652
+kp_10_53,great family run business <SEP> positive,"Great family run , local business .",staff,Beauty & Spas,0.5370203852653503
+kp_10_54,great service <SEP> positive,Great service and care .,staff,Beauty & Spas,0.4581756591796875
+kp_10_55,great staff <SEP> positive,Great staff and,staff,Beauty & Spas,0.44387510418891907
+kp_10_56,happy customer <SEP> positive,Cheers - a happy customer,staff,Automotive,0.4659280776977539
+kp_10_57,helpful and caring staff <SEP> positive,Staff seems helpful and caring .,staff,Hotels,0.5098562836647034
+kp_10_58,helpful staff <SEP> positive,Friendly efficient and helpful staff .,staff,Automotive,0.4812169075012207
+kp_10_59,hit or miss service <SEP> negative,Service is hit or miss,staff,Restaurants,0.5679154992103577
+kp_10_60,honest employees <SEP> positive,Employees are honest and fast .,staff,Automotive,0.43463650345802307
+kp_10_61,horrible customer service <SEP> negative,Horrible customer service .,staff,Automotive,0.47788119316101074
+kp_10_62,horribly overpriced place <SEP> negative,This place is horribly overpriced .,staff,Beauty & Spas,0.668235182762146
+kp_10_63,impeccable customer service <SEP> positive,Their customer service is impeccable .  ,staff,Automotive,0.7236878275871277
+kp_10_64,impeccable service <SEP> positive,The service here is impeccable .,staff,Restaurants,0.6404995918273926
+kp_10_65,inattentive valet staff <SEP> negative,Rude and inattentive valet staff .,staff,Hotels,0.6157213449478149
+kp_10_66,knowledgeable servers <SEP> positive,Servers are knowledgeable and attentive .,staff,Restaurants,0.628083348274231
+kp_10_67,lovely service <SEP> positive,"Terrific variety , lovely service !",staff,Restaurants,0.4240517020225525
+kp_10_68,loyal customer <SEP> positive,A loyal customer for life !,staff,Automotive,0.47029632329940796
+kp_10_69,mixed clientele <SEP> negative,Clientele was mixed .,staff,Hotels,0.42443177103996277
+kp_10_70,nice servers <SEP> positive,Servers nice just not attentive .,staff,Restaurants,0.5123251080513
+kp_10_71,no customer service <SEP> negative,No customer service at all .,staff,Restaurants,0.43917766213417053
+kp_10_72,outstanding customer service <SEP> positive,Outstanding customer service .,staff,Automotive,0.5184721946716309
+kp_10_73,outstanding service <SEP> positive,The service here is outstanding .  ,staff,Automotive,0.48890867829322815
+kp_10_74,overpriced for <SEP> negative,Overpriced   for low quality .,staff,Restaurants,0.5478547811508179
+kp_10_75,patient staff <SEP> positive,"Nice , attentive and patient staff .",staff,Restaurants,0.626934289932251
+kp_10_76,polite staff <SEP> positive,"Polite , friendly staff .  ",staff,Automotive,0.42505282163619995
+kp_10_77,poor at best service <SEP> negative,Service is poor at best .  ,staff,Hotels,0.4705732464790344
+kp_10_78,poor business practice <SEP> negative,Poor business practice .,staff,Automotive,0.5195108652114868
+kp_10_79,poor customer service <SEP> negative,Poor customer service,staff,Automotive,0.6473731398582458
+kp_10_80,poor freaking customer service <SEP> negative,Poor freaking customer service .,staff,Hotels,0.4508238434791565
+kp_10_81,professional and friendly staff <SEP> positive,Professional and friendly staff .,staff,Beauty & Spas,0.45162832736968994
+kp_10_82,professional staff <SEP> positive,Staff was professional and courteous .  ,staff,Restaurants,0.5848857164382935
+kp_10_83,prompt and efficient service <SEP> positive,Service was prompt and efficient .,staff,Restaurants,0.6386436820030212
+kp_10_84,rude staff <SEP> negative,Staff is rude and unwelcoming .,staff,Beauty & Spas,0.6691832542419434
+kp_10_85,stellar customer service <SEP> positive,The customer service is stellar .,staff,Restaurants,0.43599724769592285
+kp_10_86,sub par service <SEP> negative,The service was sub par,staff,Automotive,0.43563488125801086
+kp_10_87,subpar services <SEP> negative,both services were subpar .,staff,Beauty & Spas,0.6209949851036072
+kp_10_88,super accomadative staff <SEP> positive,Staff was super accomadative .,staff,Hotels,0.44444283843040466
+kp_10_89,super courteous staff <SEP> positive,The staff is super courteous .  ,staff,Beauty & Spas,0.5223341584205627
+kp_10_90,superior service <SEP> positive,Prices and service are superior .   ,staff,Restaurants,0.5581533908843994
+kp_10_91,terrible customer service <SEP> negative,Their customer service is terrible !,staff,Automotive,0.47884073853492737
+kp_10_92,top - notch service <SEP> positive,Service is Top - Notch .,staff,Automotive,0.4425942003726959
+kp_10_93,totally affordable and pleasant staff <SEP> positive,Totally affordable and pleasant staff .,staff,Beauty & Spas,0.4834381937980652
+kp_10_94,uneven service <SEP> negative,Service also uneven ...,staff,Hotels,0.5761685967445374
+kp_10_95,very attentive service <SEP> positive,Service was very attentive .,staff,Restaurants,0.427079439163208
+kp_10_96,very attentive staff <SEP> positive,Very attentive staff,staff,Hotels,0.4473262131214142
+kp_10_97,very good customer service <SEP> positive,Very good customer service,staff,Restaurants,0.42169007658958435
+kp_10_98,very professional staff <SEP> positive,Very professional staff .,staff,Beauty & Spas,0.43112900853157043
+kp_10_99,very rude server <SEP> negative,Server was very rude .,staff,Hotels,0.432400643825531
+kp_10_100,very unprofessional service <SEP> negative,Very unprofessional service .,staff,Automotive,0.7161622643470764
+kp_10_101,well - managed <SEP> positive,"Professional , clean and well - managed .",staff,Beauty & Spas,0.4475410282611847
+kp_10_102,well staffed <SEP> positive,"Clean , roomy and well staffed .",staff,Hotels,0.5392248630523682
+kp_10_103,worst customer service <SEP> negative,Worst customer service .,staff,Automotive,0.5845006704330444
+kp_10_104,worst customer service experience <SEP> negative,Worst customer service experience ever .  ,staff,Hotels,0.5932133793830872
+kp_10_105,worst service <SEP> negative,WORST SERVICE EVER RECEIVED,staff,Automotive,0.5340628623962402
+kp_11_0,decent prices <SEP> positive,"Prices are decent , here too .",value-for-money,Restaurants,0.44550466537475586
+kp_11_1,excellent price <SEP> positive,Excellent price and service .,value-for-money,Beauty & Spas,0.4317207932472229
+kp_11_2,excellent value <SEP> positive,"Excellent value , quality and service .",value-for-money,Beauty & Spas,0.5156585574150085
+kp_11_3,extremely affordable <SEP> positive,Extremely affordable for the quality .,value-for-money,Beauty & Spas,0.47444260120391846
+kp_11_4,great price <SEP> positive,Great quality and great price !,value-for-money,Beauty & Spas,0.48980385065078735
+kp_11_5,great value for <SEP> positive,Great value for quality ...,value-for-money,Restaurants,0.47700634598731995
+kp_11_6,great value for your money <SEP> positive,Great Value for your money .,value-for-money,Restaurants,0.5137521624565125
+kp_11_7,over hyped expensive <SEP> negative,Way over hyped and expensive .,value-for-money,Restaurants,0.4314403533935547
+kp_11_8,over priced quality <SEP> negative,Over priced for the quality .  ,value-for-money,Restaurants,0.6257856488227844
+kp_11_9,pricey valet parking <SEP> positive,The valet parking is pricey .,value-for-money,Hotels,0.4353298544883728
+kp_11_10,reasonable prices <SEP> positive,Reasonable prices considering,value-for-money,Automotive,0.44126176834106445
+kp_11_11,reasonable pricing <SEP> positive,Very friendly and reasonable pricing .,value-for-money,Beauty & Spas,0.47859957814216614
+kp_11_12,reasonably priced <SEP> positive,Friendly and reasonably priced .,value-for-money,Automotive,0.5290346741676331
+kp_11_13,reasonably priced menu <SEP> positive,Reasonably priced menu .,value-for-money,Restaurants,0.4721129536628723
+kp_11_14,surprisingly reasonable rates <SEP> positive,The rates were surprisingly reasonable .,value-for-money,Hotels,0.4531814157962799
+kp_11_15,too expensive restaurant <SEP> negative,Restaurant is much too expensive .  ,value-for-money,Hotels,0.46929696202278137
+kp_11_16,very affordable price <SEP> positive,Pros : Very affordable price .  ,value-for-money,Restaurants,0.45330876111984253
+kp_11_17,very competitive prices <SEP> positive,Prices were very competitive .,value-for-money,Automotive,0.45960330963134766
+kp_12_0,always on point service <SEP> positive,Service is always on point .,wait-time,Restaurants,0.42106232047080994
+kp_12_1,fast and clean service <SEP> positive,Service is fast and clean .,wait-time,Restaurants,0.5149511694908142
+kp_12_2,fast and efficient service <SEP> positive,Service was fast and efficient .,wait-time,Restaurants,0.5352525115013123
+kp_12_3,fast and friendly service <SEP> positive,Service was fast and friendly .,wait-time,Restaurants,0.5187336802482605
+kp_12_4,friendly and fast service <SEP> positive,Friendly and fast service .,wait-time,Restaurants,0.5385526418685913
+kp_12_5,heavily congested elevators <SEP> negative,Elevators were heavily congested .  ,wait-time,Hotels,0.4851902723312378
+kp_12_6,painfully slow elevators <SEP> negative,Elevators are painfully slow .,wait-time,Hotels,0.47212493419647217
+kp_12_7,quick and friendly service <SEP> positive,Service is quick and friendly .,wait-time,Restaurants,0.5218028426170349
+kp_12_8,top notch service <SEP> positive,it 's top notch service .,wait-time,Beauty & Spas,0.4552134573459625
+kp_12_9,very fast wifi <SEP> positive,Wifi was very fast ~ 20MBps .,wait-time,Hotels,0.5944222211837769
+kp_12_10,very poor wifi <SEP> negative,WiFi was very poor also .  ,wait-time,Hotels,0.437238872051239
+kp_12_11,wasted time <SEP> negative,Several hours of wasted time .,wait-time,Automotive,0.49501317739486694

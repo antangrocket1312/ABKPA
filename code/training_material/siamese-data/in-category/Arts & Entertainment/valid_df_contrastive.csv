@@ -1,0 +1,551 @@
+,comment,keypoint,domain,label
+0,plenty of reserved seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+1,really nice touch reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+2,sold out seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+3,ridiculous seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+4,comfortable chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+5,reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+6,not the most comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+7,a little awkward seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+8,nice selection of beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+9,less seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+10,full reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+11,not the most comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+12,lots of seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+13,full bar <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+14,nice reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+15,pretty good at mini golf <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+16,reserved seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+17,missing bottle service tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+18,cold beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+19,never close to empty cocktails <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+20,very clean lot <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+21,outstanding seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+22,spacious seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+23,great seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+24,strong cocktails <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+25,below street level seating bowl <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+26,comfy recliner chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+27,reserved seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+28,killer summer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+29,spacious seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+30,small venue <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+31,uncomfortable chair <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+32,fine tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+33,comfy reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+34,not the most comfortable recliners <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+35,nice comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+36,nice comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+37,reserved seating policy <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+38,super comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+39,very clean lot <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+40,huge comfortable seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+41,comfortable lounger <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+42,plenty of seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+43,lots of seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+44,big chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+45,overpriced cocktail <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+46,comfy leather <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+47,luxurious chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+48,fairly clean seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+49,uncomfortable chair <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+50,outstanding seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+51,full room <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+52,great front row seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+53,plenty of seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+54,comfy reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+55,comfy chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+56,pretty hot bouncers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+57,a little awkward seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+58,deserve seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+59,wonderful seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+60,ridiculous seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+61,missing bottle service tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+62,large chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+63,fairly clean seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+64,out of this world delicious apple cider <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+65,wider seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+66,spacious establishment <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+67,spacious place for <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+68,pretty comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+69,ridiculous seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+70,perfect lower level center seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+71,outstanding silver work <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+72,small casino <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+73,ice cold beer <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+74,less seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+75,comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+76,crammed chairs <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+77,super comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+78,hard to stay seated <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+79,small exhibit <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+80,really nice touch reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+81,awesome chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+82,comfortable chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+83,comfy shoes <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+84,not a very big place <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+85,lots of seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+86,close seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+87,never close to empty cocktails <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+88,cheap gourds <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+89,so darn comfortable seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+90,small venue <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+91,big seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+92,improved seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+93,little benches <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+94,different rooms <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+95,deserve seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+96,old style seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+97,nice reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+98,great reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+99,comfortable lounger <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+100,solid gilbert regal <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+101,little gaming tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+102,very comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+103,small restaurant <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+104,big chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+105,below street level seating bowl <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+106,awesome chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+107,small restaurant <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+108,lots of seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+109,awesome chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+110,great seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+111,packed in seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+112,small casino <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+113,strictly theater seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+114,small exhibit <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+115,close seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+116,spacious rows <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+117,strong cocktails <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+118,big place <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+119,reserved seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+120,delicious apple ciders <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+121,deserve seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+122,far seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+123,lots of seating choices <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+124,little low seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+125,nice comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+126,full room <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+127,little low seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+128,improved seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+129,reserved seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+130,ice cold beer <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+131,big chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+132,ticket- assigned seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+133,comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+134,great juggling <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+135,numerous beer options <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+136,love seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+137,preselected seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+138,nice comfy seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+139,favorite beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+140,broken atm <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+141,little benches <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+142,large chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+143,assigned seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+144,free golf game <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+145,very clean lot <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+146,so darn comfortable seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+147,long chair mattresses <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+148,solid gilbert regal <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+149,nice comfy seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+150,different rooms <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+151,comfortable seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+152,small restaurant <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+153,highest rated craft beer producers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+154,plenty of reserved seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+155,comfy chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+156,better seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+157,reserved seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+158,small seating area <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+159,tiny venue <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+160,not the most comfortable recliners <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+161,assigned seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+162,ticket- assigned seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+163,plenty of reserved seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+164,so darn comfortable seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+165,comfortable center court yard <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+166,comfy reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+167,better seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+168,comfy reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+169,small parking lots <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+170,comfortable seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+171,comfortable recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+172,different rooms <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+173,close seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+174,spacious rows <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+175,fairly clean seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+176,comfortable seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+177,spacious rows <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+178,better seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+179,great reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+180,good seat in <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+181,wonderful seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+182,super comfy couches <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+183,comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+184,always a blast mini golf <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+185,crazy cocktails <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+186,pretty small parking lot <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+187,close seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+188,long chair mattresses <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+189,spacious place for <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+190,not a very big place <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+191,cramped spot <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+192,perfect lower level center seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+193,close seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+194,comfy reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+195,cooler dollar beers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+196,quite fun laser tag <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+197,preselected seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+198,die for apple cider donuts <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+199,spacious establishment <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+200,super comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+201,not the most comfortable recliners <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+202,disaster seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+203,clean and well - maintained standing area <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+204,very comfortable place <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+205,small parking lots <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+206,fine tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+207,pricey beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+208,sold out seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+209,little low seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+210,comfortable center court yard <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+211,big chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+212,spacious seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+213,like reserved seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+214,cheaper seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+215,wider seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+216,tiny theater <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+217,reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+218,cheaper seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+219,far seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+220,disaster seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+221,outstanding seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+222,nice comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+223,comfortable recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+224,great reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+225,stellar firebird <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+226,small exhibit <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+227,awesome recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+228,great front row seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+229,comfy chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+230,very comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+231,below street level seating bowl <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+232,pretty small parking lot <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+233,assigned seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+234,comfy recliner chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+235,wider seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+236,comfortable reclining chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+237,pretty expensive soda <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+238,leather seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+239,expensive beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+240,cheaper seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+241,different seating options <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+242,full bar <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+243,spacious establishment <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+244,comfy reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+245,leather seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+246,uncomfortable chair <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+247,large chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+248,nice reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+249,little gaming tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+250,packed in seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+251,comfy reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+252,strictly theater seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+253,comfortable reclining chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+254,leather seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+255,comfy recliner chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+256,tiny venue <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+257,nice comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+258,comfy leather <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+259,close seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+260,uncomfortable theatre seat <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+261,great seat in <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+262,rowdy beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+263,loosest slots <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+264,small seating area <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+265,free golf game <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+266,reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+267,"uncomfortable conference room "" type <SEP> negative",very comfortable seating <SEP> positive,Arts & Entertainment,0
+268,piss warm beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+269,luxurious chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+270,comfortable lounger <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+271,enjoyed wines <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+272,surprising range beer list <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+273,favorite beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+274,little gaming tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+275,comfortable lounger <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+276,leather seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+277,clean seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+278,full reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+279,very comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+280,super comfy couches <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+281,disaster seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+282,good seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+283,killer summer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+284,awesome recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+285,rowdy beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+286,crazy cocktails <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+287,clean seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+288,highest rated craft beer producers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+289,pretty comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+290,old style seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+291,comfy recliner chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+292,little crazy nickel beer nights <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+293,improved seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+294,great seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+295,below street level seating bowl <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+296,full room <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+297,comfortable recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+298,comfortable reclining chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+299,awesome recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+300,free 18 hole cards <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+301,spacious rows <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+302,overpriced cocktail <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+303,crammed chairs <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+304,leather reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+305,assigned seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+306,assigned seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+307,comfy shoes <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+308,leather reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+309,great seat in <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+310,comfortable seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+311,super comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+312,broken atm <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+313,tiny theater <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+314,perfect lower level center seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+315,little low seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+316,delicious apple cider <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+317,reserved seating policy <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+318,packed in seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+319,comfortable seating provided <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+320,love seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+321,plenty of seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+322,great front row seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+323,small casino <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+324,pretty comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+325,small restaurant <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+326,little benches <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+327,long chair mattresses <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+328,spacious place for <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+329,a little awkward seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+330,overpriced beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+331,tiny venue <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+332,out of this world delicious apple cider <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+333,little crazy nickel beer nights <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+334,great juggling <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+335,cute bench <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+336,nice comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+337,like reserved seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+338,spacious establishment <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+339,deserve seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+340,less seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+341,comfortable seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+342,close seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+343,reserved seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+344,nice comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+345,small casino <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+346,cramped spot <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+347,piss warm beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+348,packed in seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+349,small exhibit <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+350,comfy leather <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+351,a little awkward seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+352,lots of seating choices <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+353,cute bench <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+354,really comfortable recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+355,really nice touch reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+356,great seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+357,good seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+358,small parking lots <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+359,cooler dollar beers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+360,pretty small parking lot <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+361,strictly theater seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+362,super comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+363,very comfortable place <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+364,comfortable seating provided <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+365,sold out seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+366,ticket- assigned seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+367,loved beer selections <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+368,small seating area <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+369,different seating options <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+370,comfortable chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+371,big seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+372,always a blast mini golf <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+373,comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+374,18 holes course <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+375,comfortable center court yard <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+376,good seat in <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+377,uncomfortable theatre seat <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+378,disaster seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+379,outstanding seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+380,small parking lots <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+381,love seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+382,very comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+383,reserved seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+384,crammed chairs <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+385,reserved seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+386,love seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+387,clean and well - maintained standing area <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+388,super comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+389,quite fun laser tag <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+390,great front row seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+391,comfy shoes <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+392,"uncomfortable conference room "" type <SEP> negative",super comfortable seats <SEP> positive,Arts & Entertainment,0
+393,really nice touch reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+394,not the most comfortable recliners <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,1
+395,hard to stay seated <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+396,little gaming tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+397,good seat in <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+398,loved beer selections <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+399,big place <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+400,"uncomfortable conference room "" type <SEP> negative",assigned seating <SEP> positive,Arts & Entertainment,0
+401,full reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+402,fine tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+403,super comfy couches <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+404,good seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+405,tiny theater <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+406,improved seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+407,reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+408,surprising range beer list <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+409,nice reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+410,cute bench <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+411,really comfortable recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+412,sold out seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+413,spacious place for <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+414,18 holes course <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+415,tiny venue <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+416,ticket- assigned seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+417,so darn comfortable seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+418,really comfortable recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+419,really comfortable recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+420,big seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+421,wider seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+422,comfy leather <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+423,leather reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+424,numerous beer options <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+425,like reserved seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+426,comfy chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+427,small venue <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+428,little benches <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+429,preselected seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+430,awesome recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+431,reserved seating policy <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+432,cheap gourds <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+433,leather reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+434,full bar <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+435,like reserved seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+436,full room <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+437,not a very big place <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+438,tiny theater <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+439,good seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+440,cold beer <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+441,very comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+442,pretty hot bouncers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+443,not the most comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+444,missing bottle service tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+445,cute bench <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+446,great seat in <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+447,assigned seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+448,hard to stay seated <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+449,preselected seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+450,different rooms <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+451,perfect lower level center seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+452,uncomfortable chair <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+453,old style seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+454,far seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+455,nice comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+456,nice comfy seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+457,comfortable reclining chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+458,pretty small parking lot <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+459,very comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+460,less seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+461,comfortable seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+462,comfortable seating provided <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+463,great seat in <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+464,clean seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+465,nice selection of beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+466,big seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+467,cramped spot <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+468,spacious seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+469,assigned seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+470,good seat in <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+471,hard to stay seated <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+472,strictly theater seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+473,large chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+474,huge comfortable seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+475,crammed chairs <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+476,full bar <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+477,not the most comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+478,fine tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+479,stellar firebird <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+480,luxurious chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+481,nice comfy seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+482,wonderful seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+483,comfy shoes <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+484,very comfortable place <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+485,expensive beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+486,cramped spot <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+487,delicious apple cider <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+488,loosest slots <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+489,lots of seating choices <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+490,cold beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+491,awesome chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+492,pretty expensive soda <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+493,comfortable seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+494,very comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+495,"uncomfortable conference room "" type <SEP> negative",comfy recliners <SEP> positive,Arts & Entertainment,0
+496,overpriced beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+497,different seating options <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+498,super comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+499,wide selection of beers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+500,clean seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+501,big place <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+502,luxurious chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+503,cheaper seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+504,fairly clean seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+505,comfortable chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+506,small venue <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+507,free 18 hole cards <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+508,small seating area <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+509,uncomfortable theatre seat <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+510,very clean lot <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+511,comfortable seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+512,different seating options <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+513,lots of seating choices <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+514,clean and well - maintained standing area <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+515,wide selection of beers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+516,huge comfortable seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+517,very comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+518,old style seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+519,great reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+520,uncomfortable theatre seat <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+521,pretty good at mini golf <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+522,full reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+523,enjoyed wines <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+524,missing bottle service tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+525,clean and well - maintained standing area <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+526,pretty comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+527,comfy reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+528,long chair mattresses <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+529,comfortable recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+530,close seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+531,cold beer <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+532,plenty of seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+533,far seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+534,wonderful seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+535,outstanding silver work <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+536,reserved seating policy <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+537,super comfy couches <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+538,die for apple cider donuts <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+539,comfortable center court yard <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+540,big place <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+541,ridiculous seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+542,comfortable seating provided <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+543,better seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+544,huge comfortable seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+545,not a very big place <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+546,pricey beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+547,plenty of reserved seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+548,very comfortable place <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+549,delicious apple ciders <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0

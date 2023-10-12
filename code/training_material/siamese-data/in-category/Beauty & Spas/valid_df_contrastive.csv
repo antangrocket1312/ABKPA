@@ -1,0 +1,830 @@
+,comment,keypoint,domain,label
+0,satisfactory massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+1,great barbershop <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+2,worst nail job <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+3,love dip powder <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+4,liked hot <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+5,best nail guy <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+6,incredible nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+7,loved nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+8,always great holiday specials <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+9,super comforting jay <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+10,best piercings <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+11,good nail spot <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+12,love nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+13,lots of muscle work <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+14,good with haircuts <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+15,wonderful body scrub <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+16,good barber shop <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+17,perfect for sandal weather <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+18,fabulous deep tissue massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,1
+19,24 hour piercing shop <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+20,fabulous masseuse <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+21,great business <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+22,lots of muscle work <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+23,at least a week polish <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+24,amazing couples massage special <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+25,really terrific massages <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+26,amazing shampoo experience <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+27,fantastic cindy <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+28,liked gel mani <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+29,amazing masseuse lady <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+30,amazing nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+31,awesome facial <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+32,quality nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+33,perfect for sandal weather <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+34,fake nails <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+35,great nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+36,good thai massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+37,awesome hours <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+38,very enjoyable experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+39,cool pedicure options <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+40,horrible hair <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+41,best time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+42,cool cat eye <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+43,worst nail job <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+44,wonderful nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+45,awesome lash tech maikey <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+46,best hair salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+47,always great holiday specials <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+48,better than i expected tattoo <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+49,good stylists <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+50,hot towel shave <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+51,wonderful leah <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+52,excellent deluxe pedicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+53,amazing tammy <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+54,bad botox job <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+55,super amazing massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+56,great hair salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+57,like nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+58,horrible looking nails <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+59,best shopping <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+60,excellent masseuse <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+61,super cute front <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+62,a bit long process <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+63,good thai massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+64,super comforting jay <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+65,loved hot stone chairs <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+66,serious cucumber water <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+67,good nail place <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+68,most amazing nail tech <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+69,loved pampering <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+70,liked hot <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+71,great pizza place <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+72,absolutely amazing nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+73,good stylists <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+74,good pedicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+75,happy hair stylist <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+76,loved hot stone chairs <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+77,love nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+78,phenomenal nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+79,very good waxing experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+80,best haircut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+81,excellent deluxe pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+82,absolutely amazing nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+83,really nice nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+84,awesome job <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+85,best manicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+86,communicated wait time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+87,amazing thai message <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+88,excellent haircut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+89,best hair cuts <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+90,super happy place <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+91,wonderful leah <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+92,love gel dip <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+93,one stop shop <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+94,amazing thai message <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+95,super knowledgeable about nail spa <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+96,professional thai spa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+97,fabulous deep tissue massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+98,convenient drive <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+99,decent shopping <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+100,perfect nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+101,good with haircuts <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+102,quick cut <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+103,great job <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+104,awesome pedicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+105,amazing natalie <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+106,never a wait <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+107,best shopping <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+108,perfect nail <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+109,great shave <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+110,awesome nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+111,very enjoyable experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+112,very enjoyable experience <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+113,best manicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+114,perfect nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+115,natural nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+116,expensive hair cut <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+117,amazing cut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+118,always salon <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+119,failing nails <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+120,wide variety of cuisines <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+121,horrible school <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+122,loved nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+123,good pedicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+124,great barbershop <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+125,horrible hair <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+126,quality nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+127,beautiful nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+128,enjoyed roots store <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+129,great products <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+130,good food <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+131,awesome salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+132,amazing time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+133,great business <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+134,great products <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+135,great barber <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+136,good stylists <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+137,good pedicures <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,1
+138,fabulous deep tissue massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+139,great job <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+140,enjoyed roots store <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+141,very best massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+142,love haircut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+143,best waxing experience <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+144,good nail spa <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+145,beautiful nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+146,$ 130 for an hour couples massage <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+147,amazing couples massage special <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+148,best hair cuts <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+149,not painted very good toes <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+150,liked gel mani <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+151,very best massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+152,always great holiday specials <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+153,relaxing wash house <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+154,amazing nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+155,long wait times <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+156,lots of muscle work <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+157,liked work <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+158,super opulent experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+159,great neck massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+160,beautiful nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+161,quality nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+162,best piercings <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+163,good shop <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+164,phenomenal nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+165,excellent deluxe pedicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+166,no wait time <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+167,gorgeous skin <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+168,great nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+169,best neck massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+170,excellent job gel manicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+171,easy check in <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+172,hot towel shave <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+173,really terrific massages <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+174,good food <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+175,natural nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+176,loved cut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+177,super cute gift bag <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+178,really cute gel manicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+179,amazing couples massage special <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+180,most wonderful spa facial experience <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+181,good brow wax <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+182,beautiful nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+183,great neck massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+184,truly relaxing hot stones <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+185,awesome lash tech maikey <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+186,great hair salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+187,relaxing wash house <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+188,amazing thai message <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+189,bad botox job <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+190,fake nails <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+191,amazing masseuse lady <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+192,good time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+193,liked work <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+194,most wonderful spa facial experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+195,best shopping <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+196,relaxing wash house <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+197,awesome massages <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+198,absolutely amazing shop <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+199,professional thai spa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+200,horrible looking nails <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+201,love haircut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+202,best haircut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+203,best hair salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+204,cool waiting area <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+205,enjoyed roots store <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+206,loved nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+207,great barbershop <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+208,best hair cuts <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+209,good thai massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+210,loved hot stone chairs <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+211,good haircut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+212,great barbershop <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+213,good barber shop <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+214,wide variety of cuisines <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+215,loved polka <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+216,great products <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+217,delicious cookies <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+218,love dip powder <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+219,good food <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+220,amazing nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+221,wonderful body scrub <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+222,bad botox job <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+223,best manicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+224,best neck massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+225,amazing masseuse lady <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+226,most amazing nail tech <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+227,great pizza place <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+228,best hair salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+229,always a good time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+230,excellent haircut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+231,really cute gel manicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+232,awesome nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+233,worst nail job <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+234,super comforting jay <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+235,great neck massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+236,super duper relaxing moroccan mud wrap <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+237,amazing gem <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+238,rough nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+239,love dip powder <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+240,really cute gel manicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+241,loved hot stone chairs <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+242,horrible cracked <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+243,love lash artist alexa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+244,good nail place <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+245,good amount of escalators <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+246,amazing shampoo experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+247,best nail spa <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+248,awesome pedicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+249,great hair designing <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+250,happy hair stylist <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+251,cool cat eye <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+252,best neck massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+253,super knowledgeable about nail spa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+254,good thai massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+255,love gel dip <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+256,lovely chocolate <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+257,best hair salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+258,perfect nail <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+259,perfect nail <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+260,amazing tammy <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+261,gorgeous skin <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+262,best shampoo <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+263,clean nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+264,amazing cut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+265,quality nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+266,loved cut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+267,amazing luxury pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+268,worst nail job <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+269,amazing pedicures <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,1
+270,amazing thai combo massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+271,natural nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+272,love nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+273,best nail guy <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+274,enjoyed roots store <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+275,good brow wax <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+276,good with haircuts <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+277,amazing masseuse <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+278,amazing nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+279,heavenly massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+280,beautiful nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+281,happy hair stylist <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+282,best nail spa <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+283,best piercings <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+284,bad botox job <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+285,best nail guy <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+286,best pedicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+287,60 minute massage <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+288,quick and clean piercing <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+289,great shave <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+290,best pedi <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+291,always on waiting <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+292,phenomenal nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+293,excellent masseuse <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+294,very good waxing experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+295,super cute front <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+296,truly relaxing hot stones <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+297,freakin magical masseuse <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+298,horrible school <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+299,rough nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+300,good thai massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+301,absolutely awesome massages <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+302,excellent nail spa <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+303,best body waxing studio <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+304,good barber shop <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+305,awesome salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+306,most wonderful spa facial experience <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+307,best haircut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+308,horrible cracked <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+309,best pedi <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+310,incredible nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+311,very thorough cutting <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+312,amazing thai massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+313,excellent job gel manicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+314,good nail spa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+315,enjoyable experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+316,fake nails <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+317,super long wait <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+318,serious cucumber water <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+319,freakin magical masseuse <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+320,fabulous deep tissue massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+321,amazing couples massage special <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+322,super cute front <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+323,amazing gem <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+324,amazing pam <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+325,perfect nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+326,gorgeous skin <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+327,best shampoo <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+328,good nail place <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+329,very good lash artist <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+330,gorgeous pool <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+331,awesome salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+332,most amazing massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+333,good nail spot <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+334,amazing dips <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+335,very best massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+336,great shave <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+337,better than i expected tattoo <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+338,wide variety of cuisines <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+339,great job <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+340,liked work <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+341,great neck massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+342,excellent masseuse <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+343,good shop <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+344,cool cat eye <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+345,best nail spa <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+346,best manicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+347,very thorough cutting <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+348,amazing natalie <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+349,hot towel shave <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+350,awesome lash tech maikey <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+351,amazing pam <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+352,best body waxing studio <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+353,good nail place <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+354,great nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+355,loved pampering <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+356,wonderful nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+357,enjoyed roots store <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+358,most amazing nail tech <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+359,very easy going guy <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+360,super cute gift bag <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+361,awesome facial <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+362,super cute front <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+363,amazing masseuse <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+364,happy hair stylist <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+365,super knowledgeable about nail spa <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+366,best shopping <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+367,really cute gel manicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+368,best piercings <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+369,convenient hours <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+370,wonderful nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+371,freshly baked cookie <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+372,great steady hand <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+373,freakin magical masseuse <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+374,delicious cookies <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+375,truly relaxing hot stones <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+376,natural nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+377,liked hot <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+378,excellent deluxe pedicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+379,amazing masseuse <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+380,love haircut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+381,awesome nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+382,really cute gel manicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+383,cool pedicure options <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+384,love dip powder <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+385,best waxing experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+386,amazing gem <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+387,expensive hair cut <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+388,best pedi <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+389,awesome everyone <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+390,great hair designing <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+391,fantastic cindy <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+392,good pedicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+393,horrible cracked <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+394,loved polka <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+395,amazing tammy <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+396,good nail spot <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+397,super comforting jay <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+398,good food <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+399,awesome job <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+400,super happy place <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+401,absolutely amazing nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+402,great dining selection <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+403,excellent nail spa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+404,amazing masseuse lady <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+405,best manicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+406,awesome job <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+407,very good lash artist <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+408,horrible hair <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+409,liked work <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+410,amazing masseuse <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+411,love lash artist alexa <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+412,loved hot stone chairs <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+413,good brow wax <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+414,good haircut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+415,liked gel mani <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+416,great products <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+417,great pizza place <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+418,wonderful leah <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+419,horrible school <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+420,decent pedicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+421,best pedicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+422,absolutely amazing shop <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+423,failing nails <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+424,amazing nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+425,horrible looking nails <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+426,excellent haircut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+427,best neck massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+428,not painted very good toes <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+429,flexible hours <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+430,amazing nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+431,awesome lash tech maikey <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+432,great dining selection <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+433,love dip powder <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+434,horrible cracked <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+435,heavenly massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+436,cool pedicure options <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+437,great dining selection <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+438,good shop <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+439,delicious cookies <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+440,complimentary shuttle service <SEP> positive,top notch service <SEP> positive,Beauty & Spas,1
+441,super duper relaxing moroccan mud wrap <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+442,best mani <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+443,absolutely amazing nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+444,amazing thai combo massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+445,love nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+446,really terrific massages <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+447,fabulous masseuse <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+448,good nail spa <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+449,amazing dips <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+450,amazing masseuse lady <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+451,amazing tammy <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+452,awesome salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+453,gorgeous pool <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+454,excellent nail spa <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+455,gorgeous pool <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+456,best pedi <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+457,good with haircuts <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+458,great barber <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+459,great nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+460,horrible looking nails <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+461,excellent deluxe pedicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+462,happy hair stylist <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+463,good brow wax <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+464,very best massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+465,amazing cut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+466,failing nails <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+467,really nice nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+468,amazing dips <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+469,most amazing nail tech <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+470,super ombre <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+471,great haircut place <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+472,like haircut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+473,like haircut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+474,amazing gem <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+475,wonderful body scrub <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+476,great nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+477,horrible hair <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+478,awesome massages <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+479,good stylists <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+480,rough nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+481,best haircut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+482,like nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+483,good brow wax <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+484,serious cucumber water <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+485,fake nails <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+486,excellent nail spa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+487,incredible nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+488,great hair designing <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+489,satisfactory massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+490,amazing pedicures <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,1
+491,like nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+492,fast kris <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+493,wonderful leah <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+494,clean nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+495,excellent nail spa <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+496,liked gel mani <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+497,absolutely amazing nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+498,perfect nail <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+499,best body waxing studio <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+500,perfect nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+501,gorgeous skin <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+502,great barber <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+503,amazing natalie <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+504,very good waxing experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+505,amazing pam <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+506,fantastic cindy <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+507,rough nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+508,best shampoo <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+509,like haircut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+510,freshly baked cookie <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+511,great barber <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+512,serious cucumber water <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+513,very best massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+514,perfect nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+515,best pedicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+516,amazing couples massage special <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+517,horrible school <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+518,always great holiday specials <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+519,great hair salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+520,fabulous deep tissue massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+521,super ombre <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+522,satisfactory massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+523,clean nail salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+524,phenomenal nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+525,good haircut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+526,best shampoo <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+527,amazing thai massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+528,expensive hair cut <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+529,excellent job gel manicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+530,awesome massages <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+531,expensive hair cut <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+532,bad botox job <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+533,love haircut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+534,liked hot <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+535,very busy street <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+536,super cute gift bag <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+537,amazing thai combo massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+538,free shuttle <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+539,amazing thai massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+540,rough nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+541,awesome everyone <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+542,scenic waiting area <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+543,very fast service <SEP> positive,top notch service <SEP> positive,Beauty & Spas,1
+544,wonderful shampoo massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+545,loved polka <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+546,good stylists <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+547,best waxing experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+548,awesome facial <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+549,good pedicures <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,1
+550,gorgeous pool <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+551,30 % off service <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+552,amazing thai combo massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+553,wide variety of cuisines <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+554,not painted very good toes <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+555,fabulous masseuse <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+556,amazing thai message <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+557,love lash artist alexa <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+558,fabulous masseuse <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+559,super duper relaxing moroccan mud wrap <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+560,best mani <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+561,fantastic cindy <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+562,great pizza place <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+563,amazing nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+564,lots of walking <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+565,super knowledgeable about nail spa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+566,satisfactory massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+567,expensive hair cut <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+568,amazing shampoo experience <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+569,loved spa pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+570,awesome everyone <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+571,cool cat eye <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+572,really nice nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+573,great hours <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+574,loved polka <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+575,decent shopping <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+576,gorgeous skin <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+577,lovely chocolate <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+578,90 minute combo <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+579,liked hot <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+580,super opulent experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+581,relaxing wash house <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+582,loved cut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+583,amazing nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+584,amazing cut <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+585,amazing masseuse <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+586,best waxing experience <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+587,decent pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+588,heavenly massage <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+589,best nail spa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+590,perfect for sandal weather <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+591,great nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+592,incredible nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+593,awesome everyone <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+594,lots of muscle work <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+595,perfect nail <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+596,heavenly massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+597,loved pampering <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+598,love gel dip <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+599,lovely chocolate <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+600,amazing pam <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+601,awesome massages <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+602,fast service <SEP> positive,top notch service <SEP> positive,Beauty & Spas,1
+603,loved cut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+604,amazing dips <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+605,fabulous masseuse <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+606,failing nails <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+607,great haircut place <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+608,good nail spot <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+609,really nice nails <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+610,loved pampering <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+611,great business <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+612,awesome salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+613,very good waxing experience <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+614,super opulent experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+615,liked work <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+616,good barber shop <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+617,great business <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+618,absolutely amazing shop <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+619,great barber <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+620,good haircut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+621,best pedi <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+622,great job <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+623,best hair cuts <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+624,amazing pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+625,awesome facial <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+626,great products <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+627,good food <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+628,decent pedicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+629,decent shopping <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+630,most wonderful spa facial experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+631,very convenient train station <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+632,excellent masseuse <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+633,super happy place <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+634,good shop <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+635,lovely chocolate <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+636,amazing nails <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+637,best nail spa <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+638,great nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+639,awesome nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+640,loved nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+641,failing nails <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+642,very quick poke <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+643,amazing thai combo massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+644,freakin magical masseuse <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+645,good nail spa <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+646,lovely chocolate <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+647,perfect for sandal weather <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+648,best pedicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+649,wonderful leah <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+650,excellent job gel manicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+651,very enjoyable experience <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+652,great hair salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+653,good with haircuts <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+654,natural nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+655,love lash artist alexa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+656,decent shopping <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+657,great hair salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+658,best body waxing studio <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+659,super cute gift bag <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+660,great dining selection <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+661,like haircut <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+662,awesome pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+663,great nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+664,truly relaxing hot stones <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+665,wonderful body scrub <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+666,very enjoyable experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+667,wonderful nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+668,truly relaxing hot stones <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+669,most wonderful spa facial experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+670,good barber shop <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+671,super happy place <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+672,best nail guy <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+673,great haircut place <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+674,60 minute combination massage <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+675,super cute gift bag <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+676,really terrific massages <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+677,worth wait <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+678,great neck massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+679,decent pedicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+680,amazing thai massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+681,amazing nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+682,very good lash artist <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+683,fantastic cindy <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+684,free shuttle service <SEP> positive,top notch service <SEP> positive,Beauty & Spas,1
+685,very thorough cutting <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+686,best mani <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+687,amazing dips <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+688,satisfactory massage <SEP> positive,best massage <SEP> positive,Beauty & Spas,1
+689,best nail guy <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+690,excellent job gel manicure <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+691,super knowledgeable about nail spa <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+692,longer than expected lashes <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+693,love lash artist alexa <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+694,heavenly massage <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+695,good shop <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+696,love nails <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+697,steady lines <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+698,horrible school <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+699,extremely busy mall <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+700,not painted very good toes <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+701,cool pedicure options <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+702,really terrific massages <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+703,amazing cut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+704,good nail spa <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+705,best pedicures <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,1
+706,love gel dip <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+707,better than i expected tattoo <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+708,awesome job <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+709,best waxing experience <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+710,better than i expected tattoo <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+711,loved cut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+712,great pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+713,good haircut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+714,great job <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+715,amazing gem <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+716,long wait <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+717,wonderful nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+718,great nail salon <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+719,readily available taxis <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+720,amazing pam <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+721,amazing natalie <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+722,freshly baked cookie <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+723,super comforting jay <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+724,best hair cuts <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+725,super duper relaxing moroccan mud wrap <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+726,great haircut place <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+727,awesome facial <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+728,hot towel shave <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+729,on time appointments <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+730,clean nail salon <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+731,awesome nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+732,great haircut place <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+733,hot towel shave <SEP> negative,best pedicures <SEP> positive,Beauty & Spas,0
+734,very thorough cutting <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+735,excellent haircut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+736,liked gel mani <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+737,short wait time <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+738,love haircut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+739,best hair salon <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+740,always clean store <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+741,best mani <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+742,best haircut <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+743,clean nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+744,great shave <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+745,absolutely amazing shop <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+746,most amazing nail tech <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+747,amazing tammy <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+748,phenomenal nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+749,very good waxing experience <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+750,best hairdresser <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+751,best body waxing studio <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+752,best piercings <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+753,amazing shampoo experience <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+754,great hair designing <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+755,better than i expected tattoo <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+756,50 minute full body massage <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+757,decent shopping <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+758,great dining selection <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+759,awesome massages <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+760,loved pampering <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+761,super cute front <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+762,lots of muscle work <SEP> negative,great pedicures <SEP> positive,Beauty & Spas,0
+763,great pizza place <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+764,like haircut <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+765,awesome lash tech maikey <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+766,love gel dip <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+767,horrible hair <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+768,absolutely amazing shop <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+769,serious cucumber water <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+770,awesome everyone <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+771,excellent masseuse <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+772,not painted very good toes <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+773,gorgeous pool <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+774,horrible cracked <SEP> negative,best pedicure <SEP> positive,Beauty & Spas,0
+775,wonderful body scrub <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+776,very good lash artist <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+777,loved polka <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+778,great barbershop <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+779,good pedicure <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+780,best neck massage <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+781,great hair designing <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+782,quality nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+783,really nice nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+784,best mani <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+785,super happy place <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+786,delicious cookies <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+787,freshly baked cookie <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+788,amazing shampoo experience <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+789,perfect for sandal weather <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+790,super duper relaxing moroccan mud wrap <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+791,fake nails <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+792,busy mall <SEP> negative,top notch service <SEP> positive,Beauty & Spas,0
+793,very good lash artist <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+794,great business <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+795,decent pedicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+796,amazing thai message <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+797,free wifi <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+798,running on amanda <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+799,loved nails <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+800,good nail place <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+801,best shopping <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+802,incredible nails <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+803,good pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+804,worst nail job <SEP> negative,best massage <SEP> positive,Beauty & Spas,0
+805,very thorough cutting <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+806,great shave <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+807,great job pedicure <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,1
+808,best shampoo <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+809,amazing natalie <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+810,amazing thai massage <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+811,always great holiday specials <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+812,awesome pedicure <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+813,relaxing wash house <SEP> positive,best pedicure <SEP> positive,Beauty & Spas,0
+814,good nail spot <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+815,awesome pedicure <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+816,free touch ups <SEP> positive,top notch service <SEP> positive,Beauty & Spas,0
+817,excellent haircut <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+818,delicious cookies <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+819,cool cat eye <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+820,wide variety of cuisines <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+821,horrible looking nails <SEP> negative,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+822,awesome job <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+823,like nail salon <SEP> positive,outstanding deep tissue massage <SEP> positive,Beauty & Spas,0
+824,freakin magical masseuse <SEP> positive,best pedicures <SEP> positive,Beauty & Spas,0
+825,like nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0
+826,cool pedicure options <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+827,freshly baked cookie <SEP> positive,best massage <SEP> positive,Beauty & Spas,0
+828,great nail salon <SEP> positive,great pedicures <SEP> positive,Beauty & Spas,0

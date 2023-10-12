@@ -1,0 +1,5 @@
+  - cudatoolkit=11.6.0=hecad31d_10
+  - pytorch=1.12.0=py3.9_cuda11.6_cudnn8.3.2_0
+  - pytorch-mutex=1.0=cuda
+    - cupy-cuda11x==12.0.0
+    - cupy-wheel==12.0.0

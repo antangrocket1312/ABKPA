@@ -1,0 +1,44 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,worst carwash <SEP> negative,Worst carwash in the Valley .,food -> quality,Automotive,0.48082101345062256
+kp_1_0,lack of attention details <SEP> negative,Lack of attention on details .,food -> variety,Automotive,0.43933749198913574
+kp_1_1,poor effort <SEP> negative,Poor effort all around .,food -> variety,Automotive,0.4419107139110565
+kp_2_0,fraudulent place <SEP> negative,This place is fraudulent !  ,recommendation,Automotive,0.5248994827270508
+kp_2_1,worst car buying experience <SEP> negative,Worst car buying experience .,recommendation,Automotive,0.5024353265762329
+kp_3_0,beautiful car <SEP> positive,Beautiful car with every feature .,restaurant -> atmosphere,Automotive,0.43682247400283813
+kp_3_1,best airport parking <SEP> positive,Best Airport Parking around !,restaurant -> atmosphere,Automotive,0.46217650175094604
+kp_3_2,clean facilities <SEP> positive,"Clean facilities , seems family owned .",restaurant -> atmosphere,Automotive,0.5078080892562866
+kp_3_3,great communication <SEP> positive,Great communication and customer service .,restaurant -> atmosphere,Automotive,0.5061662793159485
+kp_3_4,no pride in workmanship <SEP> negative,No pride in workmanship .,restaurant -> atmosphere,Automotive,0.5125594735145569
+kp_3_5,worst vacuum <SEP> negative,Worst vacuum and customer service .,restaurant -> atmosphere,Automotive,0.6290580630302429
+kp_4_0,unorganized place <SEP> negative,Very unorganized place .,restaurant -> comfort,Automotive,0.44703561067581177
+kp_5_0,absolutely top notch service <SEP> positive,Service was absolutely Top Notch .   ,staff,Automotive,0.4355175793170929
+kp_5_1,amazing customer <SEP> positive,What amazing customer service !  ,staff,Automotive,0.48310303688049316
+kp_5_2,best customer <SEP> positive,BEST CUSTOMER SERVICE :),staff,Automotive,0.4981174170970917
+kp_5_3,commendable patience <SEP> positive,His patience was commendable .  ,staff,Automotive,0.48679763078689575
+kp_5_4,dishonest people <SEP> negative,Very dishonest people .,staff,Automotive,0.5407615303993225
+kp_5_5,efficient service department <SEP> positive,Efficient Service Department .,staff,Automotive,0.45676857233047485
+kp_5_6,excellent customer service <SEP> positive,The customer service was excellent .,staff,Automotive,0.4504282772541046
+kp_5_7,good service <SEP> positive,Good service all around .,staff,Automotive,0.43069589138031006
+kp_5_8,great customer <SEP> positive,Great customer service !,staff,Automotive,0.4432879686355591
+kp_5_9,great customer service <SEP> positive,Great customer service .,staff,Automotive,0.4798718988895416
+kp_5_10,happy customer <SEP> positive,Cheers - a happy customer,staff,Automotive,0.4659280776977539
+kp_5_11,helpful staff <SEP> positive,Friendly efficient and helpful staff .,staff,Automotive,0.4812169075012207
+kp_5_12,honest employees <SEP> positive,Employees are honest and fast .,staff,Automotive,0.43463650345802307
+kp_5_13,horrible customer service <SEP> negative,Horrible customer service .,staff,Automotive,0.47788119316101074
+kp_5_14,impeccable customer service <SEP> positive,Their customer service is impeccable .  ,staff,Automotive,0.7236878275871277
+kp_5_15,loyal customer <SEP> positive,A loyal customer for life !,staff,Automotive,0.47029632329940796
+kp_5_16,outstanding customer service <SEP> positive,Outstanding customer service .,staff,Automotive,0.5184721946716309
+kp_5_17,outstanding service <SEP> positive,The service here is outstanding .  ,staff,Automotive,0.48890867829322815
+kp_5_18,polite staff <SEP> positive,"Polite , friendly staff .  ",staff,Automotive,0.42505282163619995
+kp_5_19,poor business practice <SEP> negative,Poor business practice .,staff,Automotive,0.5195108652114868
+kp_5_20,poor customer service <SEP> negative,Poor customer service,staff,Automotive,0.6473731398582458
+kp_5_21,sub par service <SEP> negative,The service was sub par,staff,Automotive,0.43563488125801086
+kp_5_22,terrible customer service <SEP> negative,Their customer service is terrible !,staff,Automotive,0.47884073853492737
+kp_5_23,top - notch service <SEP> positive,Service is Top - Notch .,staff,Automotive,0.4425942003726959
+kp_5_24,very unprofessional service <SEP> negative,Very unprofessional service .,staff,Automotive,0.7161622643470764
+kp_5_25,worst customer service <SEP> negative,Worst customer service .,staff,Automotive,0.5845006704330444
+kp_5_26,worst service <SEP> negative,WORST SERVICE EVER RECEIVED,staff,Automotive,0.5340628623962402
+kp_6_0,reasonable prices <SEP> positive,Reasonable prices considering,value-for-money,Automotive,0.44126176834106445
+kp_6_1,reasonably priced <SEP> positive,Friendly and reasonably priced .,value-for-money,Automotive,0.5290346741676331
+kp_6_2,very competitive prices <SEP> positive,Prices were very competitive .,value-for-money,Automotive,0.45960330963134766
+kp_7_0,wasted time <SEP> negative,Several hours of wasted time .,wait-time,Automotive,0.49501317739486694

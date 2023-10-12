@@ -1,0 +1,249 @@
+comment_id,comment,full_comment,topic,domain,predicted_WA
+arg_0_0,18 holes course <SEP> negative,"The course itself is 18 holes , some a little more challenging making it more competitive .   ",drink -> alcohol,Arts & Entertainment,0.2329043447971344
+arg_0_1,always a blast mini golf <SEP> positive,Mini golf is always a blast but having it glow in the dark makes it that much more fun .,drink -> alcohol,Arts & Entertainment,0.3720438480377197
+arg_0_2,broken atm <SEP> negative,ATM was broken .,drink -> alcohol,Arts & Entertainment,0.2652948796749115
+arg_0_3,cheap gourds <SEP> positive,Some of the larger gourds are cheap .,drink -> alcohol,Arts & Entertainment,0.5059713125228882
+arg_0_4,cold beer <SEP> negative,Cold beer .,drink -> alcohol,Arts & Entertainment,0.4886709749698639
+arg_0_5,cold beers <SEP> negative,Cold beers .,drink -> alcohol,Arts & Entertainment,0.6250461339950562
+arg_0_6,cooler dollar beers <SEP> positive,Dollar beers were even cooler .,drink -> alcohol,Arts & Entertainment,0.2968834340572357
+arg_0_7,crazy cocktails <SEP> positive,"Super fun , crazy day of cocktails , sunshine and music .",drink -> alcohol,Arts & Entertainment,0.3353021740913391
+arg_0_8,delicious apple cider <SEP> positive,Cash Only and bring your own bags / basket & The Apple Cider is delicious ! ! ! !,drink -> alcohol,Arts & Entertainment,0.4190596044063568
+arg_0_9,delicious apple ciders <SEP> positive,Those apple cider donuts and apple ciders were delicious !,drink -> alcohol,Arts & Entertainment,0.367368221282959
+arg_0_10,die for apple cider donuts <SEP> positive,"The apple cider donuts are to die for , I literally get the newsletter in my email",drink -> alcohol,Arts & Entertainment,0.2716565430164337
+arg_0_11,enjoyed wines <SEP> positive,"Also , we enjoyed so many of the wines !  ",drink -> alcohol,Arts & Entertainment,0.47507402300834656
+arg_0_12,expensive beers <SEP> negative,"We played Bingo , got tanked on expensive beers .",drink -> alcohol,Arts & Entertainment,0.8405731916427612
+arg_0_13,favorite beer <SEP> positive,"PBR is like $ 2 , which is a great deal on my favorite beer .",drink -> alcohol,Arts & Entertainment,0.5426216125488281
+arg_0_14,free 18 hole cards <SEP> positive,We had 2 free 18 hole cards so it only cost me $ 9 .,drink -> alcohol,Arts & Entertainment,0.2483726143836975
+arg_0_15,free golf game <SEP> positive,"So had a free golf game compliments of work , cause who needs a raise ?",drink -> alcohol,Arts & Entertainment,0.6757366061210632
+arg_0_16,great juggling <SEP> positive,"The dancing , gymnastics , comedy , juggling are great .",drink -> alcohol,Arts & Entertainment,0.7659741044044495
+arg_0_17,highest rated craft beer producers <SEP> positive,Try the Firestone Walker IPA : one of the highest rated craft beer producers in the country .,drink -> alcohol,Arts & Entertainment,0.7521480321884155
+arg_0_18,ice cold beer <SEP> negative,The beer is ice cold .,drink -> alcohol,Arts & Entertainment,0.6925333738327026
+arg_0_19,killer summer <SEP> positive,The summer is a killer .,drink -> alcohol,Arts & Entertainment,0.3094365894794464
+arg_0_20,little crazy nickel beer nights <SEP> negative,Nickel beer nights can get a little crazy,drink -> alcohol,Arts & Entertainment,0.6528720259666443
+arg_0_21,loosest slots <SEP> negative,Loosest slots .,drink -> alcohol,Arts & Entertainment,0.341589093208313
+arg_0_22,loved beer selections <SEP> positive,There were so many beer selections and I loved all the local midwest brews !  ,drink -> alcohol,Arts & Entertainment,0.5154420137405396
+arg_0_23,never close to empty cocktails <SEP> negative,"Buckets of beer , water and cocktails were never close to empty .",drink -> alcohol,Arts & Entertainment,0.45604386925697327
+arg_0_24,nice selection of beer <SEP> positive,They also had a nice selection of beer .,drink -> alcohol,Arts & Entertainment,0.8231726884841919
+arg_0_25,numerous beer options <SEP> positive,there are numerous beer options and wine to choose from .,drink -> alcohol,Arts & Entertainment,0.35117149353027344
+arg_0_26,out of this world delicious apple cider <SEP> positive,Their apple cider is out of this world delicious !,drink -> alcohol,Arts & Entertainment,0.5128582715988159
+arg_0_27,outstanding silver work <SEP> positive,"Their collections of pottery , rugs and silver work are outstanding .",drink -> alcohol,Arts & Entertainment,0.2694256603717804
+arg_0_28,overpriced beer <SEP> positive,The food and beer is overpriced but check out $ 2 beers before the first inning stand .,drink -> alcohol,Arts & Entertainment,0.4067744314670563
+arg_0_29,overpriced cocktail <SEP> negative,"Beauty is loud , smoky , and a tab bit overpriced on the cocktail side of life .  ",drink -> alcohol,Arts & Entertainment,0.42794907093048096
+arg_0_30,piss warm beers <SEP> negative,The beers are piss warm .  ,drink -> alcohol,Arts & Entertainment,0.669063150882721
+arg_0_31,pretty expensive soda <SEP> negative,But again popcorn and soda is pretty expensive here .,drink -> alcohol,Arts & Entertainment,0.7775400876998901
+arg_0_32,pretty good at mini golf <SEP> positive,Who knew that I was pretty good at mini golf ?,drink -> alcohol,Arts & Entertainment,0.27124807238578796
+arg_0_33,pretty hot bouncers <SEP> negative,and one of the bouncers was pretty hot .  ,drink -> alcohol,Arts & Entertainment,0.24496422708034515
+arg_0_34,pricey beer <SEP> positive,The beer is just as pricey as any of those other places unless you want a Miller Lite ( no thanks ) .,drink -> alcohol,Arts & Entertainment,0.45508238673210144
+arg_0_35,quite fun laser tag <SEP> positive,We did play laser tag which was quite fun .  ,drink -> alcohol,Arts & Entertainment,0.5275803208351135
+arg_0_36,rowdy beers <SEP> negative,"These are lifers , Bingo assassins with tricks and are oh so serious about everything that we about got kicked out for getting silly and rowdy with our beers .",drink -> alcohol,Arts & Entertainment,0.41191238164901733
+arg_0_37,solid gilbert regal <SEP> positive,But the Gilbert Regal is solid .,drink -> alcohol,Arts & Entertainment,0.35800209641456604
+arg_0_38,stellar firebird <SEP> positive,Stravinsky 's Firebird was stellar !  ,drink -> alcohol,Arts & Entertainment,0.5666552782058716
+arg_0_39,strong cocktails <SEP> positive,The cocktails were strong too :) A++ !,drink -> alcohol,Arts & Entertainment,0.6689504384994507
+arg_0_40,surprising range beer list <SEP> positive,"The beer list has surprising range and offers great selections such as Lagunitas IPA , Great White Hef , Odell 90 Shilling , and Dogfish Head IPA .       ",drink -> alcohol,Arts & Entertainment,0.5040661692619324
+arg_0_41,wide selection of beers <SEP> positive,They have a wide selection of beers ( always a plus ) and also have live music quite often .,drink -> alcohol,Arts & Entertainment,0.261880487203598
+arg_1_1,alqays comfortable beds <SEP> positive,The beds are alqays comfortable .  ,restaurant -> comfort,Hotels,0.3048153817653656
+arg_1_2,amazing front desk <SEP> positive,Marilyn at the front desk was amazing !,restaurant -> comfort,Hotels,0.5346782803535461
+arg_1_3,amazingly comfy bed <SEP> positive,The bed is amazingly comfy and the staff ( Adrian & Carly ) are very helpful and friendly .  ,restaurant -> comfort,Hotels,0.29359009861946106
+arg_1_13,broken chair <SEP> negative,"It did not seem that new , seemed quite old on the contrary and the chair is my room was broken .",restaurant -> comfort,Hotels,0.6931347846984863
+arg_1_14,centrally located rooms <SEP> positive,"I liked this M6 , it had the new updated rooms , it was centrally located ( just a short walk to the strip ) , and it was tidy .  ",restaurant -> comfort,Hotels,0.23245100677013397
+arg_1_20,comfortable bed <SEP> positive,The bed was comfortable .,restaurant -> comfort,Hotels,0.8174489736557007
+arg_1_21,comfortable beds <SEP> positive,"The beds are comfortable , though !   ",restaurant -> comfort,Hotels,0.33849799633026123
+arg_1_25,comfortable murphy bed <SEP> positive,The murphy bed was comfortable .,restaurant -> comfort,Hotels,0.7992352843284607
+arg_1_28,comfortable room <SEP> positive,The room was comfortable .,restaurant -> comfort,Hotels,0.3665904998779297
+arg_1_29,comfortable rooms <SEP> positive,The rooms are comfortable and clean ... there is a restaurant in the lobby that serves food to the wee hours of the morning .  ,restaurant -> comfort,Hotels,0.7312664985656738
+arg_1_33,comfortable seats <SEP> positive,Seats more comfortable .,restaurant -> comfort,Hotels,0.2980325520038605
+arg_1_34,comfy bed <SEP> positive,Bed is comfy .  ,restaurant -> comfort,Hotels,0.46190881729125977
+arg_1_35,comfy beds <SEP> positive,Slept well in comfy beds .,restaurant -> comfort,Hotels,0.42768415808677673
+arg_1_37,comfy couch <SEP> positive,It was comfy for a pull out couch .,restaurant -> comfort,Hotels,0.33297857642173767
+arg_1_38,comfy couches <SEP> positive,Plenty of comfy couches to sit,restaurant -> comfort,Hotels,0.1527041345834732
+arg_1_40,comfy linens <SEP> positive,The beds and linens were comfy .  ,restaurant -> comfort,Hotels,0.8483319878578186
+arg_1_44,comfy room <SEP> positive,The room is comfy and decorated decently .,restaurant -> comfort,Hotels,0.6570581793785095
+arg_1_46,comfy stay <SEP> positive,I did n't have a chance to hit the gym or check out the business / office room but comfy stay ; especially after an all - nighter !,restaurant -> comfort,Hotels,0.5624199509620667
+arg_1_47,convenient fridge <SEP> positive,Having a fridge also was convenient .,restaurant -> comfort,Hotels,0.48670804500579834
+arg_1_48,cozy beds <SEP> positive,The beds are cozy .,restaurant -> comfort,Hotels,0.7267579436302185
+arg_1_56,dusty tables <SEP> negative,Dusty on all tables mirrors .,restaurant -> comfort,Hotels,0.5045124292373657
+arg_1_57,empty hotel <SEP> negative,The hotel was pretty much empty when we came .,restaurant -> comfort,Hotels,0.3113901913166046
+arg_1_58,empty tables <SEP> negative,We waited 30 minutes to be seated when there was numerous tables that were empty .,restaurant -> comfort,Hotels,0.3344716727733612
+arg_1_59,enjoyed lounge chairs <SEP> positive,"We did n't dance on the dance floor but I enjoyed just relaxing on the lounge chairs , sipping on drinks and having a good time : )",restaurant -> comfort,Hotels,0.27895089983940125
+arg_1_60,extremely comfortable bed <SEP> positive,Extremely comfortable bed too .  ,restaurant -> comfort,Hotels,0.5817895531654358
+arg_1_61,extremely comfortable beds <SEP> positive,The beds are extremely comfortable and lush .,restaurant -> comfort,Hotels,0.31786108016967773
+arg_1_65,fresh pillows <SEP> positive,I appreciate honesty and fresh new pillows .,restaurant -> comfort,Hotels,0.41698119044303894
+arg_1_66,friendly and front desk <SEP> positive,Front desk were friendly and helpful .,restaurant -> comfort,Hotels,0.38497427105903625
+arg_1_67,friendly front desk <SEP> positive,the front desk is friendly .,restaurant -> comfort,Hotels,0.5735815763473511
+arg_1_71,giant full bar <SEP> positive,Giant full bar .,restaurant -> comfort,Hotels,0.5507597327232361
+arg_1_74,great 2 bedroom suite <SEP> positive,The 2 bedroom Suite is great and can accommodate 6 people comfortably,restaurant -> comfort,Hotels,0.5222059488296509
+arg_1_75,great front desk <SEP> positive,The front desk is great .,restaurant -> comfort,Hotels,0.4523317813873291
+arg_1_80,great table service <SEP> positive,We had great table service and I think they are referring to the waitresses when they mention eye candy .,restaurant -> comfort,Hotels,0.609778642654419
+arg_1_82,high beds <SEP> negative,Everything was in the working order but the beds did n't seem like the high - grade Hyatt Sweet Sleeper beds I 've slept in before .  ,restaurant -> comfort,Hotels,0.4271690845489502
+arg_1_83,huge bed <SEP> positive,Loved the huge ( fits six ) bed .,restaurant -> comfort,Hotels,0.5287443399429321
+arg_1_85,huge couch <SEP> positive,Living room had a huge couch that could fit at least 3 people !,restaurant -> comfort,Hotels,0.9171579480171204
+arg_1_86,huge place <SEP> positive,Place is huge .,restaurant -> comfort,Hotels,0.23301781713962555
+arg_1_87,huge suite <SEP> positive,The two bedroom suite with the living room between is huge .,restaurant -> comfort,Hotels,0.2490854114294052
+arg_1_89,incredibly friendly front desk <SEP> positive,The front desk was incredibly friendly greeting us with bottled water and a smile .,restaurant -> comfort,Hotels,0.6768503785133362
+arg_1_90,informal cocktail table set up <SEP> positive,"It was the perfect set up for a informal cocktail table set up , I am not sure how the room would work for a larger party",restaurant -> comfort,Hotels,0.39286336302757263
+arg_1_91,king size bed <SEP> positive,HDTV and king size bed .,restaurant -> comfort,Hotels,0.5589946508407593
+arg_1_92,king sized bed <SEP> positive,The king sized bed and the jacuzzi bathtub made the room .,restaurant -> comfort,Hotels,0.2708934247493744
+arg_1_93,king sized beds <SEP> negative,"Jacuzzi , 2 king sized beds , 2 pull out beds , and a lot of living room space .   ",restaurant -> comfort,Hotels,0.3311109244823456
+arg_1_95,large suites <SEP> positive,"The suites are large and decorated with a modern , rock feel .",restaurant -> comfort,Hotels,0.5388929843902588
+arg_1_96,large table <SEP> positive,There was also a bar and large table with three chairs in the front room .  ,restaurant -> comfort,Hotels,0.4236101508140564
+arg_1_104,little mini bar door <SEP> negative,"Just a little problem with the mini bar door in the room ,   ca nt open ,",restaurant -> comfort,Hotels,0.21865294873714447
+arg_1_105,little restaurant <SEP> negative,"Only thing , Club 36 should open little restaurant that is in pool area .",restaurant -> comfort,Hotels,0.33786100149154663
+arg_1_106,little store <SEP> positive,and there 's a little Store to buy small things .,restaurant -> comfort,Hotels,0.38764482736587524
+arg_1_107,little tables <SEP> positive,You get to sit at the bar or they have little tables and chairs for you to hang out .,restaurant -> comfort,Hotels,0.33352163434028625
+arg_1_108,long black hairs sofa <SEP> negative,"Long black hairs on the sofa , floors , kitchenette counter .",restaurant -> comfort,Hotels,0.739069402217865
+arg_1_110,long table <SEP> negative,"Two queen beds , a day bed , a desk , a long table , all graciously spaced out .  ",restaurant -> comfort,Hotels,0.42361265420913696
+arg_1_116,most comfortable hotel beds <SEP> positive,I am writing this review because the Omni here had the most comfortable hotel beds I have slept on ever .  ,restaurant -> comfort,Hotels,0.3200054466724396
+arg_1_120,nice front desk <SEP> positive,Jimmy at front desk was nice .,restaurant -> comfort,Hotels,0.6434146165847778
+arg_1_122,not a lot of seating <SEP> negative,There were very few slides and not a lot of seating .  ,restaurant -> comfort,Hotels,0.5063982009887695
+arg_1_126,old blankets <SEP> negative,"The carpets , couches and blankets seemed old .",restaurant -> comfort,Hotels,0.38728296756744385
+arg_1_128,older hotel <SEP> positive,"An older "" luxury "" hotel in downtown charlotte .",restaurant -> comfort,Hotels,0.8695529103279114
+arg_1_129,one bedroom suite <SEP> positive,We had the one bedroom suite on the 8 floor with the Bellagio view .,restaurant -> comfort,Hotels,0.7421995401382446
+arg_1_130,outdoor 2nd floor seating <SEP> positive,"The lobby bar has outdoor 2nd floor seating , which also has a view of the lake .",restaurant -> comfort,Hotels,0.41772323846817017
+arg_1_132,oversized chair <SEP> positive,so I enjoyed time relaxing on the oversized chair .  ,restaurant -> comfort,Hotels,0.6346446871757507
+arg_1_135,ping pong pool tables <SEP> positive,Pool tables ping pong .,restaurant -> comfort,Hotels,0.49779000878334045
+arg_1_136,plenty of lounge seating <SEP> positive,There is plenty of lounge seating but the majority of it is reserved .   ,restaurant -> comfort,Hotels,0.22496560215950012
+arg_1_143,really comfy beds <SEP> positive,The beds are really comfy .,restaurant -> comfort,Hotels,0.6393008232116699
+arg_1_144,really comfy pillows <SEP> positive,The beds and pillows are really comfy .,restaurant -> comfort,Hotels,0.4463326632976532
+arg_1_151,separated couches <SEP> negative,The couches are separated enough from the dance floor that you do n't feel like you have to dance if you do n't want to .,restaurant -> comfort,Hotels,0.43359535932540894
+arg_1_153,small apartment <SEP> negative,It felt more like a small apartment rather than a regular hotel room .,restaurant -> comfort,Hotels,0.34112146496772766
+arg_1_155,small closets <SEP> negative,Small closets .,restaurant -> comfort,Hotels,0.20414620637893677
+arg_1_157,small fridge <SEP> negative,The room had a small fridge that got very cold .  ,restaurant -> comfort,Hotels,0.24840423464775085
+arg_1_161,small store <SEP> negative,"They have a cafe and a small store , as well as pool and hot rub .",restaurant -> comfort,Hotels,0.6037842035293579
+arg_1_165,soo comfy beds <SEP> positive,The beds were soo comfy !,restaurant -> comfort,Hotels,0.7529710531234741
+arg_1_166,spacious 2 bedroom unit <SEP> positive,"We had a 2 bedroom unit , found it very spacious and comfortable .  ",restaurant -> comfort,Hotels,0.22432753443717957
+arg_1_172,super comfortable bed <SEP> positive,The bed was super comfortable .  ,restaurant -> comfort,Hotels,0.1553758978843689
+arg_1_174,super comfy bed <SEP> positive,Super comfy bed .,restaurant -> comfort,Hotels,0.5179992914199829
+arg_1_175,super comfy beds <SEP> positive,"And of course , the beds were super comfy !",restaurant -> comfort,Hotels,0.5174434781074524
+arg_1_178,super nice front desk <SEP> positive,Super nice at the front desk .,restaurant -> comfort,Hotels,0.43899866938591003
+arg_1_179,surprisingly comfortable bed <SEP> positive,The pull out bed was surprisingly comfortable .,restaurant -> comfort,Hotels,0.46350008249282837
+arg_1_180,three bedroom penthouse suite <SEP> positive,We loved the three bedroom penthouse suite .,restaurant -> comfort,Hotels,0.686738908290863
+arg_1_182,tiny bathrooms <SEP> negative,Tiny bathrooms - could barely close the door with the rug .  ,restaurant -> comfort,Hotels,0.8132765293121338
+arg_1_187,uncomfortable couch bed <SEP> negative,The couch bed was uncomfortable,restaurant -> comfort,Hotels,0.6165674328804016
+arg_1_189,understaffed front desk <SEP> negative,Front desk is understaffed though .   ,restaurant -> comfort,Hotels,0.3747631311416626
+arg_1_191,very comfortable bed <SEP> positive,The bed was very comfortable .,restaurant -> comfort,Hotels,0.6783599853515625
+arg_1_192,very comfortable king bed <SEP> positive,"Love this place , we have the king bed and it was very comfortable .",restaurant -> comfort,Hotels,0.4232083857059479
+arg_1_195,very comfy bed <SEP> positive,Bed was very comfy .  ,restaurant -> comfort,Hotels,0.2534654140472412
+arg_1_198,very nice and front desk <SEP> positive,The front desk was very nice and helpful and moved us out to avoid a repeat on our second night there .  ,restaurant -> comfort,Hotels,0.6877192258834839
+arg_1_199,very nice pool table <SEP> positive,the game room had a pool table- very nice when you just want a night off from the strip .  ,restaurant -> comfort,Hotels,0.46826887130737305
+arg_1_200,very small beds <SEP> negative,We are a married couple and asked for a room with just one bed but we got a room with two very small beds .,restaurant -> comfort,Hotels,0.5022480487823486
+arg_1_201,very small parking lot <SEP> negative,Very small parking lot that fills quickly or park across the street in a lot .  ,restaurant -> comfort,Hotels,0.21603064239025116
+arg_1_204,worn bed <SEP> negative,The bed is worn and the couch bed smells like urine .,restaurant -> comfort,Hotels,0.32996392250061035
+arg_1_0,a little awkward seats <SEP> negative,We had General Admission seating and the seats were a little awkward and see could n't see the whole stage,restaurant -> comfort,Arts & Entertainment,0.5089766979217529
+arg_1_5,assigned seats <SEP> positive,You get to pick assigned seats when you purchase tickets .,restaurant -> comfort,Arts & Entertainment,0.6243970990180969
+arg_1_6,awesome chairs <SEP> positive,The chairs are awesome and recline .,restaurant -> comfort,Arts & Entertainment,0.47254136204719543
+arg_1_7,awesome recliner seats <SEP> positive,The recliner seats are awesome !,restaurant -> comfort,Arts & Entertainment,0.24596348404884338
+arg_1_8,below street level seating bowl <SEP> negative,The seating bowl is below street level so you actually walk in at the mezzanine level which means you only have to go up one flight to the upper deck or down one to the lower level .,restaurant -> comfort,Arts & Entertainment,0.536906898021698
+arg_1_9,better seats <SEP> positive,but I think the seats at amc esplanade in the Biltmore is better .,restaurant -> comfort,Arts & Entertainment,0.16545885801315308
+arg_1_10,big chair <SEP> positive,The chair is so big I can fit my purse next to it .,restaurant -> comfort,Arts & Entertainment,0.4543037414550781
+arg_1_11,big place <SEP> positive,It 's a big place with a stage .,restaurant -> comfort,Arts & Entertainment,0.8777345418930054
+arg_1_12,big seats <SEP> positive,"Great , big seats that are reserved .",restaurant -> comfort,Arts & Entertainment,0.5240558385848999
+arg_1_15,cheaper seats <SEP> negative,When I got my tickets they were the cheaper seats and I was lik e10 rows from the front .  ,restaurant -> comfort,Arts & Entertainment,0.29077476263046265
+arg_1_16,clean and well - maintained standing area <SEP> positive,The stage / standing area was clean and well - maintained .,restaurant -> comfort,Arts & Entertainment,0.2304239571094513
+arg_1_17,clean seats <SEP> positive,The seats are clean and comfy and everyone gets their own cup holder !    ,restaurant -> comfort,Arts & Entertainment,0.4979251027107239
+arg_1_18,close seating <SEP> negative,The Comedian / Juggler did so many different tricks and the seating was close enough that you could see it all clearly .,restaurant -> comfort,Arts & Entertainment,0.6836541295051575
+arg_1_19,close seats <SEP> negative,Seats are close to the field .,restaurant -> comfort,Arts & Entertainment,0.20103468000888824
+arg_1_22,comfortable center court yard <SEP> positive,Even the center court yard was comfortable and soothing to the mind and spirit .,restaurant -> comfort,Arts & Entertainment,0.24943354725837708
+arg_1_23,comfortable chairs <SEP> positive,"And speaking of chairs , mine was comfortable a generous size .  ",restaurant -> comfort,Arts & Entertainment,0.5166687965393066
+arg_1_24,comfortable lounger <SEP> positive,Every seat is a comfortable lounger ; lift the armrest to get comfortable with your spouse !,restaurant -> comfort,Arts & Entertainment,0.3727402687072754
+arg_1_26,comfortable recliner seats <SEP> positive,Recliner seats that are comfortable and lots of room .,restaurant -> comfort,Arts & Entertainment,0.626380205154419
+arg_1_27,comfortable reclining chair <SEP> positive,Oh what a pleasure it was today to relax in a comfortable reclining chair and enjoy a good movie .,restaurant -> comfort,Arts & Entertainment,0.36026662588119507
+arg_1_30,comfortable seat <SEP> positive,Seat are comfortable as always .,restaurant -> comfort,Arts & Entertainment,0.8111981153488159
+arg_1_31,comfortable seating <SEP> positive,Seating was comfortable .,restaurant -> comfort,Arts & Entertainment,0.5946640372276306
+arg_1_32,comfortable seating provided <SEP> positive,The seating provided is comfortable and clean .,restaurant -> comfort,Arts & Entertainment,0.5876806974411011
+arg_1_36,comfy chairs <SEP> positive,Nothing crazy special other than the comfy chairs .,restaurant -> comfort,Arts & Entertainment,0.6011644601821899
+arg_1_39,comfy leather <SEP> positive,Comfy leather seats seal the deal .,restaurant -> comfort,Arts & Entertainment,0.3489653170108795
+arg_1_41,comfy recliner chairs <SEP> positive,They have big comfy recliner chairs .,restaurant -> comfort,Arts & Entertainment,0.26897719502449036
+arg_1_42,comfy reclining chairs <SEP> positive,so there are big spacious comfy reclining chairs .,restaurant -> comfort,Arts & Entertainment,0.6822654604911804
+arg_1_43,comfy reclining seats <SEP> positive,For 14 $ you get comfy reclining seats and a great movie .,restaurant -> comfort,Arts & Entertainment,0.46033838391304016
+arg_1_45,comfy shoes <SEP> positive,Wear comfy shoes .,restaurant -> comfort,Arts & Entertainment,0.5362419486045837
+arg_1_49,crammed chairs <SEP> negative,It 's definitely better than other theaters with crammed chairs .  ,restaurant -> comfort,Arts & Entertainment,0.557185173034668
+arg_1_50,cramped spot <SEP> negative,"In Boston , its 35 - 40 $ to park in a cramped spot with your car blocked in , and still walk a ways .  ",restaurant -> comfort,Arts & Entertainment,0.222530797123909
+arg_1_51,cute bench <SEP> positive,and there 's a cute bench / charger at every other hole .,restaurant -> comfort,Arts & Entertainment,0.3258417546749115
+arg_1_52,deserve seats <SEP> negative,You can also deserve seats ahead of time making movie night a lot easier .   ,restaurant -> comfort,Arts & Entertainment,0.29685190320014954
+arg_1_53,different rooms <SEP> positive,The rooms were all different and had lots of interesting things about them .,restaurant -> comfort,Arts & Entertainment,0.47972437739372253
+arg_1_54,different seating options <SEP> positive,Love the different seating options available while waiting for the movie .  ,restaurant -> comfort,Arts & Entertainment,0.4940326511859894
+arg_1_55,disaster seating <SEP> negative,They have assigned seating which is a disaster .,restaurant -> comfort,Arts & Entertainment,0.6230955123901367
+arg_1_62,fairly clean seat <SEP> positive,I 've never sat in a bad seat and it always seems to be fairly clean for a baseball stadium .  ,restaurant -> comfort,Arts & Entertainment,0.43770188093185425
+arg_1_63,far seats <SEP> negative,The seats recline so far back you could sleep in them .,restaurant -> comfort,Arts & Entertainment,0.21695056557655334
+arg_1_64,fine tables <SEP> positive,no food or tables which is fine if you 're going for the show .,restaurant -> comfort,Arts & Entertainment,0.6225825548171997
+arg_1_68,full bar <SEP> positive,but they do have a full bar .,restaurant -> comfort,Arts & Entertainment,0.23731422424316406
+arg_1_69,full reclining seats <SEP> positive,The full reclining seats are the major draw to this place .,restaurant -> comfort,Arts & Entertainment,0.5108162760734558
+arg_1_70,full room <SEP> negative,The room was full and loud !,restaurant -> comfort,Arts & Entertainment,0.6236206293106079
+arg_1_72,good seat <SEP> positive,"so every seat is a good seat , so do nt feel like u need to pay alot for a ticket .",restaurant -> comfort,Arts & Entertainment,0.590386152267456
+arg_1_73,good seat in <SEP> positive,Every seat in the house is good .  ,restaurant -> comfort,Arts & Entertainment,0.3200504183769226
+arg_1_76,great front row seats <SEP> positive,We had front row seats which were great,restaurant -> comfort,Arts & Entertainment,0.6529979705810547
+arg_1_77,great reclining chairs <SEP> positive,5 stars for the reserved seating and great reclining chairs !,restaurant -> comfort,Arts & Entertainment,0.7144217491149902
+arg_1_78,great seat <SEP> positive,Do nt worry if you ca n't afford top tier seats because every seat in the house is great .,restaurant -> comfort,Arts & Entertainment,0.36801430583000183
+arg_1_79,great seat in <SEP> positive,Every seat in the house is great .,restaurant -> comfort,Arts & Entertainment,0.6115430593490601
+arg_1_81,hard to stay seated <SEP> negative,It 's hard to stay seated because the music and vocals are so infectious .,restaurant -> comfort,Arts & Entertainment,0.4108687937259674
+arg_1_84,huge comfortable seating <SEP> positive,Huge comfortable seating !,restaurant -> comfort,Arts & Entertainment,0.40008965134620667
+arg_1_88,improved seating <SEP> negative,"The seating could be improved several ways , needed more space between chairs and the angle was n't ideal most the time so I had my head cranked to the left for most the show .   ",restaurant -> comfort,Arts & Entertainment,0.6829643249511719
+arg_1_94,large chairs <SEP> positive,The chairs recline and are large and comfy !,restaurant -> comfort,Arts & Entertainment,0.45885950326919556
+arg_1_97,leather reclining seats <SEP> positive,they have leather reclining seats so you can get comfortable while watching a movie .,restaurant -> comfort,Arts & Entertainment,0.29831841588020325
+arg_1_98,leather seats <SEP> negative,Seats recline and are leather .,restaurant -> comfort,Arts & Entertainment,0.4639122188091278
+arg_1_99,less seats <SEP> positive,Less seats & no problem if you get front row as they recline flat .,restaurant -> comfort,Arts & Entertainment,0.8678536415100098
+arg_1_100,like reserved seats <SEP> positive,The reserved seats is something that I like about Regal Cinemas .,restaurant -> comfort,Arts & Entertainment,0.2646142840385437
+arg_1_101,little benches <SEP> positive,":) the area in front has little benches that are cozy , and it is surrounded by a variety of stores :)",restaurant -> comfort,Arts & Entertainment,0.40011364221572876
+arg_1_102,little gaming tables <SEP> positive,"There are little gaming tables here , too , manned by the bunnies , so that is fun .",restaurant -> comfort,Arts & Entertainment,0.30298590660095215
+arg_1_103,little low seats <SEP> negative,My only complaint is the seats are a little low,restaurant -> comfort,Arts & Entertainment,0.5196972489356995
+arg_1_109,long chair mattresses <SEP> negative,My boyfriend and I brought long chair mattresses to put in the back of the car with pillows +,restaurant -> comfort,Arts & Entertainment,0.29438841342926025
+arg_1_111,lots of seating <SEP> negative,Lots of seating .,restaurant -> comfort,Arts & Entertainment,0.44429001212120056
+arg_1_112,lots of seating choices <SEP> positive,Lots of seating choices .,restaurant -> comfort,Arts & Entertainment,0.6546366214752197
+arg_1_113,love seating <SEP> positive,I love theaters with seating like this location has !  ,restaurant -> comfort,Arts & Entertainment,0.5430177450180054
+arg_1_114,luxurious chair <SEP> positive,The luxurious chair is too far too comfortable for a low price .,restaurant -> comfort,Arts & Entertainment,0.5113776922225952
+arg_1_115,missing bottle service tables <SEP> positive,"This is Vegas put into a single room-- blingin bars , blackjack / poker tables , vip bottle service tables , playboy decor , $ pending $ $ $ , view of the strip at the windows .. just missing the rockstar dancin kinda attitude .  ",restaurant -> comfort,Arts & Entertainment,0.7967632412910461
+arg_1_117,nice comfortable seats <SEP> positive,Nice comfortable seats where you do n't feel crowded .,restaurant -> comfort,Arts & Entertainment,0.42042285203933716
+arg_1_118,nice comfy seating <SEP> positive,Nice comfy seating .,restaurant -> comfort,Arts & Entertainment,0.238695427775383
+arg_1_119,nice comfy seats <SEP> positive,"and when I say they have nice comfy seats , I mean it .",restaurant -> comfort,Arts & Entertainment,0.7320526242256165
+arg_1_121,nice reclining chairs <SEP> positive,"Yes , the reclining chairs are nice ... but almost nothing else is .",restaurant -> comfort,Arts & Entertainment,0.2567557096481323
+arg_1_123,not a very big place <SEP> negative,Not a very big place .  ,restaurant -> comfort,Arts & Entertainment,0.2980189323425293
+arg_1_124,not the most comfortable recliners <SEP> positive,"The recliners are not the most comfortable , but I 'll take it .",restaurant -> comfort,Arts & Entertainment,0.794904351234436
+arg_1_125,not the most comfortable seats <SEP> positive,The seats are not the most comfortable in a couple of the theaters,restaurant -> comfort,Arts & Entertainment,0.5177025198936462
+arg_1_127,old style seats <SEP> negative,"The seats are "" old style "" and do n't recline ( how spoiled have we become ! )",restaurant -> comfort,Arts & Entertainment,0.7412821650505066
+arg_1_131,outstanding seating <SEP> positive,Seating was outstanding .,restaurant -> comfort,Arts & Entertainment,0.5537065863609314
+arg_1_133,packed in seats <SEP> negative,"The seats are packed in there , so if you are n't a small person , you will probably be a bit crammed into the seats .",restaurant -> comfort,Arts & Entertainment,0.5965091586112976
+arg_1_134,perfect lower level center seats <SEP> positive,Our seats were perfect lower level center .,restaurant -> comfort,Arts & Entertainment,0.7508206367492676
+arg_1_137,plenty of reserved seating <SEP> positive,"They have online reserved seating , plenty of theatres for movie times , and the seats recline .",restaurant -> comfort,Arts & Entertainment,0.2349908947944641
+arg_1_138,plenty of seats <SEP> positive,Sozo has always had plenty of seats ( do n't read no one comes here ) and I 've had a few meetings here where I did n't want a group on top of me during our conversation .,restaurant -> comfort,Arts & Entertainment,0.18650813400745392
+arg_1_139,preselected seats <SEP> negative,The seats are preselected and they fully recline electronically .,restaurant -> comfort,Arts & Entertainment,0.6499082446098328
+arg_1_140,pretty comfortable seats <SEP> positive,The seats are pretty comfortable .,restaurant -> comfort,Arts & Entertainment,0.7130502462387085
+arg_1_141,pretty small parking lot <SEP> negative,"Additionally , the parking lot is pretty small .   ",restaurant -> comfort,Arts & Entertainment,0.16293703019618988
+arg_1_142,really comfortable recliner seats <SEP> positive,It 's down the street from me and really comfortable recliner seats .,restaurant -> comfort,Arts & Entertainment,0.5269385576248169
+arg_1_145,really nice touch reclining chairs <SEP> positive,The reclining chairs are a really nice touch and being able to select your seats in advance has really come in,restaurant -> comfort,Arts & Entertainment,0.7224820256233215
+arg_1_146,reclining seats <SEP> positive,Plus reclining seats .,restaurant -> comfort,Arts & Entertainment,0.15410470962524414
+arg_1_147,reserved seating <SEP> negative,"PLUS , its reserved seating .",restaurant -> comfort,Arts & Entertainment,0.8732711672782898
+arg_1_148,reserved seating policy <SEP> negative,"so I do n't mind the reserved seating policy as I can just go over , buy the ticket , then come back home in less than 5 min .",restaurant -> comfort,Arts & Entertainment,0.2604406476020813
+arg_1_149,reserved seats <SEP> negative,Reclining / reserved seats .,restaurant -> comfort,Arts & Entertainment,0.41043248772621155
+arg_1_150,ridiculous seating <SEP> negative,The assigned seating is ridiculous .,restaurant -> comfort,Arts & Entertainment,0.28348401188850403
+arg_1_154,small casino <SEP> positive,This small casino on the 50 ish floor of the new fantasy tower of the Palms is really amazing .,restaurant -> comfort,Arts & Entertainment,0.2303258180618286
+arg_1_156,small exhibit <SEP> negative,"The exhibit itself was small , but kept the kids entertained .  ",restaurant -> comfort,Arts & Entertainment,0.4574284255504608
+arg_1_158,small parking lots <SEP> negative,Has multiple screens but small parking lots .,restaurant -> comfort,Arts & Entertainment,0.3842102885246277
+arg_1_159,small restaurant <SEP> negative,"They also have a gift shop , cafe and small restaurant .   ",restaurant -> comfort,Arts & Entertainment,0.6966880559921265
+arg_1_160,small seating area <SEP> negative,They also have a small seating area out front .,restaurant -> comfort,Arts & Entertainment,0.5730392932891846
+arg_1_162,small venue <SEP> negative,Show is at a small venue right now .  ,restaurant -> comfort,Arts & Entertainment,0.45237427949905396
+arg_1_163,so darn comfortable seats <SEP> negative,"But overall , I have to give it three stars because the seats are just so darn comfortable .",restaurant -> comfort,Arts & Entertainment,0.24222387373447418
+arg_1_164,sold out seats <SEP> negative,We had standing room - only seats ( the whole stadium was sold out ),restaurant -> comfort,Arts & Entertainment,0.5285135507583618
+arg_1_167,spacious establishment <SEP> positive,The establishment itself is spacious and well - designed .,restaurant -> comfort,Arts & Entertainment,0.4222522974014282
+arg_1_168,spacious place for <SEP> positive,"Also , it 's a spacious place for birthday parties for kids .",restaurant -> comfort,Arts & Entertainment,0.4577145576477051
+arg_1_169,spacious rows <SEP> positive,The reclining seats and spacious rows are such a treat ...,restaurant -> comfort,Arts & Entertainment,0.40259554982185364
+arg_1_170,spacious seats <SEP> positive,"I liked the comfy , spacious redoing seats !",restaurant -> comfort,Arts & Entertainment,0.7078075408935547
+arg_1_171,strictly theater seating <SEP> positive,Strictly theater seating .    ,restaurant -> comfort,Arts & Entertainment,0.7295853495597839
+arg_1_173,super comfortable seats <SEP> positive,Since they upgraded all their seats it is now super comfortable here .,restaurant -> comfort,Arts & Entertainment,0.32010769844055176
+arg_1_176,super comfy couches <SEP> positive,Lots of room to sit and the couches are super comfy !,restaurant -> comfort,Arts & Entertainment,0.1576147973537445
+arg_1_177,super comfy seats <SEP> positive,"Bottom line , the super comfy seats   will bring me back every once in a while , but it will no longer be my go to theater , as it is just too expensive .",restaurant -> comfort,Arts & Entertainment,0.23833699524402618
+arg_1_181,ticket- assigned seats <SEP> positive,Able to view and select available seats when buying ticket- assigned seating .,restaurant -> comfort,Arts & Entertainment,0.6488471031188965
+arg_1_183,tiny theater <SEP> negative,It was not a big production and when we walked into the tiny theater I was honestly a little worried .,restaurant -> comfort,Arts & Entertainment,0.2949405908584595
+arg_1_184,tiny venue <SEP> negative,The venue is tiny and is worn out .,restaurant -> comfort,Arts & Entertainment,0.5234736204147339
+arg_1_185,uncomfortable chair <SEP> negative,Gone are the days of freezing in an uncomfortable chair while drinking soda and eating popcorn .,restaurant -> comfort,Arts & Entertainment,0.3564516007900238
+arg_1_186,"uncomfortable conference room "" type <SEP> negative","Main floor seats were conference room "" type "" and uncomfortable .    ",restaurant -> comfort,Arts & Entertainment,0.21234233677387238
+arg_1_188,uncomfortable theatre seat <SEP> negative,I do n't want to sit in another uncomfortable theatre seat .,restaurant -> comfort,Arts & Entertainment,0.44357460737228394
+arg_1_190,very clean lot <SEP> positive,Overall the lot is very clean .,restaurant -> comfort,Arts & Entertainment,0.6197280287742615
+arg_1_193,very comfortable place <SEP> positive,Very comfortable place to hang .,restaurant -> comfort,Arts & Entertainment,0.3770838677883148
+arg_1_194,very comfortable seats <SEP> positive,The seats are very comfortable and recline back .,restaurant -> comfort,Arts & Entertainment,0.1773279309272766
+arg_1_196,very comfy seats <SEP> positive,i have to day the seats were very comfy .,restaurant -> comfort,Arts & Entertainment,0.7525653839111328
+arg_1_202,wider seats <SEP> positive,The seats are wider and more padded .,restaurant -> comfort,Arts & Entertainment,0.28238415718078613
+arg_1_203,wonderful seating <SEP> positive,"Seating is wonderful , prices ca n't be beat , and its surrounded by a few resturants and shops so you could catch dinner and do it all in one trip !",restaurant -> comfort,Arts & Entertainment,0.23017802834510803
+arg_1_4,assigned seating <SEP> negative,"Also , the assigned seating has screwed me over more than once .",restaurant -> comfort,Arts & Entertainment,0.37236759066581726
+arg_1_152,setup beds <SEP> positive,Our furniture and beds were setup as they were at the old house .,restaurant -> comfort,Automotive,0.3564903736114502
+arg_1_197,very front desk <SEP> positive,"Front desk is very professional , courteous , and friendly .  ",restaurant -> comfort,Automotive,0.34987983107566833
+arg_1_205,wrong seat cover <SEP> negative,The seat cover was put in wrong and had a slice on the side that exposed the cushion .  ,restaurant -> comfort,Automotive,0.3694586753845215

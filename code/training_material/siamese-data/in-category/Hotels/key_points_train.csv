@@ -1,0 +1,90 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,broken pool fountains <SEP> negative,The pool fountains are broken .,drink -> quality,Hotels,0.4682809114456177
+kp_0_1,leaked room <SEP> negative,Room leaked water from rain .,drink -> quality,Hotels,0.4957803785800934
+kp_1_0,lumpy bedspreads <SEP> negative,Bedspreads are lumpy and stained .  ,food -> healthiness,Hotels,0.6835253834724426
+kp_2_0,a bit breakfast <SEP> negative,Breakfast is a bit overpriced .,food -> quality,Hotels,0.5505643486976624
+kp_2_1,kept clean washrooms <SEP> positive,Washrooms are kept clean .,food -> quality,Hotels,0.4482811987400055
+kp_2_2,perfection cooked <SEP> positive,Both were cooked to perfection .,food -> quality,Hotels,0.5633606314659119
+kp_2_3,very nice breakfast buffet <SEP> positive,Very Nice Breakfast Buffet Sat&Sun,food -> quality,Hotels,0.43447884917259216
+kp_3_0,convenient for apex convention attendees <SEP> positive,Convenient for APEX convention attendees !,food -> variety,Hotels,0.47449496388435364
+kp_4_0,great location <SEP> positive,Great location and amenities .  ,location,Hotels,0.42586058378219604
+kp_5_0,family friendly place <SEP> positive,"Relaxed , quiet , family friendly place .",recommendation,Hotels,0.5604457855224609
+kp_5_1,family oriented place <SEP> positive,Definitely a family oriented place .,recommendation,Hotels,0.43907630443573
+kp_5_2,over rated park <SEP> negative,Park is over rated .,recommendation,Hotels,0.5012179613113403
+kp_6_0,a little outdated rooms <SEP> negative,Rooms are a little outdated .,restaurant -> atmosphere,Hotels,0.5268270969390869
+kp_6_1,accessible parking <SEP> positive,Parking was accessible and easy .  ,restaurant -> atmosphere,Hotels,0.6373403668403625
+kp_6_2,clean bathrooms <SEP> positive,"Clean bathrooms , towels , and shower .",restaurant -> atmosphere,Hotels,0.48445433378219604
+kp_6_3,clean comfortable rooms <SEP> positive,Clean comfortable rooms .,restaurant -> atmosphere,Hotels,0.42004215717315674
+kp_6_4,clean everything <SEP> positive,Everything was clean and functional .,restaurant -> atmosphere,Hotels,0.43491050601005554
+kp_6_5,clean hotel <SEP> positive,Hotel was clean and modern .,restaurant -> atmosphere,Hotels,0.48079392313957214
+kp_6_6,clean room <SEP> positive,Room was clean and comfortable .,restaurant -> atmosphere,Hotels,0.4978311359882355
+kp_6_7,excellent massage <SEP> positive,Kris is excellent at massage .,restaurant -> atmosphere,Hotels,0.49023619294166565
+kp_6_8,excellent resort <SEP> positive,Sanctuary is an excellent resort .,restaurant -> atmosphere,Hotels,0.4822734296321869
+kp_6_9,flatscreen tvs <SEP> positive,Flatscreen TVs Bluetooth stereo .,restaurant -> atmosphere,Hotels,0.43619295954704285
+kp_6_10,free parking <SEP> positive,Parking is free and plenty,restaurant -> atmosphere,Hotels,0.4962938129901886
+kp_6_11,ghetto accomadations <SEP> negative,Ghetto accomadations and clientele .,restaurant -> atmosphere,Hotels,0.421877920627594
+kp_6_12,gorgeous mountain views <SEP> positive,Pool had gorgeous mountain views  ,restaurant -> atmosphere,Hotels,0.5180358290672302
+kp_6_13,great and comfortable beds <SEP> positive,Great and comfortable beds .,restaurant -> atmosphere,Hotels,0.4525858461856842
+kp_6_14,great for business travel <SEP> positive,Great for business travel .,restaurant -> atmosphere,Hotels,0.4395638406276703
+kp_6_15,great hiking location <SEP> positive,Great hiking location .,restaurant -> atmosphere,Hotels,0.45885950326919556
+kp_6_16,great setting <SEP> positive,Great setting to relax .,restaurant -> atmosphere,Hotels,0.4520997107028961
+kp_6_17,great view <SEP> positive,Great view facing the river .,restaurant -> atmosphere,Hotels,0.4274769723415375
+kp_6_18,horrible parking <SEP> negative,Parking was horrible .,restaurant -> atmosphere,Hotels,0.44283562898635864
+kp_6_19,huge bathtubs <SEP> positive,Huge bathtubs plus shower .,restaurant -> atmosphere,Hotels,0.426009863615036
+kp_6_20,little privacy bathroom <SEP> negative,The bathroom offered little privacy .,restaurant -> atmosphere,Hotels,0.6901896595954895
+kp_6_21,luxurious lodging <SEP> positive,"Comfortable , modern , luxurious lodging .",restaurant -> atmosphere,Hotels,0.49368101358413696
+kp_6_22,modern bathrooms <SEP> positive,Bathrooms are modern and clean .,restaurant -> atmosphere,Hotels,0.59064781665802
+kp_6_23,nice and updated style <SEP> positive,Style was nice and updated .,restaurant -> atmosphere,Hotels,0.47951704263687134
+kp_6_24,nice rooms <SEP> positive,"Nice rooms , comfortable , clean .",restaurant -> atmosphere,Hotels,0.431693434715271
+kp_6_25,nicely appointed bathrooms <SEP> positive,Both bathrooms were nicely appointed .,restaurant -> atmosphere,Hotels,0.42002323269844055
+kp_6_26,outdated carpet <SEP> negative,Furniture and carpet outdated .,restaurant -> atmosphere,Hotels,0.4517658054828644
+kp_6_27,poor tv reception <SEP> negative,The TV reception was poor .,restaurant -> atmosphere,Hotels,0.550639808177948
+kp_6_28,slippery stairs <SEP> negative,"Rocky , uneven , slippery stairs .",restaurant -> atmosphere,Hotels,0.4419647753238678
+kp_6_29,spacious rooms <SEP> positive,Rooms are spacious and comfortable .,restaurant -> atmosphere,Hotels,0.6357814073562622
+kp_6_30,spotless room <SEP> positive,Room was spotless and clean .,restaurant -> atmosphere,Hotels,0.45524972677230835
+kp_6_31,very comfortable rooms <SEP> positive,Rooms are very comfortable,restaurant -> atmosphere,Hotels,0.471422016620636
+kp_6_32,very dated furniture <SEP> negative,Furniture was very dated .  ,restaurant -> atmosphere,Hotels,0.49447789788246155
+kp_6_33,worst experience <SEP> negative,Worst experience of my life .,restaurant -> atmosphere,Hotels,0.482030987739563
+kp_7_0,always comfortable beds <SEP> positive,The beds are always comfortable .  ,restaurant -> comfort,Hotels,0.4446079134941101
+kp_7_1,comfortable beds <SEP> positive,Beds were comfortable .,restaurant -> comfort,Hotels,0.47147607803344727
+kp_7_2,comfy beds <SEP> positive,"beds were comfy ,",restaurant -> comfort,Hotels,0.44575774669647217
+kp_7_3,comfy chairs <SEP> positive,Comfy chairs and couches .,restaurant -> comfort,Hotels,0.5078995227813721
+kp_7_4,super comfortable beds <SEP> positive,The beds are super comfortable .,restaurant -> comfort,Hotels,0.42564818263053894
+kp_7_5,understaffed front desk <SEP> negative,The front desk is understaffed .  ,restaurant -> comfort,Hotels,0.6296270489692688
+kp_8_0,above and beyond staff <SEP> positive,Staff goes above and beyond .,staff,Hotels,0.5060063004493713
+kp_8_1,amazing staff <SEP> positive,Amazing staff & customer service .,staff,Hotels,0.5119611024856567
+kp_8_2,attentive staff <SEP> positive,Amazing and attentive staff .,staff,Hotels,0.45420023798942566
+kp_8_3,caring folks <SEP> positive,Talented and caring folks throughout .,staff,Hotels,0.44755664467811584
+kp_8_4,courteous front desk folks <SEP> positive,Front desk folks were courteous .  ,staff,Hotels,0.43098440766334534
+kp_8_5,courteous front desk personnel <SEP> positive,Front desk personnel are courteous,staff,Hotels,0.625623881816864
+kp_8_6,efficient staff <SEP> positive,Staff was efficient and helpful .,staff,Hotels,0.44979459047317505
+kp_8_7,exceptional customer service <SEP> positive,Exceptional customer service .,staff,Hotels,0.4563208222389221
+kp_8_8,extremely accommodating staff <SEP> positive,The staff is extremely accommodating .,staff,Hotels,0.5257200598716736
+kp_8_9,friendly and attentive management <SEP> positive,Management was friendly and attentive .  ,staff,Hotels,0.4823489487171173
+kp_8_10,friendly and helpful staff <SEP> positive,"Attentive , friendly and helpful staff .",staff,Hotels,0.4853518605232239
+kp_8_11,friendly staff <SEP> positive,"Quiet , clean , and friendly staff .  ",staff,Hotels,0.4739489257335663
+kp_8_12,gracious and friendly staff <SEP> positive,Gracious and friendly staff .,staff,Hotels,0.42003440856933594
+kp_8_13,great cleaning staff <SEP> positive,Great cleaning staff .  ,staff,Hotels,0.43451493978500366
+kp_8_14,great customer <SEP> positive,Great customer service,staff,Hotels,0.5559864640235901
+kp_8_15,great customer service <SEP> positive,Great customer service .,staff,Hotels,0.4798718988895416
+kp_8_16,helpful and caring staff <SEP> positive,Staff seems helpful and caring .,staff,Hotels,0.5098562836647034
+kp_8_17,horrible customer service <SEP> negative,Horrible customer service .,staff,Hotels,0.47788119316101074
+kp_8_18,inattentive valet staff <SEP> negative,Rude and inattentive valet staff .,staff,Hotels,0.6157213449478149
+kp_8_19,mixed clientele <SEP> negative,Clientele was mixed .,staff,Hotels,0.42443177103996277
+kp_8_20,poor at best service <SEP> negative,Service is poor at best .  ,staff,Hotels,0.4705732464790344
+kp_8_21,poor freaking customer service <SEP> negative,Poor freaking customer service .,staff,Hotels,0.4508238434791565
+kp_8_22,super accomadative staff <SEP> positive,Staff was super accomadative .,staff,Hotels,0.44444283843040466
+kp_8_23,super courteous staff <SEP> positive,The staff were super courteous .,staff,Hotels,0.5663719773292542
+kp_8_24,terrible customer service <SEP> negative,BUT TERRIBLE CUSTOMER SERVICE,staff,Hotels,0.4563133418560028
+kp_8_25,uneven service <SEP> negative,Service also uneven ...,staff,Hotels,0.5761685967445374
+kp_8_26,very attentive staff <SEP> positive,Very attentive staff,staff,Hotels,0.4473262131214142
+kp_8_27,very rude server <SEP> negative,Server was very rude .,staff,Hotels,0.432400643825531
+kp_8_28,well staffed <SEP> positive,"Clean , roomy and well staffed .",staff,Hotels,0.5392248630523682
+kp_8_29,worst customer service experience <SEP> negative,Worst customer service experience ever .  ,staff,Hotels,0.5932133793830872
+kp_9_0,pricey valet parking <SEP> positive,The valet parking is pricey .,value-for-money,Hotels,0.4353298544883728
+kp_9_1,surprisingly reasonable rates <SEP> positive,The rates were surprisingly reasonable .,value-for-money,Hotels,0.4531814157962799
+kp_9_2,too expensive restaurant <SEP> negative,Restaurant is much too expensive .  ,value-for-money,Hotels,0.46929696202278137
+kp_10_0,heavily congested elevators <SEP> negative,Elevators were heavily congested .  ,wait-time,Hotels,0.4851902723312378
+kp_10_1,painfully slow elevators <SEP> negative,Elevators are painfully slow .,wait-time,Hotels,0.47212493419647217
+kp_10_2,very fast wifi <SEP> positive,Wifi was very fast ~ 20MBps .,wait-time,Hotels,0.5944222211837769
+kp_10_3,very poor wifi <SEP> negative,WiFi was very poor also .  ,wait-time,Hotels,0.437238872051239

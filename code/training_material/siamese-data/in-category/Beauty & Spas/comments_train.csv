@@ -1,0 +1,962 @@
+comment_id,comment,full_comment,topic,domain,predicted_WA
+arg_0_0,110 minutes deep tissue or thai massage <SEP> positive,"Deep tissue or thai massage , 110 minutes for the win .  ",drink -> quality,Beauty & Spas,0.3069167137145996
+arg_0_1,30 treatments <SEP> negative,Treatments are 30 to 50 minutes and not painful .,drink -> quality,Beauty & Spas,0.7089090943336487
+arg_0_2,5 star experience <SEP> positive,All of the little extras added up to a 5 star experience from five star nails and spa !,drink -> quality,Beauty & Spas,0.34987983107566833
+arg_0_3,50 minute signature massage <SEP> positive,"While visiting , I had the luxury of getting a 50 minute signature massage at the Encore Spa .",drink -> quality,Beauty & Spas,0.485436350107193
+arg_0_4,always even acrylic nails <SEP> positive,My acrylic nails are always even and smooth and not too thick .,drink -> quality,Beauty & Spas,0.2265981137752533
+arg_0_5,amazing piercer jay <SEP> positive,My piercer Jay was AMAZING !,drink -> quality,Beauty & Spas,0.2598993182182312
+arg_0_6,bad experience gel mani <SEP> negative,I had a bad experience at a previous salon regarding my gel mani and pedi .,drink -> quality,Beauty & Spas,0.4765124022960663
+arg_0_7,beautiful gel colors <SEP> positive,All the new gel colors are beautiful love my Pedis by Linda,drink -> quality,Beauty & Spas,0.3593458831310272
+arg_0_8,best deep tissue massage <SEP> positive,"She was very welcoming upon my arrival , and gave me the best deep tissue massage I have ever had .   ",drink -> quality,Beauty & Spas,0.7868330478668213
+arg_0_9,best gel pedicures <SEP> positive,Probably one of the best gel pedicures I 've ever had !,drink -> quality,Beauty & Spas,0.6495038866996765
+arg_0_10,best injector <SEP> positive,Mary is THE best injector I 've found .  ,drink -> quality,Beauty & Spas,0.21846148371696472
+arg_0_11,best massage <SEP> positive,Sunny gave me the best massage ever .,drink -> quality,Beauty & Spas,0.24212302267551422
+arg_0_12,best massages <SEP> positive,Their massages are the best .,drink -> quality,Beauty & Spas,0.4324500858783722
+arg_0_13,best shampoo cranial massage <SEP> positive,The best part is the shampoo cranial massage you get with your cut .  ,drink -> quality,Beauty & Spas,0.3112048804759979
+arg_0_14,best spa massage <SEP> positive,"Next time , I will search Yelp for best spa massage in area .",drink -> quality,Beauty & Spas,0.2902153730392456
+arg_0_15,best treatment <SEP> positive,I get the best treatment over any other nail salon,drink -> quality,Beauty & Spas,0.41634413599967957
+arg_0_16,blew gel manicure <SEP> negative,"I would have gotten a pedicure too , but the gel manicure kinda blew my budget for the day .  ",drink -> quality,Beauty & Spas,0.5236403346061707
+arg_0_17,bonus wine <SEP> positive,The wine and cheese was a bonus .,drink -> quality,Beauty & Spas,0.23298189043998718
+arg_0_18,breath taking spa <SEP> positive,The Spa itself is breath taking .,drink -> quality,Beauty & Spas,0.2551794946193695
+arg_0_19,clean everyone <SEP> positive,There are no rookie barbers here and everyone is very professional and clean !,drink -> quality,Beauty & Spas,0.4982417821884155
+arg_0_20,clean girls <SEP> positive,"The girls are clean and patient , they take their time , so you are satisified with the results .  ",drink -> quality,Beauty & Spas,0.386914998292923
+arg_0_21,cleanest nail salons <SEP> positive,First of all it is BEAUTIFUL and one of the cleanest nail salons I 've ever been to .,drink -> quality,Beauty & Spas,0.31196555495262146
+arg_0_22,cold beverages <SEP> positive,"Very polite & attentive as well , cold beverages offered as soon as your seated .",drink -> quality,Beauty & Spas,0.344644695520401
+arg_0_23,cold plunge pool <SEP> negative,"There is a steam , sauna , cold plunge pool ,   and jacuzzi .",drink -> quality,Beauty & Spas,0.48670217394828796
+arg_0_24,completely painless removal <SEP> negative,The removal was completely painless,drink -> quality,Beauty & Spas,0.29241517186164856
+arg_0_25,consistent sns <SEP> positive,"Quality of their SNS is consistent , never too thick or lumpy .",drink -> quality,Beauty & Spas,0.7226751446723938
+arg_0_26,could n't be happier massage <SEP> positive,"I could n't be happier , especially since this was my first massage ever !",drink -> quality,Beauty & Spas,0.46245723962783813
+arg_0_27,delicious coffee <SEP> positive,Btw their COFFEE is delicious ! ! ! !,drink -> quality,Beauty & Spas,0.6063650250434875
+arg_0_28,die for shoulder massage <SEP> positive,"The shoulder massage she give you during your wash , omg to die for .",drink -> quality,Beauty & Spas,0.5193643569946289
+arg_0_29,different massages <SEP> positive,They have many different massages and they are all amazing .  ,drink -> quality,Beauty & Spas,0.35747790336608887
+arg_0_30,dry hair <SEP> positive,It gets hot but it gets your hair dry and voluminous in minutes !,drink -> quality,Beauty & Spas,0.7052211165428162
+arg_0_31,dry heals <SEP> negative,Our heals were dry and we left their with beautiful manicured feet !,drink -> quality,Beauty & Spas,0.7273635268211365
+arg_0_32,dry nail polish <SEP> positive,"To me , getting a pedicure is not the pretty nail polish , but getting the dry skin off my feet .",drink -> quality,Beauty & Spas,0.5304116606712341
+arg_0_33,enjoyed aromatherapy soak with massage <SEP> positive,I enjoyed the aromatherapy soak with massage along with shirodhara ayurvedic oil treatment .  ,drink -> quality,Beauty & Spas,0.5458771586418152
+arg_0_34,enjoyed massages <SEP> positive,"Thank you , we enjoyed our massages and will be back .",drink -> quality,Beauty & Spas,0.5223159193992615
+arg_0_35,excellent lavender oil <SEP> positive,"I had her use the lavender oil throughout , and it smelled excellent .   ",drink -> quality,Beauty & Spas,0.3579842448234558
+arg_0_36,excellent massages <SEP> positive,All the massages I got were excellent .,drink -> quality,Beauty & Spas,0.5757209658622742
+arg_0_37,extra long massage / scrub <SEP> negative,"It has the hot wax , extra long massage / scrub , hot stone rub and multiple lotions and oils .",drink -> quality,Beauty & Spas,0.24426305294036865
+arg_0_38,fabulous massage scrub <SEP> positive,Did a Fabulous massage scrub and foot Awakening .,drink -> quality,Beauty & Spas,0.39645421504974365
+arg_0_39,five star experience <SEP> positive,The entire experience is five star from the moment you step off the elevator .,drink -> quality,Beauty & Spas,0.36061233282089233
+arg_0_40,flat beverages <SEP> positive,The cold beverages are offered while you wait and the flat - screen TVs making the environment feel like home  ,drink -> quality,Beauty & Spas,0.7067155241966248
+arg_0_41,free bottled water <SEP> positive,They also provide free bottled water or soda .,drink -> quality,Beauty & Spas,0.7881049513816833
+arg_0_42,free chocolates <SEP> positive,And they also gave us free chocolates for our anniversary,drink -> quality,Beauty & Spas,0.5612395405769348
+arg_0_43,free drink all day <SEP> positive,Free drink all day .,drink -> quality,Beauty & Spas,0.19247432053089142
+arg_0_44,fresh orange massage <SEP> positive,I even had a fresh lime and orange massage with my pedicure .  ,drink -> quality,Beauty & Spas,0.6430695056915283
+arg_0_45,full blown gel manicure <SEP> negative,I ended up paying under $ 30 for a full blown gel manicure !,drink -> quality,Beauty & Spas,0.7033752799034119
+arg_0_46,full set of acrylics <SEP> positive,First time in for a full set of acrylics and Cindy had me in and out within an hour and they look BEAUTIFUL !,drink -> quality,Beauty & Spas,0.3624750077724457
+arg_0_47,fun mint green <SEP> positive,I got a fun mint green color,drink -> quality,Beauty & Spas,0.22128620743751526
+arg_0_48,good massage <SEP> positive,Was looking for a good massage after a long Conference .,drink -> quality,Beauty & Spas,0.5279204845428467
+arg_0_49,good pressure <SEP> positive,Joe did my massage and checked several times to make sure his pressure was good and that I was okay .,drink -> quality,Beauty & Spas,0.5664777159690857
+arg_0_50,good spray tan machine <SEP> positive,I used to work at a tanning salon and know that a good spray tan machine is not easy to come by .  ,drink -> quality,Beauty & Spas,0.35728734731674194
+arg_0_51,good stuffs <SEP> positive,Good stuffs .,drink -> quality,Beauty & Spas,0.4198155701160431
+arg_0_52,greasy experience <SEP> negative,Overall a greasy experience !,drink -> quality,Beauty & Spas,0.41276052594184875
+arg_0_53,great coffee <SEP> positive,even the tea / coffee was great .,drink -> quality,Beauty & Spas,0.3360477387905121
+arg_0_54,great gel manicure <SEP> positive,I had a great gel manicure from Nina .,drink -> quality,Beauty & Spas,0.34242111444473267
+arg_0_55,great job deep tissue massage <SEP> positive,"Jose did a great job on the deep tissue massage , and was very attentive when I described my areas of concern .  ",drink -> quality,Beauty & Spas,0.489610493183136
+arg_0_56,great manicures <SEP> positive,I have had 2 SNS manicures so far and they have been great !,drink -> quality,Beauty & Spas,0.3134961426258087
+arg_0_57,great spa <SEP> positive,This is a great spa .,drink -> quality,Beauty & Spas,0.2599309980869293
+arg_0_58,great tan <SEP> positive,The tan was great and the best application I could ask for .  ,drink -> quality,Beauty & Spas,0.5184721946716309
+arg_0_59,great touch glass of wine <SEP> positive,The glass of wine is a great touch !,drink -> quality,Beauty & Spas,0.4297710359096527
+arg_0_60,great treated <SEP> positive,"I was treated great from the second I walked in , and I left feeling amazing about my new go - to nail salon .     ",drink -> quality,Beauty & Spas,0.47918856143951416
+arg_0_61,greatest massage <SEP> positive,"My mother in law , daughter and myself had the greatest massage today .  ",drink -> quality,Beauty & Spas,0.37651360034942627
+arg_0_62,lackluster massage <SEP> negative,The massage was lackluster to be nice .,drink -> quality,Beauty & Spas,0.48302093148231506
+arg_0_63,"legitimate , quality massage <SEP> positive","A legitimate , quality massage .",drink -> quality,Beauty & Spas,0.4511522352695465
+arg_0_64,long lasting products <SEP> positive,Their products are long lasting & a prime finish whether your get a mani or pedi .,drink -> quality,Beauty & Spas,0.3931047320365906
+arg_0_65,magical deep tissue cbd massage <SEP> positive,"Then , Roxanne did some voodoo ( deep tissue CBD massage ) and it was magical !",drink -> quality,Beauty & Spas,0.31424665451049805
+arg_0_66,maximize massage time <SEP> positive,They maximize the amount of massage time .,drink -> quality,Beauty & Spas,0.324343204498291
+arg_0_67,moderate shopper <SEP> positive,It 's great for the high end shopper and the moderate shopper .,drink -> quality,Beauty & Spas,0.49501317739486694
+arg_0_68,most amazing relaxing massage <SEP> positive,My boss and I had the most amazing relaxing massage by MARCUS today !,drink -> quality,Beauty & Spas,0.43085482716560364
+arg_0_69,must spa <SEP> negative,This spa is a must .,drink -> quality,Beauty & Spas,0.36402347683906555
+arg_0_70,nice cold bottle of water <SEP> positive,Afterwards the offer you a nice cold bottle of water !,drink -> quality,Beauty & Spas,0.4306430220603943
+arg_0_71,nice head massage <SEP> positive,It comes with a nice head massage and shoulder rub .  ,drink -> quality,Beauty & Spas,0.1982884556055069
+arg_0_72,on point massage <SEP> positive,Massage was on point .,drink -> quality,Beauty & Spas,0.5100954174995422
+arg_0_73,organic products <SEP> positive,The products applied were so organic & fruity which made the overall experience so wonderful .,drink -> quality,Beauty & Spas,0.2756040394306183
+arg_0_74,over - engineered computerized massage showers <SEP> negative,One negative was the wall of over - engineered computerized massage showers by Kohl .,drink -> quality,Beauty & Spas,0.5993918776512146
+arg_0_75,painless process <SEP> positive,The process was painless and exactly as described on the site in regards to time it would take .,drink -> quality,Beauty & Spas,0.4097656011581421
+arg_0_76,perfect gel manicure <SEP> positive,"My gel manicure was perfect , too !",drink -> quality,Beauty & Spas,0.37889787554740906
+arg_0_77,plush wispy <SEP> positive,"Long , full , and just the plush wispy look I wanted .",drink -> quality,Beauty & Spas,0.8397518396377563
+arg_0_78,premium color selection <SEP> negative,$ 5 extra for select glitters and $ 10 for even more premium color selection .,drink -> quality,Beauty & Spas,0.25012966990470886
+arg_0_79,pretty good massage <SEP> positive,Pretty good massage .,drink -> quality,Beauty & Spas,0.44171231985092163
+arg_0_80,purple hot stone massage <SEP> positive,I was very happy to receive my first hot stone massage in a purple colored room .  ,drink -> quality,Beauty & Spas,0.5254590511322021
+arg_0_81,quality nail spa <SEP> positive,I had been looking for a quality nail spa .  ,drink -> quality,Beauty & Spas,0.3938891291618347
+arg_0_82,really bad massages <SEP> negative,"I have braved the casinos , paid a bunch and quite frankly gotten really bad massages .  ",drink -> quality,Beauty & Spas,0.29901495575904846
+arg_0_83,relaxing pedicure <SEP> positive,A pedicure with Kim is so relaxing that I have caught myself dozing off .,drink -> quality,Beauty & Spas,0.6079002022743225
+arg_0_84,rough towels <SEP> negative,The masseuse used rough towels and scraped my skin .,drink -> quality,Beauty & Spas,0.5200863480567932
+arg_0_85,simple sugars <SEP> positive,She also carries a line of all natural products called Simple Sugars that works wonders !,drink -> quality,Beauty & Spas,0.5571520924568176
+arg_0_86,smooth skin <SEP> positive,my smooth skin !,drink -> quality,Beauty & Spas,0.3106314241886139
+arg_0_87,snotty women <SEP> negative,"Beginning with the front counter , the women come across as snotty .",drink -> quality,Beauty & Spas,0.6556716561317444
+arg_0_88,solid pedicure <SEP> positive,"Pedicure was solid , I just really really wish she goes deeper in trying to get ingrowns",drink -> quality,Beauty & Spas,0.2604406476020813
+arg_0_89,stoked tattoo <SEP> positive,So stoked about my new tattoo !,drink -> quality,Beauty & Spas,0.3879595696926117
+arg_0_90,strong lotions <SEP> positive,"You have a choice of light , medium or strong lotions and essential oils .  ",drink -> quality,Beauty & Spas,0.5607544183731079
+arg_0_91,strong massage <SEP> negative,She provided a strong massage with lots of stretching .  ,drink -> quality,Beauty & Spas,0.492939293384552
+arg_0_92,strong massage options <SEP> positive,"Sam 's offers light , medium and strong as massage options .  ",drink -> quality,Beauty & Spas,0.34518754482269287
+arg_0_93,strong massages <SEP> positive,I prefer strong massages and that is exactly what I got .,drink -> quality,Beauty & Spas,0.7221249938011169
+arg_0_94,suck front <SEP> negative,It 's over priced and the front desk people suck !  ,drink -> quality,Beauty & Spas,0.4972814619541168
+arg_0_95,super booked injectors <SEP> negative,"The injectors are usually super booked , I recommend scheduling a week or two in advance .",drink -> quality,Beauty & Spas,0.24283427000045776
+arg_0_96,super clean salon <SEP> positive,Super clean salon ! !,drink -> quality,Beauty & Spas,0.7055367827415466
+arg_0_97,super easy waxing <SEP> negative,"The waxing was super easy too , they worked very slowly since they knew I was nervous and made sure to explain everything .",drink -> quality,Beauty & Spas,0.6631640195846558
+arg_0_98,super thick acrylic nails <SEP> negative,"I accidentally got super thick acrylic nails at another salon , and they fixed them up , really brought down the thickness , filed them to a reasonable length , and basically made me feel normal again !",drink -> quality,Beauty & Spas,0.39108574390411377
+arg_0_99,thick acrylics <SEP> negative,I had acrylics from a different salon which were thick and heavy .,drink -> quality,Beauty & Spas,0.3466775417327881
+arg_0_100,tight skin <SEP> positive,"My skin looks tight , fresh , and dewey !   ",drink -> quality,Beauty & Spas,0.3881039023399353
+arg_0_101,total spa experience <SEP> positive,Total spa experience .,drink -> quality,Beauty & Spas,0.6729751825332642
+arg_0_102,tough salons <SEP> negative,He is tough to get into right away with his expansion of salons but book far out and he will be there !,drink -> quality,Beauty & Spas,0.3909068703651428
+arg_0_103,tranquil hair washing room <SEP> positive,I received a mini neck and head massage in their tranquil hair washing room .  ,drink -> quality,Beauty & Spas,0.3922004699707031
+arg_0_104,true massages <SEP> positive,"True massages , not just a "" script "" which you get a lot at casinos on the strip .",drink -> quality,Beauty & Spas,0.6313666105270386
+arg_0_105,very affordable massages <SEP> positive,I got a massage package of 3 massages on groupon which was very affordable .,drink -> quality,Beauty & Spas,0.4942345917224884
+arg_0_106,very good massage <SEP> positive,The massage itself was very good ; I 'm glad that did n't change .  ,drink -> quality,Beauty & Spas,0.23717831075191498
+arg_0_107,very good massages <SEP> positive,The massages are also very good .  ,drink -> quality,Beauty & Spas,0.30983060598373413
+arg_0_108,very good spa <SEP> positive,Very good spa .,drink -> quality,Beauty & Spas,0.670131504535675
+arg_0_109,very nicely treated <SEP> positive,You are treated very nicely and respectfully .,drink -> quality,Beauty & Spas,0.6751834154129028
+arg_0_110,warm everyone <SEP> positive,Everyone is warm and friendly and my eyebrows look great !,drink -> quality,Beauty & Spas,0.3990631103515625
+arg_0_111,well oiled machine <SEP> positive,Kudos to this well oiled machine team !,drink -> quality,Beauty & Spas,0.3470487892627716
+arg_0_112,well ventilated salon <SEP> positive,She also went above and beyond to make sure the salon was well ventilated by opening the front door since I am expecting .,drink -> quality,Beauty & Spas,0.4350017309188843
+arg_0_113,wide variety of gel colors <SEP> positive,I loved that they had a wide variety of gel colors and other alternatives to acrylic and gel .,drink -> quality,Beauty & Spas,0.46006110310554504
+arg_0_114,wonderful aromatherapy treatment <SEP> positive,A wonderful aromatherapy treatment with scalp enhancement has prepared me well for my last night in Vegas .,drink -> quality,Beauty & Spas,0.5701560378074646
+arg_0_115,wonderful oil <SEP> positive,We were able to pick a wonderful smelling oil to get rubbed with and it was pure bliss for 50 minutes .,drink -> quality,Beauty & Spas,0.3039204180240631
+arg_0_116,worse than therapist <SEP> negative,I brought a friend with me and her therapist was probably worse than mine .,drink -> quality,Beauty & Spas,0.5922152400016785
+arg_0_117,worst experience <SEP> negative,Worst experience EVER !,drink -> quality,Beauty & Spas,0.31236037611961365
+arg_0_118,worst massage <SEP> negative,The worst massage of my life .,drink -> quality,Beauty & Spas,0.24838890135288239
+arg_0_119,worst massage experience <SEP> negative,Worst massage experience I have ever had .,drink -> quality,Beauty & Spas,0.5339176058769226
+arg_1_0,absolutely amazing nails <SEP> positive,My nails look absolutely amazing .,food -> quality,Beauty & Spas,0.7157965898513794
+arg_1_1,absolutely amazing shop <SEP> positive,Very professional and the art work coming out of this shop is absolutely amazing !,food -> quality,Beauty & Spas,0.7695381045341492
+arg_1_3,always great holiday specials <SEP> positive,There are always great holiday specials and weekly specials .  ,food -> quality,Beauty & Spas,0.5931369066238403
+arg_1_4,amazing couples massage special <SEP> positive,This place offers an amazing couples massage special as well .,food -> quality,Beauty & Spas,0.6138085126876831
+arg_1_5,amazing cut <SEP> positive,My color and cut was amazing .,food -> quality,Beauty & Spas,0.4930209815502167
+arg_1_6,amazing dips <SEP> positive,They have amazing dips and and rockstar polish .   ,food -> quality,Beauty & Spas,0.6619582772254944
+arg_1_7,amazing gem <SEP> positive,and I might have to switch my regular nail spot to this amazing gem !,food -> quality,Beauty & Spas,0.5197278261184692
+arg_1_9,amazing masseuse <SEP> positive,They fit me in on short notice on a Friday night and my masseuse was amazing .,food -> quality,Beauty & Spas,0.6576785445213318
+arg_1_10,amazing masseuse lady <SEP> positive,My masseuse lady was amazing !,food -> quality,Beauty & Spas,0.5462374091148376
+arg_1_11,amazing nail salon <SEP> positive,and I have finally followed her to her own amazing nail salon !,food -> quality,Beauty & Spas,0.627686083316803
+arg_1_12,amazing nails <SEP> positive,My nails look amazing .,food -> quality,Beauty & Spas,0.5889434814453125
+arg_1_13,amazing natalie <SEP> positive,Not only is Natalie amazing .,food -> quality,Beauty & Spas,0.4799707531929016
+arg_1_14,amazing pam <SEP> positive,Pam was amazing .,food -> quality,Beauty & Spas,0.5812215805053711
+arg_1_17,amazing shampoo experience <SEP> positive,The shampoo experience ..... amazing !,food -> quality,Beauty & Spas,0.5150465369224548
+arg_1_18,amazing tammy <SEP> positive,Tammy was amazing !,food -> quality,Beauty & Spas,0.5553131103515625
+arg_1_19,amazing thai combo massage <SEP> positive,Just finished an amazing thai combo massage with Tina .,food -> quality,Beauty & Spas,0.8253001570701599
+arg_1_20,amazing thai massage <SEP> positive,Just had an amazing Thai massage here .,food -> quality,Beauty & Spas,0.6617628931999207
+arg_1_21,amazing thai message <SEP> positive,This Thai Message was amazing .,food -> quality,Beauty & Spas,0.7771267890930176
+arg_1_22,awesome everyone <SEP> positive,Everyone is awesome .,food -> quality,Beauty & Spas,0.7677375078201294
+arg_1_23,awesome facial <SEP> positive,Carrie did an awesome facial .,food -> quality,Beauty & Spas,0.5626945495605469
+arg_1_24,awesome job <SEP> positive,Thanks for an awesome job ! !  ,food -> quality,Beauty & Spas,0.5744129419326782
+arg_1_25,awesome lash tech maikey <SEP> positive,I went to this location and my lash tech Maikey was awesome .,food -> quality,Beauty & Spas,0.5183563232421875
+arg_1_26,awesome massages <SEP> negative,"I have n't really been impressed with massages in town , especially deep tissue , but IMR was awesome .",food -> quality,Beauty & Spas,0.7181331515312195
+arg_1_27,awesome nail salon <SEP> positive,This was my first experience in this particular nail salon and it was awesome !,food -> quality,Beauty & Spas,0.5518320798873901
+arg_1_28,awesome pedicure <SEP> positive,I get the Deluxe Pedicure and it is awesome .,food -> quality,Beauty & Spas,0.5955727696418762
+arg_1_29,awesome salon <SEP> positive,This salon is awesome .,food -> quality,Beauty & Spas,0.7556354403495789
+arg_1_30,bad botox job <SEP> negative,I made the appt to correct a bad Botox job I recently received .   ,food -> quality,Beauty & Spas,0.5400506854057312
+arg_1_31,beautiful nails <SEP> positive,My nail tech Lyn gave me beautiful nails .  ,food -> quality,Beauty & Spas,0.5354422926902771
+arg_1_32,best body waxing studio <SEP> positive,THE BODY WAXING STUDIO IS THE BEST IN TOWN !,food -> quality,Beauty & Spas,0.7141199707984924
+arg_1_33,best hair cuts <SEP> positive,I just received one of my best hair cuts ever .,food -> quality,Beauty & Spas,0.5345588326454163
+arg_1_34,best hair salon <SEP> positive,This is the best hair salon I 've even been to .,food -> quality,Beauty & Spas,0.5464239716529846
+arg_1_35,best haircut <SEP> positive,This is easily the best haircut I have ever had !  ,food -> quality,Beauty & Spas,0.5647734999656677
+arg_1_37,best mani <SEP> positive,Best mani ever !,food -> quality,Beauty & Spas,0.5369702577590942
+arg_1_38,best manicure <SEP> positive,Best manicure I 've had .,food -> quality,Beauty & Spas,0.6416658759117126
+arg_1_39,best nail guy <SEP> positive,Hands down Kevin is definitely THE best nail guy I 've ever had !,food -> quality,Beauty & Spas,0.5040717124938965
+arg_1_40,best nail spa <SEP> positive,The best nail spa in AZ ! !,food -> quality,Beauty & Spas,0.7813302278518677
+arg_1_41,best neck massage <SEP> positive,The hair wash / neck massage is the best .,food -> quality,Beauty & Spas,0.660338282585144
+arg_1_42,best pedi <SEP> positive,Best pedi I 've had !,food -> quality,Beauty & Spas,0.4877437353134155
+arg_1_43,best pedicure <SEP> positive,Andy gives the best pedicure,food -> quality,Beauty & Spas,0.5573487281799316
+arg_1_45,best piercings <SEP> positive,Headrick is so nice and does the best piercings ! ! ! !,food -> quality,Beauty & Spas,0.7538292407989502
+arg_1_46,best shampoo <SEP> positive,Best shampoo EVER .,food -> quality,Beauty & Spas,0.5135858058929443
+arg_1_47,best shopping <SEP> positive,One of the best shopping / entertainment destinations in Toronto .  ,food -> quality,Beauty & Spas,0.6820535063743591
+arg_1_48,best waxing experience <SEP> positive,She does amazing job my best waxing experience ever .,food -> quality,Beauty & Spas,0.4804092347621918
+arg_1_49,better than i expected tattoo <SEP> positive,The tattoo turned out better than I expected and was able to make an appointment for the next day .,food -> quality,Beauty & Spas,0.6440417766571045
+arg_1_50,clean nail salon <SEP> positive,"My daughter and I were so happy to find a clean , service - oriented nail salon open",food -> quality,Beauty & Spas,0.4915507733821869
+arg_1_51,cool cat eye <SEP> positive,"I tried the cat eye polish , and it is SO COOL !",food -> quality,Beauty & Spas,0.616628110408783
+arg_1_52,cool pedicure options <SEP> positive,They also have a wide variety of cool pedicure options .,food -> quality,Beauty & Spas,0.7162569165229797
+arg_1_53,decent pedicure <SEP> positive,"Pedicure was going all good , she was doing a decent job .",food -> quality,Beauty & Spas,0.5533190369606018
+arg_1_54,decent shopping <SEP> positive,The shopping is decent as well .,food -> quality,Beauty & Spas,0.7992708086967468
+arg_1_55,delicious cookies <SEP> positive,The freshly baked cookies are delicious too .,food -> quality,Beauty & Spas,0.8532204031944275
+arg_1_57,enjoyed roots store <SEP> positive,We enjoyed the Roots store,food -> quality,Beauty & Spas,0.8315569162368774
+arg_1_58,excellent deluxe pedicure <SEP> positive,The deluxe pedicure was excellent .,food -> quality,Beauty & Spas,0.5358143448829651
+arg_1_59,excellent haircut <SEP> positive,She gave my son an excellent haircut .,food -> quality,Beauty & Spas,0.7581816911697388
+arg_1_60,excellent job gel manicure <SEP> positive,Laura did an excellent job doing my gel manicure & Michael did an excellent job with my pedicure .,food -> quality,Beauty & Spas,0.5127196311950684
+arg_1_61,excellent masseuse <SEP> positive,My friend had a massage with Jeanette and she was also very pleased and said Jeanette is an excellent masseuse .  ,food -> quality,Beauty & Spas,0.5178508758544922
+arg_1_62,excellent nail spa <SEP> positive,Excellent nail spa .  ,food -> quality,Beauty & Spas,0.6007487773895264
+arg_1_63,expensive hair cut <SEP> negative,But the hair cut is expensive and watch out for the add ons .,food -> quality,Beauty & Spas,0.5377305150032043
+arg_1_64,fabulous deep tissue massage <SEP> positive,Deep tissue massage by Andrea Senese was fabulous !,food -> quality,Beauty & Spas,0.48257094621658325
+arg_1_65,fabulous masseuse <SEP> positive,"My masseuse was Lisa , and she was fabulous :)",food -> quality,Beauty & Spas,0.7580397129058838
+arg_1_66,failing nails <SEP> negative,My nails were the failing for me .,food -> quality,Beauty & Spas,0.5731737613677979
+arg_1_67,fake nails <SEP> negative,They do something else for fake nails called sns .,food -> quality,Beauty & Spas,0.7531639337539673
+arg_1_68,fantastic cindy <SEP> positive,It was so great and Cindy was fantastic !,food -> quality,Beauty & Spas,0.5765924453735352
+arg_1_69,freakin magical masseuse <SEP> positive,The masseuse 's hands were freakin magical .,food -> quality,Beauty & Spas,0.6367068886756897
+arg_1_70,freshly baked cookie <SEP> positive,I was given tea and a freshly baked cookie to enjoy .,food -> quality,Beauty & Spas,0.8756789565086365
+arg_1_71,good barber shop <SEP> positive,We moved to the scottsdale area a year ago and have had a heck of a time finding a good barber shop for my 11 year old .  ,food -> quality,Beauty & Spas,0.560987114906311
+arg_1_72,good brow wax <SEP> positive,"The brow wax was good , too !  ",food -> quality,Beauty & Spas,0.5307400822639465
+arg_1_73,good food <SEP> positive,We could rest while enjoying some good food .,food -> quality,Beauty & Spas,0.7405458092689514
+arg_1_74,good haircut <SEP> positive,I never have to worry if it 's going to be a good haircut,food -> quality,Beauty & Spas,0.5204585194587708
+arg_1_75,good nail place <SEP> positive,We have been trying to find a good nail place for such a long time and this one will be our new spot .,food -> quality,Beauty & Spas,0.5596704483032227
+arg_1_76,good nail spa <SEP> positive,I have been looking for a good nail spa and the Pedi Lounge N Nails is a hidden gem .  ,food -> quality,Beauty & Spas,0.5437700748443604
+arg_1_77,good nail spot <SEP> positive,I 'm going to continue coming here for as long as I live lol its hard to find a good nail spot and this right here is a hidden   gem !,food -> quality,Beauty & Spas,0.6543335914611816
+arg_1_78,good pedicure <SEP> positive,Pedicure was good also .,food -> quality,Beauty & Spas,0.5480316281318665
+arg_1_80,good shop <SEP> positive,The shop has a good vibe and it felt like I was hanging out with friends rather than getting a haircut .  ,food -> quality,Beauty & Spas,0.6518166661262512
+arg_1_81,good stylists <SEP> negative,It 's hard to find good stylists who help you get to your goals without killing your hair .,food -> quality,Beauty & Spas,0.5452629923820496
+arg_1_82,good thai massage <SEP> positive,I would definitely go back and recommend to anyone who enjoys a good Thai massage .,food -> quality,Beauty & Spas,0.5438560843467712
+arg_1_83,good with haircuts <SEP> positive,Plus she 's just as good with haircuts as she is with color .,food -> quality,Beauty & Spas,0.4819123148918152
+arg_1_84,gorgeous pool <SEP> positive,The pool is gorgeous and relaxing .  ,food -> quality,Beauty & Spas,0.909824550151825
+arg_1_85,gorgeous skin <SEP> positive,I 've been coming here for six months now and my skin is gorgeous .,food -> quality,Beauty & Spas,0.6797448992729187
+arg_1_86,great barber <SEP> positive,Alex is a great barber and very knowledgeable .  ,food -> quality,Beauty & Spas,0.6863307952880859
+arg_1_87,great barbershop <SEP> positive,Great barbershop .,food -> quality,Beauty & Spas,0.6224604249000549
+arg_1_88,great business <SEP> positive,Great business !,food -> quality,Beauty & Spas,0.7749428749084473
+arg_1_89,great dining selection <SEP> positive,"A great dining selection can be found here , with Starbucks , Tim Hortons , Sbarro , Trinity Square Cafe , Urban Eatery , Dairy Queen , Mc'Donald 's , & Bannok !",food -> quality,Beauty & Spas,0.48579180240631104
+arg_1_90,great hair designing <SEP> positive,"On a lighter note , their salon services for hair designing for a wedding was great .",food -> quality,Beauty & Spas,0.624515175819397
+arg_1_91,great hair salon <SEP> positive,I was able to find a great hair salon nearby !,food -> quality,Beauty & Spas,0.5295680165290833
+arg_1_92,great haircut place <SEP> positive,Great haircut place for kids .,food -> quality,Beauty & Spas,0.539887011051178
+arg_1_93,great job <SEP> positive,I only come back for her great job !,food -> quality,Beauty & Spas,0.5659610629081726
+arg_1_95,great nail salon <SEP> positive,I am so happy to have found this great nail salon .,food -> quality,Beauty & Spas,0.5612420439720154
+arg_1_96,great nails <SEP> positive,On top of that my nails turned out great !,food -> quality,Beauty & Spas,0.9033994078636169
+arg_1_97,great neck massage <SEP> positive,They gave me a mini neck massage which was great !  ,food -> quality,Beauty & Spas,0.5812159180641174
+arg_1_99,great pizza place <SEP> positive,Right next to a great pizza place as well !,food -> quality,Beauty & Spas,0.5813364386558533
+arg_1_100,great products <SEP> positive,They have great products available with   great prices .,food -> quality,Beauty & Spas,0.5294561982154846
+arg_1_101,great shave <SEP> positive,The haircut and the shave were handled with great acumen and I could not be more pleased .,food -> quality,Beauty & Spas,0.8060370087623596
+arg_1_102,happy hair stylist <SEP> positive,I am so happy to finally find the hair stylist that I have spent the last year looking for .  ,food -> quality,Beauty & Spas,0.623101532459259
+arg_1_103,heavenly massage <SEP> positive,Had the prenatal massage here and it was heavenly !  ,food -> quality,Beauty & Spas,0.5661282539367676
+arg_1_104,horrible cracked <SEP> negative,I feel like I 'm the customer most places would dread ... horrible cracked heels and my cuticles grow so fast because of my job .  ,food -> quality,Beauty & Spas,0.6346656680107117
+arg_1_105,horrible hair <SEP> negative,My hair is HORRIBLE .  ,food -> quality,Beauty & Spas,0.6825408935546875
+arg_1_106,horrible looking nails <SEP> negative,My nails were horrible looking from the last place I went .,food -> quality,Beauty & Spas,0.5974863767623901
+arg_1_107,horrible school <SEP> negative,"the school they send you to , is horrible !",food -> quality,Beauty & Spas,0.5240908265113831
+arg_1_108,hot towel shave <SEP> negative,You will get a hot towel shave and massage at the end of your visit .,food -> quality,Beauty & Spas,0.5131300687789917
+arg_1_109,incredible nails <SEP> positive,My nails are incredible .,food -> quality,Beauty & Spas,0.6083210110664368
+arg_1_110,like haircut <SEP> positive,I really like my haircut,food -> quality,Beauty & Spas,0.7050977945327759
+arg_1_111,like nail salon <SEP> positive,I really like this nail salon,food -> quality,Beauty & Spas,0.6959793567657471
+arg_1_112,liked gel mani <SEP> positive,My friend got a gel mani and really liked it .,food -> quality,Beauty & Spas,0.7878963351249695
+arg_1_113,liked hot <SEP> positive,"I really liked how April used hot stones , she rubbed them in not just setting them on my back .   ",food -> quality,Beauty & Spas,0.5297645330429077
+arg_1_114,liked work <SEP> positive,Was asked frequently of I liked the work as they were doing it .  ,food -> quality,Beauty & Spas,0.591701865196228
+arg_1_115,lots of muscle work <SEP> negative,Lots of stretching and muscle work .,food -> quality,Beauty & Spas,0.576633870601654
+arg_1_116,love dip powder <SEP> positive,I love the dip powder !,food -> quality,Beauty & Spas,0.5442345142364502
+arg_1_117,love gel dip <SEP> positive,love the gel dip,food -> quality,Beauty & Spas,0.5985930562019348
+arg_1_118,love haircut <SEP> positive,We love the haircut,food -> quality,Beauty & Spas,0.8230728507041931
+arg_1_119,love lash artist alexa <SEP> positive,I love my lash artist Alexa .,food -> quality,Beauty & Spas,0.7289726734161377
+arg_1_120,love nails <SEP> positive,Love Love Love my nails !  ,food -> quality,Beauty & Spas,0.5578842759132385
+arg_1_121,loved cut <SEP> positive,I loved my color and cut so much,food -> quality,Beauty & Spas,0.7065212726593018
+arg_1_122,loved hot stone chairs <SEP> positive,I LOVED the hot stone chairs .,food -> quality,Beauty & Spas,0.771489143371582
+arg_1_123,loved nails <SEP> positive,Loved my nails .,food -> quality,Beauty & Spas,0.6963748335838318
+arg_1_124,loved pampering <SEP> positive,Went here on Mother 's day for some pampering and loved it .,food -> quality,Beauty & Spas,0.6702377796173096
+arg_1_125,loved polka <SEP> positive,I loved the precision of Michelle 's technique when it came to the application of my polka dots .,food -> quality,Beauty & Spas,0.6489267349243164
+arg_1_127,lovely chocolate <SEP> positive,She took my over - bleached and damaged hair from a brassy brown / red back to a lovely chocolate brown ( which was my original request at the 1st salon ) .,food -> quality,Beauty & Spas,0.6153203248977661
+arg_1_128,most amazing massage <SEP> positive,It was hands down the most amazing massage I have ever had .  ,food -> quality,Beauty & Spas,0.30322232842445374
+arg_1_129,most amazing nail tech <SEP> positive,Lynn is the most amazing nail tech I 've ever had .,food -> quality,Beauty & Spas,0.5684269070625305
+arg_1_130,most wonderful spa facial experience <SEP> positive,Just had the most wonderful spa facial experience this afternoon ; from beginning to end it was absolutely delightful .  ,food -> quality,Beauty & Spas,0.7331087589263916
+arg_1_131,natural nails <SEP> positive,It 's a dipping powder system that made my nails feel natural and,food -> quality,Beauty & Spas,0.8606281280517578
+arg_1_132,not painted very good toes <SEP> positive,My toes were not painted very good .  ,food -> quality,Beauty & Spas,0.7042277455329895
+arg_1_133,perfect for sandal weather <SEP> positive,Perfect for sandal weather with my Coral Candy nails !,food -> quality,Beauty & Spas,0.6981359124183655
+arg_1_134,perfect nail <SEP> positive,She went above and beyond making sure that every single nail was perfect .  ,food -> quality,Beauty & Spas,0.48818621039390564
+arg_1_135,perfect nails <SEP> positive,My nails are perfect and everything else about the salon is too .,food -> quality,Beauty & Spas,0.7286900281906128
+arg_1_136,phenomenal nails <SEP> positive,Update : 2 weeks later and my nails look phenomenal still .,food -> quality,Beauty & Spas,0.8005604147911072
+arg_1_137,professional thai spa <SEP> positive,"It 's a clean , professional Thai spa .",food -> quality,Beauty & Spas,0.47496330738067627
+arg_1_138,quality nail salon <SEP> positive,I have searched for a quality nail salon for my first two years here,food -> quality,Beauty & Spas,0.740098774433136
+arg_1_139,really cute gel manicure <SEP> positive,"I was able to get a really cute gel manicure done in 45 minutes , and it seems like it will last a while .",food -> quality,Beauty & Spas,0.6281192302703857
+arg_1_140,really nice nails <SEP> positive,My nails came out really nice !,food -> quality,Beauty & Spas,0.5985366106033325
+arg_1_141,really terrific massages <SEP> positive,We had really terrific massages and left feeling incredibly relaxed and pampered .,food -> quality,Beauty & Spas,0.5037128329277039
+arg_1_142,relaxing wash house <SEP> positive,The wash house is so relaxing and such a cool room !,food -> quality,Beauty & Spas,0.5083446502685547
+arg_1_143,rough nails <SEP> positive,"and I 'm rough on my nails , but they put up with my high maintenance nails and do a really great job !",food -> quality,Beauty & Spas,0.5934610366821289
+arg_1_144,satisfactory massage <SEP> positive,My husband found his massage satisfactory,food -> quality,Beauty & Spas,0.8062736392021179
+arg_1_145,serious cucumber water <SEP> positive,"A serious salon experience complete with cucumber water , Relaxation room and neck massages for all .  ",food -> quality,Beauty & Spas,0.5826133489608765
+arg_1_146,super amazing massage <SEP> positive,"Pros : price , super amazing massage ,",food -> quality,Beauty & Spas,0.4674955904483795
+arg_1_147,super comforting jay <SEP> positive,Jay was amazing and super comforting .,food -> quality,Beauty & Spas,0.9189983606338501
+arg_1_148,super cute front <SEP> positive,"Adrian at the front desk is an absolute sweetheart , super cute too and",food -> quality,Beauty & Spas,0.6648969054222107
+arg_1_149,super cute gift bag <SEP> positive,Was there as part of a party and received a super cute gift bag .,food -> quality,Beauty & Spas,0.48805493116378784
+arg_1_150,super duper relaxing moroccan mud wrap <SEP> positive,The moroccan mud wrap is also super duper relaxing .  ,food -> quality,Beauty & Spas,0.693896472454071
+arg_1_151,super happy place <SEP> positive,i really recomend this place 100 % super happy with Susy,food -> quality,Beauty & Spas,0.6203070282936096
+arg_1_152,super knowledgeable about nail spa <SEP> positive,You can tell he takes so much pride in the nail spa and is super knowledgeable about his craft .,food -> quality,Beauty & Spas,0.534768283367157
+arg_1_153,super ombre <SEP> positive,"I got a cut and blonde ombre color , it came out super super perfect",food -> quality,Beauty & Spas,0.4745221436023712
+arg_1_154,super opulent experience <SEP> positive,A super opulent experience with a lot of attention to detail .  ,food -> quality,Beauty & Spas,0.47852033376693726
+arg_1_155,truly relaxing hot stones <SEP> positive,Hot stones are included and it was truly relaxing .,food -> quality,Beauty & Spas,0.5129086971282959
+arg_1_156,very best massage <SEP> positive,I just had the very best massage of my life !,food -> quality,Beauty & Spas,0.5222812294960022
+arg_1_157,very enjoyable experience <SEP> positive,I had a very enjoyable experience !  ,food -> quality,Beauty & Spas,0.5545979738235474
+arg_1_158,very good lash artist <SEP> positive,I 've had different lash artist and they all seem very good .,food -> quality,Beauty & Spas,0.776168942451477
+arg_1_159,very good waxing experience <SEP> positive,Very good waxing experience here .,food -> quality,Beauty & Spas,0.513981282711029
+arg_1_160,very thorough cutting <SEP> positive,"Took all of my instructions and was very thorough in his cutting , I did nt feel it was rushed at all even though there were 3 or 4 folks waiting by the time he finished .",food -> quality,Beauty & Spas,0.5348489880561829
+arg_1_161,wide variety of cuisines <SEP> positive,"They have a food court they has many selections to choose from that contain a wide variety of cuisines which include Thai Express , Big Smoke Burger , Tim Hortons and many others .",food -> quality,Beauty & Spas,0.5432018637657166
+arg_1_162,wonderful body scrub <SEP> positive,Plus their body scrub is wonderful !,food -> quality,Beauty & Spas,0.5483502149581909
+arg_1_163,wonderful leah <SEP> positive,Leah is wonderful !,food -> quality,Beauty & Spas,0.4836566150188446
+arg_1_164,wonderful nails <SEP> positive,Donna does a wonderful job cleaning your nails and makes sure they 're shaped just how you want them .,food -> quality,Beauty & Spas,0.6371650695800781
+arg_1_165,wonderful shampoo massage <SEP> positive,the shampoo massage was wonderful .,food -> quality,Beauty & Spas,0.4407943785190582
+arg_1_166,worst nail job <SEP> negative,I also received a fill using the sns powder and OMG it was the worst nail job I ever had ! ! ! !,food -> quality,Beauty & Spas,0.4793023467063904
+arg_1_2,absolutely awesome massages <SEP> positive,And her massages are absolutely awesome ! ! !  ,food -> quality,Beauty & Spas,0.47399693727493286
+arg_1_8,amazing luxury pedicure <SEP> positive,I 've had a luxury pedicure and it was amazing !,food -> quality,Beauty & Spas,0.3643205165863037
+arg_1_15,amazing pedicure <SEP> positive,"I then had a manicure & pedicure , they did such an amazing job .  ",food -> quality,Beauty & Spas,0.47293227910995483
+arg_1_36,best hairdresser <SEP> positive,Sonny is seriously the BEST hairdresser I 've ever been to !  ,food -> quality,Beauty & Spas,0.4725470542907715
+arg_1_56,enjoyable experience <SEP> positive,We had such an enjoyable experience .,food -> quality,Beauty & Spas,0.471554696559906
+arg_1_94,great job pedicure <SEP> positive,The lady did a great job with my pedicure .,food -> quality,Beauty & Spas,0.18412171304225922
+arg_1_98,great pedicure <SEP> positive,Let me start by saying that the pedicure I received was great !,food -> quality,Beauty & Spas,0.3448425233364105
+arg_1_126,loved spa pedicure <SEP> positive,"I loved the spa pedicure , it felt amazing !  ",food -> quality,Beauty & Spas,0.39085862040519714
+arg_1_16,amazing pedicures <SEP> positive,She s so friendly and does amazing pedicures ..,food -> quality,Beauty & Spas,0.2671736180782318
+arg_1_79,good pedicures <SEP> positive,"Tommy is the best with acrylics , and everyone does a good job with gel , pedicures etc .",food -> quality,Beauty & Spas,0.36209341883659363
+arg_1_44,best pedicures <SEP> positive,Just had one of the best pedicures of my life !,food -> quality,Beauty & Spas,0.44126176834106445
+arg_2_0,accessible path <SEP> positive,"Accessible via the Path , which is great during the winter .",food -> variety,Beauty & Spas,0.6461665034294128
+arg_2_1,aching muscles <SEP> negative,Our backs and shoulders were aching and muscles were so tight .,food -> variety,Beauty & Spas,0.4330436587333679
+arg_2_2,always pedicure <SEP> negative,"My pedicure lady , Tina is so funny and always willing to work around your schedule !",food -> variety,Beauty & Spas,0.28884172439575195
+arg_2_3,best facial <SEP> positive,It was by far the best facial I 've ever had and so happy I chose the 90 minute because every minute was heavenly .  ,food -> variety,Beauty & Spas,0.2349431812763214
+arg_2_4,best kept secret <SEP> positive,This salon is a best kept secret that should be shared !,food -> variety,Beauty & Spas,0.34794458746910095
+arg_2_5,best pedicure experience <SEP> positive,This is literally the best pedicure experience I 've ever had .  ,food -> variety,Beauty & Spas,0.4769655764102936
+arg_2_6,best pedicure options <SEP> positive,My nails always look fantastic and they have the best pedicure options in town .,food -> variety,Beauty & Spas,0.31798866391181946
+arg_2_7,complicated computer <SEP> negative,"The showers had a complicated computer controlling all the heads and did n't work well , sadly I can imagine they spent a fortune putting these puppies in .  ",food -> variety,Beauty & Spas,0.7747373580932617
+arg_2_8,countless amenities <SEP> negative,The amenities were countless .,food -> variety,Beauty & Spas,0.3293038308620453
+arg_2_9,crappy choice in <SEP> negative,He has crappy choice in sports teams .,food -> variety,Beauty & Spas,0.35472553968429565
+arg_2_10,different pedicures <SEP> positive,They have a large selection of colors and different types of pedicures that range from $ 24 to over $ 50 .,food -> variety,Beauty & Spas,0.16654500365257263
+arg_2_11,different shops <SEP> positive,It has so many different shops for every taste and budget .,food -> variety,Beauty & Spas,0.1909123957157135
+arg_2_12,dislodged earring <SEP> negative,"My earring became dislodged less than a week from getting it done , had to find a place near my home to have them fix the issue before it piercing became closed , therefore it cost me even more $ $ $ .  ",food -> variety,Beauty & Spas,0.2547321319580078
+arg_2_13,ease of online booking <SEP> positive,I really like the ease of online booking .,food -> variety,Beauty & Spas,0.2350708395242691
+arg_2_14,easily accessible <SEP> positive,It 's easily accessible as it 's on the subway line .,food -> variety,Beauty & Spas,0.4499957263469696
+arg_2_15,easy appointment <SEP> positive,Booking an appointment is easy and the receptionist is so sweet .,food -> variety,Beauty & Spas,0.47864851355552673
+arg_2_16,easy to use website <SEP> positive,Easy to use website .,food -> variety,Beauty & Spas,0.21122610569000244
+arg_2_17,endless color options for <SEP> positive,They have endless color options for gel and regular polish .,food -> variety,Beauty & Spas,0.37373295426368713
+arg_2_18,endless possibilities <SEP> positive,They have so many length curl options available the possibilities seem endless .,food -> variety,Beauty & Spas,0.8132257461547852
+arg_2_19,excellent online booking <SEP> positive,Online booking is excellent .,food -> variety,Beauty & Spas,0.4203213155269623
+arg_2_20,fairly easy to navigate overall layout <SEP> positive,The overall layout is fairly easy to navigate and there is n't much bad,food -> variety,Beauty & Spas,0.21104633808135986
+arg_2_21,fantastic color correction <SEP> positive,She gave me a fantastic color correction !,food -> variety,Beauty & Spas,0.6213685274124146
+arg_2_22,good choice <SEP> positive,"This was my first piercing with a hallow needle , but I made such a good choice coming here .",food -> variety,Beauty & Spas,0.39209088683128357
+arg_2_23,good discount <SEP> positive,"After being super apologetic , he really treated me well and gave me a good discount for the hassle of me waiting and having to return .",food -> variety,Beauty & Spas,0.31108853220939636
+arg_2_24,great pedicures <SEP> positive,Great pedicures .,food -> variety,Beauty & Spas,0.40793710947036743
+arg_2_25,great selection colors <SEP> positive,Great selection of SNS colors   and they do not cut corners on the top coat .  ,food -> variety,Beauty & Spas,0.5962634086608887
+arg_2_26,great selection of shops <SEP> positive,Great selection of shops that should keep you busy .  ,food -> variety,Beauty & Spas,0.20717784762382507
+arg_2_27,hidden gem <SEP> positive,and we never knew this hidden gem was there .,food -> variety,Beauty & Spas,0.7343132495880127
+arg_2_28,huge color selection <SEP> positive,Huge color selection & they know different techniques to get what you what you want .,food -> variety,Beauty & Spas,0.31723684072494507
+arg_2_29,huge selection of gel colors <SEP> positive,They had a huge selection of gel colors !,food -> variety,Beauty & Spas,0.2086636871099472
+arg_2_30,incredible pedicures <SEP> positive,The pedicures are incredible and they go above and beyond most nail places .,food -> variety,Beauty & Spas,0.6988090872764587
+arg_2_31,lack of talent <SEP> negative,"Unfortunately , there is a lack of talent .  ",food -> variety,Beauty & Spas,0.5266781449317932
+arg_2_32,large selection nail polish <SEP> positive,They also have a large selection of gel and regular nail polish .,food -> variety,Beauty & Spas,0.3616795837879181
+arg_2_33,largest selection on gel polish <SEP> positive,"And they have the largest selection on Gel Polish I have ever seen , it takes me 10 minutes just to pick a color !  ",food -> variety,Beauty & Spas,0.31516727805137634
+arg_2_34,little more privacy <SEP> negative,Would have preferred a little more privacy than just a drawn curtain between rooms .  ,food -> variety,Beauty & Spas,0.2871900200843811
+arg_2_35,lots of selection <SEP> negative,Lots of selection .,food -> variety,Beauty & Spas,0.6290580630302429
+arg_2_36,most amazing pedicure <SEP> positive,that was the most amazing pedicure I have ever had .,food -> variety,Beauty & Spas,0.5118324160575867
+arg_2_37,nice selection <SEP> positive,Nice selection .,food -> variety,Beauty & Spas,0.29872384667396545
+arg_2_38,nicely executed <SEP> positive,Affordable and nicely executed .,food -> variety,Beauty & Spas,0.6681848764419556
+arg_2_39,no issues booking <SEP> positive,There were no issues with booking it .,food -> variety,Beauty & Spas,0.30142897367477417
+arg_2_40,really difficult forehead <SEP> negative,I have a really difficult forehead to inject because I have strong muscles and I am not symmetrical .  ,food -> variety,Beauty & Spas,0.4480533003807068
+arg_2_41,relaxing process <SEP> positive,The process was relaxing and painless .,food -> variety,Beauty & Spas,0.36000651121139526
+arg_2_42,seamless booking <SEP> negative,Booking an appt was seamless and I got in within a day .,food -> variety,Beauty & Spas,0.5746757984161377
+arg_2_43,simple to use online booking <SEP> positive,I 'm a busy mom and their online booking was simple to use .  ,food -> variety,Beauty & Spas,0.3153567910194397
+arg_2_44,sufficient pedicures <SEP> positive,Overall the pedicures were sufficient bit certainly nothing special .,food -> variety,Beauty & Spas,0.5230957865715027
+arg_2_45,terrible pedicure <SEP> negative,Now when it comes to the pedicure they did a terrible job .,food -> variety,Beauty & Spas,0.781065821647644
+arg_2_46,top notch procedures <SEP> positive,Their procedures are top notch and made this first timer more comfortable for sure .,food -> variety,Beauty & Spas,0.20025354623794556
+arg_2_47,unmatched work ethic <SEP> negative,Mrs. Bella 's work ethic is unmatched !  ,food -> variety,Beauty & Spas,0.3667871654033661
+arg_2_48,up styles <SEP> positive,"Not only is Salvador great with his taste and talent in cuts , styles , and explanations , but the entire place mixes spa relaxation and up - beat fun .",food -> variety,Beauty & Spas,0.5796237587928772
+arg_2_49,various pedicure options <SEP> positive,"I love the various pedicure options and the staff knows about nails , gets and offers new colors and designs .  ",food -> variety,Beauty & Spas,0.24435493350028992
+arg_2_50,very easy reservation online <SEP> positive,The reservation online was very easy .,food -> variety,Beauty & Spas,0.6501779556274414
+arg_2_51,very easy scheduling <SEP> positive,Scheduling is very easy both through text and online .,food -> variety,Beauty & Spas,0.48984137177467346
+arg_2_52,very large selection of gel polishes <SEP> positive,"They have a very large selection of gel polishes , so many to choose from !    ",food -> variety,Beauty & Spas,0.35708627104759216
+arg_2_53,very little stencil design <SEP> negative,The design he used was very little stencil and almost all freehand !,food -> variety,Beauty & Spas,0.41732922196388245
+arg_2_54,very unique method <SEP> positive,Very unique method .,food -> variety,Beauty & Spas,0.4734978973865509
+arg_2_55,wide selection of stores <SEP> positive,They have a wide selection of stores ! !,food -> variety,Beauty & Spas,0.3897881805896759
+arg_2_56,wild selection colors <SEP> positive,They have a wild selection of colors .,food -> variety,Beauty & Spas,0.3893406093120575
+arg_3_0,above and beyond lash <SEP> positive,The receptionists and lash artist give above and beyond to accommodate the look and service you want to get .,restaurant -> atmosphere,Beauty & Spas,0.6290634870529175
+arg_3_2,advanced aesthetics <SEP> positive,I have quite a bit of experience with botox and fillers and I can highly recommend Mike with Advanced Aesthetics .  ,restaurant -> atmosphere,Beauty & Spas,0.7520043849945068
+arg_3_3,always beautiful lashes <SEP> positive,My lashes are always beautiful .,restaurant -> atmosphere,Beauty & Spas,0.654109001159668
+arg_3_4,amazing decor <SEP> positive,The symmetry and colors and decor was amazing .,restaurant -> atmosphere,Beauty & Spas,0.6503824591636658
+arg_3_5,amazing full set <SEP> positive,My full set is amazing .,restaurant -> atmosphere,Beauty & Spas,0.5727373361587524
+arg_3_6,amazing lashes <SEP> positive,My lashes always turn out amazing every time I go .,restaurant -> atmosphere,Beauty & Spas,0.6900417804718018
+arg_3_8,amazing quality of the wax <SEP> positive,The pain was n't bad as i thought it would be and the quality of the wax is amazing .,restaurant -> atmosphere,Beauty & Spas,0.6364393830299377
+arg_3_9,amazing resort <SEP> positive,"The atmosphere , class and charm of this resort is amazing .   ",restaurant -> atmosphere,Beauty & Spas,0.6393337249755859
+arg_3_10,amazing robes <SEP> positive,Robes are amazing and soft .,restaurant -> atmosphere,Beauty & Spas,0.6882666945457458
+arg_3_11,amazing salon experience <SEP> positive,I had an amazing salon experience today .,restaurant -> atmosphere,Beauty & Spas,0.5989428162574768
+arg_3_12,amazing stylist <SEP> positive,My stylist was amazing and took me to almost white ( my end goal ) without damage thanks to olaplex,restaurant -> atmosphere,Beauty & Spas,0.6038029789924622
+arg_3_14,appreciate touch <SEP> positive,Also appreciate their 3 day touch up .,restaurant -> atmosphere,Beauty & Spas,0.588740348815918
+arg_3_17,appreciated interior decoration <SEP> positive,We appreciated the interior decoration and spent few hours there .,restaurant -> atmosphere,Beauty & Spas,0.8889190554618835
+arg_3_19,attractive interior <SEP> positive,The interior is so attractive and clean !  ,restaurant -> atmosphere,Beauty & Spas,0.5895529985427856
+arg_3_20,awesome colors <SEP> positive,So many awesome colors and glitter options to choose from .,restaurant -> atmosphere,Beauty & Spas,0.5972503423690796
+arg_3_24,beautiful atrium ceiling <SEP> positive,The atrium ceiling is still beautiful to look at .,restaurant -> atmosphere,Beauty & Spas,0.585314929485321
+arg_3_27,beautiful lashes <SEP> positive,My lashes are beautiful and last up to 5 weeks .,restaurant -> atmosphere,Beauty & Spas,0.6824620962142944
+arg_3_28,beautiful spa area <SEP> positive,The spa area is just beautiful .,restaurant -> atmosphere,Beauty & Spas,0.6118394732475281
+arg_3_30,beautifully resort <SEP> positive,The resort is beautifully and tastefully decorated .  ,restaurant -> atmosphere,Beauty & Spas,0.7090545892715454
+arg_3_31,best artists <SEP> positive,He is one of the best artists around !,restaurant -> atmosphere,Beauty & Spas,0.6997488737106323
+arg_3_32,best birthday <SEP> positive,best birthday ever thank you Krista Isom,restaurant -> atmosphere,Beauty & Spas,0.6350118517875671
+arg_3_33,best lash lounge <SEP> positive,Sassy lashes is by far the best lash lounge I 've been to .,restaurant -> atmosphere,Beauty & Spas,0.6655964851379395
+arg_3_34,best overall <SEP> positive,Overall best experience ever .  ,restaurant -> atmosphere,Beauty & Spas,0.7367973923683167
+arg_3_35,busiest malls <SEP> negative,One of toronto 's busiest malls .,restaurant -> atmosphere,Beauty & Spas,0.9139145612716675
+arg_3_36,central mall <SEP> positive,This mall is central to a lot of places and was easily walkable from our hotel .,restaurant -> atmosphere,Beauty & Spas,0.8202307224273682
+arg_3_37,classy restaurants <SEP> positive,"Encore restaurants are very classy , romantic and upscale .",restaurant -> atmosphere,Beauty & Spas,0.6081215739250183
+arg_3_39,clean center <SEP> positive,Overall this center is clean and full of excitement !  ,restaurant -> atmosphere,Beauty & Spas,0.6607035398483276
+arg_3_41,clean inside <SEP> positive,"The inside is clean , modern , and unique .",restaurant -> atmosphere,Beauty & Spas,0.8278517723083496
+arg_3_42,clean salon <SEP> positive,The salon was clean and welcoming .  ,restaurant -> atmosphere,Beauty & Spas,0.6704192757606506
+arg_3_44,comfy atmosphere <SEP> positive,"it 's a lovely and comfy atmosphere , you really feel like they 're taking their time especially for you .",restaurant -> atmosphere,Beauty & Spas,0.8304300904273987
+arg_3_45,conviniently located stairs <SEP> positive,And escalators and stairs are conviniently located so you do nt have to walk much lost to go up or down .,restaurant -> atmosphere,Beauty & Spas,0.6173532605171204
+arg_3_47,coolest lash lounge <SEP> positive,Coolest upscale lash lounge I 've encountered in Vegas by a mile .,restaurant -> atmosphere,Beauty & Spas,0.6346384882926941
+arg_3_49,decorated place <SEP> positive,Place is decorated so top of the line and is super clean .,restaurant -> atmosphere,Beauty & Spas,0.6905429363250732
+arg_3_50,desperate pedicure <SEP> negative,"In town visiting and was in need of a desperate pedicure , I found this one down the street from my hotel !",restaurant -> atmosphere,Beauty & Spas,0.5891147255897522
+arg_3_51,divine experience <SEP> positive,It 's a divine and relaxing experience .  ,restaurant -> atmosphere,Beauty & Spas,0.7345654368400574
+arg_3_55,enjoying craft <SEP> positive,"Marcus "" Mook "" was so nice and you could really tell that he 's enjoying his craft",restaurant -> atmosphere,Beauty & Spas,0.6246200203895569
+arg_3_56,excellent massage <SEP> positive,"5 stars for a strong , excellent massage .",restaurant -> atmosphere,Beauty & Spas,0.8901522755622864
+arg_3_57,expensive wear <SEP> negative,They even have a floor dedicated to expensive wear .,restaurant -> atmosphere,Beauty & Spas,0.6089238524436951
+arg_3_58,exquisite rooms <SEP> positive,The rooms were exquisite !  ,restaurant -> atmosphere,Beauty & Spas,0.6478632092475891
+arg_3_59,extremely clean facilities <SEP> positive,"The facilities were extremely clean , spacious and organized .",restaurant -> atmosphere,Beauty & Spas,0.6681522727012634
+arg_3_60,fabulous facial <SEP> positive,My facial was FABULOUS ! !,restaurant -> atmosphere,Beauty & Spas,0.6980168223381042
+arg_3_61,fabulous spa <SEP> positive,This spa is fabulous .,restaurant -> atmosphere,Beauty & Spas,0.6703779101371765
+arg_3_63,fantastic buff <SEP> positive,Buff N File was fantastic !,restaurant -> atmosphere,Beauty & Spas,0.5883326530456543
+arg_3_65,fantastic massage <SEP> positive,Fantastic Massage .  ,restaurant -> atmosphere,Beauty & Spas,0.7293539643287659
+arg_3_66,fantastic salon <SEP> positive,"This salon is fantastic and I really appreciate the time and effort that my stylist , Adrianna took to ensure my results were great .  ",restaurant -> atmosphere,Beauty & Spas,0.5906888246536255
+arg_3_67,fantastic therapeutic massage <SEP> positive,"The Therapeutic massage is fantastic , not to mention , their feet ion detox , will definitely helps you to relax and feel good inside and out .",restaurant -> atmosphere,Beauty & Spas,0.607977569103241
+arg_3_68,fixed color <SEP> positive,My color was fixed and I was very happy with the salon and Ellie 's expertise !,restaurant -> atmosphere,Beauty & Spas,0.6888419389724731
+arg_3_69,fun cars <SEP> positive,"There are fun cars to sit in , videos and lollipops .",restaurant -> atmosphere,Beauty & Spas,0.581134557723999
+arg_3_72,go to massage place <SEP> positive,"Still our "" go to "" massage place when we visit Vegas .",restaurant -> atmosphere,Beauty & Spas,0.6274620294570923
+arg_3_73,good chat <SEP> positive,we had a good chat .,restaurant -> atmosphere,Beauty & Spas,0.6844446659088135
+arg_3_74,good color <SEP> negative,I was scared that the nail tech would n't be able to find a good color to match my set or that the shape would n't come out to my liking .,restaurant -> atmosphere,Beauty & Spas,0.7080535888671875
+arg_3_75,good conversation <SEP> positive,"She was amazing , made you feel comfortable & held a good conversation through the whole process .",restaurant -> atmosphere,Beauty & Spas,0.6360368728637695
+arg_3_77,good gym <SEP> positive,"Ca n't comment on the spa as did n't use it , but the gym was as good as I 've used , not just in a hotel , full stop - never felt busy due to",restaurant -> atmosphere,Beauty & Spas,0.14949050545692444
+arg_3_78,good hair <SEP> positive,I honestly could n't believe how good his hair looks .,restaurant -> atmosphere,Beauty & Spas,0.5757537484169006
+arg_3_79,good stuff <SEP> positive,The good stuff here .  ,restaurant -> atmosphere,Beauty & Spas,0.8633039593696594
+arg_3_80,gorgeous decor <SEP> positive,GORGEOUS decor .,restaurant -> atmosphere,Beauty & Spas,0.6027071475982666
+arg_3_81,gorgeous makeup <SEP> positive,My daughter had her makeup done by Sway and it was gorgeous .,restaurant -> atmosphere,Beauty & Spas,0.8187236189842224
+arg_3_82,great ambiance <SEP> positive,Great ambiance .....,restaurant -> atmosphere,Beauty & Spas,0.6863335967063904
+arg_3_83,great artist <SEP> positive,Such a great artist ! !,restaurant -> atmosphere,Beauty & Spas,0.5912005305290222
+arg_3_84,great artists <SEP> positive,All of the artists here are great !,restaurant -> atmosphere,Beauty & Spas,0.6082087755203247
+arg_3_85,great attention to <SEP> positive,He was fast and had great attention to detail !,restaurant -> atmosphere,Beauty & Spas,0.5971609950065613
+arg_3_86,great color <SEP> positive,"My color looks great and so does the cut , and it 's so soft and ahh",restaurant -> atmosphere,Beauty & Spas,0.6520857214927673
+arg_3_89,great design <SEP> positive,He was very helpful in the design and offered great suggestions .,restaurant -> atmosphere,Beauty & Spas,0.6923097372055054
+arg_3_90,great environment <SEP> positive,Walked in and was greeted to a great environment .,restaurant -> atmosphere,Beauty & Spas,0.6305603384971619
+arg_3_91,great facial <SEP> positive,The facial was great !  ,restaurant -> atmosphere,Beauty & Spas,0.8318682909011841
+arg_3_92,great feet massage <SEP> positive,Feet massage was also great .,restaurant -> atmosphere,Beauty & Spas,0.6073461771011353
+arg_3_95,great personalities <SEP> positive,Everyone is very detailed and has great personalities .,restaurant -> atmosphere,Beauty & Spas,0.6874492764472961
+arg_3_96,great quality massage <SEP> positive,If anyone needs a great quality massage he 's the man !,restaurant -> atmosphere,Beauty & Spas,0.7683979272842407
+arg_3_97,great reviews <SEP> positive,It had such great reviews,restaurant -> atmosphere,Beauty & Spas,0.7034311890602112
+arg_3_101,great stylist <SEP> positive,"She is super nice , funny , witty , and most important , a great stylist .  ",restaurant -> atmosphere,Beauty & Spas,0.6223663091659546
+arg_3_103,great techs <SEP> positive,Mercedes is my go to girl but all the techs here are great .,restaurant -> atmosphere,Beauty & Spas,0.7388684749603271
+arg_3_106,happy parking <SEP> positive,I was so happy with the variety of stores and the amount of parking .,restaurant -> atmosphere,Beauty & Spas,0.6107501983642578
+arg_3_107,hidden gem place <SEP> positive,This place is a hidden gem .,restaurant -> atmosphere,Beauty & Spas,0.6672731041908264
+arg_3_108,high quality robes <SEP> positive,"Massage table linens and robes , high quality .",restaurant -> atmosphere,Beauty & Spas,0.6146423816680908
+arg_3_109,highly skilled hair stylist <SEP> positive,Highly skilled hair stylist here .,restaurant -> atmosphere,Beauty & Spas,0.6564217805862427
+arg_3_110,historic mall <SEP> positive,Eaton Centre is a historic mall of downtown Toronto that I 've been to many times in my youth .,restaurant -> atmosphere,Beauty & Spas,0.625397801399231
+arg_3_111,horrible massage <SEP> negative,The massage was horrible ! !,restaurant -> atmosphere,Beauty & Spas,0.5984747409820557
+arg_3_112,huge mall <SEP> positive,Such a huge mall !,restaurant -> atmosphere,Beauty & Spas,0.7408472299575806
+arg_3_113,huge place <SEP> positive,"First of all , this place is huge !",restaurant -> atmosphere,Beauty & Spas,0.5955691337585449
+arg_3_114,immaculate quality <SEP> positive,You get exactly what you pay for & the quality is immaculate !,restaurant -> atmosphere,Beauty & Spas,0.7800578474998474
+arg_3_115,impressive nails <SEP> positive,They also used dip powder on my manicure and my nails still look perfect which is impressive since I 'm always using my hands !,restaurant -> atmosphere,Beauty & Spas,0.5905063152313232
+arg_3_118,interesting stores <SEP> positive,Some interesting stores ....,restaurant -> atmosphere,Beauty & Spas,0.6381804943084717
+arg_3_119,light elegance colors <SEP> positive,They also offer Light Elegance colors which is my favorite and rare to find .,restaurant -> atmosphere,Beauty & Spas,0.5986335873603821
+arg_3_120,loud music <SEP> negative,but it 's like getting a massage in a hospital next to a strip club loud music next door and the rooms are n't even separated .,restaurant -> atmosphere,Beauty & Spas,0.7736203670501709
+arg_3_122,love glitter walls <SEP> positive,I am in love with the glitter walls !,restaurant -> atmosphere,Beauty & Spas,0.6673438549041748
+arg_3_124,loved accommodations <SEP> positive,Loved the accommodations here .,restaurant -> atmosphere,Beauty & Spas,0.589224636554718
+arg_3_126,loved massage bed <SEP> positive,Absolutely loved the heated massage bed too .,restaurant -> atmosphere,Beauty & Spas,0.827110230922699
+arg_3_127,loved spa <SEP> positive,I loved this Spa !  ,restaurant -> atmosphere,Beauty & Spas,0.8101852536201477
+arg_3_128,loved work <SEP> positive,I LOVED the work they did today,restaurant -> atmosphere,Beauty & Spas,0.7661977410316467
+arg_3_129,lovely facial <SEP> positive,"On the Strip , it would cost twice as much to receive such a lovely facial .",restaurant -> atmosphere,Beauty & Spas,0.7679689526557922
+arg_3_130,lovely salon <SEP> positive,I 'm leaving this review so that those in near Henderson or people like me making trips to Las Vegas can stop by this lovely salon !,restaurant -> atmosphere,Beauty & Spas,0.6546422243118286
+arg_3_131,lovely shop <SEP> positive,and it 's a lovely shop .,restaurant -> atmosphere,Beauty & Spas,0.7337595820426941
+arg_3_132,massive shopping centre <SEP> positive,"massive shopping centre near dundas in toronto , well worth a visit .    ",restaurant -> atmosphere,Beauty & Spas,0.5791775584220886
+arg_3_133,memorable massage <SEP> positive,they made my first massage memorable and deff .,restaurant -> atmosphere,Beauty & Spas,0.7270945906639099
+arg_3_134,most beautiful spa <SEP> positive,The most beautiful spa I have ever seen !,restaurant -> atmosphere,Beauty & Spas,0.6217038631439209
+arg_3_135,most relaxing massage <SEP> positive,Most relaxing massage I had in vegas in a long time .,restaurant -> atmosphere,Beauty & Spas,0.6948028802871704
+arg_3_136,most trendy fashion <SEP> positive,and it has the most trendy fashion around .   ,restaurant -> atmosphere,Beauty & Spas,0.6001580953598022
+arg_3_138,nice artists <SEP> positive,"All of the artists seem nice and making an appointment is easy , but neither of those matter if you get your lashes done and they leaving gaping holes with no lashes or you are only get lashes that last a week to two tops .",restaurant -> atmosphere,Beauty & Spas,0.5766627192497253
+arg_3_139,nice environment <SEP> positive,Nice environment .,restaurant -> atmosphere,Beauty & Spas,0.8735865354537964
+arg_3_140,nice inside <SEP> positive,The inside is nice and clean !,restaurant -> atmosphere,Beauty & Spas,0.5921110510826111
+arg_3_141,nice massage <SEP> positive,"We booked the massage last minute , they were able to accommodate us , which was nice .",restaurant -> atmosphere,Beauty & Spas,0.6830465197563171
+arg_3_142,nice place <SEP> positive,"Nice place , when I walked",restaurant -> atmosphere,Beauty & Spas,0.7059158682823181
+arg_3_143,nice stores <SEP> positive,It was nice to visit and see what kind of stores Toronto had to offer .,restaurant -> atmosphere,Beauty & Spas,0.7525773644447327
+arg_3_144,nice upscale atmosphere <SEP> positive,Nice upscale atmosphere .,restaurant -> atmosphere,Beauty & Spas,0.5835150480270386
+arg_3_145,nicely decorated <SEP> positive,"Also it is nicely decorated on Christmas , worth the visit if you do not mind walking through crowds of people .",restaurant -> atmosphere,Beauty & Spas,0.7489386796951294
+arg_3_149,packed holidays <SEP> negative,Bad idea to come here during the holidays as it becomes really packed .,restaurant -> atmosphere,Beauty & Spas,0.6866716742515564
+arg_3_150,pampered interiors <SEP> positive,"The interiors here make you feel privileged , pampered and wishing you could retreat to a place like this all the time , especially when hung from the night before .  ",restaurant -> atmosphere,Beauty & Spas,0.621146559715271
+arg_3_151,perfect color <SEP> positive,My color is perfect and I love the cut .  ,restaurant -> atmosphere,Beauty & Spas,0.7723159193992615
+arg_3_152,perfect toes <SEP> positive,My nails and toes are perfect I was in and out in less than an hour .,restaurant -> atmosphere,Beauty & Spas,0.7919891476631165
+arg_3_155,phenomenal massage <SEP> positive,Massage was phenomenal .....,restaurant -> atmosphere,Beauty & Spas,0.6508780717849731
+arg_3_157,pleasant environment <SEP> positive,It has a clean and pleasant environment .,restaurant -> atmosphere,Beauty & Spas,0.6427714228630066
+arg_3_159,pleased with massage <SEP> positive,My husband had Noi and was equally pleased with the massage .,restaurant -> atmosphere,Beauty & Spas,0.6660135984420776
+arg_3_160,positive experiences <SEP> positive,"I have been going to Dolce for various services for a few years , and I have only had positive experiences .  ",restaurant -> atmosphere,Beauty & Spas,0.8321875929832458
+arg_3_161,pretty jewelry <SEP> positive,"They carry so many pretty jewelry from BVLA , very high quality !  ",restaurant -> atmosphere,Beauty & Spas,0.598090410232544
+arg_3_162,provides lounge <SEP> positive,Cherry lash lounge is   dependable and provides quality service EVERY visit .,restaurant -> atmosphere,Beauty & Spas,0.6467764973640442
+arg_3_163,quality tattoo or piercing <SEP> positive,I recommend anyone who 's looking for a quality tattoo or piercing to come see Tommy .,restaurant -> atmosphere,Beauty & Spas,0.6223544478416443
+arg_3_164,quiet lady <SEP> positive,The lady who helped us was quiet but polite and accommodating .,restaurant -> atmosphere,Beauty & Spas,0.8767073154449463
+arg_3_165,really great communication <SEP> positive,"I think for the extensive establishment they are running here , they do a really great job with details , communication , and service .",restaurant -> atmosphere,Beauty & Spas,0.6090240478515625
+arg_3_166,really great experience <SEP> positive,I had a really great experience and will definitely return !,restaurant -> atmosphere,Beauty & Spas,0.5910156965255737
+arg_3_167,really nice experience <SEP> positive,I had a really nice experience here .,restaurant -> atmosphere,Beauty & Spas,0.6667379140853882
+arg_3_168,really nice mall <SEP> positive,"Overall , really nice mall to visit",restaurant -> atmosphere,Beauty & Spas,0.838093101978302
+arg_3_169,really nice spa <SEP> positive,This Nail & Spa has been open for 4 months & it 's really nice .  ,restaurant -> atmosphere,Beauty & Spas,0.8020325303077698
+arg_3_170,relaxing couples massage <SEP> positive,The couples massage was both relaxing and rejuvenating ( as it should be ) .,restaurant -> atmosphere,Beauty & Spas,0.6284707188606262
+arg_3_172,relaxing facility <SEP> positive,The facility was relaxing and clean .,restaurant -> atmosphere,Beauty & Spas,0.7351577281951904
+arg_3_173,relaxing massage <SEP> positive,I have been sore lately from working out and she was able to release tension and muscle soreness while still producing a relaxing massage .  ,restaurant -> atmosphere,Beauty & Spas,0.7140188813209534
+arg_3_174,relaxing time <SEP> positive,My daughter and I had a relaxing time !,restaurant -> atmosphere,Beauty & Spas,0.6864960789680481
+arg_3_176,serene massage <SEP> positive,First time getting a massage at this serene and calming spa by the lake !,restaurant -> atmosphere,Beauty & Spas,0.746666669845581
+arg_3_177,sketchy haircut <SEP> negative,"If you 're tired of paying $ 15 - 20 for a sketchy haircut , go check out this place .",restaurant -> atmosphere,Beauty & Spas,0.7669785022735596
+arg_3_179,spot on massage <SEP> positive,The massage was spot on with what I needed .,restaurant -> atmosphere,Beauty & Spas,0.668929398059845
+arg_3_181,strong attention to <SEP> positive,she was so gentle and patient with Liam with a strong attention to detail .,restaurant -> atmosphere,Beauty & Spas,0.8334865570068359
+arg_3_182,strong hands <SEP> positive,They are little ladies with strong hands .,restaurant -> atmosphere,Beauty & Spas,0.6810473799705505
+arg_3_184,super friendly salon <SEP> positive,The salon was super friendly and made me feel very welcome .  ,restaurant -> atmosphere,Beauty & Spas,0.7253163456916809
+arg_3_186,terrific stylist <SEP> positive,I 'm so thrilled after 3 years of searching to find such a terrific stylist in Vegas .  ,restaurant -> atmosphere,Beauty & Spas,0.6168443560600281
+arg_3_189,very clean and comfortable salon <SEP> positive,The salon was very clean and comfortable .,restaurant -> atmosphere,Beauty & Spas,0.7462854385375977
+arg_3_190,very clean establishment <SEP> positive,Very clean establishment .,restaurant -> atmosphere,Beauty & Spas,0.6526839137077332
+arg_3_191,very clean shop <SEP> positive,The shop was also very clean .,restaurant -> atmosphere,Beauty & Spas,0.6800944209098816
+arg_3_192,very clean store <SEP> positive,"The needles and the store was very clean and sanitary , A+ experience !",restaurant -> atmosphere,Beauty & Spas,0.6239223480224609
+arg_3_194,very consistent atmosphere <SEP> positive,The service and atmosphere is very consistent .,restaurant -> atmosphere,Beauty & Spas,0.9221301674842834
+arg_3_195,very cool place <SEP> positive,Very cool place .,restaurant -> atmosphere,Beauty & Spas,0.6291593313217163
+arg_3_197,very friendly haircut <SEP> positive,"I had a haircut and style with Karen and she was very friendly and gave some freshness to my long , layered hair .",restaurant -> atmosphere,Beauty & Spas,0.8022814989089966
+arg_3_198,very gentle hair <SEP> positive,very gentle on your hair & scalp .,restaurant -> atmosphere,Beauty & Spas,0.5824149250984192
+arg_3_199,very good technique <SEP> positive,Its pretty authentic and the technique is very good .,restaurant -> atmosphere,Beauty & Spas,0.7038475275039673
+arg_3_200,very nicely decorated salon <SEP> positive,The salon is also very nicely decorated .,restaurant -> atmosphere,Beauty & Spas,0.7078267335891724
+arg_3_201,very painful experience <SEP> negative,Very painful experience but was worth it .,restaurant -> atmosphere,Beauty & Spas,0.822584331035614
+arg_3_202,very relaxing massage <SEP> positive,The massage was very relaxing and attention was paid to lower back where I have most pain .  ,restaurant -> atmosphere,Beauty & Spas,0.6323416829109192
+arg_3_203,very skilled in massage <SEP> positive,He is very skilled in massage and definitely knows what he is doing .,restaurant -> atmosphere,Beauty & Spas,0.6092500686645508
+arg_3_204,very spacious place <SEP> positive,Very spacious place and not very busy but,restaurant -> atmosphere,Beauty & Spas,0.6612553000450134
+arg_3_206,welcome walk - ins <SEP> positive,Walk - ins are welcome . ),restaurant -> atmosphere,Beauty & Spas,0.7872534990310669
+arg_3_208,wonderful aromatherapy <SEP> positive,The music and aromatherapy was wonderful .,restaurant -> atmosphere,Beauty & Spas,0.5822262167930603
+arg_3_209,wonderful atmosphere <SEP> positive,I love the wonderful atmosphere .  ,restaurant -> atmosphere,Beauty & Spas,0.8358146548271179
+arg_3_210,wonderful couples <SEP> positive,Ping and Lee were great and gave a wonderful couples massage .,restaurant -> atmosphere,Beauty & Spas,0.660780131816864
+arg_3_102,great stylists <SEP> positive,"He 's hip , cool and hires great stylists like Jenn .  ",restaurant -> atmosphere,Beauty & Spas,0.5724006295204163
+arg_3_98,great shop <SEP> positive,This is a great shop .  ,restaurant -> atmosphere,Beauty & Spas,0.5723052024841309
+arg_3_16,appreciated detail <SEP> positive,I went in to get my nails done and I really appreciated the detail that was put into my nails .,restaurant -> atmosphere,Beauty & Spas,0.20770835876464844
+arg_3_18,articulate detail oriented <SEP> positive,"He was helpful , detail oriented and was articulate in telling me exactly what he would be doing or adding to my hair before he would do anything .",restaurant -> atmosphere,Beauty & Spas,0.36824831366539
+arg_3_183,super detail oriented <SEP> positive,Both are super detail oriented which I super appreciate .,restaurant -> atmosphere,Beauty & Spas,0.26828262209892273
+arg_3_13,amazing work <SEP> positive,His work is amazing !,restaurant -> atmosphere,Beauty & Spas,0.3041236996650696
+arg_3_15,appreciate work <SEP> positive,"Allie is a rockstar and not only does , literally , the best work i ve ever had done on my nails , but she works very quickly which i appreciate as someone always on the go ! !",restaurant -> atmosphere,Beauty & Spas,0.35121840238571167
+arg_3_29,beautiful work <SEP> positive,Beautiful work and very reasonable for kids party mani - pedi !,restaurant -> atmosphere,Beauty & Spas,0.5195388793945312
+arg_3_104,great work <SEP> positive,Great work !,restaurant -> atmosphere,Beauty & Spas,0.4698944389820099
+arg_3_153,perfect work <SEP> positive,and they will take their time to make sure their work is perfect,restaurant -> atmosphere,Beauty & Spas,0.3153700530529022
+arg_3_156,phenomenal work <SEP> positive,Their work is phenomenal !   ,restaurant -> atmosphere,Beauty & Spas,0.3152843117713928
+arg_3_196,very detailed work <SEP> positive,The absolute best pedicure ever ( very detailed work ) .,restaurant -> atmosphere,Beauty & Spas,0.2605521082878113
+arg_3_212,wonderful work <SEP> positive,Wonderful work .,restaurant -> atmosphere,Beauty & Spas,0.3568383753299713
+arg_3_1,adorable decor <SEP> positive,The decor is adorable and probably my favorite thing about it ( other than my nails ) .   ,restaurant -> atmosphere,Beauty & Spas,0.1833687424659729
+arg_3_25,beautiful decor <SEP> positive,Beautiful decor all through out .,restaurant -> atmosphere,Beauty & Spas,0.5477474331855774
+arg_3_88,great decor <SEP> positive,"Great decor , they even have coffee ! !  ",restaurant -> atmosphere,Beauty & Spas,0.3170582950115204
+arg_3_121,love decor <SEP> positive,Love the decor and ode to NY sports !,restaurant -> atmosphere,Beauty & Spas,0.5634702444076538
+arg_3_125,loved decor <SEP> positive,I loved every single decor .,restaurant -> atmosphere,Beauty & Spas,0.2780311107635498
+arg_3_52,easily accessible parking <SEP> positive,They take appointments and have easily accessible parking .   ,restaurant -> atmosphere,Beauty & Spas,0.417630672454834
+arg_3_137,never a problem parking <SEP> positive,Parking is never a problem which is something I enjoy about Las Vegas compared to LA .,restaurant -> atmosphere,Beauty & Spas,0.4029446542263031
+arg_3_188,underground parking <SEP> positive,There is underground parking,restaurant -> atmosphere,Beauty & Spas,0.1813056766986847
+arg_3_26,beautiful environment <SEP> positive,"Beautiful environment , with the natural light in the hot tub area .",restaurant -> atmosphere,Beauty & Spas,0.4541296362876892
+arg_3_38,clean and friendly environment <SEP> positive,Would highly recommend this clean and friendly environment to everyone .,restaurant -> atmosphere,Beauty & Spas,0.41788843274116516
+arg_3_40,clean environment <SEP> positive,Two stars for ease of scheduling and clean environment .,restaurant -> atmosphere,Beauty & Spas,0.37774670124053955
+arg_3_43,comfortable environment <SEP> positive,"It 's a very classy , professional and comfortable environment all the way around .",restaurant -> atmosphere,Beauty & Spas,0.5404037237167358
+arg_3_46,cool environment <SEP> positive,Cool environment .,restaurant -> atmosphere,Beauty & Spas,0.2593155801296234
+arg_3_62,family friendly environment <SEP> positive,"Clean , no profanity , professional and family friendly environment .  ",restaurant -> atmosphere,Beauty & Spas,0.4459807872772217
+arg_3_64,fantastic environment <SEP> positive,The environment at Sam 's was fantastic .,restaurant -> atmosphere,Beauty & Spas,0.4276837408542633
+arg_3_70,fun environment <SEP> positive,It 's a fun environment especially when it 's time to relax .,restaurant -> atmosphere,Beauty & Spas,0.2388361245393753
+arg_3_76,good environment <SEP> positive,Good environment .,restaurant -> atmosphere,Beauty & Spas,0.36273086071014404
+arg_3_100,great style <SEP> positive,Great cut and style .,restaurant -> atmosphere,Beauty & Spas,0.5704471468925476
+arg_3_171,relaxing environment <SEP> positive,The environment is relaxing but invigorating .  ,restaurant -> atmosphere,Beauty & Spas,0.39443185925483704
+arg_3_187,total professional family environment <SEP> positive,Total professional family environment .,restaurant -> atmosphere,Beauty & Spas,0.25208696722984314
+arg_3_193,very comfortable environment <SEP> positive,"I was very comfortable with the environment and staff , including my barber .",restaurant -> atmosphere,Beauty & Spas,0.5066379308700562
+arg_3_207,wonderful and friendly environment <SEP> positive,What a wonderful and friendly environment they have .,restaurant -> atmosphere,Beauty & Spas,0.493532657623291
+arg_3_7,amazing massage <SEP> positive,Amazing massage .,restaurant -> atmosphere,Beauty & Spas,0.3790193498134613
+arg_3_21,awesome couples massage <SEP> positive,The ladies that gave us the couples massage were awesome .,restaurant -> atmosphere,Beauty & Spas,0.3871476948261261
+arg_3_22,awesome massage <SEP> positive,Had my first massage here yesterday and it was awesome ! !,restaurant -> atmosphere,Beauty & Spas,0.4035928547382355
+arg_3_23,basic couples massage <SEP> positive,Just got a basic couples massage and loved it .  ,restaurant -> atmosphere,Beauty & Spas,0.323142945766449
+arg_3_48,cozy place <SEP> positive,"What a nice , cozy place .  ",restaurant -> atmosphere,Beauty & Spas,0.5695668458938599
+arg_3_53,enjoy massage <SEP> positive,and I would really enjoy the couple 's massage !,restaurant -> atmosphere,Beauty & Spas,0.34624621272087097
+arg_3_54,enjoyed massage <SEP> positive,"With that said , I REALLY enjoyed my massage a lot and would highly recommend it .  ",restaurant -> atmosphere,Beauty & Spas,0.3846544027328491
+arg_3_71,gentle tech <SEP> positive,The tech was gentle and talked me through the process .,restaurant -> atmosphere,Beauty & Spas,0.5647937655448914
+arg_3_87,great couples massage <SEP> positive,Great couples massage .  ,restaurant -> atmosphere,Beauty & Spas,0.42967694997787476
+arg_3_93,great massage <SEP> positive,"My massage therapist Chris Mahana did a great job getting rid of the tension and knots I had in my neck , shoulder , and lower back area .",restaurant -> atmosphere,Beauty & Spas,0.36451682448387146
+arg_3_94,great massage therapist <SEP> positive,My husband 's massage therapist was great too,restaurant -> atmosphere,Beauty & Spas,0.4890314042568207
+arg_3_99,great spot <SEP> positive,Great spot for a perfect cut .,restaurant -> atmosphere,Beauty & Spas,0.5703259110450745
+arg_3_105,greatest salon experiences <SEP> positive,By far one of the greatest salon experiences I 've ever had .,restaurant -> atmosphere,Beauty & Spas,0.5655079483985901
+arg_3_116,incredible massage <SEP> positive,"Incredible massage with the pedi , too !",restaurant -> atmosphere,Beauty & Spas,0.3621891438961029
+arg_3_117,incredibly peaceful facial massage <SEP> positive,She stared with a facial massage that was incredibly peaceful .,restaurant -> atmosphere,Beauty & Spas,0.3883136212825775
+arg_3_123,love private changing chambers <SEP> positive,I love the private changing chambers .  ,restaurant -> atmosphere,Beauty & Spas,0.568945586681366
+arg_3_146,old fashion barber shop <SEP> negative,Old fashion barber shop with consummate professionals doing justice to their craft .  ,restaurant -> atmosphere,Beauty & Spas,0.5680139660835266
+arg_3_147,out of this world details <SEP> positive,The attention to details is just out of this world .,restaurant -> atmosphere,Beauty & Spas,0.5693020224571228
+arg_3_148,out of this world massage <SEP> positive,My massage was out of this world .,restaurant -> atmosphere,Beauty & Spas,0.25929906964302063
+arg_3_154,phenomenal color <SEP> positive,The color was phenomenal .,restaurant -> atmosphere,Beauty & Spas,0.5652047991752625
+arg_3_158,pleasant surprise massage <SEP> positive,My massage was such a pleasant surprise .  ,restaurant -> atmosphere,Beauty & Spas,0.27374356985092163
+arg_3_175,right style <SEP> positive,"James quickly came up with a style that was right for my type of hair , the shape of my face , my age , etc .",restaurant -> atmosphere,Beauty & Spas,0.5691017508506775
+arg_3_178,spectacular massage <SEP> positive,"This time , I had a regular 50 minute massage which was spectacular as well .",restaurant -> atmosphere,Beauty & Spas,0.38240599632263184
+arg_3_180,strictly massage <SEP> positive,"Clean , single room service and strictly massage .",restaurant -> atmosphere,Beauty & Spas,0.3916005492210388
+arg_3_185,super simple design <SEP> positive,"We knew what we wanted , super simple design .",restaurant -> atmosphere,Beauty & Spas,0.5667937397956848
+arg_3_205,welcome salon <SEP> positive,"The salon has a welcome , relaxing and fresh vibe .  ",restaurant -> atmosphere,Beauty & Spas,0.5703942775726318
+arg_3_211,wonderful massage <SEP> positive,I had a wonderful massage today from Kori .,restaurant -> atmosphere,Beauty & Spas,0.3786792755126953
+arg_4_2,above and beyond customer service <SEP> positive,"First off , the greeting and level of customer service was above and beyond .",staff,Beauty & Spas,0.6696858406066895
+arg_4_3,absolute professional <SEP> positive,He is an absolute professional !,staff,Beauty & Spas,0.36057746410369873
+arg_4_5,affordable nail salons <SEP> positive,It is one of the more affordable nail salons in the Tempe area and it is so clean !,staff,Beauty & Spas,0.5539272427558899
+arg_4_8,always calm and accommodating rick <SEP> positive,Rick is always calm and accommodating .  ,staff,Beauty & Spas,0.5146946310997009
+arg_4_10,always great staff <SEP> positive,The staff is always great .,staff,Beauty & Spas,0.5315534472465515
+arg_4_11,always on point staff <SEP> positive,"The staff is always on point , professional , and always super friendly .",staff,Beauty & Spas,0.8903016448020935
+arg_4_13,always professional and knowledgeable lindsay <SEP> positive,Lindsay is always professional and knowledgeable .,staff,Beauty & Spas,0.5398141741752625
+arg_4_16,amazing amanda <SEP> positive,and Amanda is amazing .,staff,Beauty & Spas,0.7492417097091675
+arg_4_18,amazing deals <SEP> positive,I still get their amazing deals / emails and it makes me so sad haha,staff,Beauty & Spas,0.544369101524353
+arg_4_19,amazing massage therapist <SEP> positive,The massage therapist was amazing !  ,staff,Beauty & Spas,0.5287652611732483
+arg_4_20,amazing master artist <SEP> positive,My new Master Artist is just as amazing and I am so happy I decided to go with Cherry Lash for my extensions .,staff,Beauty & Spas,0.9409081339836121
+arg_4_23,amazing staff <SEP> positive,The whole staff is amazing !  ,staff,Beauty & Spas,0.7092705965042114
+arg_4_24,amazing therapist <SEP> positive,My therapist was Tara and she was amazing .,staff,Beauty & Spas,0.5911457538604736
+arg_4_29,awesome customer service <SEP> positive,The customer service was awesome .,staff,Beauty & Spas,0.8021121621131897
+arg_4_33,best barber shop <SEP> positive,Have to say they are the best barber shop in the valley !,staff,Beauty & Spas,0.6266987323760986
+arg_4_34,best customer service <SEP> positive,She have delivered the best customer service that I 've ever had .,staff,Beauty & Spas,0.5413256287574768
+arg_4_35,best massage therapist <SEP> positive,I 've gone to other places but hands down the best massage therapist in town !,staff,Beauty & Spas,0.7213882207870483
+arg_4_36,best owner <SEP> positive,"Elliott , the owner , is the absolute best !",staff,Beauty & Spas,0.6210586428642273
+arg_4_38,better service <SEP> negative,"Would have had better service at Great Clips , for God 's sake .",staff,Beauty & Spas,0.5674482583999634
+arg_4_39,better services <SEP> positive,The prices and availability of all services are better than inflated casino and strip sites .  ,staff,Beauty & Spas,0.608029305934906
+arg_4_40,better staff <SEP> positive,"The staff are even better ; always welcoming , greeting me by name not as just a regular but",staff,Beauty & Spas,0.6288082003593445
+arg_4_41,beyond happy service <SEP> positive,Today my boyfriend was booked with Chris and was beyond happy with the service he received .,staff,Beauty & Spas,0.5505685806274414
+arg_4_42,borderline technicians <SEP> negative,The technicians were borderline surly and mine seemed irritated which is nifty when she was jabbing at my toes .,staff,Beauty & Spas,0.61175137758255
+arg_4_43,brand new stores <SEP> positive,Brand new stores like Michael Kors and Victoria 's Secret- coming soon ! !,staff,Beauty & Spas,0.6573397517204285
+arg_4_44,catty customers <SEP> negative,The only turn - off was the line of catty customers waiting in line when you first walk in .,staff,Beauty & Spas,0.7102815508842468
+arg_4_45,clean designed store <SEP> positive,The store is clean designed .,staff,Beauty & Spas,0.7149600386619568
+arg_4_49,could n't be happier professionalism <SEP> negative,I could n't be happier with Billy 's professionalism and artistic talent .,staff,Beauty & Spas,0.5845342874526978
+arg_4_50,delightful staff <SEP> positive,"Staff : delightful , friendly , helpful , and patient   Location : near the strip",staff,Beauty & Spas,0.6951138973236084
+arg_4_56,extremely accommodating owner <SEP> positive,The owner Shauna is just a text away & she 's extremely accommodating and friendly .,staff,Beauty & Spas,0.5160629153251648
+arg_4_57,extremely friendly and accommodating staff <SEP> positive,The staff was extremely friendly and accommodating .,staff,Beauty & Spas,0.601560115814209
+arg_4_59,extremely friendly staff <SEP> positive,The staff is extremely friendly .,staff,Beauty & Spas,0.7787590026855469
+arg_4_62,familiar chain stores <SEP> negative,Lots of familiar chain stores .,staff,Beauty & Spas,0.7578055262565613
+arg_4_64,fantastic technician <SEP> positive,My technician was Edna and she was fantastic !,staff,Beauty & Spas,0.9132930636405945
+arg_4_65,fast and efficient employees <SEP> positive,It 's quiet and the employees are very fast and efficient .,staff,Beauty & Spas,0.643688440322876
+arg_4_66,favorite service <SEP> positive,My favorite service is facials .  ,staff,Beauty & Spas,0.6181880831718445
+arg_4_68,friendly and outgoing staff <SEP> positive,Staff is friendly and outgoing .,staff,Beauty & Spas,0.7144932746887207
+arg_4_70,friendly barber <SEP> positive,Barber was friendly and seemed like he knew what he was doing .,staff,Beauty & Spas,0.8380519151687622
+arg_4_71,friendly customer service <SEP> positive,I received friendly & welcoming customer service from the host & even better service from Lauren .,staff,Beauty & Spas,0.7427253723144531
+arg_4_72,friendly everyone <SEP> positive,", it was busy and everyone was friendly .  ",staff,Beauty & Spas,0.5934430956840515
+arg_4_73,friendly hello <SEP> positive,Upon walking in I am always greeted with a friendly hello and offer of water or coffee .,staff,Beauty & Spas,0.7131341695785522
+arg_4_74,friendly receptionist <SEP> positive,Friendly receptionist !,staff,Beauty & Spas,0.5472944974899292
+arg_4_75,friendly staff <SEP> positive,Friendly staff willing to guide you through the process .  ,staff,Beauty & Spas,0.5469220280647278
+arg_4_76,friendy everyone <SEP> positive,"Everyone was friendy , and I was very comfortable .",staff,Beauty & Spas,0.7614896297454834
+arg_4_77,fun staff <SEP> positive,"The staff is fun , friendly and talkative .",staff,Beauty & Spas,0.6009649634361267
+arg_4_79,good care <SEP> positive,He took good care of us !,staff,Beauty & Spas,0.7627500295639038
+arg_4_80,good offers <SEP> positive,They have good offers and discounts .,staff,Beauty & Spas,0.5538801550865173
+arg_4_83,great costumer service <SEP> positive,Great costumer service ! very friendly and fun to talk with ! definitely recommend !,staff,Beauty & Spas,0.5660341382026672
+arg_4_84,great customer <SEP> positive,It really helped me out a lot with my muscles that were tighten and help detox me as well ... try it out here its great and worth it ... great customer service ....,staff,Beauty & Spas,0.5311422348022461
+arg_4_88,great little nail salon <SEP> positive,Great little nail salon !,staff,Beauty & Spas,0.5145429372787476
+arg_4_90,great receptionist <SEP> positive,The receptionist was great also .,staff,Beauty & Spas,0.6769008040428162
+arg_4_91,great staff <SEP> positive,Staff is great .,staff,Beauty & Spas,0.606595516204834
+arg_4_92,great therapists <SEP> positive,Great therapists .  ,staff,Beauty & Spas,0.5878739356994629
+arg_4_93,great visit <SEP> positive,I Had a Great Visit !  ,staff,Beauty & Spas,0.6196823716163635
+arg_4_96,happy staff <SEP> positive,"I am so happy with Shauna and her staff , they always make me look beautiful .",staff,Beauty & Spas,0.7278128266334534
+arg_4_97,helpful and polite everyone <SEP> positive,Everyone seemed helpful and polite .  ,staff,Beauty & Spas,0.6296869516372681
+arg_4_99,hilarious staff <SEP> positive,The staff are hilarious and wonderful with the kids .,staff,Beauty & Spas,0.5821115374565125
+arg_4_100,horrible service <SEP> negative,"That 's of course , if you can get past the horrible service .",staff,Beauty & Spas,0.6814445853233337
+arg_4_103,impressed services <SEP> positive,"They did n't try to push their membership on us at all , in fact , we proactively took the initiative to ask because we were so impressed with our services and experience and also signed up !",staff,Beauty & Spas,0.7029086947441101
+arg_4_105,incredible massage therapist <SEP> positive,"My massage therapist , Jose , is incredible !",staff,Beauty & Spas,0.6361289024353027
+arg_4_107,incredibly friendly staff <SEP> positive,The staff at this location are also incredibly friendly and helpful-,staff,Beauty & Spas,0.6533331274986267
+arg_4_110,informative lash professionals <SEP> positive,Their trained lash professionals are informative and make their clients feel comfortable .,staff,Beauty & Spas,0.5415633916854858
+arg_4_111,informed guy <SEP> positive,and he 's a very easy going and informed guy .    ,staff,Beauty & Spas,0.6161899566650391
+arg_4_112,insane amounts hairdresser <SEP> negative,I am a hairdresser and my neck and shoulders are always so tight and in insane amounts of pain .,staff,Beauty & Spas,0.7204936146736145
+arg_4_113,intuitive technician <SEP> negative,My technician was intuitive and sensitive .,staff,Beauty & Spas,0.5423709154129028
+arg_4_114,killer technique <SEP> positive,"she was awesome at keeping me distracted and talking , and her technique is killer .",staff,Beauty & Spas,0.560257077217102
+arg_4_115,kind and cheerful employees <SEP> positive,The employees are so kind and cheerful it made us feel so welcome .,staff,Beauty & Spas,0.5707403421401978
+arg_4_116,kind everyone <SEP> positive,"Everyone was so kind , enjoyable , and absolutely fun .",staff,Beauty & Spas,0.7030611038208008
+arg_4_117,kind staff <SEP> positive,"Although I had to pay for two haircuts , Great Clips was $ 5 cheaper , had online check in , and a kind staff .   ",staff,Beauty & Spas,0.6209951639175415
+arg_4_118,leah massage therapist <SEP> positive,"My massage therapist was Leah , and she does a wonderful job .",staff,Beauty & Spas,0.6035813689231873
+arg_4_122,lovely owners <SEP> positive,The owners here are lovely .,staff,Beauty & Spas,0.5564166307449341
+arg_4_124,missing employees <SEP> negative,Jerry explained to me the wait and the reason they had missing employees and asked me if I could return at a later time .,staff,Beauty & Spas,0.5194365382194519
+arg_4_126,most experienced experts <SEP> positive,And other than the dr in Los Angeles who I see sometimes ( but REALLY expensive ) this is the only place ill trust and have the most experienced experts .,staff,Beauty & Spas,0.57610684633255
+arg_4_127,never rushed appointment <SEP> positive,"They always get me in , and the appointment is never rushed .",staff,Beauty & Spas,0.7186187505722046
+arg_4_128,new barber shop <SEP> positive,"The barber shop was new , clean and very professional .   ",staff,Beauty & Spas,0.6103335022926331
+arg_4_129,nice and friendly everyone <SEP> positive,Everyone is nice and friendly .,staff,Beauty & Spas,0.5970367789268494
+arg_4_130,nice barber shop <SEP> positive,"Then walked into a nice , clean barber shop .",staff,Beauty & Spas,0.6911557912826538
+arg_4_131,nice enough girl <SEP> positive,"Nice enough girl , but $ 245 for   a haircut and color utterly ridiculous .  ",staff,Beauty & Spas,0.5360695123672485
+arg_4_132,nice everyone <SEP> positive,Everyone was nice and welcoming .,staff,Beauty & Spas,0.5524511933326721
+arg_4_135,nice person <SEP> positive,What a nice person .,staff,Beauty & Spas,0.5373795032501221
+arg_4_136,nice receptionist <SEP> positive,The receptionist is nice in person and on the phone .,staff,Beauty & Spas,0.6399878859519958
+arg_4_137,nice services <SEP> positive,Dolce does a nice job of coordinating all their different services under one roof .,staff,Beauty & Spas,0.7386139035224915
+arg_4_139,older lady <SEP> negative,"but she was an older lady , dark hair in a pony tail .",staff,Beauty & Spas,0.7050215005874634
+arg_4_141,outstanding customer <SEP> positive,They have outstanding customer service from front desk to lash artists .  ,staff,Beauty & Spas,0.549085259437561
+arg_4_143,personable nails <SEP> positive,Diem did a great job on my nails and was so nice and personable .,staff,Beauty & Spas,0.6031407117843628
+arg_4_144,personable owner <SEP> positive,Steve ( owner ) is so personable and nice !,staff,Beauty & Spas,0.7292103171348572
+arg_4_149,polite staff <SEP> positive,Jessica and her staff are polite and accommodating .  ,staff,Beauty & Spas,0.7335847020149231
+arg_4_150,pretty nice staff <SEP> positive,It 's always nice and clean and the staff has been pretty nice so far .,staff,Beauty & Spas,0.6286541223526001
+arg_4_152,professional artist <SEP> positive,Every artist is professional and does great work !,staff,Beauty & Spas,0.6774294972419739
+arg_4_155,professional technicians <SEP> positive,Its technicians are professional and take care of each customer 's need .,staff,Beauty & Spas,0.5679176449775696
+arg_4_156,quick appointment <SEP> positive,She made the whole appointment quick and painless .  ,staff,Beauty & Spas,0.5372353196144104
+arg_4_157,quintessential purveyor <SEP> positive,Joseph is a quintessential purveyor of the trade and he is the go - to guy .  ,staff,Beauty & Spas,0.7110270261764526
+arg_4_158,rarely gets used full appointment time <SEP> positive,The full appointment time rarely gets used,staff,Beauty & Spas,0.7051074504852295
+arg_4_160,really friendly everyone <SEP> positive,Everyone was really friendly and even though I was running late they worked with me to still accommodate me .,staff,Beauty & Spas,0.5848495364189148
+arg_4_161,really friendly front desk staff <SEP> positive,"Really friendly front desk staff , was offered coffee or water while I waited which was only like 2 minutes .  ",staff,Beauty & Spas,0.7420212030410767
+arg_4_164,really inviting nice people <SEP> positive,"Can not complain , they were really inviting nice people !",staff,Beauty & Spas,0.5407879948616028
+arg_4_165,really nice employees <SEP> positive,$ 35 for mani pedi and the employees are really nice !,staff,Beauty & Spas,0.6258666515350342
+arg_4_166,really nice everyone <SEP> positive,I forgot to grab names but everyone there was really nice and welcoming .,staff,Beauty & Spas,0.5109379291534424
+arg_4_168,really sweet staff <SEP> positive,Lots of colors and the staff is really sweet .,staff,Beauty & Spas,0.8169656991958618
+arg_4_171,seriously plus crew <SEP> positive,Well the whole crew was seriously plus the salon .,staff,Beauty & Spas,0.726443350315094
+arg_4_173,so concerned about perfecting style <SEP> positive,Ary is such a professional and is so concerned about perfecting the style .  ,staff,Beauty & Spas,0.5623267889022827
+arg_4_177,super easy appointment <SEP> positive,"Also , making an appointment is super easy .",staff,Beauty & Spas,0.6108198761940002
+arg_4_179,super friendly everyone <SEP> positive,Everyone is super friendly !,staff,Beauty & Spas,0.7368493676185608
+arg_4_180,super friendly person <SEP> positive,she is such a amazing person super friendly and she help so much to my new idea for my hair cut,staff,Beauty & Spas,0.8198820352554321
+arg_4_182,super friendly staff <SEP> positive,The staff is super friendly and talkative .,staff,Beauty & Spas,0.6160526871681213
+arg_4_185,super patient stylist <SEP> positive,Even though he screamed and cried the entire time the stylist was super patient and gentle !,staff,Beauty & Spas,0.5402586460113525
+arg_4_187,superior service <SEP> positive,The service is superior and my hair always looks great after coming here .,staff,Beauty & Spas,0.815350353717804
+arg_4_188,sweet guy <SEP> positive,Kelly is a sweet guy with great taste .  ,staff,Beauty & Spas,0.7863842844963074
+arg_4_189,sweet ladies <SEP> positive,Sweet ladies here !,staff,Beauty & Spas,0.6428942084312439
+arg_4_190,talented guy <SEP> positive,"The guy is talented , genuine , and the real deal .",staff,Beauty & Spas,0.5719221830368042
+arg_4_192,timely everything <SEP> positive,First of all everything was timely,staff,Beauty & Spas,0.5229929089546204
+arg_4_193,top service <SEP> positive,Clean and top service ! ! !,staff,Beauty & Spas,0.5177107453346252
+arg_4_194,true master artist <SEP> positive,Jasmine is a true master artist and it shows in her work .  ,staff,Beauty & Spas,0.5420998930931091
+arg_4_195,true professional <SEP> positive,She 's friendly and a true professional .,staff,Beauty & Spas,0.4057493507862091
+arg_4_197,unprofessionalism hair cut <SEP> negative,The woman who cut my son 's hair had zero patience with him and his hair cut reflected her overall unprofessionalism .  ,staff,Beauty & Spas,0.6633133292198181
+arg_4_200,very accomodating staff <SEP> positive,All of the staff was very accomodating and made me feel like I was the only the customer in the salon .  ,staff,Beauty & Spas,0.6168451905250549
+arg_4_201,very approachable chris <SEP> positive,Chris was very approachable & professional .  ,staff,Beauty & Spas,0.5860390067100525
+arg_4_202,very approachable workers <SEP> positive,"Love the workers here , they 're very approachable .",staff,Beauty & Spas,0.7632167935371399
+arg_4_203,very attentive stylist <SEP> positive,When I first started going here it was definitely a 4 - 4 . 5 star my stylist was very attentive,staff,Beauty & Spas,0.5318303108215332
+arg_4_204,very courteous and polite everyone <SEP> positive,Everyone is very courteous and polite .  ,staff,Beauty & Spas,0.7173932790756226
+arg_4_205,very customer service orientated <SEP> positive,Kevin is the best and is very customer service orientated .,staff,Beauty & Spas,0.5230956077575684
+arg_4_206,very fair services <SEP> positive,The cost for the services received is very fair .,staff,Beauty & Spas,0.7839478850364685
+arg_4_207,very friendly and accommodating everyone <SEP> positive,Everyone is very friendly and accommodating .,staff,Beauty & Spas,0.5474832057952881
+arg_4_210,very friendly and staff <SEP> positive,She and the entire staff is very friendly and helpful .  ,staff,Beauty & Spas,0.5216516852378845
+arg_4_213,very friendly staff <SEP> positive,James and his wife and staff are very friendly and make you feel right at home during your appointment .  ,staff,Beauty & Spas,0.5778146386146545
+arg_4_214,very gentle on technician <SEP> positive,My technician was very gentle on my toe cuticles and really took her time .,staff,Beauty & Spas,0.7030250430107117
+arg_4_219,very happy customer <SEP> positive,I am a Very Happy Customer and definitely plan to come back : ) ) ) ) ),staff,Beauty & Spas,0.5977959632873535
+arg_4_220,very helpful and friendly <SEP> positive,And She Was Very Helpful And Friendly !,staff,Beauty & Spas,0.5667158365249634
+arg_4_224,very knowledgeable staff <SEP> positive,All of the staff is very knowledgeable and extremely helpful .,staff,Beauty & Spas,0.5776063799858093
+arg_4_226,very nice and friendly people <SEP> positive,People very nice and friendly .,staff,Beauty & Spas,0.5409806370735168
+arg_4_227,very nice and pleasant owner <SEP> positive,Very nice and pleasant owner and staff .,staff,Beauty & Spas,0.5374153256416321
+arg_4_228,very nice everyone <SEP> positive,everyone 's very nice !,staff,Beauty & Spas,0.8246746063232422
+arg_4_230,very nice helpful <SEP> positive,Very nice helpful and happy to get the job done short notice !,staff,Beauty & Spas,0.5879137516021729
+arg_4_231,very nice owner <SEP> positive,"Very professional and the owner , Sam was very nice too .",staff,Beauty & Spas,0.5129527449607849
+arg_4_234,very nice technicians <SEP> positive,Very nice technicians .,staff,Beauty & Spas,0.5677416920661926
+arg_4_235,very patient kids <SEP> positive,Very patient with the kids .,staff,Beauty & Spas,0.5136339664459229
+arg_4_237,very pleasant lady <SEP> positive,It was just fine and the lady who did her hair was very pleasant .,staff,Beauty & Spas,0.7740854620933533
+arg_4_239,very pleasant staffs <SEP> positive,"The staffs were very pleasant especially the lady who did the massage ( sorry , forgot her name but starts with J. I think ) .",staff,Beauty & Spas,0.7946766018867493
+arg_4_241,very professional <SEP> positive,Very professional very clean great atmosphere !  ,staff,Beauty & Spas,0.438859224319458
+arg_4_242,very professional and friendly employees <SEP> positive,The employees were all very professional and friendly .,staff,Beauty & Spas,0.9327764511108398
+arg_4_243,very professional employees <SEP> positive,Employees are very professional and customer based .,staff,Beauty & Spas,0.7623901963233948
+arg_4_244,very professionally run spa <SEP> negative,This spa is very professionally run .  ,staff,Beauty & Spas,0.5497520565986633
+arg_4_245,very prompt & friendly service <SEP> positive,Service was very prompt & friendly .,staff,Beauty & Spas,0.702854335308075
+arg_4_246,very shop <SEP> positive,The shop is very clean and professional but also trendy and cute .,staff,Beauty & Spas,0.5735470652580261
+arg_4_247,very sweet carla <SEP> positive,Carla is very sweet and attentive to both my kids .,staff,Beauty & Spas,0.6617628931999207
+arg_4_249,very therapist <SEP> positive,"Abigail was my therapist , and she was very attentive to my needs and tension areas .",staff,Beauty & Spas,0.7267122864723206
+arg_4_250,very welcoming and sweet front desk gal <SEP> positive,Front desk gal was very welcoming and sweet .,staff,Beauty & Spas,0.7958661317825317
+arg_4_251,was stylist <SEP> positive,"The stylist , Kaitlyn ,   was friendly .  ",staff,Beauty & Spas,0.5422093868255615
+arg_4_252,welcoming girls <SEP> positive,Every time I come in the girls are so friendly and welcoming .,staff,Beauty & Spas,0.5159249305725098
+arg_4_253,welcoming staff <SEP> positive,The staff was welcoming and nice .,staff,Beauty & Spas,0.5198006629943848
+arg_4_254,well known brand stores <SEP> positive,"Inside the mall , you 'll find many well known brand stores to shop your hearts out .  ",staff,Beauty & Spas,0.5722594261169434
+arg_4_255,well organized staff <SEP> positive,Well organized staff !,staff,Beauty & Spas,0.7926945686340332
+arg_4_258,wide variety of services <SEP> positive,"They offer a wide variety of services , have a ton of polish choices , and they use liners in their tubs .",staff,Beauty & Spas,0.6083885431289673
+arg_4_259,wonderful amanda <SEP> positive,Amanda was wonderful !  ,staff,Beauty & Spas,0.6582944393157959
+arg_4_54,excellent service <SEP> positive,The service by Barbra and April was excellent .  ,staff,Beauty & Spas,0.5096679329872131
+arg_4_94,happy friendly staff <SEP> positive,Happy friendly staff ...,staff,Beauty & Spas,0.5082789063453674
+arg_4_169,remarkable service <SEP> positive,So happy with my blood red nails and toes and Jessica 's remarkable service ! !,staff,Beauty & Spas,0.5081044435501099
+arg_4_89,great old school barber shop <SEP> positive,Great old school barber shop that does the straight razor finish .,staff,Beauty & Spas,0.1920376420021057
+arg_4_101,immaculate shop <SEP> positive,Shop is immaculate .,staff,Beauty & Spas,0.19968469440937042
+arg_4_181,super friendly shop <SEP> positive,The shop is super friendly too .,staff,Beauty & Spas,0.4706054627895355
+arg_4_208,very friendly and easy going staff <SEP> positive,Very friendly and easy going staff .  ,staff,Beauty & Spas,0.5056573152542114
+arg_4_212,very friendly shop <SEP> positive,The atmosphere in the shop is very friendly .  ,staff,Beauty & Spas,0.2920135259628296
+arg_4_1,a+ customer service <SEP> positive,Customer service was A+ .. from booking the appointment to checking in .,staff,Beauty & Spas,0.4873516857624054
+arg_4_7,always bringing products <SEP> positive,Steven and Riley are outstanding and are always bringing new products into the salon .,staff,Beauty & Spas,0.5049871206283569
+arg_4_15,always understood staff <SEP> positive,Staff has always understood my hair cut requests with one exception ( so I 'm more detailed now ) .,staff,Beauty & Spas,0.5039581060409546
+arg_4_17,amazing customer service <SEP> positive,Thank you so much for the amazing customer service .,staff,Beauty & Spas,0.33034810423851013
+arg_4_27,attentive everyone <SEP> positive,"Everyone here is attentive , skilled and knowledgeable !  ",staff,Beauty & Spas,0.5027210116386414
+arg_4_86,great customer service skill <SEP> positive,"Michelle took care of me , she was very pleasant and friendly , and have a great customer service skill .",staff,Beauty & Spas,0.2501066029071808
+arg_4_104,incredible customer service <SEP> positive,"Also , the customer service is incredible .  ",staff,Beauty & Spas,0.2550806701183319
+arg_4_109,incredibly nice staff <SEP> positive,The staff is so incredibly nice and they all know what they are doing .,staff,Beauty & Spas,0.49151453375816345
+arg_4_140,out of this world customer service <SEP> positive,Their customer service is out of this world ...,staff,Beauty & Spas,0.49603837728500366
+arg_4_142,overpriced salon again <SEP> negative,I will never return to the overpriced salon again .,staff,Beauty & Spas,0.4864412248134613
+arg_4_216,very good customer service <SEP> positive,The customer service is very good .,staff,Beauty & Spas,0.37673503160476685
+arg_4_236,very personable staff <SEP> positive,Jerry was so nice and the rest of the staff were very personable .,staff,Beauty & Spas,0.4878208339214325
+arg_4_248,very team oriented salon <SEP> positive,"For one this salon is very team oriented , so I got a everyone is friends and family vibe .",staff,Beauty & Spas,0.4996834695339203
+arg_4_256,well treated <SEP> positive,I will never forget how well we were treated .,staff,Beauty & Spas,0.5001755952835083
+arg_4_260,wonderful customer service <SEP> positive,Thank you all for the wonderful customer service .,staff,Beauty & Spas,0.5019552707672119
+arg_4_53,excellent customer service <SEP> positive,"They are very professional , and the customer service here is excellent .",staff,Beauty & Spas,0.32525691390037537
+arg_4_63,fantastic customer service <SEP> positive,"Customer service fantastic , I got what   I wanted , simple but vegasy .",staff,Beauty & Spas,0.43031230568885803
+arg_4_85,great customer service <SEP> positive,"Also , an amazing cut and great customer service from him and his brother ( Sam ? ) .",staff,Beauty & Spas,0.42379772663116455
+arg_4_4,adorable staff <SEP> positive,Such an adorable staff .,staff,Beauty & Spas,0.3534579277038574
+arg_4_6,always been nice and welcoming staff <SEP> positive,The staff has always been nice and welcoming .,staff,Beauty & Spas,0.33431825041770935
+arg_4_12,always plenty of staff <SEP> positive,There is always plenty of staff .,staff,Beauty & Spas,0.3141380548477173
+arg_4_14,always staff <SEP> positive,The staff is always very nice and knowledgable !,staff,Beauty & Spas,0.3358640670776367
+arg_4_26,appreciated staff <SEP> positive,The whole staff makes you feel very welcome and appreciated .,staff,Beauty & Spas,0.27261513471603394
+arg_4_31,awesome staff <SEP> positive,"Amber is awesome , as are all of the staff .",staff,Beauty & Spas,0.2746603190898895
+arg_4_32,beautiful girl <SEP> positive,"She is an amazingly talented , super sweet , kind , and beautiful girl !",staff,Beauty & Spas,0.4750727117061615
+arg_4_60,extremely nice everyone <SEP> positive,Everyone there is so extremely nice but in a truly authentic way .,staff,Beauty & Spas,0.47110432386398315
+arg_4_61,fabulous owner <SEP> positive,"Rick , the owner , is fabulous !",staff,Beauty & Spas,0.47914499044418335
+arg_4_69,friendly and staff <SEP> positive,The staff was friendly and helpful .,staff,Beauty & Spas,0.47785189747810364
+arg_4_78,generous salon staff <SEP> positive,"His salon staff is generous , courteous and generates a positive energy .",staff,Beauty & Spas,0.404153048992157
+arg_4_102,impeccable service <SEP> positive,"I have been to quite a few high - end spas , but this one was breathtakingly gorgeous and the service was impeccable .    ",staff,Beauty & Spas,0.47818323969841003
+arg_4_106,incredible staff <SEP> positive,The staff is incredible .,staff,Beauty & Spas,0.44743070006370544
+arg_4_108,incredibly helpful and willing staff members <SEP> positive,The staff members are incredibly helpful and willing to go above and beyond .,staff,Beauty & Spas,0.44396597146987915
+arg_4_120,love services <SEP> positive,I 've gotten a variety of services here which I love but the girls working that front desk do not make me want to come back .,staff,Beauty & Spas,0.4711901545524597
+arg_4_121,love staff <SEP> positive,I love the staff !,staff,Beauty & Spas,0.41847285628318787
+arg_4_134,nice ladies <SEP> positive,The ladies we 're nice !,staff,Beauty & Spas,0.47672340273857117
+arg_4_138,nice staff <SEP> positive,"Staff was nice and upfront , but ca n't get past the sticker shock .",staff,Beauty & Spas,0.46938246488571167
+arg_4_147,plesant staff <SEP> positive,Plesant staff .,staff,Beauty & Spas,0.26282161474227905
+arg_4_154,professional staff <SEP> positive,"We found the staff to be professional , friendly , knowledgeable , and very talented .",staff,Beauty & Spas,0.4432879686355591
+arg_4_159,really friendly and nice cashier <SEP> positive,The guy at the register greeted us right away and the cashier was really friendly and nice and had kickass Miyazaki tats .,staff,Beauty & Spas,0.48531198501586914
+arg_4_162,really friendly staff <SEP> positive,all the staff were really friendly above and beyond the usual required levels .,staff,Beauty & Spas,0.4038211405277252
+arg_4_163,really great staff <SEP> positive,Service and staff are really great .,staff,Beauty & Spas,0.26892027258872986
+arg_4_167,really nice staff <SEP> positive,The whole staff is really nice .,staff,Beauty & Spas,0.18694336712360382
+arg_4_172,skilled manicurist <SEP> positive,jay is the most articulate and skilled manicurist .,staff,Beauty & Spas,0.47137248516082764
+arg_4_175,speedy staff <SEP> positive,"The staff was speedy , expert , courteous and accommodating .",staff,Beauty & Spas,0.3593933880329132
+arg_4_178,super friendly and accommodating staff <SEP> positive,The staff is super friendly and accommodating .,staff,Beauty & Spas,0.38830116391181946
+arg_4_183,super helpful and attentive staff <SEP> positive,The staff were all super helpful and attentive to what I wanted .,staff,Beauty & Spas,0.33248579502105713
+arg_4_186,super professional and friendly staff <SEP> positive,The staff was super professional and friendly .,staff,Beauty & Spas,0.25344136357307434
+arg_4_199,very accommodating staff <SEP> positive,The staff is very accommodating and polite .,staff,Beauty & Spas,0.3429051637649536
+arg_4_209,very friendly and professional staff <SEP> positive,The staff was very friendly and professional .,staff,Beauty & Spas,0.2575030028820038
+arg_4_211,very friendly greetings <SEP> positive,We received very friendly greetings from the owner .  ,staff,Beauty & Spas,0.47474950551986694
+arg_4_215,very genuine and friendly everyone <SEP> positive,Everyone who works there is very genuine and friendly .,staff,Beauty & Spas,0.47534090280532837
+arg_4_217,very good staff <SEP> positive,"Not only are they very nice , the staff are very good with their hands .",staff,Beauty & Spas,0.21936701238155365
+arg_4_218,very good therapists <SEP> positive,"The therapists are very good , especially Helen .",staff,Beauty & Spas,0.4706205427646637
+arg_4_223,very kind staff <SEP> positive,It 's beautifully kept and the staff is very kind and courteous .  ,staff,Beauty & Spas,0.25073373317718506
+arg_4_225,very nice and accommodating staff <SEP> positive,All the staff were very nice and accommodating .,staff,Beauty & Spas,0.37339046597480774
+arg_4_229,very nice folks <SEP> positive,Very nice folks .  ,staff,Beauty & Spas,0.4739987552165985
+arg_4_232,very nice people <SEP> positive,The people were also very nice .,staff,Beauty & Spas,0.480518102645874
+arg_4_233,very nice staff <SEP> positive,They have a very nice staff .,staff,Beauty & Spas,0.4597775340080261
+arg_4_238,very pleasant service <SEP> positive,"Both times , the service was very pleasant .",staff,Beauty & Spas,0.4712204933166504
+arg_4_240,very polite staff <SEP> positive,"It was very clean , the staff was very polite but most important",staff,Beauty & Spas,0.2856487035751343
+arg_4_262,wonderful staff <SEP> positive,She and her entire staff are wonderful !,staff,Beauty & Spas,0.47447413206100464
+arg_4_98,helpful front desk guy <SEP> positive,The front desk guy was so nice and helpful .,staff,Beauty & Spas,0.17849183082580566
+arg_4_145,pleasant front desk attendant <SEP> positive,I was greeted immediately by a pleasant front desk attendant .,staff,Beauty & Spas,0.307592511177063
+arg_4_21,amazing owner <SEP> positive,"The owner is amazing , and his staff only echoes how well they are treated , as they treat you just as well ! !",staff,Beauty & Spas,0.4687814712524414
+arg_4_82,great care <SEP> positive,I also want to thank Erica for taking such great care of us ( family of four ) from the time we walked in until we left .,staff,Beauty & Spas,0.45593738555908203
+arg_4_133,nice gentlemen <SEP> positive,You come in and a nice gentlemen greets you and offers you refreshments .,staff,Beauty & Spas,0.45667126774787903
+arg_4_146,pleased service <SEP> positive,I was very pleased with the service I received and I will be going again and will ask for Lisa ! !,staff,Beauty & Spas,0.46647152304649353
+arg_4_170,rude lash specialist <SEP> negative,Not only was the lash specialist rude but also did not appreciate the fact that I had returned or that I could not afford the suggested work,staff,Beauty & Spas,0.456683874130249
+arg_4_184,super helpful owner <SEP> positive,The owner Rick was super helpful and gave me a tour and some tea and snacks while I waited for my session .,staff,Beauty & Spas,0.46540743112564087
+arg_4_198,user friendly site <SEP> positive,"Booked an early schedule online , so easy and the site is user friendly .",staff,Beauty & Spas,0.4648326635360718
+arg_4_221,very helpful everyone <SEP> positive,Everyone was very helpful and answered all the questions I had .,staff,Beauty & Spas,0.45987966656684875
+arg_4_222,very informative girls <SEP> positive,The girls ar the front are very informative and knowledgeable .  ,staff,Beauty & Spas,0.46021026372909546
+arg_4_28,awesome customer <SEP> positive,Oh and I ca n't forget about the awesome customer service .,staff,Beauty & Spas,0.39326417446136475
+arg_4_87,great customer services <SEP> positive,Great Customer Services ..,staff,Beauty & Spas,0.41692841053009033
+arg_4_176,super customer <SEP> positive,Super customer service ! ! !,staff,Beauty & Spas,0.3417165279388428
+arg_4_9,always great service <SEP> positive,I 've came here a few times - always great service .  ,staff,Beauty & Spas,0.2917206883430481
+arg_4_22,amazing service <SEP> positive,I am making an appointment to come back before I leave here to make sure I get Natalie and her amazing service .  ,staff,Beauty & Spas,0.22752529382705688
+arg_4_25,appreciate service <SEP> positive,"Compared to our experiences at other salons in Vegas , I definitely appreciate their service .",staff,Beauty & Spas,0.17595526576042175
+arg_4_30,awesome service <SEP> positive,Awesome service within minutes of stepping in the door every time .,staff,Beauty & Spas,0.4649989902973175
+arg_4_37,best service <SEP> positive,But tonight was the best service I 've ever had,staff,Beauty & Spas,0.38112160563468933
+arg_4_46,completely amazing service <SEP> positive,Completely amazing service .  ,staff,Beauty & Spas,0.4148935079574585
+arg_4_47,consistent service <SEP> positive,It 's always pretty quite and service is consistent .,staff,Beauty & Spas,0.39839398860931396
+arg_4_48,consistently great service <SEP> positive,"I 've been to this spa a few times and it has been consistently great as far as service , ambiance , venue and accommodations .",staff,Beauty & Spas,0.3753350079059601
+arg_4_52,enjoyed service <SEP> positive,I enjoyed my service son much !,staff,Beauty & Spas,0.37392738461494446
+arg_4_55,exceptional service <SEP> positive,"For the prices they charge , you 'd think they would have EXCEPTIONAL service .",staff,Beauty & Spas,0.3408709168434143
+arg_4_58,extremely friendly service <SEP> positive,Relatively close the Strip and extremely friendly service .  ,staff,Beauty & Spas,0.385646790266037
+arg_4_67,forgotten service <SEP> positive,"No point of service was forgotten ... from shuttling us to and from the salon from our strip hotels , to champagne and cookies when we arrived , to closing the doors to walk - ins so we could feel perfectly at home .",staff,Beauty & Spas,0.3366243839263916
+arg_4_81,good service <SEP> positive,Affordable and good service .,staff,Beauty & Spas,0.2730562388896942
+arg_4_95,happy service <SEP> positive,I 'm so happy with my service,staff,Beauty & Spas,0.3403409719467163
+arg_4_119,love service <SEP> positive,Love the service !,staff,Beauty & Spas,0.33905738592147827
+arg_4_125,more than happy service <SEP> positive,This time I was more than happy with my service .,staff,Beauty & Spas,0.3736160099506378
+arg_4_151,pristine service <SEP> positive,The service is pristine .,staff,Beauty & Spas,0.36688974499702454
+arg_4_153,professional service <SEP> positive,Professional service .,staff,Beauty & Spas,0.2349431812763214
+arg_4_174,so happy service <SEP> positive,I 've never been so happy with the prices and the service you get .  ,staff,Beauty & Spas,0.30317556858062744
+arg_4_191,terrific service <SEP> positive,Terrific service .,staff,Beauty & Spas,0.4615664780139923
+arg_4_196,uncalled for service <SEP> positive,"They won me over with their last minute appointment scheduling and in and out service , but it is completely uncalled for to cause somebody to scab up .",staff,Beauty & Spas,0.2799545228481293
+arg_4_261,wonderful service <SEP> positive,The service is also wonderful .,staff,Beauty & Spas,0.3126736581325531
+arg_4_263,zero issues with service <SEP> positive,I have had zero issues with their service over the past few months that I 've been going to Buff N File,staff,Beauty & Spas,0.4245475232601166
+arg_4_148,polite everyone <SEP> positive,"As far as the rest of the staff goes , everyone was polite and friendly and my appointment started a few minutes early .",staff,Beauty & Spas,0.46787136793136597
+arg_4_0,a little snobby staff <SEP> negative,Unfortunately SOME of the staff is a little snobby but,staff,Beauty & Spas,0.43463650345802307
+arg_4_51,did staff <SEP> negative,The staff did n't kick us out like we expected due to his behavior .,staff,Beauty & Spas,0.4251762330532074
+arg_4_123,miss services <SEP> negative,Will miss your services but most of all your presence .,staff,Beauty & Spas,0.31043049693107605
+arg_4_257,well worth services <SEP> negative,Extremely pricey for the services but well worth it .,staff,Beauty & Spas,0.31886279582977295
+arg_5_0,$ 30 for haircut <SEP> negative,$ 30 for my haircut .  ,value-for-money,Beauty & Spas,0.7203974723815918
+arg_5_1,a bit high prices <SEP> negative,The prices are a bit high but that 's to be expected because of it 's location on the Strip .,value-for-money,Beauty & Spas,0.45231154561042786
+arg_5_2,a touch prices <SEP> negative,The prices are a touch higher than your typical fantastic sams or great clips .,value-for-money,Beauty & Spas,0.4198834002017975
+arg_5_3,absolute amazing value for the money <SEP> positive,Absolute amazing value for the money .,value-for-money,Beauty & Spas,0.34889140725135803
+arg_5_4,affordable price <SEP> positive,I have yet to find another Med - Spa that does such an amazing job at injectables at such an affordable price .,value-for-money,Beauty & Spas,0.43572738766670227
+arg_5_5,affordable prices <SEP> positive,Prices are affordable without skimping on quality .,value-for-money,Beauty & Spas,0.44619467854499817
+arg_5_6,amazing price <SEP> positive,Ca n't beat the amazing price as well .,value-for-money,Beauty & Spas,0.32297128438949585
+arg_5_7,awesome pricing <SEP> positive,The pricing was awesome too .,value-for-money,Beauty & Spas,0.3220157325267792
+arg_5_8,best deal <SEP> positive,Best deal / customer service I 've found .  ,value-for-money,Beauty & Spas,0.32135000824928284
+arg_5_9,best prices <SEP> positive,best prices anywhere in Las Vegas ..,value-for-money,Beauty & Spas,0.6713545918464661
+arg_5_10,better price <SEP> positive,Every other salon in Vegas is better for both the quality and price .,value-for-money,Beauty & Spas,0.8173478245735168
+arg_5_11,cheap prices <SEP> positive,The prices are cheap compared to resort spas .,value-for-money,Beauty & Spas,0.377578467130661
+arg_5_12,cheaper prices <SEP> positive,Prices are cheaper than most massage places in Vegas .,value-for-money,Beauty & Spas,0.3644779920578003
+arg_5_13,consistent pricing <SEP> positive,I have gone to MANY nail shops and none have been as nice and consistent in pricing as this .,value-for-money,Beauty & Spas,0.664405107498169
+arg_5_14,constant sales job <SEP> negative,"etc at other places , different cities and typically the experience is not rushed and a constant sales job of what I should be doing , as this was .",value-for-money,Beauty & Spas,0.26713457703590393
+arg_5_15,decent prices <SEP> positive,Prices are decent and the same as the surrounding salons .,value-for-money,Beauty & Spas,0.34987983107566833
+arg_5_16,decent pricing <SEP> positive,"It 's nice , clean , and the pricing is also decent .",value-for-money,Beauty & Spas,0.3636620342731476
+arg_5_17,dream luxury pedicure <SEP> positive,The luxury pedicure is a dream and you really feel relaxed after .,value-for-money,Beauty & Spas,0.6881940364837646
+arg_5_18,expensive facial <SEP> negative,The expensive facial was a treat from a friend,value-for-money,Beauty & Spas,0.4962958097457886
+arg_5_19,fabulous deal <SEP> positive,I got a haircut and highlights through a fabulous deal on their facebook hookup page and got everything for half the price !,value-for-money,Beauty & Spas,0.4623537063598633
+arg_5_20,fair prices <SEP> positive,Prices are fair due to the work and effort they put in .,value-for-money,Beauty & Spas,0.660355806350708
+arg_5_21,fair pricing <SEP> positive,Pricing is fair too .,value-for-money,Beauty & Spas,0.21454046666622162
+arg_5_22,fairly priced <SEP> positive,Fairly priced .  ,value-for-money,Beauty & Spas,0.6700640320777893
+arg_5_23,fantastic prices <SEP> positive,The prices are fantastic !,value-for-money,Beauty & Spas,0.4889242351055145
+arg_5_24,good price <SEP> positive,and it was still a good price .,value-for-money,Beauty & Spas,0.2954472303390503
+arg_5_25,good prices <SEP> positive,"good prices , too !",value-for-money,Beauty & Spas,0.4180632531642914
+arg_5_26,great cost <SEP> positive,The cost is great .,value-for-money,Beauty & Spas,0.25672152638435364
+arg_5_27,great deal price <SEP> positive,I got a straight razor shave because the price was a great deal .,value-for-money,Beauty & Spas,0.2895868718624115
+arg_5_28,great deals <SEP> positive,They also have great deals .,value-for-money,Beauty & Spas,0.3429948687553406
+arg_5_29,great loyalty program <SEP> positive,Great loyalty program !,value-for-money,Beauty & Spas,0.2937087416648865
+arg_5_30,great owner <SEP> positive,The owner is great and my boy looks forward to coming here .,value-for-money,Beauty & Spas,0.36840251088142395
+arg_5_31,great owners <SEP> positive,It 's under new management and the new owners are great .,value-for-money,Beauty & Spas,0.5002322793006897
+arg_5_32,great price <SEP> positive,Great price also !,value-for-money,Beauty & Spas,0.541698694229126
+arg_5_33,great prices <SEP> positive,The prices are great .,value-for-money,Beauty & Spas,0.41445717215538025
+arg_5_34,great pricing <SEP> positive,Great pricing .,value-for-money,Beauty & Spas,0.269504189491272
+arg_5_35,high dollar figure <SEP> negative,"The dollar figure was high , and I figured it would be , but that is not why I will never take my business here .  ",value-for-money,Beauty & Spas,0.43633660674095154
+arg_5_36,high end pricing <SEP> positive,It has something for everyone from mid to high end pricing .,value-for-money,Beauty & Spas,0.4613398015499115
+arg_5_37,ideal price <SEP> positive,The price is ideal for what they provide .,value-for-money,Beauty & Spas,0.5195367932319641
+arg_5_38,inaccurate total <SEP> negative,The total was added up inaccurate n,value-for-money,Beauty & Spas,0.5767809748649597
+arg_5_39,incredibly affordable price <SEP> positive,The price was also incredibly affordable .,value-for-money,Beauty & Spas,0.30663761496543884
+arg_5_40,incredibly reasonable prices <SEP> positive,Their prices are incredibly reasonable .,value-for-money,Beauty & Spas,0.6585681438446045
+arg_5_41,more than fair prices <SEP> positive,but I love everyone that works there and their prices are more than fair for all the work they do !,value-for-money,Beauty & Spas,0.6665337085723877
+arg_5_42,more than reasonable price <SEP> positive,"Also , the price is more than reasonable and I am always satisfied with the outcome ! !",value-for-money,Beauty & Spas,0.5514857172966003
+arg_5_43,most reasonable prices place <SEP> positive,This is the most reasonable prices place I 've been to since moving to Las Vegas 3 years ago .,value-for-money,Beauty & Spas,0.33581167459487915
+arg_5_44,n't too unreasonable prices <SEP> negative,The prices are n't too unreasonable either it just depends on if you decide to get a design or not .,value-for-money,Beauty & Spas,0.5530765056610107
+arg_5_45,outrageous prices <SEP> negative,They did n't have outrageous prices either .,value-for-money,Beauty & Spas,0.5995404720306396
+arg_5_46,perfect prices <SEP> positive,The prices are perfect .  ,value-for-money,Beauty & Spas,0.7670207619667053
+arg_5_47,pleased pricing <SEP> positive,We were very pleased with the pricing after being to other places and quoted way more .,value-for-money,Beauty & Spas,0.42730844020843506
+arg_5_48,priced well private rooms <SEP> positive,", I love the private rooms , and they are priced well .",value-for-money,Beauty & Spas,0.6584099531173706
+arg_5_49,pricey massage <SEP> negative,"I would go again , but its pricey at almost $ 200 for a 50 minute massage .",value-for-money,Beauty & Spas,0.2984885275363922
+arg_5_50,quite reasonable price <SEP> positive,The price itself was also quite reasonable for the couples massage .,value-for-money,Beauty & Spas,0.6501007080078125
+arg_5_51,really fair price <SEP> positive,"Each time you get a wash , massage , cut , and style for a really fair price .",value-for-money,Beauty & Spas,0.16486436128616333
+arg_5_52,really luxurious pedi <SEP> positive,I got the mid - level pedi and it was really luxurious .,value-for-money,Beauty & Spas,0.1810404658317566
+arg_5_53,reasonable price <SEP> positive,"husband 's was A , mine B- reasonable price : $ 100 for 50 minutes for both  ",value-for-money,Beauty & Spas,0.3209485411643982
+arg_5_54,reasonable prices <SEP> positive,Prices are reasonable considering how good they do cuts .,value-for-money,Beauty & Spas,0.29325076937675476
+arg_5_55,reasonable rates <SEP> positive,Reasonable ( right under ) $ 20 rates .,value-for-money,Beauty & Spas,0.6958476305007935
+arg_5_56,reasonably priced <SEP> positive,Reasonably priced .,value-for-money,Beauty & Spas,0.29955923557281494
+arg_5_57,reasonably priced couples message <SEP> positive,Was looking for reasonably priced couples message and was not disappointed .  ,value-for-money,Beauty & Spas,0.2259584218263626
+arg_5_58,reasonably priced deep tissue massage <SEP> positive,I was looking for a reasonably priced deep tissue massage and found this place on yelp .,value-for-money,Beauty & Spas,0.3894908130168915
+arg_5_59,reasonably priced nail salon <SEP> positive,Finally a reasonably priced nail salon !,value-for-money,Beauty & Spas,0.5124682784080505
+arg_5_60,relatively expensive <SEP> negative,"The down side , is it 's always busy and relatively expensive .",value-for-money,Beauty & Spas,0.7293562889099121
+arg_5_61,ridiculous prices <SEP> negative,Came to vegas and did n't want to pay ridiculous prices on the strip .,value-for-money,Beauty & Spas,0.7431507110595703
+arg_5_62,terribly expensive <SEP> negative,"Yes , its terribly expensive - but we only live once and if you go only once you 'll never forget it !   ",value-for-money,Beauty & Spas,0.1909123957157135
+arg_5_63,too much prices <SEP> negative,"I was n't looking to get anything outrageous , large or extremely detailed but the prices are just too much .",value-for-money,Beauty & Spas,0.37630516290664673
+arg_5_64,unmatched prices <SEP> negative,not to mention the prices are unmatched .,value-for-money,Beauty & Spas,0.3948637843132019
+arg_5_65,very affordable price <SEP> positive,"My wife had her nails done for the wedding and I got a pedicure , the price is very affordable compared to the saloon that s on the strip .",value-for-money,Beauty & Spas,0.33703362941741943
+arg_5_66,very affordable rates <SEP> positive,This place can give them more than a run for their money at very affordable rates .  ,value-for-money,Beauty & Spas,0.3553570508956909
+arg_5_67,very competitive price <SEP> positive,The price is very competitive in the Scottsdale area .  ,value-for-money,Beauty & Spas,0.4766893684864044
+arg_5_68,very fair price <SEP> positive,I thought this was a very fair price .,value-for-money,Beauty & Spas,0.7900222539901733
+arg_5_69,very good cheap price <SEP> positive,I would definitely come back since she was on point on her massages and it was a very good cheap price .,value-for-money,Beauty & Spas,0.590377151966095
+arg_5_70,very good prices <SEP> positive,They fit me right in and prices are very good !,value-for-money,Beauty & Spas,0.3416133522987366
+arg_5_71,very reasonable price <SEP> positive,Edgy and modern cut ( which I wanted ) as well as all over color for a very reasonable price .  ,value-for-money,Beauty & Spas,0.43282851576805115
+arg_5_72,very reasonable prices <SEP> positive,Prices are very reasonable .,value-for-money,Beauty & Spas,0.8716053366661072
+arg_5_73,very reasonably priced nail salon <SEP> positive,The nail salon is very reasonably priced and clean .,value-for-money,Beauty & Spas,0.17524465918540955
+arg_5_74,very well priced tattoo <SEP> positive,By the way the tattoo was very well priced and I am proud to show it off .,value-for-money,Beauty & Spas,0.21767817437648773
+arg_5_75,well priced <SEP> positive,Absolutely worth it and well priced !,value-for-money,Beauty & Spas,0.5979502201080322
+arg_5_76,well worth money <SEP> positive,and it was well worth the Money and time .,value-for-money,Beauty & Spas,0.4929635524749756
+arg_5_77,worth every penny pedicure <SEP> positive,My pedicure done by Hugh was so relaxing and worth every penny .,value-for-money,Beauty & Spas,0.5119965672492981
+arg_5_78,worth every penny price <SEP> positive,Price : totally affordable and worth every penny  ,value-for-money,Beauty & Spas,0.39059555530548096
+arg_5_79,worth memory <SEP> negative,A memory worth a lifetime !,value-for-money,Beauty & Spas,0.46381446719169617
+arg_5_80,worth place <SEP> positive,Place is worth the $ $ in my opinion .,value-for-money,Beauty & Spas,0.5932642817497253
+arg_5_81,worth price <SEP> positive,Worth the price for sure,value-for-money,Beauty & Spas,0.6071596741676331
+arg_5_82,worth specials <SEP> positive,Their specials make it all worth it !,value-for-money,Beauty & Spas,0.3719032108783722
+arg_6_0,$ 130 for an hour couples massage <SEP> positive,The couples massage runs $ 130 for an hour - one of the best deals in town !,wait-time,Beauty & Spas,0.6425490975379944
+arg_6_1,24 hour piercing shop <SEP> positive,24 hour tattoo and piercing shop ..  ,wait-time,Beauty & Spas,0.43136870861053467
+arg_6_2,30 % off service <SEP> negative,"With the 90 minute and add - on , the special was 30 % off the service .",wait-time,Beauty & Spas,0.8373048305511475
+arg_6_3,50 minute full body massage <SEP> positive,Get the 50 minute full body massage and be sure to ask Rick about his iron man medal ! !,wait-time,Beauty & Spas,0.4937671422958374
+arg_6_4,60 minute combination massage <SEP> positive,My 60 minute combination Massage was awesome !,wait-time,Beauty & Spas,0.6987341046333313
+arg_6_5,60 minute massage <SEP> negative,"I only got the 60 minute massage which seemed to go by so quickly , makes me with",wait-time,Beauty & Spas,0.36095407605171204
+arg_6_6,90 minute combo <SEP> positive,I opted for the 90 minute combo and it was fantastic !  ,wait-time,Beauty & Spas,0.4475410282611847
+arg_6_7,a bit long process <SEP> negative,The process was a bit long,wait-time,Beauty & Spas,0.3922573924064636
+arg_6_8,always a good time <SEP> positive,Nate is always a good time and gives a great gel manicure .,wait-time,Beauty & Spas,0.4603408873081207
+arg_6_9,always clean store <SEP> positive,"Also , the store is always clean and looks very presentable .",wait-time,Beauty & Spas,0.6038370132446289
+arg_6_10,always on waiting <SEP> positive,Always on time no long waiting .,wait-time,Beauty & Spas,0.7211784720420837
+arg_6_11,always salon <SEP> positive,This salon is always super accommodating and being close to home makes it super convenient .,wait-time,Beauty & Spas,0.4925076961517334
+arg_6_12,amazing time <SEP> positive,We had an amazing time and left feeling relaxed and happy !   ,wait-time,Beauty & Spas,0.40737321972846985
+arg_6_13,at least a week polish <SEP> negative,My polish lasted at least a week without chipping which is unheard of for me .,wait-time,Beauty & Spas,0.5276663303375244
+arg_6_14,awesome hours <SEP> positive,"Great hours , open until midnight which is awesome .",wait-time,Beauty & Spas,0.23967783153057098
+arg_6_15,best time <SEP> positive,Had the best time resting and relaxing here .,wait-time,Beauty & Spas,0.6582466959953308
+arg_6_16,busy mall <SEP> negative,"It 's a busy mall though , so if you 're not comfortable with people all around you , maybe you should be shopping online .",wait-time,Beauty & Spas,0.6136968731880188
+arg_6_17,communicated wait time <SEP> positive,Communicated wait time accurately .,wait-time,Beauty & Spas,0.5934603214263916
+arg_6_18,complimentary shuttle service <SEP> positive,"They also offer complimentary shuttle service , which I thought was cool .  ",wait-time,Beauty & Spas,0.3305800259113312
+arg_6_19,convenient drive <SEP> positive,"The drive was definitely more convenient , and I will see them again for my next procedure !",wait-time,Beauty & Spas,0.28826481103897095
+arg_6_20,convenient hours <SEP> positive,Convenient hours and same day appointments .,wait-time,Beauty & Spas,0.6965424418449402
+arg_6_21,cool waiting area <SEP> positive,I also love the vibe and cool waiting area and that you can book online .,wait-time,Beauty & Spas,0.5540024638175964
+arg_6_22,easy check in <SEP> positive,Easy check in .,wait-time,Beauty & Spas,0.157073512673378
+arg_6_23,extremely busy mall <SEP> negative,The mall still has some construction going on ( way less though compared to during the summer ) and can get extremely busy at times .,wait-time,Beauty & Spas,0.21891921758651733
+arg_6_24,fast kris <SEP> positive,Kris was so sweet and talkative and fast during the procedure .,wait-time,Beauty & Spas,0.25245797634124756
+arg_6_25,fast service <SEP> positive,Kept my child calm and fast service !,wait-time,Beauty & Spas,0.1863577961921692
+arg_6_26,flexible hours <SEP> negative,It 's great for someone like me who needs flexible hours .,wait-time,Beauty & Spas,0.29429376125335693
+arg_6_27,free shuttle <SEP> positive,"There is parking right in front of the salon , but they will also provide a free shuttle if you prefer .",wait-time,Beauty & Spas,0.49986979365348816
+arg_6_28,free shuttle service <SEP> positive,They also provide a free shuttle service if you need it .,wait-time,Beauty & Spas,0.31862208247184753
+arg_6_29,free touch ups <SEP> positive,They advertise free touch ups and unlimited fullness ? ?,wait-time,Beauty & Spas,0.5568715333938599
+arg_6_30,free wifi <SEP> positive,Free wifi .   ,wait-time,Beauty & Spas,0.5312185287475586
+arg_6_31,good amount of escalators <SEP> positive,"This place has a good amount of escalators for your tired feet , as you easily walk for miles in here .",wait-time,Beauty & Spas,0.5660408139228821
+arg_6_32,good time <SEP> positive,Had a good time with the great barbers .,wait-time,Beauty & Spas,0.5128349661827087
+arg_6_33,great hours <SEP> positive,The hours are great,wait-time,Beauty & Spas,0.44495055079460144
+arg_6_34,great steady hand <SEP> positive,His attention to detail and steady hand was great .,wait-time,Beauty & Spas,0.48531636595726013
+arg_6_35,long wait <SEP> negative,"Depending on when you come in , the wait can be long , but that 's a good sign ; a wait means people want to get work done .  ",wait-time,Beauty & Spas,0.2691972255706787
+arg_6_36,long wait times <SEP> negative,I still got the 5 star treatment and it was n't crowded or had long wait times .,wait-time,Beauty & Spas,0.6616753339767456
+arg_6_37,longer than expected lashes <SEP> negative,The lashes last longer than expected and my makeup time has been cut in half .,wait-time,Beauty & Spas,0.40007609128952026
+arg_6_38,lots of walking <SEP> negative,lots of walking .,wait-time,Beauty & Spas,0.493294894695282
+arg_6_39,never a wait <SEP> positive,Never a wait .,wait-time,Beauty & Spas,0.5174866318702698
+arg_6_40,no wait time <SEP> negative,Once I arrived there was no wait time .,wait-time,Beauty & Spas,0.5198600888252258
+arg_6_41,on time appointments <SEP> positive,"The appointments run on time ( which is so rare in good and busy barber shops ) with a couple minute delays once in a while , but the priority really is all about the client and service .",wait-time,Beauty & Spas,0.2416376918554306
+arg_6_42,one stop shop <SEP> positive,Eaton Center is a one stop shop that made my university days and downtown living so convenient .,wait-time,Beauty & Spas,0.8311737775802612
+arg_6_43,quick and clean piercing <SEP> positive,"At least the piercing itself was quick and clean , and four months later it 's not terrible .",wait-time,Beauty & Spas,0.4460252821445465
+arg_6_44,quick cut <SEP> positive,The cut was quick and she styled his hair .,wait-time,Beauty & Spas,0.34504833817481995
+arg_6_45,readily available taxis <SEP> positive,Can walk underground through the tunnels and taxis are readily available !,wait-time,Beauty & Spas,0.4406684935092926
+arg_6_46,running on amanda <SEP> positive,Amanda was running on time as always which is a plus .,wait-time,Beauty & Spas,0.31888920068740845
+arg_6_47,scenic waiting area <SEP> positive,Extra points for the scenic waiting area ! !,wait-time,Beauty & Spas,0.4449475109577179
+arg_6_48,short wait time <SEP> positive,Friendly upon arrival and short wait time .,wait-time,Beauty & Spas,0.25905460119247437
+arg_6_49,steady lines <SEP> positive,The lines were steady .,wait-time,Beauty & Spas,0.25560513138771057
+arg_6_50,super long wait <SEP> negative,"Do n't do walk - ins though , the wait is usually super long .",wait-time,Beauty & Spas,0.45455214381217957
+arg_6_51,very busy street <SEP> negative,"What I love is that it 's on a very busy street , so you can walk right out and shop some more since the street is lined with stores as well .  ",wait-time,Beauty & Spas,0.33329927921295166
+arg_6_52,very convenient train station <SEP> positive,The train station connects underground which is very convenient for locals and tourists !,wait-time,Beauty & Spas,0.46221795678138733
+arg_6_53,very easy going guy <SEP> positive,Cody ( sp ) was a very easy going guy .,wait-time,Beauty & Spas,0.38040944933891296
+arg_6_54,very fast service <SEP> positive,Very fast service,wait-time,Beauty & Spas,0.3085799813270569
+arg_6_55,very quick poke <SEP> positive,it was a very quick poke and all done !,wait-time,Beauty & Spas,0.2572321593761444
+arg_6_56,worth wait <SEP> positive,But definitely worth the wait ! !,wait-time,Beauty & Spas,0.5130050182342529

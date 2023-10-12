@@ -1,0 +1,5 @@
+comment_id,comment,full_comment,topic,domain,predicted_WA
+arg_0_0,setup beds <SEP> positive,Our furniture and beds were setup as they were at the old house .,restaurant -> comfort,Automotive,0.3564903736114502
+arg_0_1,very comfortable place <SEP> positive,It is a very comfortable place to wait while your car is getting washed .,restaurant -> comfort,Automotive,0.49981868267059326
+arg_0_2,very front desk <SEP> positive,"Front desk is very professional , courteous , and friendly .  ",restaurant -> comfort,Automotive,0.34987983107566833
+arg_0_3,wrong seat cover <SEP> negative,The seat cover was put in wrong and had a slice on the side that exposed the cushion .  ,restaurant -> comfort,Automotive,0.3694586753845215

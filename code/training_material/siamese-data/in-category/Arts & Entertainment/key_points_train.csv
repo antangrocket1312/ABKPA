@@ -1,0 +1,60 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,great apple cider <SEP> positive,Great apple cider and donuts .,drink -> alcohol,Arts & Entertainment,0.4241575598716736
+kp_0_1,great local cocktails <SEP> positive,Great local cocktails,drink -> alcohol,Arts & Entertainment,0.477838397026062
+kp_1_0,below quality beverages <SEP> negative,The beverages are below quality .,drink -> quality,Arts & Entertainment,0.450772225856781
+kp_1_1,great coffee recommendations <SEP> positive,they give great coffee recommendations !,drink -> quality,Arts & Entertainment,0.5026734471321106
+kp_1_2,great local coffee shop <SEP> positive,Great local coffee shop .,drink -> quality,Arts & Entertainment,0.4550931751728058
+kp_2_0,good inexpensive food <SEP> positive,Good inexpensive food .,food -> quality,Arts & Entertainment,0.44340598583221436
+kp_2_1,great family fun <SEP> positive,But overall great family fun .,food -> quality,Arts & Entertainment,0.4203305244445801
+kp_2_2,great family outing <SEP> positive,Great family outing,food -> quality,Arts & Entertainment,0.45188573002815247
+kp_3_0,great selection of movies <SEP> positive,Great selection of movies etc .,food -> variety,Arts & Entertainment,0.5000876188278198
+kp_3_1,lack of fair processes <SEP> negative,Lack of fair processes .,food -> variety,Arts & Entertainment,0.5510388016700745
+kp_3_2,poor management systems <SEP> negative,Poor management systems .,food -> variety,Arts & Entertainment,0.5129527449607849
+kp_3_3,small selection <SEP> negative,Small selection for the price .,food -> variety,Arts & Entertainment,0.47980996966362
+kp_4_0,disastrous experience <SEP> negative,Recipe for a disastrous experience .,recommendation,Arts & Entertainment,0.46021026372909546
+kp_4_1,good find <SEP> positive,Good find in suburbia .,recommendation,Arts & Entertainment,0.4417645037174225
+kp_4_2,great place <SEP> positive,Great place for family fun,recommendation,Arts & Entertainment,0.5255333185195923
+kp_5_0,beautiful view <SEP> positive,Beautiful view of east Scottsdale .,restaurant -> atmosphere,Arts & Entertainment,0.5030298829078674
+kp_5_1,big screens <SEP> positive,Big screens and reclining chairs .,restaurant -> atmosphere,Arts & Entertainment,0.5240574479103088
+kp_5_2,cheap fun entertainment <SEP> positive,Cheap fun entertainment .,restaurant -> atmosphere,Arts & Entertainment,0.42934808135032654
+kp_5_3,close and easy parking <SEP> positive,Parking was close and easy .,restaurant -> atmosphere,Arts & Entertainment,0.5217660665512085
+kp_5_4,comfortable electric recliners <SEP> positive,Comfortable electric recliners .,restaurant -> atmosphere,Arts & Entertainment,0.4493997097015381
+kp_5_5,comfortable sets <SEP> positive,"comfortable sets , lots leg room",restaurant -> atmosphere,Arts & Entertainment,0.6048462390899658
+kp_5_6,engaging show <SEP> positive,"Such a funny , engaging show !",restaurant -> atmosphere,Arts & Entertainment,0.4800799489021301
+kp_5_7,excellent affordable night out <SEP> positive,Excellent affordable night out .,restaurant -> atmosphere,Arts & Entertainment,0.5034571290016174
+kp_5_8,expensive parking <SEP> negative,parking is expensive .,restaurant -> atmosphere,Arts & Entertainment,0.4696353077888489
+kp_5_9,family - friendly park <SEP> positive,Very family - friendly park .,restaurant -> atmosphere,Arts & Entertainment,0.4591009020805359
+kp_5_10,filthy dirty theatre <SEP> negative,Theatre is filthy dirty .,restaurant -> atmosphere,Arts & Entertainment,0.4295773506164551
+kp_5_11,fun family entertainment <SEP> positive,Fun family entertainment .,restaurant -> atmosphere,Arts & Entertainment,0.5442116260528564
+kp_5_12,fun music <SEP> positive,Music was fun and upbeat,restaurant -> atmosphere,Arts & Entertainment,0.5065611004829407
+kp_5_13,great audience interaction <SEP> positive,Great audience interaction !,restaurant -> atmosphere,Arts & Entertainment,0.4477551281452179
+kp_5_14,great bar <SEP> positive,"Great bar , bartenders , and music .",restaurant -> atmosphere,Arts & Entertainment,0.49545225501060486
+kp_5_15,great decor <SEP> positive,Great decor and views .,restaurant -> atmosphere,Arts & Entertainment,0.4938708543777466
+kp_5_16,great singing <SEP> positive,Very entertaining with great singing .,restaurant -> atmosphere,Arts & Entertainment,0.5081044435501099
+kp_5_17,huge tourist trap <SEP> positive,Definitely a huge tourist trap .,restaurant -> atmosphere,Arts & Entertainment,0.4300892949104309
+kp_5_18,love seats <SEP> positive,I love the reclining seats !,restaurant -> atmosphere,Arts & Entertainment,0.4304954707622528
+kp_5_19,massive tourist trap <SEP> positive,Massive tourist trap .,restaurant -> atmosphere,Arts & Entertainment,0.5064226388931274
+kp_5_20,nice casino <SEP> positive,Nice casino for regular people .,restaurant -> atmosphere,Arts & Entertainment,0.4265640377998352
+kp_5_21,readily available parking <SEP> positive,Parking was readily available .,restaurant -> atmosphere,Arts & Entertainment,0.44850197434425354
+kp_5_22,scenic vistas <SEP> positive,Scenic vistas and architectural magic .,restaurant -> atmosphere,Arts & Entertainment,0.5178127288818359
+kp_5_23,skilled performers <SEP> positive,The performers were skilled .,restaurant -> atmosphere,Arts & Entertainment,0.44899752736091614
+kp_5_24,terrible venues <SEP> negative,Venues like this are terrible !,restaurant -> atmosphere,Arts & Entertainment,0.481829971075058
+kp_5_25,terrific picture <SEP> positive,Terrific picture and sound quality .,restaurant -> atmosphere,Arts & Entertainment,0.47864851355552673
+kp_5_26,upbeat music <SEP> positive,Music was upbeat and lively .  ,restaurant -> atmosphere,Arts & Entertainment,0.45661988854408264
+kp_5_27,very talented singers <SEP> positive,Very talented singers and performers .,restaurant -> atmosphere,Arts & Entertainment,0.5447618961334229
+kp_6_0,assigned seating <SEP> positive,I love the assigned seating .,restaurant -> comfort,Arts & Entertainment,0.44654580950737
+kp_6_1,comfy recliners <SEP> positive,The recliners are so comfy,restaurant -> comfort,Arts & Entertainment,0.4253520667552948
+kp_6_2,super comfortable seats <SEP> positive,Super comfortable seats .,restaurant -> comfort,Arts & Entertainment,0.43422892689704895
+kp_6_3,very comfortable seating <SEP> positive,Very comfortable seating .,restaurant -> comfort,Arts & Entertainment,0.47915101051330566
+kp_7_0,excellent service <SEP> positive,Food and service was excellent .,staff,Arts & Entertainment,0.45930707454681396
+kp_7_1,friendly and attentive concessions <SEP> positive,Concessions are friendly and attentive .,staff,Arts & Entertainment,0.48531198501586914
+kp_7_2,friendly and attractive staff <SEP> positive,Friendly and attractive staff .,staff,Arts & Entertainment,0.4791077673435211
+kp_7_3,friendly and helpful staff <SEP> positive,Friendly and helpful staff !,staff,Arts & Entertainment,0.42411497235298157
+kp_7_4,friendly dealers <SEP> positive,Friendly dealers and hostesses .  ,staff,Arts & Entertainment,0.431997150182724
+kp_7_5,great staff <SEP> positive,Great staff and,staff,Arts & Entertainment,0.44387510418891907
+kp_7_6,horrible customer service <SEP> negative,Horrible customer service !,staff,Arts & Entertainment,0.5041593909263611
+kp_7_7,incredible instructor <SEP> positive,"Katie , the instructor , was INCREDIBLE .  ",staff,Arts & Entertainment,0.5537152886390686
+kp_7_8,rude employees <SEP> negative,Employees there are rude .,staff,Arts & Entertainment,0.467050701379776
+kp_7_9,super friendly staff <SEP> positive,Super friendly staff,staff,Arts & Entertainment,0.421007364988327
+kp_7_10,uncaring staff <SEP> negative,Absolutely rude and uncaring staff .,staff,Arts & Entertainment,0.654109001159668
+kp_8_0,reasonably priced entrance fee <SEP> positive,Reasonably priced entrance fee .  ,wait-time,Arts & Entertainment,0.424379825592041

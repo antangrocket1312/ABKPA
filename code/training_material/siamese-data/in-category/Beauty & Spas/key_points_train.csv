@@ -1,0 +1,54 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,very strong chemical smell <SEP> negative,Very strong chemical smell .,drink -> quality,Beauty & Spas,0.4272124469280243
+kp_1_0,best massage <SEP> positive,The best massage In Vegas .,food -> quality,Beauty & Spas,0.433723509311676
+kp_1_1,best pedicure <SEP> positive,The best pedicure / massages .,food -> quality,Beauty & Spas,0.4832943081855774
+kp_1_2,best pedicures <SEP> positive,She gives the Best Pedicures !,food -> quality,Beauty & Spas,0.48454612493515015
+kp_1_3,great pedicures <SEP> positive,Pedicures are great as well !,food -> quality,Beauty & Spas,0.42646631598472595
+kp_1_4,outstanding deep tissue massage <SEP> positive,Outstanding deep tissue massage .,food -> quality,Beauty & Spas,0.4324500858783722
+kp_2_0,great store selection <SEP> positive,Great store selection,food -> variety,Beauty & Spas,0.4685426652431488
+kp_3_0,astonishing gym <SEP> positive,Astonishing Gym / Fitness facilities .,restaurant -> atmosphere,Beauty & Spas,0.44396597146987915
+kp_3_1,clean rooms <SEP> positive,"Beautiful , relaxing , and clean rooms .",restaurant -> atmosphere,Beauty & Spas,0.4449475109577179
+kp_3_2,great amenities <SEP> positive,Great amenities and snacks .,restaurant -> atmosphere,Beauty & Spas,0.4230084717273712
+kp_3_3,great artistry <SEP> positive,Professional and great artistry .,restaurant -> atmosphere,Beauty & Spas,0.45667126774787903
+kp_3_4,great attention to <SEP> positive,Great attention to detail,restaurant -> atmosphere,Beauty & Spas,0.4649989902973175
+kp_3_5,great conversationalist <SEP> positive,Great conversationalist too !,restaurant -> atmosphere,Beauty & Spas,0.45214882493019104
+kp_3_6,great detail <SEP> positive,Great detail and professional .,restaurant -> atmosphere,Beauty & Spas,0.44057390093803406
+kp_3_7,great quality work <SEP> positive,Great quality work .,restaurant -> atmosphere,Beauty & Spas,0.4215850234031677
+kp_3_8,modern decor <SEP> positive,Very clean and modern decor .,restaurant -> atmosphere,Beauty & Spas,0.45340779423713684
+kp_3_9,multiple level parking <SEP> positive,They have multiple level parking,restaurant -> atmosphere,Beauty & Spas,0.46758636832237244
+kp_3_10,professional environment <SEP> positive,"Awesome , friendly , and professional environment .",restaurant -> atmosphere,Beauty & Spas,0.4366248548030853
+kp_3_11,soothing lighting <SEP> positive,"Lighting , relaxing and soothing .",restaurant -> atmosphere,Beauty & Spas,0.49554571509361267
+kp_3_12,thoroughly enjoyed massage <SEP> positive,I thoroughly enjoyed my massage .,restaurant -> atmosphere,Beauty & Spas,0.42037826776504517
+kp_3_13,too much noise <SEP> negative,Too much noise at times .,restaurant -> atmosphere,Beauty & Spas,0.4496946334838867
+kp_3_14,worst costumer <SEP> negative,And worst costumer service .,restaurant -> atmosphere,Beauty & Spas,0.479880690574646
+kp_4_0,amazing professional <SEP> positive,Amazing professional and skilled piercer !,staff,Beauty & Spas,0.5200863480567932
+kp_4_1,amazing stylist <SEP> positive,Rob was an AMAZING stylist .,staff,Beauty & Spas,0.4648326635360718
+kp_4_2,best attention to <SEP> positive,Best attention to detail,staff,Beauty & Spas,0.42942488193511963
+kp_4_3,clean shop <SEP> positive,Shop is clean and comfortable .,staff,Beauty & Spas,0.4734035134315491
+kp_4_4,excellent customer service <SEP> positive,Excellent customer service .,staff,Beauty & Spas,0.43810388445854187
+kp_4_5,filthy facility <SEP> negative,The facility itself is filthy .  ,staff,Beauty & Spas,0.49379342794418335
+kp_4_6,fine customer service <SEP> positive,Customer Service was fine,staff,Beauty & Spas,0.425849050283432
+kp_4_7,friendly and knowledgeable staff <SEP> positive,Friendly and knowledgeable staff .,staff,Beauty & Spas,0.6284707188606262
+kp_4_8,friendly and professional front desk <SEP> positive,Friendly and professional front desk ..,staff,Beauty & Spas,0.4550662636756897
+kp_4_9,friendly and thorough gina <SEP> positive,Gina was friendly and thorough .,staff,Beauty & Spas,0.4799707531929016
+kp_4_10,friendly staff <SEP> positive,Staff is friendly and professional .,staff,Beauty & Spas,0.5274825692176819
+kp_4_11,good customer service <SEP> positive,Good quality and customer service .  ,staff,Beauty & Spas,0.45089027285575867
+kp_4_12,great customer <SEP> positive,Great customer service !,staff,Beauty & Spas,0.4432879686355591
+kp_4_13,great family run business <SEP> positive,"Great family run , local business .",staff,Beauty & Spas,0.5370203852653503
+kp_4_14,great service <SEP> positive,Great service and care .,staff,Beauty & Spas,0.4581756591796875
+kp_4_15,great staff <SEP> positive,Great staff and,staff,Beauty & Spas,0.44387510418891907
+kp_4_16,horribly overpriced place <SEP> negative,This place is horribly overpriced .,staff,Beauty & Spas,0.668235182762146
+kp_4_17,impeccable customer service <SEP> positive,Customer service is impeccable .,staff,Beauty & Spas,0.6346656680107117
+kp_4_18,professional and friendly staff <SEP> positive,Professional and friendly staff .,staff,Beauty & Spas,0.45162832736968994
+kp_4_19,rude staff <SEP> negative,Staff is rude and unwelcoming .,staff,Beauty & Spas,0.6691832542419434
+kp_4_20,subpar services <SEP> negative,both services were subpar .,staff,Beauty & Spas,0.6209949851036072
+kp_4_21,super courteous staff <SEP> positive,The staff is super courteous .  ,staff,Beauty & Spas,0.5223341584205627
+kp_4_22,totally affordable and pleasant staff <SEP> positive,Totally affordable and pleasant staff .,staff,Beauty & Spas,0.4834381937980652
+kp_4_23,very professional staff <SEP> positive,Very professional staff .,staff,Beauty & Spas,0.43112900853157043
+kp_4_24,well - managed <SEP> positive,"Professional , clean and well - managed .",staff,Beauty & Spas,0.4475410282611847
+kp_5_0,excellent price <SEP> positive,Excellent price and service .,value-for-money,Beauty & Spas,0.4317207932472229
+kp_5_1,excellent value <SEP> positive,"Excellent value , quality and service .",value-for-money,Beauty & Spas,0.5156585574150085
+kp_5_2,extremely affordable <SEP> positive,Extremely affordable for the quality .,value-for-money,Beauty & Spas,0.47444260120391846
+kp_5_3,great price <SEP> positive,Great quality and great price !,value-for-money,Beauty & Spas,0.48980385065078735
+kp_5_4,reasonable pricing <SEP> positive,Very friendly and reasonable pricing .,value-for-money,Beauty & Spas,0.47859957814216614
+kp_6_0,top notch service <SEP> positive,it 's top notch service .,wait-time,Beauty & Spas,0.4552134573459625

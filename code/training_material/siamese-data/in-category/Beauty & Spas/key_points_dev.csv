@@ -1,0 +1,7 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,best massage <SEP> positive,The best massage In Vegas .,food -> quality,Beauty & Spas,0.433723509311676
+kp_0_1,best pedicure <SEP> positive,The best pedicure / massages .,food -> quality,Beauty & Spas,0.4832943081855774
+kp_0_2,best pedicures <SEP> positive,She gives the Best Pedicures !,food -> quality,Beauty & Spas,0.48454612493515015
+kp_0_3,great pedicures <SEP> positive,Pedicures are great as well !,food -> quality,Beauty & Spas,0.42646631598472595
+kp_0_4,outstanding deep tissue massage <SEP> positive,Outstanding deep tissue massage .,food -> quality,Beauty & Spas,0.4324500858783722
+kp_1_0,top notch service <SEP> positive,it 's top notch service .,wait-time,Beauty & Spas,0.4552134573459625

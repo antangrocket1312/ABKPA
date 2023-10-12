@@ -1,0 +1,1050 @@
+,comment,keypoint,domain,label
+0,yum root beer float <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+1,plenty of reserved seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+2,really nice touch reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+3,great craft cocktails <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+4,favorite ginger margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+5,sold out seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+6,astoundingly good local blueberry honey ale <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+7,ridiculous seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+8,comfortable chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+9,reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+10,good selection of draft beers <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+11,not the most comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+12,horizontal tequila samplers <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+13,loved margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+14,a little awkward seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+15,nice selection of beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+16,less seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+17,full reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+18,not the most comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+19,lots of seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+20,full bar <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+21,nice wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+22,nice reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+23,really good yogurt soju cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+24,pretty good at mini golf <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+25,reserved seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+26,unique beer selections <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+27,very comfortable place <SEP> positive,unorganized place <SEP> negative,Automotive,0
+28,missing bottle service tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+29,tasty margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+30,funnest alcoholic <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+31,cold beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+32,best margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+33,inviting seating area outside <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+34,discounted wine list selections <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+35,never close to empty cocktails <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+36,good vodka sauce <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+37,very clean lot <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+38,quaint wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+39,outstanding seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+40,spacious seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+41,great seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+42,strong cocktails <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+43,below street level seating bowl <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+44,comfy recliner chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+45,reserved seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+46,killer summer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+47,spacious seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+48,small venue <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+49,nice local beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+50,uncomfortable chair <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+51,great margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+52,short on fruit wines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+53,fine tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+54,comfy reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+55,not the most comfortable recliners <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+56,very strong wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+57,great wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+58,nice comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+59,nice comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+60,reserved seating policy <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+61,short on fruit wines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+62,super comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+63,yum root beer float <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+64,very clean lot <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+65,perfect martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+66,huge comfortable seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+67,comfortable lounger <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+68,really good margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+69,plenty of seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+70,packed table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+71,lots of seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+72,fine xiao long bao <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+73,big chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+74,cold draft beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+75,overpriced cocktail <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+76,comfy leather <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+77,weird table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+78,nice wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+79,nice table <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+80,luxurious chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+81,wonderful wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+82,wonderful wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+83,fairly clean seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+84,uncomfortable chair <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+85,great deal beer combo <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+86,outstanding seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+87,full room <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+88,great front row seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+89,best margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+90,watered down margarita on <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+91,plenty of seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+92,comfy reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+93,comfy chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+94,awful vodka recommendation <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+95,pretty hot bouncers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+96,a little awkward seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+97,loved margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+98,deserve seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+99,awesome seafood cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+100,wonderful seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+101,great beer menu <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+102,ridiculous seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+103,good beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+104,well made margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+105,missing bottle service tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+106,large chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+107,fairly clean seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+108,out of this world delicious apple cider <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+109,strongest margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+110,potent margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+111,wider seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+112,spacious establishment <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+113,spacious place for <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+114,quaint little wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+115,very energizing tequila bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+116,favorite ginger margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+117,pretty comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+118,ridiculous seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+119,awful vodka recommendation <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+120,perfect lower level center seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+121,outstanding silver work <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+122,small casino <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+123,ice cold beer <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+124,enormous beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+125,less seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+126,very nice wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+127,comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+128,ice cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+129,cozy wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+130,crammed chairs <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+131,super comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+132,hard to stay seated <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+133,discounted wine list selections <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+134,small exhibit <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+135,quaint wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+136,really nice touch reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+137,fantastic martinis <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+138,low beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+139,really tasty michelada beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+140,awesome chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+141,unique beer selections <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+142,better cocktails <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,1
+143,wonderful table <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+144,awesome seafood cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+145,best double char <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+146,low beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+147,best draft house <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+148,nice outside seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+149,fine xiao long bao <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+150,loved tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+151,comfortable chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+152,nice local beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+153,cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+154,comfy shoes <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+155,not a very big place <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+156,lots of seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+157,most awesome wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+158,dated booths <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+159,close seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+160,enormous beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+161,never close to empty cocktails <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+162,very refreshing mexican red beer ) beers <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+163,cheap gourds <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+164,so darn comfortable seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+165,small venue <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+166,best draft house <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+167,big seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+168,improved seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+169,really good margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+170,little benches <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+171,different rooms <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+172,deserve seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+173,old style seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+174,fancy soda machines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+175,nice reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+176,great reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+177,great selection of beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+178,great deal beer combo <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+179,roadside mexican flare <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+180,comfortable lounger <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+181,poor beer selection <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+182,excellent margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+183,great deal beer combo <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+184,pretty good wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+185,solid gilbert regal <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+186,little gaming tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+187,great wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+188,so cheesy tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+189,very comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+190,small restaurant <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+191,big chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+192,good margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+193,below street level seating bowl <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+194,awesome chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+195,small restaurant <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+196,lots of seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+197,good beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+198,good margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+199,awesome chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+200,great seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+201,short on fruit wines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+202,good tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+203,packed in seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+204,yum root beer float <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+205,small casino <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+206,strictly theater seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+207,great beer specials <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+208,small exhibit <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+209,close seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+210,wonderful wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+211,better cocktails <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+212,spacious rows <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+213,astoundingly good local blueberry honey ale <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+214,long standing restaurant in <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+215,strong cocktails <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+216,so cheesy tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+217,very strong wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+218,big place <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+219,great wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+220,reserved seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+221,fancy soda machines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+222,awesome seafood cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+223,delicious apple ciders <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+224,deserve seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+225,unique beer selections <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+226,far seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+227,great selection of beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+228,loved tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+229,lots of seating choices <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+230,really good margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+231,little low seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+232,nice comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+233,full room <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+234,little low seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+235,perfect martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+236,watered down margarita on <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+237,tasty margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+238,improved seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+239,reserved seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+240,good tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+241,ice cold beer <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+242,half empty restaurant <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+243,big chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+244,ticket- assigned seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+245,comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+246,loved margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+247,favorite ginger margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+248,great juggling <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+249,numerous beer options <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+250,pretty cool- wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+251,better cocktails <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+252,yum root beer float <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+253,enormous beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+254,love seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+255,strongest margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+256,preselected seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+257,nice comfy seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+258,favorite beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+259,broken atm <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+260,better cocktails <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+261,best root beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+262,super cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+263,little benches <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+264,large chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+265,assigned seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+266,free golf game <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+267,very clean lot <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+268,so darn comfortable seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+269,short on fruit wines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+270,long chair mattresses <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+271,nice local beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+272,always good beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+273,enough combo fajitas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+274,cold draft beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+275,excellent margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+276,best margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+277,favorite blue grata martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+278,horizontal tequila samplers <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+279,solid gilbert regal <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+280,best margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+281,nice comfy seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+282,different rooms <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+283,comfortable seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+284,small restaurant <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+285,very nice wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+286,poor beer selection <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+287,never seat <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+288,best margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+289,highest rated craft beer producers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+290,plenty of reserved seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+291,yummy martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+292,decent wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+293,comfy chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+294,better seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+295,great margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+296,reserved seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+297,small seating area <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+298,good vodka sauce <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+299,unique beer selections <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+300,tiny venue <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+301,not the most comfortable recliners <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+302,assigned seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+303,ticket- assigned seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+304,plenty of reserved seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+305,so darn comfortable seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+306,comfortable center court yard <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+307,enormous beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+308,enough combo fajitas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+309,great deal beer combo <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+310,comfy reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+311,better seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+312,comfy reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+313,small parking lots <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+314,comfortable seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+315,comfortable recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+316,different rooms <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+317,close seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+318,spacious rows <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+319,fairly clean seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+320,potent margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+321,comfortable seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+322,spacious rows <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+323,good tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+324,enough combo fajitas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+325,tasty margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+326,cozy wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+327,better seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+328,fantastic martinis <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+329,nice wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+330,funnest alcoholic <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+331,great reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+332,extensive wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+333,low beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+334,dusty napkin holders <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+335,good seat in <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+336,quaint little wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+337,wonderful seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+338,unique beer selections <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+339,most awesome wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+340,super comfy couches <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+341,comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+342,too seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+343,awesome seafood cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+344,always a blast mini golf <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+345,crazy cocktails <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+346,pretty small parking lot <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+347,very refreshing mexican red beer ) beers <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+348,close seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+349,long chair mattresses <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+350,favorite blue grata martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+351,great wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+352,so cheesy tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+353,fairly clean restaurant <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+354,best root beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+355,among the best spring rolls <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+356,watered down margarita on <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+357,best margarita <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+358,spacious place for <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+359,very tables <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+360,not a very big place <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+361,cramped spot <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+362,perfect lower level center seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+363,close seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+364,setup beds <SEP> positive,unorganized place <SEP> negative,Automotive,0
+365,comfy reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+366,astoundingly good local blueberry honey ale <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+367,cooler dollar beers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+368,quite fun laser tag <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+369,preselected seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+370,enormous beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+371,die for apple cider donuts <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+372,very strong wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+373,better margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+374,never too packed place <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+375,spacious establishment <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+376,horizontal tequila samplers <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+377,hard to find a seat <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+378,among the best spring rolls <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+379,super comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+380,discounted wine list selections <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+381,traditional seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+382,not the most comfortable recliners <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+383,always good beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+384,disaster seating <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+385,clean and well - maintained standing area <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+386,very comfortable place <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+387,understaffed place <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+388,small parking lots <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+389,fine tables <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+390,loved wine selection suggestions <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+391,good beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+392,great beer menu <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+393,diverse wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+394,loved wine selection suggestions <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+395,pricey beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+396,nice big train /booth   <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+397,sold out seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+398,great margarita pizza <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+399,little low seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+400,comfortable center court yard <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+401,big chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+402,spacious seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+403,like reserved seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+404,cheaper seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+405,wider seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+406,good selection of draft beers <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+407,good beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+408,tiny theater <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+409,reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+410,cheaper seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+411,far seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+412,favorite blue grata martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+413,wonderful wines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+414,extensive wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+415,very good margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+416,disaster seating <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+417,outstanding seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+418,nice comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+419,very energizing tequila bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+420,great beer specials <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+421,fantastic martinis <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+422,comfortable recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+423,full bar <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+424,nice wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+425,great reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+426,stellar firebird <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+427,good beer selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+428,small exhibit <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+429,awesome recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+430,great front row seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+431,comfy chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+432,great wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+433,extensive wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+434,divey place <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+435,yummy martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+436,very good margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+437,best margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+438,best double char <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+439,very comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+440,below street level seating bowl <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+441,pretty small parking lot <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+442,funnest alcoholic <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+443,best draft house <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+444,formidable craft beer menu <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+445,better margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+446,assigned seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+447,really good yogurt soju cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+448,favorite pinot noir <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+449,comfy recliner chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+450,wider seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+451,comfortable reclining chair <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+452,strongest margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+453,good selection of beers on tap <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+454,pretty expensive soda <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+455,leather seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+456,expensive beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+457,cheaper seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+458,excellent margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+459,different seating options <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+460,full bar <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+461,quaint little wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+462,spacious establishment <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+463,really good margarita <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+464,comfy reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+465,open tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+466,watered down margarita on <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+467,extensive wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+468,leather seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+469,pretty good wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+470,good margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+471,awesome seafood cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+472,actual korean table seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+473,most awesome wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+474,good wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+475,great margarita pizza <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+476,uncomfortable chair <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+477,decent wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+478,large chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+479,nice reclining chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+480,amazing shrimp cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+481,little gaming tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+482,packed in seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+483,tiny place <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+484,so cheesy tater tots <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+485,comfy reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+486,strictly theater seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+487,comfortable reclining chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+488,fine xiao long bao <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+489,always good beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+490,among the best spring rolls <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+491,wrong seat cover <SEP> negative,unorganized place <SEP> negative,Automotive,0
+492,strongest margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+493,leather seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+494,comfy recliner chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+495,tiny venue <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+496,nice comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+497,well made margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+498,comfy leather <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+499,close seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+500,uncomfortable theatre seat <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+501,great seat in <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+502,rowdy beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+503,good wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+504,loosest slots <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+505,small seating area <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+506,ice cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+507,free golf game <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+508,reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+509,"uncomfortable conference room "" type <SEP> negative",very comfortable seating <SEP> positive,Arts & Entertainment,0
+510,good tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+511,piss warm beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+512,good beer selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+513,snug seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+514,cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+515,luxurious chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+516,good wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+517,great craft cocktails <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+518,comfortable lounger <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+519,enjoyed wines <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+520,surprising range beer list <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+521,best double char <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+522,more open tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+523,diverse wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+524,favorite beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+525,little gaming tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+526,comfortable lounger <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+527,better margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+528,leather seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+529,good margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+530,great margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+531,clean seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+532,loved wine selection suggestions <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+533,really tasty michelada beer <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+534,fancy soda machines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+535,full reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+536,very nice wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+537,very comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+538,super comfy couches <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+539,disaster seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+540,good selection of draft beers <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+541,great beer menu <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+542,good seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+543,really good yogurt soju cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+544,quaint wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+545,loved tater tots <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+546,killer summer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+547,awesome recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+548,rowdy beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+549,crazy cocktails <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+550,clean seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+551,highest rated craft beer producers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+552,fancy soda machines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+553,better cocktails <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+554,pretty comfortable seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+555,favorite blue grata martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+556,old style seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+557,cold draft beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+558,poor beer selection <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+559,low beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+560,comfy recliner chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+561,good beer selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+562,great beer menu <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+563,little crazy nickel beer nights <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+564,improved seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+565,great seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+566,perfect martini <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+567,really tasty michelada beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+568,below street level seating bowl <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+569,full room <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+570,comfortable recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+571,comfortable reclining chair <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+572,favorite pinot noir <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+573,awesome recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+574,best root beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+575,pretty good wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+576,free 18 hole cards <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+577,best root beer <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+578,best seat in <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+579,spacious rows <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+580,overpriced cocktail <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+581,well made margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+582,crammed chairs <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+583,very good margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+584,leather reclining seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+585,assigned seating <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+586,horizontal tequila samplers <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+587,pretty cool- wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+588,super cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+589,very strong wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+590,comfy seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+591,assigned seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+592,comfy shoes <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+593,leather reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+594,good margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+595,amazing shrimp cocktail <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+596,great seat in <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+597,comfortable seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+598,yummy martini <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+599,super comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+600,extensive wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+601,broken atm <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+602,tiny theater <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+603,diverse wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+604,perfect lower level center seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+605,little low seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+606,plenty of seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+607,really good margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+608,great beer selection <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+609,delicious apple cider <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+610,awful vodka recommendation <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+611,reserved seating policy <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+612,packed in seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+613,comfortable seating provided <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+614,very refreshing mexican red beer ) beers <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+615,ice cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+616,funnest alcoholic <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+617,fine xiao long bao <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+618,strongest margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+619,love seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+620,plenty of seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+621,great front row seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+622,great beer specials <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+623,great beer selection <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+624,small casino <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+625,quaint wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+626,pretty comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+627,watered down margarita on <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+628,small restaurant <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+629,little benches <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+630,long chair mattresses <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+631,great margarita pizza <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+632,spacious place for <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+633,a little awkward seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+634,very energizing tequila bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+635,overpriced beer <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+636,tiny venue <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+637,pretty cool- wine bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+638,discounted wine list selections <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+639,out of this world delicious apple cider <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,1
+640,best draft house <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+641,full korean bar <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+642,little crazy nickel beer nights <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+643,great juggling <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+644,good selection of draft beers <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+645,loved wine selection suggestions <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+646,cute bench <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+647,nice comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+648,like reserved seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+649,best margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+650,good beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+651,spacious establishment <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+652,deserve seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+653,less seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+654,comfortable seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+655,loved wine selection suggestions <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+656,pretty good wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+657,close seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+658,really good yogurt soju cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+659,reserved seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+660,nice comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+661,small casino <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+662,cramped spot <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+663,piss warm beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+664,loved tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+665,packed in seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+666,small exhibit <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+667,slanted outside table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+668,comfy leather <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+669,good selection of beers on tap <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+670,wonderful wines <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+671,a little awkward seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+672,super cold beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+673,low beer <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+674,most awesome wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+675,lots of seating choices <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+676,cute bench <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+677,really comfortable recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+678,really nice touch reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+679,great seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+680,large seats <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+681,good seat <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+682,small parking lots <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+683,well made margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+684,cooler dollar beers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+685,pretty small parking lot <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+686,best draft house <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+687,ample seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+688,great beer specials <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+689,strictly theater seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+690,potent margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+691,super comfy seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+692,tasty margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+693,discounted wine list selections <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+694,formidable craft beer menu <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+695,decent wine selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+696,very comfortable place <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+697,comfortable seating provided <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+698,sold out seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+699,nice seating areas <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+700,nice wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+701,delicious margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+702,ticket- assigned seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+703,loved beer selections <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+704,roadside mexican flare <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+705,big tables <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+706,small seating area <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+707,different seating options <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+708,quaint little wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+709,comfortable chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+710,super cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+711,better margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+712,big seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+713,always a blast mini golf <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+714,wonderful wines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+715,very refreshing mexican red beer ) beers <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+716,comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+717,18 holes course <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+718,comfortable center court yard <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+719,very refreshing mexican red beer ) beers <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+720,amazing shrimp cocktail <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+721,awful vodka recommendation <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+722,good seat in <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+723,uncomfortable theatre seat <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+724,disaster seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+725,outstanding seating <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+726,small parking lots <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+727,love seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+728,very comfy seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+729,reserved seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+730,crammed chairs <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+731,reserved seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+732,good selection of beers on tap <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+733,love seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+734,clean and well - maintained standing area <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+735,super comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+736,quite fun laser tag <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+737,great front row seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+738,fine xiao long bao <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+739,very energizing tequila bar <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+740,comfy shoes <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+741,great deal beer combo <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+742,"uncomfortable conference room "" type <SEP> negative",super comfortable seats <SEP> positive,Arts & Entertainment,0
+743,really nice touch reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+744,tasty margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+745,fancy soda machines <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+746,not the most comfortable recliners <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,1
+747,roadside mexican flare <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+748,great selection of beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+749,wonderful wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+750,hard to stay seated <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+751,yum root beer float <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+752,cold beer <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+753,astoundingly good local blueberry honey ale <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+754,little gaming tables <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+755,fantastic martinis <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+756,good seat in <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+757,cozy wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+758,loved beer selections <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+759,big place <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+760,delicious margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+761,great craft cocktails <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+762,diverse wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+763,"uncomfortable conference room "" type <SEP> negative",assigned seating <SEP> positive,Arts & Entertainment,0
+764,quickly seated <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+765,full reclining seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+766,fine tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+767,nice wine list <SEP> positive,impressive wine list <SEP> positive,Restaurants,1
+768,super comfy couches <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+769,potent margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+770,comfortable booths <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+771,really tasty michelada beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+772,good seat <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+773,tiny theater <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+774,good selection of draft beers <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+775,improved seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+776,reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+777,surprising range beer list <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+778,delicious margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+779,great beer selection <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+780,nice reclining chairs <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+781,cute bench <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+782,really comfortable recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+783,poor beer selection <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+784,sold out seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+785,spacious place for <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+786,enough combo fajitas <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+787,good wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+788,18 holes course <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+789,tiny venue <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+790,well made margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+791,wonderful wines <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+792,ticket- assigned seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+793,fantastic martinis <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+794,so darn comfortable seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+795,delicious margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+796,really comfortable recliner seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+797,divey place <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+798,most awesome wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+799,cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+800,really comfortable recliner seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+801,great beer selection <SEP> negative,poor beer selection <SEP> negative,Restaurants,1
+802,astoundingly good local blueberry honey ale <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+803,great margarita pizza <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+804,big seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+805,wider seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+806,favorite blue grata martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+807,comfy leather <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+808,leather reclining seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+809,numerous beer options <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+810,like reserved seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+811,comfy chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+812,small venue <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+813,little benches <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+814,preselected seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+815,awesome recliner seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+816,reserved seating policy <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+817,great wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+818,ice cold beer <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+819,very good margaritas <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+820,cheap gourds <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+821,really good yogurt soju cocktail <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+822,leather reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+823,full bar <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+824,good tater tots <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+825,like reserved seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+826,full room <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+827,delicious margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+828,formidable craft beer menu <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+829,nice wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+830,good beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+831,super comfortable place <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+832,not a very big place <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+833,decent wine selection <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+834,tiny theater <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+835,great margarita pizza <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+836,very small parking lot <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+837,good selection of beers on tap <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+838,quaint little wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+839,long table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+840,loved margarita <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+841,best double char <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+842,roadside mexican flare <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+843,funnest alcoholic <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+844,good seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+845,super cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+846,cold beer <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+847,decent wine selection <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+848,very comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+849,pretty hot bouncers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+850,best margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+851,cold draft beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+852,loved tater tots <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+853,not the most comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+854,diverse wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+855,occupied table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+856,good vodka sauce <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+857,cozy wine bar <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+858,missing bottle service tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+859,covered outdoor seating area <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+860,cute bench <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+861,perfect martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+862,great craft cocktails <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+863,great beer specials <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+864,great seat in <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+865,assigned seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+866,nice wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+867,roadside mexican flare <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+868,liked seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+869,hard to stay seated <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+870,preselected seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+871,different rooms <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+872,cold draft beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+873,perfect lower level center seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+874,good beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+875,perfect martini <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+876,pretty cool- wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+877,uncomfortable chair <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+878,old style seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+879,far seats <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+880,nice comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+881,good vodka sauce <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+882,nice comfy seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+883,cold beer <SEP> negative,overpriced beer <SEP> negative,Restaurants,1
+884,great margaritas <SEP> positive,did margaritas <SEP> positive,Restaurants,1
+885,great beer selection <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+886,comfortable reclining chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+887,pretty small parking lot <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+888,very comfy seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+889,pretty cool- wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+890,less seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+891,very nice wine bar <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+892,comfortable seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+893,comfortable seating provided <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+894,great seat in <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+895,clean seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+896,nice selection of beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+897,cozy wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+898,big seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+899,always good beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+900,formidable craft beer menu <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+901,cramped spot <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+902,spacious seats <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+903,dirty tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+904,assigned seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+905,awful vodka recommendation <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+906,good seat in <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+907,hard to stay seated <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+908,short on fruit wines <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+909,excellent margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+910,very energizing tequila bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+911,horizontal tequila samplers <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+912,strictly theater seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+913,large chairs <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+914,huge comfortable seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+915,great wine list <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+916,great selection of beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+917,comfy seats <SEP> positive,comfortable seating <SEP> positive,Restaurants,0
+918,crammed chairs <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+919,dirty table <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+920,great wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+921,full bar <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+922,not the most comfortable seats <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+923,fine tables <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+924,love floor seating <SEP> positive,comfortable seating <SEP> positive,Restaurants,1
+925,stellar firebird <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+926,luxurious chair <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+927,great wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+928,pretty good wine list <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+929,nice comfy seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+930,wonderful seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+931,very strong wine list <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+932,great wine selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+933,comfy shoes <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+934,divey place <SEP> negative,overpriced beer <SEP> negative,Restaurants,0
+935,very comfortable place <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+936,small restaurant <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+937,expensive beers <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+938,enough combo fajitas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+939,cramped spot <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+940,very front desk <SEP> positive,unorganized place <SEP> negative,Automotive,0
+941,delicious apple cider <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+942,loosest slots <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+943,lots of seating choices <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+944,loved margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+945,nice local beer selection <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+946,cold beers <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+947,awesome chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+948,pretty expensive soda <SEP> negative,great apple cider <SEP> positive,Arts & Entertainment,0
+949,yummy martini <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+950,favorite pinot noir <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+951,comfortable seat <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+952,very comfy seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+953,"uncomfortable conference room "" type <SEP> negative",comfy recliners <SEP> positive,Arts & Entertainment,0
+954,overpriced beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+955,great selection of beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+956,good selection of beers on tap <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+957,different seating options <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,1
+958,super comfortable seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+959,wide selection of beers <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+960,very nice wine bar <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+961,clean seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+962,great craft cocktails <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+963,big place <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+964,luxurious chair <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+965,cheaper seats <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+966,great margaritas <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+967,amazing shrimp cocktail <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+968,fairly clean seat <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+969,comfortable chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+970,really tasty michelada beer <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+971,small venue <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+972,free 18 hole cards <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+973,small seating area <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+974,nice wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+975,uncomfortable theatre seat <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+976,quaint wine bar <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+977,very clean lot <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+978,comfortable seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+979,nice local beer selection <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+980,different seating options <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+981,lots of seating choices <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+982,clean and well - maintained standing area <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+983,among the best spring rolls <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+984,potent margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+985,wide selection of beers <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+986,best root beer <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+987,huge comfortable seating <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+988,low seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+989,very comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+990,old style seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+991,great reclining chairs <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+992,uncomfortable theatre seat <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+993,pretty good at mini golf <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+994,divey place <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+995,full reclining seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+996,enjoyed wines <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+997,favorite pinot noir <SEP> negative,good selection of cocktails <SEP> positive,Restaurants,0
+998,missing bottle service tables <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+999,good vodka sauce <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+1000,formidable craft beer menu <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+1001,best margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+1002,so cheesy tater tots <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+1003,amazing shrimp cocktail <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+1004,good wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+1005,clean and well - maintained standing area <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+1006,excellent margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+1007,empty tables <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+1008,pretty comfortable seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+1009,favorite ginger margarita <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+1010,among the best spring rolls <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+1011,comfy reclining chairs <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+1012,best double char <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+1013,long chair mattresses <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+1014,great beer menu <SEP> positive,did margaritas <SEP> positive,Restaurants,0
+1015,comfortable recliner seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+1016,nonexistent table service <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+1017,close seats <SEP> negative,super comfortable seats <SEP> positive,Arts & Entertainment,0
+1018,cold beer <SEP> negative,great local cocktails <SEP> positive,Arts & Entertainment,0
+1019,wonderful wine selection <SEP> positive,overpriced beer <SEP> negative,Restaurants,0
+1020,plenty of seats <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+1021,far seats <SEP> negative,assigned seating <SEP> positive,Arts & Entertainment,0
+1022,wonderful seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+1023,always good beer <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+1024,outstanding silver work <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+1025,yummy martini <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+1026,very good margaritas <SEP> positive,impressive wine list <SEP> positive,Restaurants,0
+1027,reserved seating policy <SEP> negative,comfy recliners <SEP> positive,Arts & Entertainment,0
+1028,favorite pinot noir <SEP> negative,did margaritas <SEP> positive,Restaurants,0
+1029,super comfy couches <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+1030,lots of seating <SEP> negative,comfortable seating <SEP> positive,Restaurants,0
+1031,divey place <SEP> negative,impressive wine list <SEP> positive,Restaurants,0
+1032,ice cold beer <SEP> negative,poor beer selection <SEP> negative,Restaurants,0
+1033,die for apple cider donuts <SEP> positive,great local cocktails <SEP> positive,Arts & Entertainment,0
+1034,favorite ginger margarita <SEP> positive,poor beer selection <SEP> negative,Restaurants,0
+1035,nice wine list <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+1036,comfortable center court yard <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,0
+1037,big place <SEP> positive,assigned seating <SEP> positive,Arts & Entertainment,0
+1038,ridiculous seating <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+1039,better margaritas <SEP> positive,good selection of cocktails <SEP> positive,Restaurants,0
+1040,comfortable seating provided <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+1041,better seats <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,1
+1042,huge comfortable seating <SEP> positive,very comfortable seating <SEP> positive,Arts & Entertainment,1
+1043,not a very big place <SEP> negative,very comfortable seating <SEP> positive,Arts & Entertainment,0
+1044,pricey beer <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+1045,plenty of reserved seating <SEP> positive,comfy recliners <SEP> positive,Arts & Entertainment,0
+1046,very comfortable place <SEP> positive,super comfortable seats <SEP> positive,Arts & Entertainment,0
+1047,delicious apple ciders <SEP> positive,great apple cider <SEP> positive,Arts & Entertainment,0
+1048,wonderful wines <SEP> positive,overpriced beer <SEP> negative,Restaurants,0

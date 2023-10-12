@@ -1,0 +1,124 @@
+key_point_id,key_point,full_key_point,topic,domain,predicted_WA
+kp_0_0,did margaritas <SEP> positive,Margaritas did n't disappoint either !  ,drink -> alcohol,Restaurants,0.4200383126735687
+kp_0_1,good selection of cocktails <SEP> positive,Good selection of cocktails .,drink -> alcohol,Restaurants,0.4355701804161072
+kp_0_2,impressive wine list <SEP> positive,Wine list is also impressive .  ,drink -> alcohol,Restaurants,0.4283636808395386
+kp_0_3,overpriced beer <SEP> negative,Beer was overpriced .,drink -> alcohol,Restaurants,0.5687693357467651
+kp_0_4,poor beer selection <SEP> negative,Beer selection is poor .,drink -> alcohol,Restaurants,0.5319820046424866
+kp_1_0,dirty water glasses <SEP> negative,Water glasses were dirty .,drink -> quality,Restaurants,0.4253019392490387
+kp_1_1,fairly priced drinks <SEP> positive,Fairly priced drinks .,drink -> quality,Restaurants,0.4422309100627899
+kp_1_2,great brisket <SEP> positive,Brisket is great and moist .,drink -> quality,Restaurants,0.45488879084587097
+kp_2_0,good portions omelets <SEP> positive,Omelets are good portions .,food -> healthiness,Restaurants,0.5367823243141174
+kp_2_1,lacked seasoning king crab legs <SEP> negative,King crab legs lacked seasoning .   ,food -> healthiness,Restaurants,0.5532650947570801
+kp_2_2,wilted lettuce <SEP> negative,Lettuce was wilted and brown .  ,food -> healthiness,Restaurants,0.4988867938518524
+kp_3_0,addictive sandwiches <SEP> negative,The sandwiches are addictive ...,food -> quality,Restaurants,0.43320509791374207
+kp_3_1,always delicious food <SEP> positive,The food is always delicious,food -> quality,Restaurants,0.43751397728919983
+kp_3_2,authentic korean food <SEP> positive,"Very good , authentic Korean food .",food -> quality,Restaurants,0.45634445548057556
+kp_3_3,authentic mexican food <SEP> positive,Authentic Mexican food .,food -> quality,Restaurants,0.5013257265090942
+kp_3_4,cold food <SEP> negative,"Food was cold , dry , flavorless .",food -> quality,Restaurants,0.5471324324607849
+kp_3_5,cold fries <SEP> negative,Burger and fries were cold .,food -> quality,Restaurants,0.45567020773887634
+kp_3_6,consistently quality food <SEP> positive,Consistently quality food and margaritas ! ! !,food -> quality,Restaurants,0.46908339858055115
+kp_3_7,cooked poorly burger <SEP> negative,Burger was cooked poorly .,food -> quality,Restaurants,0.523705780506134
+kp_3_8,disappointing food <SEP> negative,The food was just disappointing .,food -> quality,Restaurants,0.44684672355651855
+kp_3_9,excellent enchiladas <SEP> positive,Excellent chile relleno and enchiladas .  ,food -> quality,Restaurants,0.42821601033210754
+kp_3_10,excellent food <SEP> positive,"Excellent food , atmosphere and ambience .",food -> quality,Restaurants,0.4282650053501129
+kp_3_11,fresh salads <SEP> positive,Salads are fresh and healthy .,food -> quality,Restaurants,0.49485647678375244
+kp_3_12,good food <SEP> positive,"Food is good , but overpriced .",food -> quality,Restaurants,0.5861688256263733
+kp_3_13,good quality mexican food <SEP> positive,"Good quality "" regular "" Mexican food .",food -> quality,Restaurants,0.4222522974014282
+kp_3_14,great affordable food <SEP> positive,Great affordable food .,food -> quality,Restaurants,0.5067029595375061
+kp_3_15,great family restaurant <SEP> positive,Great family restaurant .,food -> quality,Restaurants,0.46143510937690735
+kp_3_16,great food <SEP> positive,"Great food , drinks and service !",food -> quality,Restaurants,0.48235538601875305
+kp_3_17,great for night time snackers <SEP> positive,Great for night time snackers .,food -> quality,Restaurants,0.4537307322025299
+kp_3_18,great korean fusion <SEP> positive,Great Korean fusion .,food -> quality,Restaurants,0.5673350095748901
+kp_3_19,great late night grub spot <SEP> positive,Great late night grub spot !,food -> quality,Restaurants,0.4616958796977997
+kp_3_20,great meats <SEP> positive,Flavorful stocks and great meats .,food -> quality,Restaurants,0.4887421429157257
+kp_3_21,great mexican food <SEP> positive,Great Mexican food and service .  ,food -> quality,Restaurants,0.43739035725593567
+kp_3_22,great quality sushi <SEP> positive,Sushi was great quality .,food -> quality,Restaurants,0.4825296401977539
+kp_3_23,great ramen <SEP> positive,Great Ramen and Udon too !,food -> quality,Restaurants,0.45488375425338745
+kp_3_24,great sauces <SEP> positive,Great sauces and salsas .  ,food -> quality,Restaurants,0.43798819184303284
+kp_3_25,great soups <SEP> positive,Great soups and sandwiches .  ,food -> quality,Restaurants,0.45854759216308594
+kp_3_26,homemade pastas <SEP> positive,Homemade pastas and pizza .,food -> quality,Restaurants,0.42002835869789124
+kp_3_27,moist chicken <SEP> negative,Chicken was moist but bland .  ,food -> quality,Restaurants,0.47033339738845825
+kp_3_28,perfect consistency refried beans <SEP> positive,Refried beans the perfect consistency .,food -> quality,Restaurants,0.4637437164783478
+kp_3_29,perfectly seasoned fries <SEP> positive,The fries were perfectly seasoned,food -> quality,Restaurants,0.5393614172935486
+kp_3_30,prepared food <SEP> positive,Food is prepared with care .  ,food -> quality,Restaurants,0.5275498628616333
+kp_3_31,reliable korean cuisine <SEP> positive,Tasty and reliable Korean cuisine .,food -> quality,Restaurants,0.5516496300697327
+kp_3_32,ridiculous badgering <SEP> negative,His badgering was absolutely ridiculous .    ,food -> quality,Restaurants,0.5158945322036743
+kp_3_33,seasoned perfectly meat <SEP> positive,The meat is seasoned perfectly .  ,food -> quality,Restaurants,0.4949682950973511
+kp_3_34,seasoned well rice <SEP> positive,The rice was seasoned well,food -> quality,Restaurants,0.4282238781452179
+kp_3_35,spicy food <SEP> negative,Food is spicy and flavorful .,food -> quality,Restaurants,0.42209866642951965
+kp_3_36,wide selection of food <SEP> positive,Wide selection of food,food -> quality,Restaurants,0.48513397574424744
+kp_3_37,wonderful restaurant <SEP> positive,Wonderful restaurant in Old Montreal .,food -> quality,Restaurants,0.42443251609802246
+kp_4_0,well above expectations pdq <SEP> positive,PDQ was well above expectations .  ,food -> variety,Restaurants,0.5713996887207031
+kp_5_0,generous portions <SEP> positive,Portions are generous .,food-quantity,Restaurants,0.46274229884147644
+kp_5_1,good portions <SEP> positive,Servings are good portions .,food-quantity,Restaurants,0.5650215148925781
+kp_5_2,small dessert portions <SEP> negative,Dessert portions small,food-quantity,Restaurants,0.5648941993713379
+kp_5_3,smaller portions <SEP> negative,Portions are getting smaller .  ,food-quantity,Restaurants,0.4733462333679199
+kp_6_0,great location <SEP> positive,Great location in southwest vegas .,location,Restaurants,0.4592888057231903
+kp_7_0,worst place <SEP> negative,Worst place to eat,recommendation,Restaurants,0.43149179220199585
+kp_8_0,ample parking <SEP> positive,Ample parking and seating .,restaurant -> atmosphere,Restaurants,0.48428580164909363
+kp_8_1,best wings <SEP> positive,Best wings hands down,restaurant -> atmosphere,Restaurants,0.4394696056842804
+kp_8_2,classic music <SEP> positive,Current and classic music .,restaurant -> atmosphere,Restaurants,0.4569137692451477
+kp_8_3,crisp wings <SEP> positive,Wings were crisp as requested .,restaurant -> atmosphere,Restaurants,0.426022469997406
+kp_8_4,dirty place <SEP> negative,Place felt dirty and disorganized .,restaurant -> atmosphere,Restaurants,0.5058704018592834
+kp_8_5,fitting decor <SEP> positive,Decor is fitting and colorful .,restaurant -> atmosphere,Restaurants,0.42034777998924255
+kp_8_6,great ambience <SEP> positive,Great ambience and service .  ,restaurant -> atmosphere,Restaurants,0.42304539680480957
+kp_8_7,great atmosphere <SEP> positive,Great atmosphere and patio service .,restaurant -> atmosphere,Restaurants,0.4623757600784302
+kp_8_8,great date night spot <SEP> positive,Great date night spot or,restaurant -> atmosphere,Restaurants,0.42508503794670105
+kp_8_9,great flavor <SEP> positive,Great flavor and texture .,restaurant -> atmosphere,Restaurants,0.4240235984325409
+kp_8_10,great neighborhood <SEP> positive,Great neighborhood burger joint .,restaurant -> atmosphere,Restaurants,0.42043861746788025
+kp_8_11,great neighborhood restaurant <SEP> positive,Great neighborhood restaurant .,restaurant -> atmosphere,Restaurants,0.43458959460258484
+kp_8_12,minor parking <SEP> negative,Parking is a minor annoyance .,restaurant -> atmosphere,Restaurants,0.4353095293045044
+kp_8_13,perfect gem <SEP> positive,Perfect hidden Gem .,restaurant -> atmosphere,Restaurants,0.4555741846561432
+kp_8_14,sunny outdoor seating <SEP> positive,"Great , sunny , outdoor seating .",restaurant -> atmosphere,Restaurants,0.47357580065727234
+kp_9_0,comfortable seating <SEP> positive,Seating was comfortable and spacious .,restaurant -> comfort,Restaurants,0.5571481585502625
+kp_10_0,a+ customer service <SEP> positive,Customer Service was A+,staff,Restaurants,0.474484384059906
+kp_10_1,absolutely terrible service <SEP> negative,The service was absolutely terrible .,staff,Restaurants,0.4390981197357178
+kp_10_2,always great service <SEP> positive,Service always great,staff,Restaurants,0.4421516954898834
+kp_10_3,amazing service <SEP> positive,Great wings and amazing service .,staff,Restaurants,0.44838273525238037
+kp_10_4,attentive service <SEP> positive,Service was also attentive .,staff,Restaurants,0.45108696818351746
+kp_10_5,attentively managed textures <SEP> positive,"Colors , textures were attentively managed .",staff,Restaurants,0.49409019947052
+kp_10_6,best costumer service <SEP> positive,THE BEST Costumer Service ! !,staff,Restaurants,0.4397377669811249
+kp_10_7,down to earth staff <SEP> positive,"Friendly , down to earth staff .",staff,Restaurants,0.5271258354187012
+kp_10_8,excellent customer service <SEP> positive,They provided excellent customer service .,staff,Restaurants,0.6799116134643555
+kp_10_9,extremely friendly staff <SEP> positive,Their staff is extremely friendly !    ,staff,Restaurants,0.4279281497001648
+kp_10_10,extremely mediocre service <SEP> negative,The service was extremely mediocre .,staff,Restaurants,0.5177798867225647
+kp_10_11,extremely professional service <SEP> positive,The service was extremely professional .,staff,Restaurants,0.4800845682621002
+kp_10_12,"friendly , efficient service <SEP> positive","Friendly , efficient service .",staff,Restaurants,0.5315314531326294
+kp_10_13,friendly and helpful waitress <SEP> positive,Waitress was friendly and helpful .,staff,Restaurants,0.4317294657230377
+kp_10_14,friendly and speedy service <SEP> positive,Service was friendly and speedy .,staff,Restaurants,0.5385202765464783
+kp_10_15,friendly and welcoming owner <SEP> positive,Owner was friendly and welcoming .,staff,Restaurants,0.47182348370552063
+kp_10_16,friendly service <SEP> positive,"Service : friendly , efficient  ",staff,Restaurants,0.4887009263038635
+kp_10_17,friendly staff <SEP> positive,"Friendly staff , bilingual .",staff,Restaurants,0.4999805688858032
+kp_10_18,friendly waitress <SEP> positive,Waitress is friendly and personable .  ,staff,Restaurants,0.5046147704124451
+kp_10_19,great and attentive service <SEP> positive,Service was great and attentive !,staff,Restaurants,0.5071854591369629
+kp_10_20,great and friendly service <SEP> positive,Great and friendly service .,staff,Restaurants,0.4324455261230469
+kp_10_21,great customer service <SEP> positive,Workers had great customer service !,staff,Restaurants,0.5226187705993652
+kp_10_22,hit or miss service <SEP> negative,Service is hit or miss,staff,Restaurants,0.5679154992103577
+kp_10_23,impeccable service <SEP> positive,The service here is impeccable .,staff,Restaurants,0.6404995918273926
+kp_10_24,knowledgeable servers <SEP> positive,Servers are knowledgeable and attentive .,staff,Restaurants,0.628083348274231
+kp_10_25,lovely service <SEP> positive,"Terrific variety , lovely service !",staff,Restaurants,0.4240517020225525
+kp_10_26,nice servers <SEP> positive,Servers nice just not attentive .,staff,Restaurants,0.5123251080513
+kp_10_27,no customer service <SEP> negative,No customer service at all .,staff,Restaurants,0.43917766213417053
+kp_10_28,outstanding customer service <SEP> positive,Customer service was outstanding .,staff,Restaurants,0.5044676065444946
+kp_10_29,overpriced for <SEP> negative,Overpriced   for low quality .,staff,Restaurants,0.5478547811508179
+kp_10_30,patient staff <SEP> positive,"Nice , attentive and patient staff .",staff,Restaurants,0.626934289932251
+kp_10_31,professional staff <SEP> positive,Staff was professional and courteous .  ,staff,Restaurants,0.5848857164382935
+kp_10_32,prompt and efficient service <SEP> positive,Service was prompt and efficient .,staff,Restaurants,0.6386436820030212
+kp_10_33,stellar customer service <SEP> positive,The customer service is stellar .,staff,Restaurants,0.43599724769592285
+kp_10_34,superior service <SEP> positive,Prices and service are superior .   ,staff,Restaurants,0.5581533908843994
+kp_10_35,top - notch service <SEP> positive,The service is top - notch .,staff,Restaurants,0.4415300488471985
+kp_10_36,very attentive service <SEP> positive,Service was very attentive .,staff,Restaurants,0.427079439163208
+kp_10_37,very good customer service <SEP> positive,Very good customer service,staff,Restaurants,0.42169007658958435
+kp_11_0,decent prices <SEP> positive,"Prices are decent , here too .",value-for-money,Restaurants,0.44550466537475586
+kp_11_1,great value for <SEP> positive,Great value for quality ...,value-for-money,Restaurants,0.47700634598731995
+kp_11_2,great value for your money <SEP> positive,Great Value for your money .,value-for-money,Restaurants,0.5137521624565125
+kp_11_3,over hyped expensive <SEP> negative,Way over hyped and expensive .,value-for-money,Restaurants,0.4314403533935547
+kp_11_4,over priced quality <SEP> negative,Over priced for the quality .  ,value-for-money,Restaurants,0.6257856488227844
+kp_11_5,reasonably priced menu <SEP> positive,Reasonably priced menu .,value-for-money,Restaurants,0.4721129536628723
+kp_11_6,very affordable price <SEP> positive,Pros : Very affordable price .  ,value-for-money,Restaurants,0.45330876111984253
+kp_12_0,always on point service <SEP> positive,Service is always on point .,wait-time,Restaurants,0.42106232047080994
+kp_12_1,fast and clean service <SEP> positive,Service is fast and clean .,wait-time,Restaurants,0.5149511694908142
+kp_12_2,fast and efficient service <SEP> positive,Service was fast and efficient .,wait-time,Restaurants,0.5352525115013123
+kp_12_3,fast and friendly service <SEP> positive,Service was fast and friendly .,wait-time,Restaurants,0.5187336802482605
+kp_12_4,friendly and fast service <SEP> positive,Friendly and fast service .,wait-time,Restaurants,0.5385526418685913
+kp_12_5,quick and friendly service <SEP> positive,Service is quick and friendly .,wait-time,Restaurants,0.5218028426170349

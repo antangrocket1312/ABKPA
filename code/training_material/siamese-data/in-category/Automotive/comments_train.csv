@@ -1,0 +1,890 @@
+comment_id,comment,full_comment,topic,domain,predicted_WA
+arg_0_0,  was wash <SEP> negative,"A lady was complaining about her wash just seconds after my car was   "" done ""   was not worth the money at all .",food -> quality,Automotive,0.6520949602127075
+arg_0_1,amazing best experience <SEP> positive,Amazing best experience with David Bonanno,food -> quality,Automotive,0.2881687879562378
+arg_0_2,amazing business <SEP> positive,What an amazing business .,food -> quality,Automotive,0.2482471913099289
+arg_0_3,amazing kara <SEP> positive,Kara was amazing ! !,food -> quality,Automotive,0.6042426824569702
+arg_0_4,awesome ann <SEP> positive,Ann in office was awesome and remained in contact with me the entire time .,food -> quality,Automotive,0.4288528859615326
+arg_0_5,awesome hand wax <SEP> positive,The hand wax is awesome ! !  ,food -> quality,Automotive,0.3880966007709503
+arg_0_6,awesome job <SEP> positive,I 'm a happy camper and reco this place 100 % awesome job guys thank you,food -> quality,Automotive,0.25880882143974304
+arg_0_7,awesome team <SEP> positive,You guys are an awesome team ! !,food -> quality,Automotive,0.30064937472343445
+arg_0_8,basic wash <SEP> negative,Basic wash $ 12 - 14 wait an hour,food -> quality,Automotive,0.22896939516067505
+arg_0_9,best auto shopping experience <SEP> positive,I bought a 2014 Subaru Crosstrek Hybrid from Chris Arrocena and honestly it has been the best auto shopping experience of my life .,food -> quality,Automotive,0.3501034080982208
+arg_0_10,best car buying experience <SEP> positive,"Hands down , the best car buying experience I 've had .",food -> quality,Automotive,0.6669650077819824
+arg_0_11,best car wash <SEP> positive,The best car wash in town .,food -> quality,Automotive,0.47063881158828735
+arg_0_12,best carwash <SEP> positive,This car wash is THE BEST CARWASH !,food -> quality,Automotive,0.392016738653183
+arg_0_13,best finance <SEP> positive,Robert light ( finance director ) your the best .,food -> quality,Automotive,0.5907143354415894
+arg_0_14,best purrfect <SEP> positive,:) this is really the best Purrfect location .,food -> quality,Automotive,0.37385520339012146
+arg_0_15,best toyota dealers <SEP> positive,One of the best Toyota dealers I 've been to .  ,food -> quality,Automotive,0.3193338215351105
+arg_0_16,best wash around <SEP> positive,Best wash around .,food -> quality,Automotive,0.2593629062175751
+arg_0_17,cheap work <SEP> negative,"Although the work is n't cheap , I 've never felt ripped off",food -> quality,Automotive,0.2395915538072586
+arg_0_18,complete jerk dude <SEP> negative,the dude was a complete jerk as if i was an inconvienance ...,food -> quality,Automotive,0.2778230905532837
+arg_0_19,crappy car wash <SEP> negative,What a crappy car wash for $ 10 . 00 .,food -> quality,Automotive,0.758499264717102
+arg_0_20,decent tires <SEP> positive,but I still wanted decent tires since I have a performance vehicle .,food -> quality,Automotive,0.3490433692932129
+arg_0_21,enjoyed weekend car shopping <SEP> positive,I enjoyed my weekend car shopping and happy that I did it in the Autonation Toyota Tempe !  ,food -> quality,Automotive,0.36667707562446594
+arg_0_22,excellent louise <SEP> positive,"Louise Martinez was excellent , and I would highly recommend working with him .",food -> quality,Automotive,0.6674063205718994
+arg_0_23,filthy wheels <SEP> negative,The wheels still filthy .,food -> quality,Automotive,0.5445093512535095
+arg_0_24,fine wash <SEP> positive,"Standard wash , they do a fine job here no problems no qualms .",food -> quality,Automotive,0.5820408463478088
+arg_0_25,free snacks <SEP> positive,"If you waiting they also offer free snacks , TV , and books in the waiting area .  ",food -> quality,Automotive,0.3161642253398895
+arg_0_26,freshly painted house <SEP> positive,Our new house was freshly painted and they moved it all without one single nick anywhere .,food -> quality,Automotive,0.36125683784484863
+arg_0_27,good car wash <SEP> positive,"It used to be a good car wash , but no more .",food -> quality,Automotive,0.8507978320121765
+arg_0_28,good everything <SEP> positive,Everything was good with my car except I had a nail in my tire .  ,food -> quality,Automotive,0.204957976937294
+arg_0_29,good quality hand car wash <SEP> positive,I 'd say look elsewhere for a good quality hand car wash .,food -> quality,Automotive,0.7811394333839417
+arg_0_30,good window tinting <SEP> positive,"Window tinting , they did a good job .  ",food -> quality,Automotive,0.4869900941848755
+arg_0_31,great and ann <SEP> positive,"Ann was great and attentive , calling twice to check - in and update .",food -> quality,Automotive,0.33213579654693604
+arg_0_32,great boys <SEP> positive,Rocco and the boys were great !,food -> quality,Automotive,0.3381807804107666
+arg_0_33,great car buying experience <SEP> positive,My car buying experience tonight was great !,food -> quality,Automotive,0.36932384967803955
+arg_0_34,great carmax <SEP> positive,Carmax is great .,food -> quality,Automotive,0.4788772761821747
+arg_0_35,great cody <SEP> positive,Cody were great .,food -> quality,Automotive,0.24448338150978088
+arg_0_36,great great customer <SEP> positive,Great great customer service too .,food -> quality,Automotive,0.4271031320095062
+arg_0_37,great guy <SEP> positive,"Great guy , highly recommend .  ",food -> quality,Automotive,0.8122446537017822
+arg_0_38,great mike <SEP> positive,Mike was great and answered all my questions .,food -> quality,Automotive,0.4572645127773285
+arg_0_39,great quality car wash <SEP> positive,Great quality car wash !,food -> quality,Automotive,0.3110663592815399
+arg_0_40,great shuttle drivers <SEP> positive,Shuttle drivers were great and even helped me load baggage into my car when I returned .  ,food -> quality,Automotive,0.6458775997161865
+arg_0_41,great toyota prius <SEP> positive,He picked out a great 2010 Toyota Prius and the process could n't have been easier .  ,food -> quality,Automotive,0.40869835019111633
+arg_0_42,great wash <SEP> positive,Great wash .,food -> quality,Automotive,0.43422892689704895
+arg_0_43,happy car wash <SEP> positive,SO SO happy this car wash exists .,food -> quality,Automotive,0.502395749092102
+arg_0_44,horrific everything <SEP> negative,I have been dealing with them for weeks and everything they 've put me through is absolutely horrific .,food -> quality,Automotive,0.5546037554740906
+arg_0_45,love car wash <SEP> positive,I love this car wash,food -> quality,Automotive,0.4564608931541443
+arg_0_46,love golf <SEP> positive,"Anyways , we love our new Golf !",food -> quality,Automotive,0.49959662556648254
+arg_0_47,loved washes <SEP> positive,I have always loved my Lindstrom washes and highly recommend to anyone !,food -> quality,Automotive,0.3214530646800995
+arg_0_48,missed a lot of chips <SEP> negative,They missed a lot of chips on both cars that I had done .,food -> quality,Automotive,0.40212440490722656
+arg_0_49,nice marcos <SEP> positive,"Marcos was nice , attentive , and knowledgeable .",food -> quality,Automotive,0.3191627562046051
+arg_0_50,partially done floor mats <SEP> negative,The floor mats were partially done and one side put back upside down .,food -> quality,Automotive,0.8650276064872742
+arg_0_51,perfect wash <SEP> negative,"If you 're looking for the "" perfect "" wash , this is not the place for you .",food -> quality,Automotive,0.6247787475585938
+arg_0_52,perfectly fine shocks <SEP> positive,Told them to hold off and took it in to a different establishment only to find out the shocks were perfectly fine .  ,food -> quality,Automotive,0.3488844335079193
+arg_0_53,piss poor car wash <SEP> negative,This is a piss poor car wash .,food -> quality,Automotive,0.5763171911239624
+arg_0_54,popped hot popcorn <SEP> positive,"Loved even the little touches , like hot popcorn being popped for those waiting on paperwork .",food -> quality,Automotive,0.22645720839500427
+arg_0_55,proud subaru <SEP> positive,Proud subaru owner,food -> quality,Automotive,0.4264238774776459
+arg_0_56,really amazing persons <SEP> positive,"Chelsey , Alex the genius and The manager Are really amazing persons ! ! !   ",food -> quality,Automotive,0.8064895272254944
+arg_0_57,really nice touch car washes <SEP> positive,The car washes as part of the service are a really nice touch .,food -> quality,Automotive,0.2736337184906006
+arg_0_58,sleek black beauty <SEP> positive,It 's my sleek black beauty ! .  ,food -> quality,Automotive,0.6750819087028503
+arg_0_59,stolen items <SEP> negative,No responsibility was taken for damaged and stolen items from my car .,food -> quality,Automotive,0.5519625544548035
+arg_0_60,super clean car <SEP> positive,Car was left super clean .   ,food -> quality,Automotive,0.5515022873878479
+arg_0_61,super hard working team <SEP> positive,The team was super hard working while still fun and friendly .  ,food -> quality,Automotive,0.4972971975803375
+arg_0_62,super star car wash <SEP> positive,Thank you Super Star Car Wash !,food -> quality,Automotive,0.5782265067100525
+arg_0_63,superior tires <SEP> positive,Thanks Goodyear superior tires .,food -> quality,Automotive,0.31045836210250854
+arg_0_64,terrible car wash <SEP> negative,Terrible car wash .,food -> quality,Automotive,0.5946231484413147
+arg_0_65,top notch jr <SEP> positive,Everyone was so welcoming and JR was top notch !,food -> quality,Automotive,0.2782694697380066
+arg_0_66,very good autonation <SEP> positive,I have to say autonation was very good to me .,food -> quality,Automotive,0.2295830398797989
+arg_0_67,very well cars <SEP> negative,Also the cars were n't cleaned very well .,food -> quality,Automotive,0.4265640377998352
+arg_0_68,well taken care of snacks <SEP> positive,I was well taken care of with snacks and drinks .  ,food -> quality,Automotive,0.7474244236946106
+arg_0_69,worst car wash <SEP> negative,Even the worst car wash at Danny 's is better than this place .,food -> quality,Automotive,0.37905189394950867
+arg_0_70,worst people <SEP> negative,They are the ABSOLUTE WORST people / company to deal with .,food -> quality,Automotive,0.28213536739349365
+arg_1_0,adequate options <SEP> positive,"After searching at several dealerships and finding adequate options , we decided on VW North Scottsdale primarily due to the sales consultant , James Hedland .",food -> variety,Automotive,0.4626096487045288
+arg_1_1,affordable leasing options <SEP> positive,Love my new Camry hybrid and the leasing options made it affordable for me on my limited budget .,food -> variety,Automotive,0.4845666289329529
+arg_1_2,amazing inventory <SEP> positive,Fortunately I love Audi of North Scottsdale because everyone is so friendly and they have an amazing inventory .,food -> variety,Automotive,0.6866015791893005
+arg_1_3,bad selection <SEP> positive,"I read a lot of bad reviews about this place and was dreading going there , but they had the best selection of the vehicle I wanted so",food -> variety,Automotive,0.44270575046539307
+arg_1_4,best purchasing experience <SEP> positive,"The purchasing experience was the best I have had , and I have purchased my share of vehicles .",food -> variety,Automotive,0.655139684677124
+arg_1_5,comfortable purchase <SEP> positive,"Made my purchase easy , comfortable , and fun !",food -> variety,Automotive,0.25414329767227173
+arg_1_6,easy loyalty <SEP> positive,Easy loyalty punchcard system .,food -> variety,Automotive,0.7515674233436584
+arg_1_7,easy purchase experience <SEP> positive,Tom and Tyler made my purchase experience easy and fast .,food -> variety,Automotive,0.3933594822883606
+arg_1_8,easy to get appointments <SEP> positive,Appointments are easy to get .,food -> variety,Automotive,0.41592419147491455
+arg_1_9,equal treatment <SEP> negative,I hope when their respective cars are in an accident they receive equal or worse treatment .,food -> variety,Automotive,0.15777288377285004
+arg_1_10,fine choice dealership <SEP> negative,"If the car suits you , this dealership would be a fine choice .  ",food -> variety,Automotive,0.20246922969818115
+arg_1_11,free cookie <SEP> positive,Coupon for free cookie in the terminal .  ,food -> variety,Automotive,0.6536821722984314
+arg_1_12,free punch <SEP> positive,The punch card for a free day every nine days is a nice perk .,food -> variety,Automotive,0.729472815990448
+arg_1_13,free repair <SEP> positive,I went to Goodyear superior center and the repair was FREE .,food -> variety,Automotive,0.6679972410202026
+arg_1_14,great selection <SEP> positive,Alot great selection to choose from Did not feel any pressure on buying the car,food -> variety,Automotive,0.49560555815696716
+arg_1_15,hassle free auto buying <SEP> negative,"If you want to have a hassle free auto buying experience and looking for an awesome , safe , reliable vehicle you have to buy from Subaru of Las Vegas .",food -> variety,Automotive,0.2725796699523926
+arg_1_16,hassle free experience <SEP> negative,Matt in finance was prompt with the paperwork and made the experience hassle free .,food -> variety,Automotive,0.6896952986717224
+arg_1_17,issues with car <SEP> negative,Today I noticed issues with my car while driving on the 215 .,food -> variety,Automotive,0.6021815538406372
+arg_1_18,lack communication <SEP> negative,From lack of communication to not covering warranty on a vehicle with 15k miles and even leaving with more issues than I came in with .,food -> variety,Automotive,0.5180166959762573
+arg_1_19,large selection of wheels <SEP> positive,Large selection of wheels available on line .,food -> variety,Automotive,0.5764707922935486
+arg_1_20,malfunctioned windows <SEP> negative,Then I got the car and the windows still malfunctioned .  ,food -> variety,Automotive,0.2786071300506592
+arg_1_21,no nonsense transparent transaction <SEP> positive,I liked the no nonsense transparent transaction .,food -> variety,Automotive,0.21744728088378906
+arg_1_22,really bad decision <SEP> negative,This was a really bad decision paying for the $ 30 package wash .,food -> variety,Automotive,0.5155137181282043
+arg_1_23,simple buying process <SEP> positive,The buying process was simple and they had me in and out in less than an hour when I was ready to buy .,food -> variety,Automotive,0.3806591033935547
+arg_1_24,smoothly pick <SEP> positive,Our pick up on return to Phoenix went smoothly .  ,food -> variety,Automotive,0.34479233622550964
+arg_1_25,stress free purchase <SEP> positive,BMW Henderson made my purchase easy and stress free .  ,food -> variety,Automotive,0.3678429424762726
+arg_1_26,stupid name <SEP> negative,"Also , the name is stupid unless somehow cats are the main clientele ... which would honestly have made the experience better ...",food -> variety,Automotive,0.449934720993042
+arg_1_27,unavailable part <SEP> negative,"I 'm thankful the part I needed was unavailable , because I did not feel comfortable spending my money at this location .",food -> variety,Automotive,0.3740895390510559
+arg_1_28,useless repair <SEP> negative,They have never tried to upsell anything to me and on a couple of occasions have saved me from paying for a useless or unnecessary repair that another mechanic insisted was necessary .,food -> variety,Automotive,0.6350114345550537
+arg_1_29,very easy experience <SEP> positive,The entire adventure I 'd say took approx three hours and was a very easy experience .  ,food -> variety,Automotive,0.4397345185279846
+arg_1_30,very easy pick <SEP> positive,"Pick up on the return trips are very easy as well ,",food -> variety,Automotive,0.8015470504760742
+arg_1_31,way beyond team <SEP> positive,"The team at Tempe Toyota went way beyond our expectations , I never thought I could own a new car .",food -> variety,Automotive,0.8185660243034363
+arg_2_0,absolutely amazing place <SEP> positive,Holy cow this place is absolutely amazing !  ,recommendation,Automotive,0.34236884117126465
+arg_2_1,accurate reviews <SEP> positive,The reviews on this website are accurate .,recommendation,Automotive,0.23060885071754456
+arg_2_2,always a stressful event car buying <SEP> negative,Car buying is always a stressful event in my opinion .  ,recommendation,Automotive,0.29495757818222046
+arg_2_3,amazing place <SEP> positive,This place is amazing the manager,recommendation,Automotive,0.2862076163291931
+arg_2_4,appreciate proffesionalism <SEP> positive,They had a quick turn around and i appreciate their proffesionalism .,recommendation,Automotive,0.5616282820701599
+arg_2_5,appreciate test <SEP> positive,"I appreciate the test drive , patience , and even Stephen hanging on to my garage door opener that I left behind in my old car I traded in .   ",recommendation,Automotive,0.4328930377960205
+arg_2_6,avoid place <SEP> negative,My biggest gripe is that I was warned to avoid this place by several people .,recommendation,Automotive,0.2030949592590332
+arg_2_7,awesome place <SEP> positive,This place is AWESOME !  ,recommendation,Automotive,0.7818426489830017
+arg_2_8,bad reputation <SEP> negative,places like this one are the reason the auto maintenance industry has such a bad reputation .,recommendation,Automotive,0.6746096611022949
+arg_2_9,bad reviews <SEP> negative,"I searched online for a car wash near me and saw this one , with multiple bad reviews .",recommendation,Automotive,0.15786047279834747
+arg_2_10,best car purchase experience <SEP> positive,The best car purchase experience bar none !,recommendation,Automotive,0.8241878747940063
+arg_2_11,best experience with <SEP> positive,Best experience with tires ever ! ! !,recommendation,Automotive,0.6269609928131104
+arg_2_12,best place <SEP> positive,This is the BEST place to come get your car smogged ! !,recommendation,Automotive,0.3035440146923065
+arg_2_13,concern belongings <SEP> negative,Care and concern was taken with our belongings .,recommendation,Automotive,0.9146145582199097
+arg_2_14,could n't be happier experience <SEP> negative,I could n't be happier with my experience @ Blue Sky !,recommendation,Automotive,0.3352193832397461
+arg_2_15,decent warranty <SEP> positive,Thankfully I have a decent warranty .,recommendation,Automotive,0.39033421874046326
+arg_2_16,disappointed quality of <SEP> negative,I am pretty disappointed in the quality of the service I got .,recommendation,Automotive,0.2015914022922516
+arg_2_17,disappointment everything <SEP> negative,One gentleman was very polite but everything else was a big disappointment .,recommendation,Automotive,0.18957042694091797
+arg_2_18,exceeded place <SEP> positive,This place exceeded all my expectations .,recommendation,Automotive,0.6598694324493408
+arg_2_19,excellent experience <SEP> positive,My experience at Subaru of Las Vegas was excellent !,recommendation,Automotive,0.36553770303726196
+arg_2_20,excellent place <SEP> positive,but this place is excellent as far as service !,recommendation,Automotive,0.33410975337028503
+arg_2_21,fairly treat <SEP> positive,They will treat you fairly and professionally .  ,recommendation,Automotive,0.2738257646560669
+arg_2_22,favorite person <SEP> positive,Steve was my favorite person to work with .  ,recommendation,Automotive,0.5271843075752258
+arg_2_23,favorite place <SEP> positive,This is still our favorite place to park !  ,recommendation,Automotive,0.5876096487045288
+arg_2_24,firm handshake <SEP> positive,"A smile , firm handshake , and no bullshizz .  ",recommendation,Automotive,0.7651726007461548
+arg_2_25,good place <SEP> positive,We finally found a good place that wo n't rob us blind !,recommendation,Automotive,0.5726823210716248
+arg_2_26,good reviews <SEP> positive,After reading the good reviews I went ahead and decided to use them .,recommendation,Automotive,0.3647465109825134
+arg_2_27,great place <SEP> positive,Great place to get all my cars detailed .,recommendation,Automotive,0.3575035035610199
+arg_2_28,hate place <SEP> negative,I absolutely hate this place !,recommendation,Automotive,0.7060107588768005
+arg_2_29,highly recommend <SEP> positive,Highly recommend this location for all tire related issues .,recommendation,Automotive,0.504722535610199
+arg_2_30,highly recommend autonation toyota <SEP> positive,HIGHLY recommend Autonation Toyota in Tempe .,recommendation,Automotive,0.5325238704681396
+arg_2_31,highly recommend bill luke <SEP> positive,Highly recommend Bill Luke .,recommendation,Automotive,0.3261413872241974
+arg_2_32,horrible place <SEP> negative,I never ever had problems with my car until we took it to this horrible place .  ,recommendation,Automotive,0.6515108942985535
+arg_2_33,impressed company <SEP> positive,I was so impressed with this company !,recommendation,Automotive,0.14746522903442383
+arg_2_34,lack of attention <SEP> negative,but there 's clearly a lack of attention .,recommendation,Automotive,0.2831646800041199
+arg_2_35,leaking blah <SEP> negative,"I was afraid in the end that I was going to get a comment like , "" hey we noticed that blah blah is leaking or broken and you need to fix it ...",recommendation,Automotive,0.6671214699745178
+arg_2_36,legit place <SEP> positive,This place is Legit ! !,recommendation,Automotive,0.3847818076610565
+arg_2_37,little car buying experience <SEP> negative,the car buying experience can get a little ... alot ...,recommendation,Automotive,0.27671462297439575
+arg_2_38,love place <SEP> positive,I love this place .  ,recommendation,Automotive,0.2755089998245239
+arg_2_39,love warranty <SEP> positive,I also love their warranty that you can purchase for an extra fee .,recommendation,Automotive,0.5487502813339233
+arg_2_40,most reasonable quote <SEP> positive,"After shopping around , Audi North Scottsdale was the most reasonable quote I received .",recommendation,Automotive,0.5675848722457886
+arg_2_41,negative reviews <SEP> negative,I am not surprised to read all of the negative reviews .,recommendation,Automotive,0.3337579369544983
+arg_2_42,never doing this place <SEP> positive,Never doing business WITH   this place again .,recommendation,Automotive,0.8174490928649902
+arg_2_43,never place again <SEP> negative,I will never go to this place again .,recommendation,Automotive,0.42018476128578186
+arg_2_44,never recommend guys again <SEP> negative,I will never recommend or use these guys again .,recommendation,Automotive,0.6157378554344177
+arg_2_45,never recommend service <SEP> positive,I would never recommend buying a car from this place and I will be taking care of all of my service needs with BMW Las Vegas .,recommendation,Automotive,0.5248440504074097
+arg_2_46,nice job <SEP> positive,Nice job .,recommendation,Automotive,0.6106172800064087
+arg_2_47,nice neighborhood <SEP> positive,This store is in a nice neighborhood,recommendation,Automotive,0.2159188687801361
+arg_2_48,nice promotion <SEP> positive,I also got a nice promotion .,recommendation,Automotive,0.562694251537323
+arg_2_49,nice spot <SEP> positive,Everyone seemed like they were in a good mood and there is a nice spot to sit and wait inside .,recommendation,Automotive,0.3431852161884308
+arg_2_50,no repair <SEP> positive,Plus there was no charge for the initial repair,recommendation,Automotive,0.47429022192955017
+arg_2_51,outstanding advice <SEP> positive,"I needed four tires for my ' 87 Benz and Stephan provided outstanding advice on brand , performance level , wear , and several other criteria .",recommendation,Automotive,0.29547613859176636
+arg_2_52,overwhelmingly inviting place <SEP> positive,"I have been to several locations and each place has been overwhelmingly inviting , friendly and cordial .  ",recommendation,Automotive,0.433723509311676
+arg_2_53,pleasantly surprised level of <SEP> positive,Pleasantly surprised by the level of service here !,recommendation,Automotive,0.4069046676158905
+arg_2_54,pleased experience <SEP> positive,I 'm very pleased with my experience at the Rainbow location .,recommendation,Automotive,0.27577102184295654
+arg_2_55,pleased passat <SEP> positive,I am very pleased with the passat he helped me to pick out .,recommendation,Automotive,0.3116409182548523
+arg_2_56,pleased sales experience <SEP> positive,I was pleased with my sales experience at first until 6 months later my Audi A4   had my water pump / thermostat and oil pan went out !,recommendation,Automotive,0.29110515117645264
+arg_2_57,pleasurable buying experience <SEP> positive,It was a very pleasurable buying experience .  ,recommendation,Automotive,0.18059231340885162
+arg_2_58,poor ratings <SEP> negative,These poor ratings are justified .,recommendation,Automotive,0.5077820420265198
+arg_2_59,poor reviews <SEP> negative,I was beyond hesitant to bring my car here due to the poor reviews but I needed somewhere close to home !,recommendation,Automotive,0.588649570941925
+arg_2_60,positive buying experience <SEP> positive,"My sales associate Bruce Emens was a real pleasure to work with , made the buying experience a positive one .  ",recommendation,Automotive,0.3407885432243347
+arg_2_61,positive reviews <SEP> positive,I found this company here on Yelp and called them because of the positive reviews .  ,recommendation,Automotive,0.3358185291290283
+arg_2_62,preferred car wash location <SEP> positive,We will continue to frequent Superstar as our preferred car wash location .,recommendation,Automotive,0.4234457314014435
+arg_2_63,quite helpful tires <SEP> positive,I bought new tires yesterday and they were quite helpful through the entire process .  ,recommendation,Automotive,0.44899752736091614
+arg_2_64,really bad warranty <SEP> negative,I found out I was sold a really bad warranty that only covered the thermostat piece and up to $ 70 an hour on labor when 3 places I went to charge $ 125 an hour !,recommendation,Automotive,0.44236212968826294
+arg_2_65,recommend bill luke <SEP> positive,I highly recommend Bill Luke Fiat to anyone buying a car new or used .,recommendation,Automotive,0.6188634037971497
+arg_2_66,recommend business <SEP> positive,and I will definitely recommend this business to anyone who needs to move and pack their things .,recommendation,Automotive,0.27637097239494324
+arg_2_67,recommend car service <SEP> positive,I highly recommend them for all of your car service needs .,recommendation,Automotive,0.31142669916152954
+arg_2_68,recommend car wash <SEP> positive,I will recommend this car wash to all of my friends .,recommendation,Automotive,0.38066017627716064
+arg_2_69,recommend company <SEP> positive,I recommend this company very highly .,recommendation,Automotive,0.5923210978507996
+arg_2_70,recommend deal <SEP> positive,I would recommend these guys to anyone who wants a fair honest deal .,recommendation,Automotive,0.39290302991867065
+arg_2_71,recommend dealership <SEP> positive,I would highly recommend this dealership to my friends .  ,recommendation,Automotive,0.4506850838661194
+arg_2_72,recommend discount tires <SEP> positive,I definitely recommend Discount Tires .,recommendation,Automotive,0.5032564401626587
+arg_2_73,recommend location <SEP> positive,Would recommend this location to anyone .,recommendation,Automotive,0.5587465167045593
+arg_2_74,recommend place <SEP> positive,I would highly recommend this place to anyone who needs services done to their car .,recommendation,Automotive,0.2787230312824249
+arg_2_75,recommend service <SEP> positive,I recommend Zach for your service adviser .,recommendation,Automotive,0.6972859501838684
+arg_2_76,recommend services <SEP> positive,"I highly recommend their services , they will treat you well !",recommendation,Automotive,0.3762798309326172
+arg_2_77,recommend servicing <SEP> positive,Would highly recommend servicing your vehicle here .,recommendation,Automotive,0.6048992276191711
+arg_2_78,recommend shop <SEP> positive,We would not trust anyone else with our cars and would definitely recommend this shop to anyone in need of repairs or service .,recommendation,Automotive,0.6109094023704529
+arg_2_79,recommend this <SEP> positive,Would definitely recommend   this dealership .,recommendation,Automotive,0.2753699719905853
+arg_2_80,recommend vegas moves <SEP> negative,"I would only recommend them for my Vegas moves , as I have been disappointed and ripped off too many times before .",recommendation,Automotive,0.2382601499557495
+arg_2_81,recommended car dealership <SEP> positive,I recommended this car dealership to everyone !,recommendation,Automotive,0.27038535475730896
+arg_2_82,recommending place <SEP> positive,I will be recommending this place to all of my friends and family !,recommendation,Automotive,0.5174198746681213
+arg_2_83,regular spot <SEP> positive,This is my regular spot definitely recommended but make sure you have the time .,recommendation,Automotive,0.5379461646080017
+arg_2_84,repairable tire <SEP> negative,"Thankfully the tire was repairable , and they had me back on the road in under 40 minutes !  ",recommendation,Automotive,0.6236808896064758
+arg_2_85,repaired tire <SEP> positive,The tire was repaired within 30 minutes free of charge I might add .,recommendation,Automotive,0.36168986558914185
+arg_2_86,rude place <SEP> negative,Not the first time this place was rude .,recommendation,Automotive,0.5083419680595398
+arg_2_87,satisfied experience <SEP> positive,and I am satisfied with my experience here .,recommendation,Automotive,0.2863495647907257
+arg_2_88,spot on everything <SEP> positive,Everything was spot on with what was explained to me .,recommendation,Automotive,0.2644205093383789
+arg_2_89,straight forward place <SEP> positive,This place is straight forward .,recommendation,Automotive,0.6140657067298889
+arg_2_90,suggest place <SEP> negative,I would suggest this place to anyone needing to go to DMV who does n't have a lot of time to spend in line .,recommendation,Automotive,0.47683820128440857
+arg_2_91,terrible place <SEP> negative,The place is terrible,recommendation,Automotive,0.3079969882965088
+arg_2_92,too high quote <SEP> negative,"I had always gotten my tires at Big O , but this time their quote just seemed too high .",recommendation,Automotive,0.3025214970111847
+arg_2_93,top notched experience <SEP> positive,my entire experience today was top notched !,recommendation,Automotive,0.5746220350265503
+arg_2_94,very bad experience <SEP> negative,Very bad experience here .,recommendation,Automotive,0.6230048537254333
+arg_2_95,very positive experience <SEP> positive,I went in for a smog check and had a very positive experience .,recommendation,Automotive,0.5924035310745239
+arg_2_96,well reviewed tire place <SEP> positive,Searched for a well reviewed tire place near our hotel in Vegas and called ahead for an appointment .,recommendation,Automotive,0.35183024406433105
+arg_2_97,worst place <SEP> negative,Worst place ever !,recommendation,Automotive,0.3371638059616089
+arg_3_0,100 % professional demeanor <SEP> positive,Mr. Moreno 's demeanor was 100 % professional .  ,restaurant -> atmosphere,Automotive,0.3563184440135956
+arg_3_1,270 hp powertrains <SEP> negative,Out of date powertrains 270 hp on a 2014 ?,restaurant -> atmosphere,Automotive,0.6240350008010864
+arg_3_2,always satisfied cleanliness <SEP> positive,Always satisfied with the cleanliness of my vehicle .  ,restaurant -> atmosphere,Automotive,0.31064850091934204
+arg_3_3,amazing cars <SEP> positive,So upsetting since cars are amazing !,restaurant -> atmosphere,Automotive,0.6845254898071289
+arg_3_4,amazing jeep <SEP> positive,The Jeep looks amazing .  ,restaurant -> atmosphere,Automotive,0.5670303106307983
+arg_3_5,amazing personal touch <SEP> positive,The personal touch is amazing and makes you feel part of the family !,restaurant -> atmosphere,Automotive,0.3318058252334595
+arg_3_6,amazing review <SEP> positive,"I know I 've already review Blue Sky Parking a couple times , but after going here EVERY WEEK for the past 10 months , it really deserves to have another amazing review from me !",restaurant -> atmosphere,Automotive,0.556477963924408
+arg_3_7,aweful experience <SEP> negative,Had an aweful experience at this dealership .,restaurant -> atmosphere,Automotive,0.44166886806488037
+arg_3_8,awesome car <SEP> positive,Awesome car and a great deal to boot .,restaurant -> atmosphere,Automotive,0.7851529717445374
+arg_3_9,awesome lease <SEP> positive,"Justin , Brian , and Aaron took care of everything so well from the first visit to talk about a new lease to ensuring I 'm happy with my awesome , new car via text and phone calls and that I know how to use all the features .",restaurant -> atmosphere,Automotive,0.3904346823692322
+arg_3_10,awesome movers <SEP> positive,"We had 3 awesome movers Steve , Will and Kam !",restaurant -> atmosphere,Automotive,0.44457611441612244
+arg_3_11,bad experience <SEP> negative,Bad experience .,restaurant -> atmosphere,Automotive,0.8553416132926941
+arg_3_12,bad experience car wash <SEP> negative,I had a bad experience with this car wash when I first moved to the area 4 - 5 years ago .,restaurant -> atmosphere,Automotive,0.411316454410553
+arg_3_13,bad experiences <SEP> negative,I had bad experiences at Courtesy Imports and Jiffy Lube,restaurant -> atmosphere,Automotive,0.6278116106987
+arg_3_15,beautiful interior <SEP> positive,"the interior is beautiful , Lovely is the most sweetest ( if that wording is right )",restaurant -> atmosphere,Automotive,0.48425012826919556
+arg_3_16,beautiful set <SEP> positive,Also bought a beautiful set of rims .,restaurant -> atmosphere,Automotive,0.5993543863296509
+arg_3_17,beautiful spirit <SEP> positive,Kelly has the most amazing and beautiful spirit .,restaurant -> atmosphere,Automotive,0.4150993824005127
+arg_3_18,beautifully detailed truck <SEP> positive,When I took possession of the truck it had been beautifully detailed and fully gassed up !  ,restaurant -> atmosphere,Automotive,0.48950454592704773
+arg_3_19,best airport parking option <SEP> positive,This is by far the best airport parking option .,restaurant -> atmosphere,Automotive,0.5980424880981445
+arg_3_20,best car buying experiences <SEP> positive,One of the best car buying experiences I have ever had .,restaurant -> atmosphere,Automotive,0.6020409464836121
+arg_3_21,best customer experience <SEP> positive,"They were courteous , respectful , and went over and above to make sure we felt taken care of and received the best customer experience they had to offer , from start to finish .",restaurant -> atmosphere,Automotive,0.7782337665557861
+arg_3_22,best experience <SEP> positive,"I love my new Toyota Corolla SE that has all the features , Thank you for the best experience that we ever had .",restaurant -> atmosphere,Automotive,0.647788405418396
+arg_3_23,best experiences <SEP> positive,Christopher Moving is one of the best experiences I 've ever had .,restaurant -> atmosphere,Automotive,0.4088428318500519
+arg_3_24,best mechanics <SEP> positive,The mechanics are the best as they are incredibly customer - focused .,restaurant -> atmosphere,Automotive,0.4725736081600189
+arg_3_25,best movers <SEP> positive,They are the BEST professional movers I have ever had ! !,restaurant -> atmosphere,Automotive,0.7913756966590881
+arg_3_26,best moving company <SEP> positive,They are the best moving company I have ever used period .,restaurant -> atmosphere,Automotive,0.4266754388809204
+arg_3_27,best parking facilities <SEP> positive,"This is for sure one of the best parking facilities ,  ",restaurant -> atmosphere,Automotive,0.5588905811309814
+arg_3_28,better rooftops <SEP> positive,The attention to detail around the inside of the doors tailgates and rooftops are much better than other carwashes .,restaurant -> atmosphere,Automotive,0.41448846459388733
+arg_3_29,better than new car <SEP> positive,My car looked better than new after spending a few hours getting detailed at Lindstrom 's .  ,restaurant -> atmosphere,Automotive,0.3121786415576935
+arg_3_30,clean facility <SEP> positive,Clean facility .,restaurant -> atmosphere,Automotive,0.3147518038749695
+arg_3_31,clean place <SEP> positive,The place is clean,restaurant -> atmosphere,Automotive,0.42034777998924255
+arg_3_32,clean showroom <SEP> positive,Showroom is clean & well designed ; not to mention stocked with sweet rides .  ,restaurant -> atmosphere,Automotive,0.5023914575576782
+arg_3_33,comfortable atmosphere <SEP> positive,The atmosphere is comfortable .,restaurant -> atmosphere,Automotive,0.6744660139083862
+arg_3_34,completed repairs <SEP> positive,Repairs were completed promptly - no need to have to call several times to see when it would be done .  ,restaurant -> atmosphere,Automotive,0.45661988854408264
+arg_3_35,completely move <SEP> positive,"Our whole move was completely stress free , affordable and quick thanks to Christopher Moving !",restaurant -> atmosphere,Automotive,0.3361297845840454
+arg_3_36,cool waiting room inside <SEP> positive,Cool waiting room inside with TV and couches .,restaurant -> atmosphere,Automotive,0.4212552011013031
+arg_3_37,could experience <SEP> positive,I ended up purchasing an 2013 A4 and could n't have had a better experience .,restaurant -> atmosphere,Automotive,0.3120045065879822
+arg_3_38,covered parking <SEP> positive,"Clean , safe , secure , fast , friendly , covered parking and smiles for days from employees !  ",restaurant -> atmosphere,Automotive,0.4604589641094208
+arg_3_39,decent experience <SEP> positive,Definitely a decent experience while car shopping .   ,restaurant -> atmosphere,Automotive,0.6545044779777527
+arg_3_40,decent lobby <SEP> positive,The only thing decent is the lobby .,restaurant -> atmosphere,Automotive,0.40204042196273804
+arg_3_41,enjoyed browsing <SEP> positive,I have enjoyed browsing through vehicles without a pushy salesperson getting me to buy .,restaurant -> atmosphere,Automotive,0.6789264678955078
+arg_3_42,excellent car buying experience <SEP> positive,Excellent car buying experience .,restaurant -> atmosphere,Automotive,0.567162036895752
+arg_3_43,excellent work <SEP> positive,Thank you for all of excellent work every time I get my vechicles service .,restaurant -> atmosphere,Automotive,0.41115105152130127
+arg_3_44,exceptional experience <SEP> positive,The experience at AutoNation in LV was exceptional except for one glitch that was quickly corrected .,restaurant -> atmosphere,Automotive,0.407299667596817
+arg_3_45,exceptional trip <SEP> positive,Exceptional trip here .,restaurant -> atmosphere,Automotive,0.7135238647460938
+arg_3_46,exemplary outfit <SEP> positive,"From beginning to end , Christopher Moving is a top - notch , professional and exemplary outfit .  ",restaurant -> atmosphere,Automotive,0.4338507354259491
+arg_3_47,extremely hot building <SEP> negative,"Last few times we have been here the inside of the building has been extremely hot , not only for customers waiting but more so for the employees .",restaurant -> atmosphere,Automotive,0.31299230456352234
+arg_3_48,extremely knowledgeable about cars <SEP> positive,She is super friendly and is extremely knowledgeable about the cars they sell .,restaurant -> atmosphere,Automotive,0.7514697909355164
+arg_3_49,extremely responsive vehicle issues <SEP> positive,I am pleased to say Suburu was extremely responsive and helpful with my vehicle issues !,restaurant -> atmosphere,Automotive,0.3769133687019348
+arg_3_50,fabulous car <SEP> positive,My car is fabulous and I would definitely recommend David and Chad - they are simply fantastic to work with .,restaurant -> atmosphere,Automotive,0.5982696413993835
+arg_3_51,fabulous experience <SEP> positive,Fabulous experience !  ,restaurant -> atmosphere,Automotive,0.4533006250858307
+arg_3_52,fantastic and friendly work ethic <SEP> positive,I tipped each person $ 20 . 00 for their fantastic and friendly work ethic .  ,restaurant -> atmosphere,Automotive,0.560954749584198
+arg_3_53,fantastic company <SEP> positive,This company is fantastic .,restaurant -> atmosphere,Automotive,0.4772863984107971
+arg_3_54,fantastic experience <SEP> positive,"Fantastic experience , will definitely park there again and again !",restaurant -> atmosphere,Automotive,0.45070964097976685
+arg_3_55,fast parking <SEP> positive,"Blue sky is the only parking we use , it 's fast and cheaper than the airport parking .",restaurant -> atmosphere,Automotive,0.9079745411872864
+arg_3_56,finest efficiency <SEP> positive,Efficiency at its finest .,restaurant -> atmosphere,Automotive,0.6809152960777283
+arg_3_57,fun car buying experience <SEP> positive,He made our car buying experience fun and relaxing !,restaurant -> atmosphere,Automotive,0.3061119616031647
+arg_3_58,fun cars <SEP> positive,"Volkswagens are the best cars you can buy for less than $ 25 , 000 and these guys make the experience of buying and owning one the way it should be - fun .",restaurant -> atmosphere,Automotive,0.40416330099105835
+arg_3_59,fun place <SEP> positive,"Love this place , it made buying a new car fun again .",restaurant -> atmosphere,Automotive,0.44958004355430603
+arg_3_60,fun time <SEP> positive,Even the manager was a fun time to talk to and joke with .,restaurant -> atmosphere,Automotive,0.7270627021789551
+arg_3_61,funky smell <SEP> negative,"I had some funky smell from some spilled groceries and that is all gone , mercifully .",restaurant -> atmosphere,Automotive,0.6002887487411499
+arg_3_62,good business relationship <SEP> positive,I felt like they care about what they 're doing and and maintaining a good business relationship with you,restaurant -> atmosphere,Automotive,0.5611966252326965
+arg_3_63,good condition vehicle <SEP> positive,The vehicle was in good condition and came as advertised .,restaurant -> atmosphere,Automotive,0.43869736790657043
+arg_3_64,good experience <SEP> positive,Good experience .,restaurant -> atmosphere,Automotive,0.39612263441085815
+arg_3_65,good experiences <SEP> positive,I 've been doing business with this store since 2010 and have consistently had good experiences here .,restaurant -> atmosphere,Automotive,0.43810388445854187
+arg_3_66,good feeling <SEP> positive,Definitely a good feeling .  ,restaurant -> atmosphere,Automotive,0.4882057011127472
+arg_3_67,good maintenance <SEP> positive,To spend on the average of 500 per year on good maintenance on a 97 and 04 vehicles sure beats between 350 - 500 per month on brand new vehicles with payments .  ,restaurant -> atmosphere,Automotive,0.35113292932510376
+arg_3_68,good tire <SEP> positive,"While they were running a bit behind when I arrived , they fixed the leak , free of charge , and the tire is as good as new .",restaurant -> atmosphere,Automotive,0.3613336682319641
+arg_3_69,great attitude <SEP> positive,What a great attitude .,restaurant -> atmosphere,Automotive,0.3736075758934021
+arg_3_70,great car <SEP> positive,Great car ! ! ! ! !,restaurant -> atmosphere,Automotive,0.5040625333786011
+arg_3_71,great communication <SEP> positive,"Great communication from both , even after I bought the car .",restaurant -> atmosphere,Automotive,0.5409253835678101
+arg_3_72,great experience <SEP> positive,It was a great experience .,restaurant -> atmosphere,Automotive,0.6974102854728699
+arg_3_73,great operation <SEP> positive,Great operation !,restaurant -> atmosphere,Automotive,0.4231936037540436
+arg_3_74,great sales experience <SEP> positive,Dyan great sales experience for me,restaurant -> atmosphere,Automotive,0.4339851438999176
+arg_3_75,great team <SEP> positive,Great team at autonation .,restaurant -> atmosphere,Automotive,0.7950248718261719
+arg_3_76,great treatment <SEP> positive,This was pricy compared to our previous dealership but the treatment as a customer was great .  ,restaurant -> atmosphere,Automotive,0.6453747153282166
+arg_3_77,great woman <SEP> positive,"The woman who scheduled my move on the phone was great , super nice and helpful .  ",restaurant -> atmosphere,Automotive,0.4352208971977234
+arg_3_78,great work <SEP> positive,Keep up the great work BMW of Henderson !,restaurant -> atmosphere,Automotive,0.6164190769195557
+arg_3_79,happy attitudes <SEP> positive,and I was very happy with their attitudes .,restaurant -> atmosphere,Automotive,0.38067302107810974
+arg_3_80,hard working attitude <SEP> positive,Appreciate his honesty and hard working attitude .,restaurant -> atmosphere,Automotive,0.3359542489051819
+arg_3_81,hardly vacuumed seats <SEP> negative,"After I complained that the seats were hardly vacuumed and a lot of hair remained , the lady told me that their vacuums are n't made to get dog hair off seats and I would need to purchase something else in order to do so .",restaurant -> atmosphere,Automotive,0.6081173419952393
+arg_3_82,heavy furniture <SEP> negative,"We needed to hire a moving company for the heavy furniture ( LR , BR , Kit , etc ) .   ",restaurant -> atmosphere,Automotive,0.3991738557815552
+arg_3_83,high quality work <SEP> positive,"They are genuine , friendly and most of all do high quality work .",restaurant -> atmosphere,Automotive,0.6991453170776367
+arg_3_84,horrible experience <SEP> negative,Simply horrible experience .,restaurant -> atmosphere,Automotive,0.6084977984428406
+arg_3_85,horrible experiences <SEP> negative,i had nothing but horrible experiences with the finance guys previous to this .,restaurant -> atmosphere,Automotive,0.35025906562805176
+arg_3_86,ideal everything <SEP> positive,Everything was ideal .,restaurant -> atmosphere,Automotive,0.5352661609649658
+arg_3_87,inaccurate information <SEP> negative,"Also , side note the dealership , Mellisa G specifically , commented on this post with inaccurate information and I do have photos of the day of expiry of the service .",restaurant -> atmosphere,Automotive,0.5726823210716248
+arg_3_88,incredible experience <SEP> positive,We had an incredible experience at Bill Luke Tempe with our sales specialist Tony Cole .,restaurant -> atmosphere,Automotive,0.7396208047866821
+arg_3_89,intense car process <SEP> positive,"Erick was very pleasant to work with and very straightforward about the entire car process , for someone like me that is huge because I get really anxious and intense about buying a new car .",restaurant -> atmosphere,Automotive,0.3799370229244232
+arg_3_90,inviting environment <SEP> positive,Very low pressure and inviting environment .,restaurant -> atmosphere,Automotive,0.5074228644371033
+arg_3_91,least stressful move <SEP> negative,This was the least stressful move I have had in a very long time .,restaurant -> atmosphere,Automotive,0.6655141711235046
+arg_3_92,limited parking <SEP> negative,A little bit tough to find ... they 're in the very back of the shopping center and parking can be limited .,restaurant -> atmosphere,Automotive,0.36767318844795227
+arg_3_93,local gem <SEP> positive,This place is a local gem .  ,restaurant -> atmosphere,Automotive,0.3848434388637543
+arg_3_94,loose antenna <SEP> negative,They also noticed my antenna was loose and tightened it up for me .,restaurant -> atmosphere,Automotive,0.5392187237739563
+arg_3_95,love atmosphere <SEP> positive,I love the atmosphere ! ! !   ,restaurant -> atmosphere,Automotive,0.8369064331054688
+arg_3_96,love parking <SEP> positive,Love parking here ! !,restaurant -> atmosphere,Automotive,0.6004732847213745
+arg_3_97,loved car <SEP> positive,I came home and my husband LOVED his clean car .  ,restaurant -> atmosphere,Automotive,0.3289141058921814
+arg_3_98,lower parking <SEP> negative,They do run specials all the time at least from what they told me through Groupon and there are also plenty of ways to lower their parking rates .,restaurant -> atmosphere,Automotive,0.4591332972049713
+arg_3_99,marvelous feeling <SEP> positive,"However , when people help you save money on such expenses ... it 's a marvelous feeling .",restaurant -> atmosphere,Automotive,0.4815005958080292
+arg_3_100,more pleasant experience <SEP> positive,"Since word of mouth is the best sales tool , I am telling any and everyone that I have been on both sides of the car - buying desk not only as a consumer , but as a lender and never have had a more pleasant experience with a car deal .",restaurant -> atmosphere,Automotive,0.6308853030204773
+arg_3_101,most pleasant experience <SEP> negative,"hectic , this was far from hectic the most pleasant experience I 've ever experienced .",restaurant -> atmosphere,Automotive,0.5553126335144043
+arg_3_102,must parking <SEP> positive,They offer covered parking --- which is a must in Phoenix !  ,restaurant -> atmosphere,Automotive,0.35472553968429565
+arg_3_103,new car <SEP> positive,The car is new with less than 1000 miles,restaurant -> atmosphere,Automotive,0.7080535888671875
+arg_3_104,nice experience <SEP> positive,Such a nice experience !,restaurant -> atmosphere,Automotive,0.47980996966362
+arg_3_105,nice little upstairs lounge <SEP> positive,Nice little upstairs lounge that overlooks the shop as well .,restaurant -> atmosphere,Automotive,0.48767074942588806
+arg_3_106,no air conditioning <SEP> negative,"There was no air conditioning in the lobby , no manager on site .",restaurant -> atmosphere,Automotive,0.7100921273231506
+arg_3_107,off site airport parking <SEP> positive,I now make Blue Sky my go to off site airport parking .,restaurant -> atmosphere,Automotive,0.7584746479988098
+arg_3_108,off site parking <SEP> positive,Definitely the quickest closet location of all off site parking .,restaurant -> atmosphere,Automotive,0.5736674070358276
+arg_3_109,out air <SEP> negative,2nd time here in 3 weeks and the air conditioner is still out in the waiting area .,restaurant -> atmosphere,Automotive,0.5523994565010071
+arg_3_110,outstanding car <SEP> positive,"The car is outstanding , drives like a dream .",restaurant -> atmosphere,Automotive,0.22453676164150238
+arg_3_111,overall good experience <SEP> positive,Had an overall good experience .,restaurant -> atmosphere,Automotive,0.5063179135322571
+arg_3_112,overall great experience <SEP> positive,Nice touch to an overall great experience .,restaurant -> atmosphere,Automotive,0.431492418050766
+arg_3_113,overhead covering covered <SEP> negative,"Tip : the "" covered parking "" is only an overhead covering not underground or anything so if I were paying full price",restaurant -> atmosphere,Automotive,0.3526057004928589
+arg_3_114,perfect car <SEP> positive,The car was perfect ( only missing a manuel that they reimbursed me for right away ) .,restaurant -> atmosphere,Automotive,0.3629709482192993
+arg_3_115,perfect experience <SEP> positive,Dealt with a new employee Chris Biehl and I have to say the experience was perfect .,restaurant -> atmosphere,Automotive,0.6891012787818909
+arg_3_116,phenomenal moving <SEP> positive,Phenomenal moving company !,restaurant -> atmosphere,Automotive,0.49413803219795227
+arg_3_117,pleasant experience <SEP> positive,In the end was not able to get a deal put together but that did not deter from an pleasant experience .,restaurant -> atmosphere,Automotive,0.525943398475647
+arg_3_118,positive business model <SEP> positive,The hard sale may be a positive business model for Discount Tires but for me and my family of over 10 vehicles we will never set foot in another Discount Tire .,restaurant -> atmosphere,Automotive,0.649885356426239
+arg_3_119,positive experiences <SEP> positive,I have to say that I have only ever had positive experiences at this location .,restaurant -> atmosphere,Automotive,0.5779178142547607
+arg_3_120,pretty good experience <SEP> positive,Pretty good experience .,restaurant -> atmosphere,Automotive,0.7873104214668274
+arg_3_121,pretty high bar <SEP> positive,Carmax sets a pretty high bar ... at least the West Sahara location .,restaurant -> atmosphere,Automotive,0.3726518452167511
+arg_3_122,prompt movers <SEP> positive,These movers were prompt and professional !,restaurant -> atmosphere,Automotive,0.5223550796508789
+arg_3_123,racist places <SEP> negative,Racist places .,restaurant -> atmosphere,Automotive,0.37260493636131287
+arg_3_124,rattling beyond belief window <SEP> negative,I called on a Wednesday because my window on the driver side of my 2013 Volkswagen Beetle was rattling beyond belief .,restaurant -> atmosphere,Automotive,0.5304949283599854
+arg_3_125,rattling window <SEP> negative,"On my drive home , the window is now rattling !  ",restaurant -> atmosphere,Automotive,0.33718106150627136
+arg_3_126,really clean mirrors <SEP> positive,On the plus side my windows and mirrors were really clean .,restaurant -> atmosphere,Automotive,0.5689019560813904
+arg_3_127,really good experience <SEP> positive,"Had a really good experience with a salesman named Erik S. , he was very friendly and helpful .",restaurant -> atmosphere,Automotive,0.39023569226264954
+arg_3_128,really old carpet express <SEP> negative,They did a really old job on both for the $ 40 Carpet Express .,restaurant -> atmosphere,Automotive,0.6794481873512268
+arg_3_129,refreshing experience <SEP> positive,It was a refreshing experience .  ,restaurant -> atmosphere,Automotive,0.5043042302131653
+arg_3_130,rotated tires <SEP> positive,I was taken cared of right away and had my vehicle 's tires rotated and balanced .,restaurant -> atmosphere,Automotive,0.6474384665489197
+arg_3_131,safe car <SEP> positive,Leaving for 11 days on a business trip and researched where to keep my car that was safe and inexpensive .,restaurant -> atmosphere,Automotive,0.793982207775116
+arg_3_132,safe place <SEP> positive,Safe place to park your car .,restaurant -> atmosphere,Automotive,0.4739360809326172
+arg_3_133,screwed up air conditioning system <SEP> negative,Now my car engine and air conditioning system is all screwed up .  ,restaurant -> atmosphere,Automotive,0.6524255275726318
+arg_3_134,secured trash <SEP> positive,insurance said tow company would tow with no problem as long as there was n't any heavy equipment and trash was secured ( which it was) ..,restaurant -> atmosphere,Automotive,0.33130723237991333
+arg_3_135,sloppy job exterior <SEP> negative,The exterior is a sloppy job .,restaurant -> atmosphere,Automotive,0.3251130282878876
+arg_3_136,smooth experience <SEP> positive,Thanks again the guys at Chevy for making her experience smooth .,restaurant -> atmosphere,Automotive,0.47781097888946533
+arg_3_137,so nice internet <SEP> positive,internet person you will speak with and so so nice ! !,restaurant -> atmosphere,Automotive,0.82647705078125
+arg_3_138,spotless inside <SEP> negative,Waited 30 minutes for my car and when received the inside was spotless .  ,restaurant -> atmosphere,Automotive,0.42124107480049133
+arg_3_139,squeaking noise <SEP> negative,So took my car in today because of a squeaking noise .,restaurant -> atmosphere,Automotive,0.48963218927383423
+arg_3_140,squeaky clean thought machines <SEP> positive,Dream team with the squeaky clean thought machines ! ! !,restaurant -> atmosphere,Automotive,0.7136539220809937
+arg_3_141,stressful situation <SEP> negative,I was dealing with an injury and the stress of moving out because of divorce and they made a stressful situation that much easier .,restaurant -> atmosphere,Automotive,0.5518862009048462
+arg_3_142,superb car buying <SEP> positive,This was my youngest daughter 's first car buying experience and Jeff Benson was superb in every aspect .,restaurant -> atmosphere,Automotive,0.42279717326164246
+arg_3_143,swamp atmosphere <SEP> negative,Unfortunate for customers to have to sit and wait in a swamp atmosphere .,restaurant -> atmosphere,Automotive,0.33179527521133423
+arg_3_144,terrible attitude <SEP> negative,Then the manager there has no customer service skills and has a terrible attitude !,restaurant -> atmosphere,Automotive,0.4355175793170929
+arg_3_145,terrible cleaning <SEP> negative,The car wash and cleaning were terrible .,restaurant -> atmosphere,Automotive,0.4648975729942322
+arg_3_146,terrible vacuums <SEP> negative,Each time the self use vacuums are terrible !,restaurant -> atmosphere,Automotive,0.5251817107200623
+arg_3_147,top notch experience <SEP> positive,The whole experience from start to end was top notch,restaurant -> atmosphere,Automotive,0.450702041387558
+arg_3_148,unbelievable experience <SEP> positive,", Unbelievable experience at this dealership Went in to look at a GTI and ended up with a fully loaded Passat .",restaurant -> atmosphere,Automotive,0.40699687600135803
+arg_3_149,uncovered parking <SEP> positive,They have covered and uncovered parking for a little bit cheaper .,restaurant -> atmosphere,Automotive,0.6345148682594299
+arg_3_150,upbeat everyone <SEP> positive,Everyone who worked with us was upbeat and willing to answer any questions .,restaurant -> atmosphere,Automotive,0.4864140450954437
+arg_3_151,very clean inside <SEP> positive,Overall the inside is very clean however there are still stains on the seats in the back .,restaurant -> atmosphere,Automotive,0.6426103711128235
+arg_3_152,very easily accessible lot <SEP> positive,Lot is very easily accessible from 143 .,restaurant -> atmosphere,Automotive,0.4907364249229431
+arg_3_153,very fun time <SEP> positive,Very fun time going in to the office and just getting through signing all the paperwork .,restaurant -> atmosphere,Automotive,0.312041699886322
+arg_3_154,very good car <SEP> positive,Otherwise the car looked very good .  ,restaurant -> atmosphere,Automotive,0.6877142786979675
+arg_3_155,very good car buying experience <SEP> positive,Very good car buying experience as well as car servicing !,restaurant -> atmosphere,Automotive,0.271078884601593
+arg_3_156,very good experience <SEP> positive,Very good experience .  ,restaurant -> atmosphere,Automotive,0.3195209801197052
+arg_3_157,very good experiences <SEP> positive,I had 2 very good experiences here !,restaurant -> atmosphere,Automotive,0.40847262740135193
+arg_3_158,very good time <SEP> positive,Overall a very good time purchasing a car .,restaurant -> atmosphere,Automotive,0.614627480506897
+arg_3_159,very good work <SEP> positive,The work was done on time and looked very good .  ,restaurant -> atmosphere,Automotive,0.4003167152404785
+arg_3_160,very much enjoyed experience <SEP> positive,Very much enjoyed our experience - we even went with two wild kids : ),restaurant -> atmosphere,Automotive,0.36058855056762695
+arg_3_161,very pleasant experience <SEP> positive,I stopped in for a smog check and it was a very pleasant experience !,restaurant -> atmosphere,Automotive,0.415457546710968
+arg_3_162,very reasonable cars <SEP> positive,"The prices of the cars are very reasonable , and there 's no haggle price .",restaurant -> atmosphere,Automotive,0.31359827518463135
+arg_3_163,very safe parking lot <SEP> positive,Parking lot feels very safe .,restaurant -> atmosphere,Automotive,0.5661798715591431
+arg_3_164,well lit parking <SEP> positive,Blue Sky had clean parking and it was well lit .,restaurant -> atmosphere,Automotive,0.36104345321655273
+arg_3_165,well maintained and parking area <SEP> positive,The parking area is well maintained and lighted .,restaurant -> atmosphere,Automotive,0.8198168873786926
+arg_3_166,wonderful attitudes <SEP> positive,"Also , wonderful attitudes and pleasant to be around .",restaurant -> atmosphere,Automotive,0.5622177124023438
+arg_3_167,wonderful car buying experience <SEP> positive,I can not say enough about how wonderful my car buying experience was .,restaurant -> atmosphere,Automotive,0.1376538723707199
+arg_3_14,beautiful car <SEP> positive,My car looks beautiful and stays clean for a significant amount of time .,restaurant -> atmosphere,Automotive,0.42690229415893555
+arg_4_0,setup beds <SEP> positive,Our furniture and beds were setup as they were at the old house .,restaurant -> comfort,Automotive,0.3564903736114502
+arg_4_1,very comfortable place <SEP> positive,It is a very comfortable place to wait while your car is getting washed .,restaurant -> comfort,Automotive,0.49981868267059326
+arg_4_2,very front desk <SEP> positive,"Front desk is very professional , courteous , and friendly .  ",restaurant -> comfort,Automotive,0.34987983107566833
+arg_4_3,wrong seat cover <SEP> negative,The seat cover was put in wrong and had a slice on the side that exposed the cushion .  ,restaurant -> comfort,Automotive,0.3694586753845215
+arg_5_0,5 stars service <SEP> positive,Their service is 5 stars .,staff,Automotive,0.5213203430175781
+arg_5_2,above and beyond service <SEP> positive,Brittany and Kayla in the service department went above and beyond .,staff,Automotive,0.6566014289855957
+arg_5_3,above beyond service <SEP> positive,They went above beyond customer service ...,staff,Automotive,0.6287634968757629
+arg_5_4,absolutely horrible customer service <SEP> negative,their customer service is absolutely horrible .,staff,Automotive,0.6925058960914612
+arg_5_6,absolutely terrible service <SEP> negative,Absolutely terrible service !,staff,Automotive,0.49013134837150574
+arg_5_7,accommodating treatment <SEP> positive,There was a friendly and accommodating treatment at every turn in this purchase .,staff,Automotive,0.562650740146637
+arg_5_8,always consistent service <SEP> positive,Always consistent service and quality wash .,staff,Automotive,0.8075207471847534
+arg_5_9,always excellent customer service <SEP> positive,"Customer service is always excellent , and they are so timely with getting new tires on my car and getting me out the door and on my way .",staff,Automotive,0.24901293218135834
+arg_5_10,always excellent service <SEP> positive,No matter if I get the basic car wash or go all the way for a wax and detailing it 's always excellent service .,staff,Automotive,0.2373669296503067
+arg_5_13,always treated staff <SEP> positive,Thanks to your staff who always treated me greatly .,staff,Automotive,0.4812169075012207
+arg_5_14,always treats front desk staff <SEP> positive,The front desk staff always treats you well and is very professional .,staff,Automotive,0.46217650175094604
+arg_5_15,always truly personal service <SEP> positive,"They always remember me and my car , it is always truly personal service .",staff,Automotive,0.5726823210716248
+arg_5_17,amazing customer service <SEP> positive,The customer service is amazing .,staff,Automotive,0.5078080892562866
+arg_5_18,amazing job <SEP> positive,Amazing job .,staff,Automotive,0.6310502886772156
+arg_5_19,amazing repair departments <SEP> positive,The parts and repair departments were amazing .  ,staff,Automotive,0.4585069715976715
+arg_5_20,amazing service <SEP> positive,My service writer Lisa Abbott is amazing,staff,Automotive,0.4423099458217621
+arg_5_21,amazing service manager <SEP> positive,"Jeffrey Wieland , Service Manager   is   amazing , understanding , knowledgeable , and fun !",staff,Automotive,0.25833410024642944
+arg_5_22,amazing staff <SEP> positive,"The staff is amazing and super considerate , there are even a couple who know me when I drive up and are super friendly .",staff,Automotive,0.48874714970588684
+arg_5_23,appreciate service <SEP> positive,"I appreciate the service , and hope that it continues with the service department .",staff,Automotive,0.5151218771934509
+arg_5_24,appreciated customers <SEP> positive,My family would like to thank Elkus Hardy an Assistant Service Manager for his professionalism and ability to go above and beyond for making us feel like appreciated customers .  ,staff,Automotive,0.6816326379776001
+arg_5_26,attentive service <SEP> positive,What attentive service .,staff,Automotive,0.358816534280777
+arg_5_27,awesome customer service <SEP> positive,They always are great and awesome customer service !,staff,Automotive,0.6462005376815796
+arg_5_28,awesome drivers <SEP> positive,Shuttles and drivers are awesome .,staff,Automotive,0.4888911247253418
+arg_5_29,awesome sales process <SEP> positive,The sales process is awesome .,staff,Automotive,0.6665166616439819
+arg_5_30,awesome service <SEP> positive,Dave B. in service was awesome .  ,staff,Automotive,0.39031559228897095
+arg_5_31,awesome service center <SEP> positive,The service center is awesome !  ,staff,Automotive,0.21478427946567535
+arg_5_32,awesome service concierge <SEP> positive,My service concierge Jason was awesome !,staff,Automotive,0.47183218598365784
+arg_5_33,awesome service department <SEP> positive,The service department is awesome and informative .,staff,Automotive,0.6439641714096069
+arg_5_34,awful service <SEP> negative,The service here is awful .  ,staff,Automotive,0.5530173778533936
+arg_5_36,bad service <SEP> negative,"Same situation , she bought a used car they cheated her on the contract and then they provided bad service to the car .",staff,Automotive,0.4575745463371277
+arg_5_37,best car service shop <SEP> positive,Best car service shop in town .,staff,Automotive,0.5869646072387695
+arg_5_39,best customer service <SEP> positive,I 've been a customer of Goodyear for well over 15 years and they have THE BEST customer service .  ,staff,Automotive,0.2901533246040344
+arg_5_40,best dealership <SEP> positive,This is by far the best dealership in Las Vegas !,staff,Automotive,0.7068583965301514
+arg_5_41,best people <SEP> positive,Brian and Adam are the best people I know .,staff,Automotive,0.5114941596984863
+arg_5_42,best service <SEP> positive,Best service in Las Vegas by far ! !,staff,Automotive,0.3568897545337677
+arg_5_44,catless establishment <SEP> negative,I humbly advise you to avoid patronizing this catless establishment .,staff,Automotive,0.7565461993217468
+arg_5_46,complimentary service <SEP> positive,After parking my vehicle the shuttle came shortly after to pick me up going to the airport which is a complimentary service .,staff,Automotive,0.4517360329627991
+arg_5_47,could not have been happier service <SEP> negative,I used Christopher Moving for a move last week and could not have been happier with their service .  ,staff,Automotive,0.455146461725235
+arg_5_48,courteous everybody <SEP> positive,I bought 4 tires today at this location and everybody that works here was courteous and friendly .,staff,Automotive,0.6596346497535706
+arg_5_49,courteous everyone <SEP> positive,Everyone that works there is courteous & respectful !,staff,Automotive,0.724524974822998
+arg_5_50,courteous shuttle drivers <SEP> positive,"The shuttle drivers ( thanks , Brendon ! ) are very kind , courteous and helpful .  ",staff,Automotive,0.4885568916797638
+arg_5_51,cute female <SEP> positive,the cute female   technician was just as nice .,staff,Automotive,0.5803384184837341
+arg_5_52,dirty truck <SEP> negative,After I asked why my truck was still dirty after paying $ 23 They attempted to wipe it down better and it still looks dirty .,staff,Automotive,0.6521697044372559
+arg_5_54,excel service <SEP> positive,"From the sales floor to the service department , they excel on every level .",staff,Automotive,0.456606388092041
+arg_5_55,excellent customer <SEP> positive,I have parked here on several occasions and always receive excellent customer service .,staff,Automotive,0.7928735017776489
+arg_5_56,excellent customer service <SEP> positive,The customer service was excellent .,staff,Automotive,0.4619339108467102
+arg_5_57,excellent service <SEP> positive,it 's all excellent service .,staff,Automotive,0.31142351031303406
+arg_5_58,excellent team <SEP> positive,"The whole team is excellent , friendly , knowledgeable and honest .  ",staff,Automotive,0.5988286733627319
+arg_5_60,exceptional salesman <SEP> positive,Jason Bertola was a exceptional salesman .  ,staff,Automotive,0.5264559984207153
+arg_5_61,exceptional service <SEP> positive,I barely write reviews but their service was so exceptional I feel it was very necessary .,staff,Automotive,0.4283868074417114
+arg_5_62,exceptional service rocco <SEP> positive,Thank you for the exceptional service Rocco !,staff,Automotive,0.3317158818244934
+arg_5_63,exceptionally professional friendly salesman <SEP> positive,Our salesman Brad Burnham at Audi North Scottsdale was exceptionally professional friendly and helpful ; he worked with us to locate the right car that fitted our needs and price concerns and the whole experience felt more collaborative than transactional .,staff,Automotive,0.5411991477012634
+arg_5_64,exellent service <SEP> positive,Exellent service .  ,staff,Automotive,0.5894087553024292
+arg_5_65,exemplary customer service <SEP> positive,His customer service is exemplary and is a good asset to them .,staff,Automotive,0.36098629236221313
+arg_5_66,extremely friendly everyone <SEP> positive,Everyone was extremely friendly .,staff,Automotive,0.5511176586151123
+arg_5_67,extremely friendly gentleman <SEP> positive,Also I stopped over in the parts department to pick something up and the gentleman there was extremely friendly and knowledgeable .,staff,Automotive,0.7712201476097107
+arg_5_69,extremely kind store <SEP> positive,The store manager Pete Maheras and Eric were both extremely kind with me coming in close to closing and still helping me out and continuing to be courteous .,staff,Automotive,0.580373227596283
+arg_5_70,extremely nice and everyone <SEP> positive,Everyone was extremely nice and helpful .  ,staff,Automotive,0.5355931520462036
+arg_5_71,extremely rude service <SEP> negative,since we purchased it we finally get a recall notice and the service center lady Kelly was extremely rude .,staff,Automotive,0.49075329303741455
+arg_5_72,extremely satisfied dealership <SEP> positive,I can not express how extremely satisfied I am with this dealership .,staff,Automotive,0.4786020815372467
+arg_5_73,fantastic customer service <SEP> positive,"The customer service was fantastic , starting with Ann in the office .",staff,Automotive,0.6958041191101074
+arg_5_74,fantastic finance manager <SEP> positive,Even the finance manager Jay Zomlefer was fantastic .,staff,Automotive,0.6368246674537659
+arg_5_75,fantastic salesmen <SEP> positive,"In fact , their salesmen , Shawn Hucko , was fantastic !",staff,Automotive,0.521929919719696
+arg_5_76,fantastic service <SEP> positive,Keep it up and thank you for the fantastic service ! ! !,staff,Automotive,0.4432213306427002
+arg_5_77,fantastic staff <SEP> positive,"The staff behind the counter was fantastic , so attentive and extremely professional .  ",staff,Automotive,0.6691148281097412
+arg_5_78,fantastic staff member <SEP> positive,Every staff member here is fantastic ! !,staff,Automotive,0.5772802233695984
+arg_5_79,faulty wire <SEP> negative,did a diag and found a faulty wire .,staff,Automotive,0.7377495169639587
+arg_5_80,friendliness staff <SEP> positive,Like the other reviews I was very impressed with the friendliness of the staff and new clean appearance of the lot and shuttle bus .,staff,Automotive,0.6282932162284851
+arg_5_81,friendly and efficient staff overall <SEP> positive,Staff overall is friendly and efficient .,staff,Automotive,0.537705659866333
+arg_5_82,friendly and honest service <SEP> positive,Eddie is always accommodating with friendly and honest service .,staff,Automotive,0.3371638059616089
+arg_5_84,friendly customer service oriented <SEP> positive,"What sets them apart from other auto services places , is the friendly customer service oriented staff , and that they will not try to sell you something you do n't really need .",staff,Automotive,0.27753737568855286
+arg_5_85,friendly drivers <SEP> positive,The drivers are friendly and always helps with your luggage .,staff,Automotive,0.5285163521766663
+arg_5_86,friendly employees <SEP> positive,Their employees are both friendly and helpful .,staff,Automotive,0.7505555152893066
+arg_5_87,friendly everyone <SEP> positive,"From the initial contact to the moment we pulled off the lot , everyone was friendly .",staff,Automotive,0.5639373660087585
+arg_5_89,friendly salesmen <SEP> positive,"Our salesmen , Paul G , was friendly and professional , and a pleasure to work with .  ",staff,Automotive,0.7016937732696533
+arg_5_90,friendly service <SEP> positive,Friendly service from both Alex and Damien !,staff,Automotive,0.47121456265449524
+arg_5_92,frustrated treatment <SEP> negative,"I was really frustrated with the treatment most of the dealerships had been giving me , so I started contacting them through email .",staff,Automotive,0.5146340131759644
+arg_5_93,full of idiots service <SEP> negative,So on multiple levels either the service area is full of idiots because I talked to three different people or they 're liars or a mixture of both .,staff,Automotive,0.4488023519515991
+arg_5_94,genuinely a nice guy <SEP> positive,"he is so down to earth , polite , well dressed , and genuinely a nice guy ! !",staff,Automotive,0.4933702051639557
+arg_5_95,good customer service <SEP> positive,"I had a problem with financing and they went beyond "" good "" customer service and definitely shocked me with there service .",staff,Automotive,0.7727141976356506
+arg_5_96,good people <SEP> positive,good people all around .,staff,Automotive,0.5497521162033081
+arg_5_97,good service <SEP> positive,Service is good .,staff,Automotive,0.7479802966117859
+arg_5_99,gratitude service <SEP> positive,"I wanted to express my gratitude for the service I received today from Ed Bozarth service technician Matt , he was very kind and helpful .. was able to get my truck in for my oil change and lube ..",staff,Automotive,0.3335982859134674
+arg_5_100,great cashier <SEP> positive,The cashier was great .,staff,Automotive,0.5687670111656189
+arg_5_102,great customer service <SEP> positive,I received a great customer service,staff,Automotive,0.19643153250217438
+arg_5_103,great customer service department <SEP> positive,They also have a great customer service department to help you out with any problems or payments you may have .,staff,Automotive,0.517450749874115
+arg_5_104,great customer service experience <SEP> positive,"Thank you to Sandra , Carlos , and the rest of the team for the great customer service experience .",staff,Automotive,0.6513307094573975
+arg_5_105,great guys <SEP> positive,"Marvin , Tony and Antony were so fast , so efficient and great guys !",staff,Automotive,0.6129893064498901
+arg_5_106,great help <SEP> positive,Both times I got great help with NO CHARGE ! ! !,staff,Automotive,0.5886216759681702
+arg_5_107,great maintenance team <SEP> positive,Great maintenance team .,staff,Automotive,0.5701482892036438
+arg_5_108,great quality customer service <SEP> positive,I was able to see their interaction with other customers and I saw they treated everyone with kindness with great quality customer service .,staff,Automotive,0.8393498063087463
+arg_5_109,great sales staff <SEP> positive,I do want to reiterate the sales staff was great .,staff,Automotive,0.6297557950019836
+arg_5_110,great service <SEP> positive,I 've always had great service here .,staff,Automotive,0.5697977542877197
+arg_5_111,great service center <SEP> positive,Audi North Scottsdale Service center is great !  ,staff,Automotive,0.4312848150730133
+arg_5_112,great service provider <SEP> positive,The service provider was great too .  ,staff,Automotive,0.3569333553314209
+arg_5_114,great staffers <SEP> positive,I would also like to mention how great all the staffers were that I spoke with while waiting .  ,staff,Automotive,0.5936257243156433
+arg_5_115,great team service <SEP> positive,The service department is also a great team .  ,staff,Automotive,0.6577282547950745
+arg_5_116,great- customer service <SEP> positive,The customer service was great-,staff,Automotive,0.26840338110923767
+arg_5_117,happy customer <SEP> positive,Got a great deal and he gets the importance of customer service and a happy customer .,staff,Automotive,0.6769211292266846
+arg_5_118,happy service <SEP> positive,I am usually happy with they service the provide .,staff,Automotive,0.583323061466217
+arg_5_119,happy store <SEP> positive,I 'm very happy with this store .,staff,Automotive,0.6459193825721741
+arg_5_120,happy with service <SEP> positive,"The real MVP here is Anthony Pacheco in parts , he went above and beyond to ensure I was happy with the service at Audi North Scottsdale .",staff,Automotive,0.6183739304542542
+arg_5_121,hard staff <SEP> positive,"Helpful , hard - working staff .",staff,Automotive,0.7925204634666443
+arg_5_122,hardest working guy <SEP> negative,Hardest working guy there .,staff,Automotive,0.4878934621810913
+arg_5_123,helpful deals <SEP> positive,Charles offers the best deals and he 's so helpful and personable .,staff,Automotive,0.8289627432823181
+arg_5_124,helpful everyone <SEP> positive,Dmv made easy is definitely the perfect name for this business ... everyone there is so polite and helpful .,staff,Automotive,0.6414288878440857
+arg_5_126,honest customer service <SEP> positive,"I always appreciate good , honest customer service especially when it comes to anything auto related .",staff,Automotive,0.5016663074493408
+arg_5_127,honest service <SEP> positive,Dan who runs their service department is honest and informative .,staff,Automotive,0.2628011405467987
+arg_5_128,honest shop <SEP> negative,It 's hard to find a honest shop that 's not going to rip you off .,staff,Automotive,0.7121350765228271
+arg_5_130,horrible horrible service <SEP> negative,HORRIBLE HORRIBLE SERVICE DO NOT USE ...,staff,Automotive,0.6076679229736328
+arg_5_131,horrible service <SEP> negative,"However , the kids that did the drying and cleaning of interior did a horrible job and I paid extra for the service .",staff,Automotive,0.530609667301178
+arg_5_132,hospitable everyone <SEP> positive,Everyone 's so hospitable very friendly .  ,staff,Automotive,0.5636706948280334
+arg_5_133,impeccable service <SEP> positive,Thank you for the impeccable service .,staff,Automotive,0.2822159230709076
+arg_5_135,impressed customer service <SEP> positive,I 'm impressed with the overall customer service in checking numerous things to why two tires were leaking and finding a solution promptly so we could enjoy the rest of our trip .,staff,Automotive,0.5725459456443787
+arg_5_136,impressed service <SEP> positive,and I was so impressed by his service and friendliness .,staff,Automotive,0.6661274433135986
+arg_5_137,impressed with service <SEP> positive,We recently purchased a 2017 Kia Sorento from Steve Brotherton at Bill Luke Tempe and are highly impressed with the service we have received from him .  ,staff,Automotive,0.3292410671710968
+arg_5_138,incredible service <SEP> positive,The service was incredible !,staff,Automotive,0.7589421272277832
+arg_5_139,incredibly friendly cashier <SEP> positive,The cashier was incredibly friendly & allowed us an additional discount on top of our coupon AND groupon .,staff,Automotive,0.44742000102996826
+arg_5_140,incredibly knowledgable folks <SEP> positive,My 15 year old Mustang is still alive and well thanks to these incredibly knowledgable folks .  ,staff,Automotive,0.6280156373977661
+arg_5_141,incredibly polite movers <SEP> positive,"The movers showed up right on time , got the move done so quickly , and were incredibly polite and easy to deal with .  ",staff,Automotive,0.6737803220748901
+arg_5_142,incredibly responsive guy <SEP> positive,"Jason is an incredibly responsive guy , has detailed knowledge on the vehicles and gives me complete confidence that they will be there for me throughout the ownership experience .  ",staff,Automotive,0.4618286192417145
+arg_5_144,kind sales lady <SEP> positive,"The sales lady was so kind , patience and very professional .",staff,Automotive,0.8015270233154297
+arg_5_145,kind staff <SEP> positive,Mark and the rest of the staff were kind and very helpful .,staff,Automotive,0.5114069581031799
+arg_5_146,kindest employees <SEP> positive,They have the kindest employees there,staff,Automotive,0.5713073015213013
+arg_5_147,knowledgeable guys <SEP> positive,Guys were knowledgeable and quick with my truck .  ,staff,Automotive,0.832476794719696
+arg_5_148,knowledgeable service <SEP> positive,"I was ready for battle with a stereotypical used car salesman when I arrived , but was actually pleasantly surprised with the low pressure , patient , and knowledgeable service we got from Bruce Mortensen .  ",staff,Automotive,0.5260410308837891
+arg_5_152,love service <SEP> positive,Love their service and level of integrity there .,staff,Automotive,0.4105246961116791
+arg_5_153,love staff <SEP> positive,I love the staff at Audi .,staff,Automotive,0.7111601829528809
+arg_5_154,loved dealer <SEP> positive,We loved how quiet this dealer was in comparison to the awful dealer that we had just came from .  ,staff,Automotive,0.6815001368522644
+arg_5_156,loyal lightning lube <SEP> positive,I have now become a loyal Lightning Lube customer !,staff,Automotive,0.6322850584983826
+arg_5_157,modest service <SEP> positive,"The service was modest , a good balanced or friendly and humorous .",staff,Automotive,0.5376087427139282
+arg_5_158,most truthful service <SEP> positive,It is the most truthful service center I have ever dealt with .  ,staff,Automotive,0.3914409279823303
+arg_5_159,nastiest car dealership <SEP> negative,Nastiest car dealership ever .,staff,Automotive,0.49549615383148193
+arg_5_160,needed service <SEP> positive,"My husband and I take our cars here whenever service is needed and every time , we are well taken care of .  ",staff,Automotive,0.3544383943080902
+arg_5_161,never seek service <SEP> positive,"Idk , but I will never seek service here again !",staff,Automotive,0.2857342064380646
+arg_5_162,new management <SEP> positive,New management and staff from what I can tell .,staff,Automotive,0.5604187846183777
+arg_5_163,nice and friendly everyone <SEP> positive,Everyone who works here is nice and friendly .,staff,Automotive,0.58120197057724
+arg_5_164,nice people <SEP> positive,"Nice people , super fast , but not a great job done .",staff,Automotive,0.675385594367981
+arg_5_165,nice staff <SEP> positive,thanks cesar and the other nice staff,staff,Automotive,0.50895094871521
+arg_5_167,nothing but amazing service <SEP> positive,But Audi always has loaners and have heard nothing but amazing things about their service advisors !,staff,Automotive,0.6968113780021667
+arg_5_168,nothing but horrible service <SEP> negative,My service advisor left and now it is nothing but horrible service .,staff,Automotive,0.6410706043243408
+arg_5_169,oriented service <SEP> positive,"You have some real service oriented pros working for you ... friendly , helpful , and definitely exceeded expectations .",staff,Automotive,0.3451632261276245
+arg_5_170,outstanding customer service <SEP> positive,"You guys are great , thanks for the outstanding customer service !",staff,Automotive,0.19980624318122864
+arg_5_171,outstanding service <SEP> positive,Thank you for the outstanding service .,staff,Automotive,0.33349061012268066
+arg_5_172,outstanding service department <SEP> positive,We are so grateful this Thanksgiving for the outstanding service department at Auto Nation East Las Vegas .,staff,Automotive,0.7414555549621582
+arg_5_174,overpriced acceleraton <SEP> negative,"Slow 0 - 60 mph , intake and acceleraton problems , Overpriced maintenance plans , performance and stability issues .",staff,Automotive,0.6123902201652527
+arg_5_175,overpriced business <SEP> negative,we r canceling the loan with him and the overpriced warranty Bad business he knew we had a loan,staff,Automotive,0.6016743183135986
+arg_5_176,overrun service <SEP> negative,"The business does n't care , and in turn the service advisors get overrun with clients and they seem like they hate their job .",staff,Automotive,0.61518394947052
+arg_5_177,patient everyone <SEP> positive,"Not here , everyone was so nice and patient .",staff,Automotive,0.5420421957969666
+arg_5_178,patient sales <SEP> positive,"My sales person was John Muzzarelli "" Muzzy "" , he was patient and knowledgeable on all of the cars I looked at before I made my decision .",staff,Automotive,0.5272117257118225
+arg_5_179,phenomenal service <SEP> positive,Phenomenal service !,staff,Automotive,0.7864094972610474
+arg_5_181,pleasant guy <SEP> positive,:) The only reason I did n't give one star is because the guy who took my money was pleasant .,staff,Automotive,0.6764036417007446
+arg_5_183,pleased visit <SEP> positive,and I was very pleased with my visit .,staff,Automotive,0.5899617075920105
+arg_5_184,polite dealer <SEP> positive,"My dealer was Jay , who was polite and really down to earth .",staff,Automotive,0.5672916769981384
+arg_5_185,polite good service <SEP> positive,"Pretty quick in and out , polite good service .",staff,Automotive,0.5943309664726257
+arg_5_186,poor management <SEP> negative,Poor management in every way .,staff,Automotive,0.5480203032493591
+arg_5_187,poor service <SEP> negative,She did not even offer to do a better job or apologize for the poor service .,staff,Automotive,0.5628297924995422
+arg_5_188,professional and efficient christian <SEP> positive,"Christian was very personable , professional and efficient .",staff,Automotive,0.7911823987960815
+arg_5_189,professional and honest sales specialist <SEP> positive,I 've bought several cars in my life and can say that Steve is the most professional and honest sales specialist I 've ever encountered .,staff,Automotive,0.49959662556648254
+arg_5_190,professional employee <SEP> positive,Every employee I had contact was professional and knowledgeable !,staff,Automotive,0.5932571291923523
+arg_5_191,professional sales rep <SEP> positive,"The sales rep , Danny B , has been professional all through out .",staff,Automotive,0.5132506489753723
+arg_5_192,professional service <SEP> positive,"Ken , Alex , ' D ' , and the whole crew have always provided me with friendly , fast , top - notch , professional service without fail .  ",staff,Automotive,0.7136400938034058
+arg_5_194,professional tony <SEP> positive,Tony Cole was professional and helpful during the entire process .  ,staff,Automotive,0.521929919719696
+arg_5_195,prompt pickup <SEP> positive,Prompt pickup from airport .  ,staff,Automotive,0.5009822845458984
+arg_5_196,promptly greeted <SEP> positive,Brought my truck in for service and was greeted promptly .,staff,Automotive,0.6205958724021912
+arg_5_197,quality service <SEP> positive,Took my Mercedes - Benz in and was ready if necessary to insist on quality service - did n't need to .,staff,Automotive,0.6200722455978394
+arg_5_198,"quick , friendly service <SEP> positive","Zack helped me , quick , friendly service .",staff,Automotive,0.32638442516326904
+arg_5_199,quick and efficient service <SEP> positive,"For how busy it is , I feel as though the service is quick and efficient .",staff,Automotive,0.5251306891441345
+arg_5_200,quite patient sales guy <SEP> positive,"Our sales guy , Alex , was quite patient with me , which I very much appreciate .",staff,Automotive,0.660019040107727
+arg_5_201,really bad service <SEP> negative,Really bad service ! ! !,staff,Automotive,0.5405670404434204
+arg_5_202,really friendly helpful drivers <SEP> positive,Really friendly helpful drivers .,staff,Automotive,0.5318345427513123
+arg_5_203,really great service <SEP> positive,Service has been really great too .,staff,Automotive,0.22199265658855438
+arg_5_204,really nice everyone <SEP> positive,Everyone was really nice and that makes a difference when its early on a Saturday morning .,staff,Automotive,0.8048864006996155
+arg_5_205,really nice people <SEP> positive,"They follow you your spot , put your luggage on the bus , really nice people !  ",staff,Automotive,0.7037377953529358
+arg_5_206,really pleased service <SEP> positive,Really pleased with the service .,staff,Automotive,0.606846809387207
+arg_5_207,reputable 5-star service <SEP> positive,Talk about honest and reputable 5-star service at AutoNation Toyota - Tempe ! ! ! !,staff,Automotive,0.2857342064380646
+arg_5_209,satisfied service <SEP> positive,I 'm satisfied with the service they did on my brand new car .,staff,Automotive,0.4595118761062622
+arg_5_210,shady dealership <SEP> negative,Watch out this dealership is SHADY ! ! !,staff,Automotive,0.47030508518218994
+arg_5_211,shady deals <SEP> negative,I can only imagine the the shady deals the sales team cuts at this place .   ,staff,Automotive,0.8906102180480957
+arg_5_212,stellar services <SEP> positive,"Their services is stellar , professional and quick .",staff,Automotive,0.4767950475215912
+arg_5_213,straight forward customer service <SEP> positive,Attentive and straight forward customer service .,staff,Automotive,0.3032386600971222
+arg_5_215,super friendly everyone <SEP> positive,Everyone was super friendly from the moment I pulled into the parking lot .  ,staff,Automotive,0.6920931935310364
+arg_5_217,super great about service team <SEP> positive,The service team was super great about responding and are quickly getting it fixed .  ,staff,Automotive,0.4817945659160614
+arg_5_219,super speedy service <SEP> positive,Plus service was super speedy .,staff,Automotive,0.2301713079214096
+arg_5_220,superb service <SEP> positive,The service is superb .  ,staff,Automotive,0.3420671224594116
+arg_5_221,superior service <SEP> positive,Once in awhile a business entity will provide superior service .,staff,Automotive,0.6280319690704346
+arg_5_222,sweetest gentleman <SEP> positive,Danny is the sweetest gentleman that helped me through the whole registration process !,staff,Automotive,0.5277519226074219
+arg_5_223,tad on service <SEP> negative,"Their service can be a tad on the pricy side , but it 's a lot better then going to the DMV and waiting hours to be seen especially if your time is limited .",staff,Automotive,0.5297864079475403
+arg_5_224,terrible maintenance department <SEP> negative,Maintenance department is terrible .  ,staff,Automotive,0.4687725007534027
+arg_5_226,terrible service department <SEP> negative,The service department is terrible !,staff,Automotive,0.5539196729660034
+arg_5_227,terrible service overall <SEP> negative,"When the driver finally arrived he was very nice , but the service overall was terrible .",staff,Automotive,0.871066689491272
+arg_5_228,terrible terrible job <SEP> negative,TERRIBLE TERRIBLE job !  ,staff,Automotive,0.511222779750824
+arg_5_229,terrific sales reps <SEP> positive,Our sales reps Derick and Arnie were terrific .,staff,Automotive,0.6498096585273743
+arg_5_230,timely work <SEP> positive,They get the work done timely so you are not overcharged .,staff,Automotive,0.5713338851928711
+arg_5_231,tiring lines <SEP> negative,"I recommend you going to DMV made easy , If you hate the long and tiring lines at the DMV and let 's not forget , the crazy angry old ladies that are not happy to help you through an already unpleasant process !    ",staff,Automotive,0.5190426707267761
+arg_5_233,tremendously friendly people <SEP> positive,The people were tremendously friendly and greeted me right when I arrived .  ,staff,Automotive,0.7275954484939575
+arg_5_234,trustworthy service <SEP> positive,Visit the West Charleston location when looking for trustworthy service .,staff,Automotive,0.6910266876220703
+arg_5_236,upsetting care <SEP> positive,However ... I was very well taken care of when I voiced how upsetting it was to have my car in the shop so often ...,staff,Automotive,0.6696584820747375
+arg_5_238,very courteous shuttle driver <SEP> positive,The shuttle driver Nancy was also very courteous !,staff,Automotive,0.4577414393424988
+arg_5_240,very efficient financial <SEP> positive,"We had Nathaniel Syme as our financial representative , he was very efficient and did not pressure us to buy all the warranties and upgrades .",staff,Automotive,0.5504593253135681
+arg_5_241,very friendly & polite driver <SEP> positive,Super clean truck with AC & a very friendly & polite driver !,staff,Automotive,0.6038913130760193
+arg_5_242,very friendly and kim <SEP> positive,Kim was very friendly and helpful in the office .,staff,Automotive,0.4433315694332123
+arg_5_244,very friendly and personable sales guy <SEP> positive,Our sales guy Michael was very friendly and personable .,staff,Automotive,0.45132285356521606
+arg_5_245,very friendly efficient staff <SEP> positive,"Easy to reach off of the freeway , very friendly efficient staff , and the vans are at your car immediately to load your luggage and head for the airport .",staff,Automotive,0.7618877291679382
+arg_5_246,very friendly staff <SEP> positive,staff was very friendly and I was able to drop my truck off and get out the door within 5 minutes .,staff,Automotive,0.5374271273612976
+arg_5_247,very good service <SEP> positive,Very good service as well !,staff,Automotive,0.28294995427131653
+arg_5_248,very great staff <SEP> positive,Kyle and the rest of the staff were very great !,staff,Automotive,0.6732611656188965
+arg_5_250,very happy service <SEP> positive,"Very happy with the service here , and you will be too .  ",staff,Automotive,0.4143159091472626
+arg_5_251,very helpful and accomodating service advisor <SEP> positive,my service advisor - has always been very helpful and accomodating .  ,staff,Automotive,0.43756210803985596
+arg_5_253,very helpful everyone <SEP> positive,Everyone was very helpful and I was in and out in no time .,staff,Automotive,0.638904333114624
+arg_5_254,very helpful service <SEP> positive,My service specialist Al Rizzo has always been very helpful and tell me what a REALLY need to fix .  ,staff,Automotive,0.5586112141609192
+arg_5_256,very honest company <SEP> negative,Very honest company .,staff,Automotive,0.6519415378570557
+arg_5_257,very kind service <SEP> positive,"While he and my very kind service advisor Wyatt Tolby could not fix my two issues they were very open , honest and tried to help in any other way they could .",staff,Automotive,0.5833312273025513
+arg_5_259,very knowledgeable mechanics <SEP> positive,The mechanics are very knowledgeable and helpful !,staff,Automotive,0.48656317591667175
+arg_5_260,very knowledgeable service <SEP> positive,"From check in to the service men , everyone was very knowledgeable .",staff,Automotive,0.5120925903320312
+arg_5_261,very nice and professional manager <SEP> positive,The manager Stephen was very nice and professional .,staff,Automotive,0.4971765875816345
+arg_5_262,very nice and staff <SEP> positive,The staff was also very nice and personable .,staff,Automotive,0.7428658604621887
+arg_5_263,very nice general manager <SEP> positive,Cesar the general manager was very nice & honest,staff,Automotive,0.5612618923187256
+arg_5_264,very nice sales person <SEP> positive,My sales person Justin was very nice .,staff,Automotive,0.8765757083892822
+arg_5_266,very pleasant and nice everyone <SEP> positive,Everyone was so very pleasant and nice .  ,staff,Automotive,0.6814624667167664
+arg_5_267,very pleased service <SEP> positive,Very pleased with the service .,staff,Automotive,0.660606324672699
+arg_5_268,very polite front door guy <SEP> positive,"Per usual , the front door guy was very polite and courteous .  ",staff,Automotive,0.7057896852493286
+arg_5_269,very poor service department <SEP> negative,The service department at Henderson BMW is very poor .,staff,Automotive,0.4742150902748108
+arg_5_270,very professional employees <SEP> positive,If all the other sales people are as professional Mr. Moreno the Auto Nation has some very professional employees .,staff,Automotive,0.8318593502044678
+arg_5_271,very professional manner <SEP> positive,His knowledge and manner was very professional .  ,staff,Automotive,0.6602689027786255
+arg_5_272,very professional mecanics <SEP> positive,Mark got me a great deal and his mecanics were very professional working on my car,staff,Automotive,0.7004506587982178
+arg_5_274,very staff <SEP> positive,"Staff was very helpful , professional , and asked if I had any questions before my vehicle was released .",staff,Automotive,0.6762524843215942
+arg_5_275,very straight forward sales guy <SEP> positive,Our sales guy Aaron Jaffe was very straight forward .,staff,Automotive,0.6647153496742249
+arg_5_277,was great to deal dealer staff <SEP> positive,The dealer staff   was great to deal with .,staff,Automotive,0.703035831451416
+arg_5_278,wonderful customer service <SEP> positive,but what I appreciate the most is the wonderful customer service ...,staff,Automotive,0.25862812995910645
+arg_5_279,wonderful dealer <SEP> positive,The dealer who assisted me was Terry and he was wonderful .,staff,Automotive,0.516664981842041
+arg_5_280,wonderful service <SEP> positive,I always have wonderful service .  ,staff,Automotive,0.20183145999908447
+arg_5_281,wonderful service experience <SEP> positive,I had a wonderful service experience at Audi North Scottsdale .,staff,Automotive,0.5098903179168701
+arg_5_282,wonderful service techs <SEP> positive,Service techs are wonderful !,staff,Automotive,0.33643144369125366
+arg_5_283,wonderful staff <SEP> positive,What a wonderful staff !,staff,Automotive,0.6070509552955627
+arg_5_284,worst communication <SEP> negative,They have the worst communication I have ever come across .,staff,Automotive,0.6142842769622803
+arg_5_286,worst customer service experience <SEP> negative,the worst customer service experience ever .,staff,Automotive,0.506632924079895
+arg_5_287,worst dealership <SEP> negative,"This is the worst dealership , take your business to Audi .",staff,Automotive,0.7675381898880005
+arg_5_288,worst manager <SEP> negative,"Fadel the manager was the worst , so rude .  ",staff,Automotive,0.5520045757293701
+arg_5_290,zero attempt at customer service <SEP> negative,They made zero attempt at customer service .,staff,Automotive,0.6350114345550537
+arg_5_38,best customer <SEP> positive,Best customer service hands down !,staff,Automotive,0.2637799382209778
+arg_5_101,great customer <SEP> positive,I believe that they give great customer service,staff,Automotive,0.29474207758903503
+arg_5_151,love customer <SEP> positive,"I love the customer service ( shout out to Chris Raymond at Las Vegas W. Sahara store ! ! ) , the easy - to - use website search and the quality of vehicles they have available .",staff,Automotive,0.3982551097869873
+arg_5_155,loyal customer <SEP> positive,I 'm a fast pass subscriber and have been a loyal customer for a while now .  ,staff,Automotive,0.30654147267341614
+arg_5_180,picky customer <SEP> positive,I have never had a bad experience and I am very picky when it comes to customer service .  ,staff,Automotive,0.4218509793281555
+arg_5_208,satisfied customer <SEP> positive,"Long story short , what started out as a misfire on their part , Eric reached out to me and went above and beyond to assure that I was a satisfied customer .",staff,Automotive,0.27126336097717285
+arg_5_232,total customer satisfaction <SEP> positive,"Ironically , their goal is for "" total customer satisfaction "" .  ",staff,Automotive,0.2747727036476135
+arg_5_249,very happy customer <SEP> positive,It took approximately 45 minutes and I drove away a very happy customer .,staff,Automotive,0.3069199323654175
+arg_5_273,very satisfied customer <SEP> positive,I am a very satisfied customer .,staff,Automotive,0.3858230412006378
+arg_5_16,amazing customer <SEP> positive,AMAZING customer service ... they made everything super easy for me and saved me a whole day of waiting at the dmv !,staff,Automotive,0.4230084717273712
+arg_5_1,a little forceful with financing people <SEP> negative,The financing people were a little forceful with warranties,staff,Automotive,0.34009093046188354
+arg_5_5,absolutely incredible staff <SEP> positive,The staff here was absolutely incredible .,staff,Automotive,0.2826839089393616
+arg_5_11,always nice staff <SEP> positive,Staff is always nice .,staff,Automotive,0.377562552690506
+arg_5_12,always pleasant and friendly staff <SEP> positive,The staff here is always pleasant and friendly .  ,staff,Automotive,0.4091406762599945
+arg_5_68,extremely friendly staff <SEP> positive,The staff is extremely friendly and straight forward .,staff,Automotive,0.31255650520324707
+arg_5_83,friendly and staff <SEP> positive,The staff was friendly and helpful .,staff,Automotive,0.37320592999458313
+arg_5_88,friendly knowlegable staff <SEP> positive,"No sales pressure at all , very relaxed , friendly knowlegable staff .",staff,Automotive,0.42310455441474915
+arg_5_91,friendly staff <SEP> positive,I was blown away by the service and friendly staff .,staff,Automotive,0.22251209616661072
+arg_5_98,gracious staff <SEP> positive,"However , staff was so gracious that I would definitely return .",staff,Automotive,0.23554930090904236
+arg_5_113,great staff <SEP> positive,"Great staff , we will be coming again .  ",staff,Automotive,0.26641032099723816
+arg_5_149,knowledgeable staff <SEP> positive,"Knowledgeable staff , exceedingly polite .  ",staff,Automotive,0.3166792094707489
+arg_5_182,pleased staff <SEP> positive,"I was very pleased with the staff , and the service I received .  ",staff,Automotive,0.2097962498664856
+arg_5_193,professional staff <SEP> positive,I ca n't tell you how professional the entire staff is at Subaru of Las Vegas .  ,staff,Automotive,0.36718910932540894
+arg_5_216,super friendly staff <SEP> positive,"DMV Made Easy has super friendly staff , that made my registration process a breeze !",staff,Automotive,0.2765669524669647
+arg_5_218,super nice staff <SEP> positive,The super nice staff is just a bonus !,staff,Automotive,0.41541969776153564
+arg_5_243,very friendly and knowledgeable staff <SEP> positive,The staff is very friendly and knowledgeable .  ,staff,Automotive,0.2559257745742798
+arg_5_255,very helpful staff <SEP> positive,The staff is very helpful and do everything to help you out .,staff,Automotive,0.4196454584598541
+arg_5_258,very knowledgeable and friendly staff <SEP> positive,"Staff is very knowledgeable and friendly , giving a special shot out to Archie a. k. a.",staff,Automotive,0.2734646201133728
+arg_5_276,very thorough staff <SEP> positive,and I was very nervous but the staff here made it easy and were very thorough .,staff,Automotive,0.14435547590255737
+arg_5_59,exceptional employees <SEP> positive,A+ service and the integrity of the company and employees that run the place are exceptional .,staff,Automotive,0.37924087047576904
+arg_5_214,super friendly employees <SEP> positive,"All the employees there are super friendly ,   and I felt very welcome .  ",staff,Automotive,0.31433647871017456
+arg_5_252,very helpful employees <SEP> positive,"The employees are very helpful , they do n't hound you like most car dealerships do .",staff,Automotive,0.3867465853691101
+arg_5_25,attentive customer service <SEP> negative,"You do n't always get the most attentive customer service , but it helps that you are not pressured to buy , either .  ",staff,Automotive,0.4039197862148285
+arg_5_35,bad customer service <SEP> negative,we wondered if he was a bad customer service guy or representative of the company .,staff,Automotive,0.3251810669898987
+arg_5_45,completely different customer service <SEP> negative,"Same company , two completely different customer service styles .",staff,Automotive,0.287037193775177
+arg_5_166,non caring customer service personnel <SEP> negative,"One of the supervisors- LEONARD who I got a chance to explain my problem , was the most unreasonable and non caring customer service personnel I have come across in this town .",staff,Automotive,0.38920271396636963
+arg_5_235,unreal customer service <SEP> negative,Just unreal customer service .,staff,Automotive,0.3783475458621979
+arg_5_239,very customer service <SEP> negative,I bought a vehicle there and customer service was very unprofessional .,staff,Automotive,0.2361951321363449
+arg_5_125,helpful staff <SEP> positive,The entire staff was so nice and helpful with other services they had .,staff,Automotive,0.4325817823410034
+arg_5_129,horrible customer service <SEP> negative,Horrible customer service ...  ,staff,Automotive,0.2805981934070587
+arg_5_285,worst customer service <SEP> negative,Worst customer service ever .,staff,Automotive,0.28140246868133545
+arg_5_43,better service <SEP> negative,You expect a better service .  ,staff,Automotive,0.2735726833343506
+arg_5_53,disgusting service <SEP> negative,DISGUSTING SERVICE ! ! ! !,staff,Automotive,0.4129962623119354
+arg_5_134,important service <SEP> negative,"I had my car get a full detail here , and from the front desk to the detail guy , I really felt like service was important .",staff,Automotive,0.2740766406059265
+arg_5_143,incredibly rude service manager <SEP> negative,Their service manager Kelly Scott is incredibly rude - passive aggressive as heck .,staff,Automotive,0.2178468555212021
+arg_5_150,lack of service <SEP> negative,"I 've been in the automotive industry for over 12 years and never have I ever been disappointed in the lack of service , communication or care for customers .  ",staff,Automotive,0.31907594203948975
+arg_5_173,overcrowded service department <SEP> negative,This place is overcrowded with their service department .,staff,Automotive,0.34919634461402893
+arg_5_225,terrible service <SEP> negative,but I do n't think I would even go for a free wash for this terrible service .,staff,Automotive,0.27275973558425903
+arg_5_237,very bad service <SEP> negative,"Very Bad service ... with VIP service , took over an hour and did not even clean good",staff,Automotive,0.3627617657184601
+arg_5_265,very over priced service <SEP> negative,I felt the service I received at the competing dealership was very over priced  ,staff,Automotive,0.2931530773639679
+arg_5_289,worst service <SEP> negative,Worst service ever .,staff,Automotive,0.38065221905708313
+arg_6_0,$ 10 oil prices <SEP> negative,"Even though I had already asked specifically for the lowest , ( mind you their oil prices are $ 10 over most . )",value-for-money,Automotive,0.36278894543647766
+arg_6_1,300 + monthly payments <SEP> negative,Now I have 300 + monthly payments and a car that runs 70 % of the time lol .,value-for-money,Automotive,0.6286047101020813
+arg_6_2,absolutely worth drive <SEP> positive,The drive was absolutely worth it .,value-for-money,Automotive,0.6566441655158997
+arg_6_3,affordable payments <SEP> positive,Rick found us the best financial rate for our situation and went beyond to make our monthly payments affordable ! ! !  ,value-for-money,Automotive,0.3233626186847687
+arg_6_4,affordable pricing <SEP> positive,They provide quality fluid changes with affordable pricing .  ,value-for-money,Automotive,0.45398372411727905
+arg_6_5,always ahead of the competition price <SEP> positive,Price is always ahead of the competition,value-for-money,Automotive,0.23867377638816833
+arg_6_6,always coupons <SEP> positive,In addition there are ALWAYS coupons online and they allow you to combine groupon and coupon specials,value-for-money,Automotive,0.3336428701877594
+arg_6_7,always happy prices <SEP> positive,I am always happy with quality and prices .,value-for-money,Automotive,0.33001434803009033
+arg_6_8,always willing to discount <SEP> positive,This Discount Tire is always willing to help and answer any questions .,value-for-money,Automotive,0.3155089020729065
+arg_6_9,amazing deal <SEP> positive,With my groupon purchase this was an amazing deal .,value-for-money,Automotive,0.5759298801422119
+arg_6_10,amazing discount tire <SEP> positive,Discount tire on Flamingo & El Capitan is simply AMAZING ! ! !  ,value-for-money,Automotive,0.2902153730392456
+arg_6_11,amazing lease deal <SEP> positive,Just got an amazing lease deal .,value-for-money,Automotive,0.2726549804210663
+arg_6_12,awesome finance <SEP> positive,Finance was awesome .  ,value-for-money,Automotive,0.41478726267814636
+arg_6_13,best car purchasing experience <SEP> positive,Definitely the best car purchasing experience ever .,value-for-money,Automotive,0.8396458029747009
+arg_6_14,best deal <SEP> positive,Totally the best deal in town .,value-for-money,Automotive,0.32637375593185425
+arg_6_15,best price <SEP> positive,"They worked with me on getting the best price for when my car was completely down and did n't try to sell me on additional repairs that they "" found .",value-for-money,Automotive,0.6334385871887207
+arg_6_16,best prices <SEP> positive,After spending a couple days comparing them to other dealerships around town I felt they had the best prices .,value-for-money,Automotive,0.43135735392570496
+arg_6_17,best pricing <SEP> positive,They found the best possible pricing and worked with what I had .,value-for-money,Automotive,0.30643805861473083
+arg_6_18,better price <SEP> negative,I checked other dealers on the same vehicle I purchased and Bill Luke Fiat had a better price than everyone .  ,value-for-money,Automotive,0.6003389358520508
+arg_6_19,better than average pricing <SEP> positive,"the Costco program gets you an Auto at dealer invoice , much better than average pricing .",value-for-money,Automotive,0.42981022596359253
+arg_6_20,better than fair value <SEP> positive,We even traded in our last Carmax purchase and they have us better than fair value to our pleasant surprise .  ,value-for-money,Automotive,0.25463756918907166
+arg_6_21,better than price <SEP> positive,The price I received on the new car and the trade in were better than I had expected - and that was with no haggling .,value-for-money,Automotive,0.5571126341819763
+arg_6_22,breeze buying <SEP> positive,"They stayed true to everything they said that they that they would online and in person , plus the test driving and buying process was a breeze .  ",value-for-money,Automotive,0.6088127493858337
+arg_6_23,cheap price <SEP> negative,They advertise for a cheap price but that 's not the price you 're offered .,value-for-money,Automotive,0.7911439538002014
+arg_6_24,cheaper fee <SEP> negative,"They offer to fix window chipping , but charge a fee that is cheaper if you go through your insurance .",value-for-money,Automotive,0.7136629819869995
+arg_6_25,competitive interest rate <SEP> positive,Also gave me a competitive interest rate .,value-for-money,Automotive,0.4539490044116974
+arg_6_26,competitive prices <SEP> positive,Prices are competitive and they have discounts all the time .   ,value-for-money,Automotive,0.5767083168029785
+arg_6_27,competitive pricing <SEP> positive,"Competitive pricing ,   great tire warranties that they actually honor , and very good customer service .",value-for-money,Automotive,0.5696862936019897
+arg_6_28,completed lease <SEP> positive,This one I will be buying when the lease is completed !,value-for-money,Automotive,0.4195193350315094
+arg_6_29,decent price <SEP> positive,Decent price .,value-for-money,Automotive,0.2102685570716858
+arg_6_30,discounted price <SEP> positive,"He helped me find the best tires , at a discounted price .",value-for-money,Automotive,0.5675133466720581
+arg_6_31,discounted rate <SEP> positive,Discounted daily rate on the internet if you make reservation .  ,value-for-money,Automotive,0.6358771324157715
+arg_6_32,discounted tow prices <SEP> positive,This tow place works in association with Superior Tire & Goodyear for discounted tow prices & they 're super fast too !,value-for-money,Automotive,0.35517045855522156
+arg_6_33,easy - going car purchase <SEP> positive,"I have to say I have never experienced such a pleasant , easy - going car purchase .",value-for-money,Automotive,0.5309010744094849
+arg_6_34,excellent price <SEP> positive,Then he quoted an excellent price !,value-for-money,Automotive,0.41130709648132324
+arg_6_35,exorbitant prices <SEP> negative,"I tried other places and they could not figure out what was wrong with my air condition , and the prices were exorbitant .",value-for-money,Automotive,0.5666394233703613
+arg_6_36,extremely low offer <SEP> negative,( As for the sales team -- Definitely would have to drive back to Texas to upgrade because the offer on my vehicle was extremely low ),value-for-money,Automotive,0.4076690375804901
+arg_6_37,extremely reasonably priced moving company <SEP> positive,I would recommend Christopher Moving very highly to anyone looking for a trustworthy and extremely reasonably priced moving company .,value-for-money,Automotive,0.2988489270210266
+arg_6_38,fair fee <SEP> negative,"The fee is based on how fast you need it , but they are fair .",value-for-money,Automotive,0.27582991123199463
+arg_6_39,fair price <SEP> positive,"Was offered a fair price , my asking price , for my 12 ' GTI .",value-for-money,Automotive,0.37057867646217346
+arg_6_40,fair prices <SEP> positive,Their prices are fair as well .  ,value-for-money,Automotive,0.18310551345348358
+arg_6_41,fair pricing <SEP> positive,Pricing was already fair and they gave me a break on it on top of it since I decided to proceed with all of the repairs .  ,value-for-money,Automotive,0.5353572368621826
+arg_6_42,free car wash coupons <SEP> positive,The cashier gave me two free car wash coupons to use .,value-for-money,Automotive,0.3758375644683838
+arg_6_43,free tire checks <SEP> positive,They also offer free tire checks and flat repairs .,value-for-money,Automotive,0.8627499341964722
+arg_6_44,free tire repair <SEP> positive,Hooked it up fat with a free tire repair at 8 am on a road trip day .,value-for-money,Automotive,0.44556283950805664
+arg_6_45,fully explained fees <SEP> positive,"There were no hidden fees , and everything was fully explained up front .",value-for-money,Automotive,0.2673150300979614
+arg_6_46,good deal <SEP> positive,Good deal :),value-for-money,Automotive,0.4707958400249481
+arg_6_47,good price <SEP> positive,I left with the car that I wanted ( 2016 Honda Civic ) and for a good price .,value-for-money,Automotive,0.37295565009117126
+arg_6_48,good prices <SEP> positive,"Good prices , but they do n't tell you the truth .",value-for-money,Automotive,0.25299718976020813
+arg_6_49,good transaction <SEP> positive,"The transaction itself was good , fair and quick ( bout 3hrs from start to end ) .",value-for-money,Automotive,0.3272011876106262
+arg_6_50,great dealer <SEP> positive,I would recommend this dealer to anybody looking for a great car buying experience .,value-for-money,Automotive,0.2975313067436218
+arg_6_51,great deals <SEP> positive,And overall great deals .,value-for-money,Automotive,0.4732170104980469
+arg_6_52,great experience buying <SEP> positive,I had a great experience buying at Bill Luke .,value-for-money,Automotive,0.6414687633514404
+arg_6_53,great finance dept <SEP> positive,The finance dept was also great .  ,value-for-money,Automotive,0.21710337698459625
+arg_6_54,great finance guy <SEP> positive,"Finance guy PABLO was great explained everything , being a female not knowing much about vehicles .",value-for-money,Automotive,0.6071873903274536
+arg_6_55,great price <SEP> positive,Great price !,value-for-money,Automotive,0.5385102033615112
+arg_6_56,great prices <SEP> positive,PS- Great prices as well .,value-for-money,Automotive,0.5061662793159485
+arg_6_57,great purchasing <SEP> positive,Purchasing from CarMax is great !,value-for-money,Automotive,0.33822378516197205
+arg_6_58,great rate <SEP> positive,They have a partnership with my credit union so we were able to get a great rate of 2 . 5 % and they were willing to give my old car a much better trade in offer than I found elsewhere .,value-for-money,Automotive,0.3961930572986603
+arg_6_59,great sales <SEP> positive,Great sales not pushy at all !,value-for-money,Automotive,0.436055451631546
+arg_6_60,hard earned coins <SEP> positive,I will spend my hard earned coins elsewhere when the time comes for me to service my own car !,value-for-money,Automotive,0.22506146132946014
+arg_6_61,hidden fees <SEP> negative,Gave me the run around on pricing tried to tack on hidden fees of over $ 3000 for car prep   on top of the price .  ,value-for-money,Automotive,0.7753954529762268
+arg_6_62,high interest rates <SEP> negative,Also beware of thier HIGH interest rates .,value-for-money,Automotive,0.4014205038547516
+arg_6_63,high prices <SEP> negative,Prices are to high here,value-for-money,Automotive,0.6635122895240784
+arg_6_64,high sales pitch <SEP> negative,Gave me a heads up on things that may need attention in the future without a high - pressure sales pitch .,value-for-money,Automotive,0.6178876757621765
+arg_6_65,higher priced vehicle <SEP> negative,"The Carmax team members are all about assisting you to find what you are looking for , not by fitting you into a higher priced vehicle to benefit a higher commission , but what YOU want .",value-for-money,Automotive,0.511346697807312
+arg_6_66,higher than expected interested <SEP> negative,The interested was higher than expected with someone 800 fico score .,value-for-money,Automotive,0.33697709441185
+arg_6_67,highest priced synthetic oil <SEP> negative,The man comes out and tells me that I need to go with the highest priced synthetic oil for my car .,value-for-money,Automotive,0.2996213138103485
+arg_6_68,incredible deal <SEP> positive,We walked out of there with two brand new cars and with an INCREDIBLE deal .,value-for-money,Automotive,0.22721977531909943
+arg_6_69,inexpensive experience <SEP> positive,"Had a wonderful , quick , inexpensive experience .",value-for-money,Automotive,0.36151766777038574
+arg_6_70,killer deal <SEP> positive,no ... a killer deal on a new 150 with everything I wanted .,value-for-money,Automotive,0.1728457510471344
+arg_6_71,killer payment <SEP> positive,I got a killer payment and interest rate .,value-for-money,Automotive,0.6540393233299255
+arg_6_72,least worth checking out place <SEP> negative,This place is at least worth checking out .,value-for-money,Automotive,0.5702192783355713
+arg_6_73,less than fair gm financial <SEP> negative,GM financial is less than fair .  ,value-for-money,Automotive,0.1829770803451538
+arg_6_74,loved price <SEP> positive,My daughter loves her Jetta and I loved the price !  ,value-for-money,Automotive,0.4317992031574249
+arg_6_75,low monthly payment <SEP> positive,"They gave me exactly what I wanted ; window tint , paid up to $ 400 in my registration , gave a me low monthly payment , and made this whole process so seamless !",value-for-money,Automotive,0.3773597776889801
+arg_6_76,lower cost <SEP> negative,The cost was lower than I have paid in the past for the same service .  ,value-for-money,Automotive,0.40590155124664307
+arg_6_77,lower prices <SEP> negative,I recently converted to using Blue Sky due to their prices being lower than the previous company I used .,value-for-money,Automotive,0.2771286368370056
+arg_6_78,lowest price <SEP> negative,The lowest price I got from other   shop is $ 175 .,value-for-money,Automotive,0.6240423321723938
+arg_6_79,lowest prices <SEP> negative,Pros Lowest prices I found .,value-for-money,Automotive,0.45930707454681396
+arg_6_80,most affordable price <SEP> positive,The employees are rad and just want to give you what you NEED at the most affordable price to keep your car running safe and sound .,value-for-money,Automotive,0.5861988663673401
+arg_6_81,much better deal <SEP> positive,Then have me a great deal and got me hooked up with a much better battery .,value-for-money,Automotive,0.5235390663146973
+arg_6_82,no charge plug <SEP> positive,No charge for the plug .,value-for-money,Automotive,0.7095828652381897
+arg_6_83,no hassle pricing <SEP> positive,No hassle pricing .,value-for-money,Automotive,0.5635561943054199
+arg_6_84,on point prices <SEP> positive,The prices are on point with all service shops .  ,value-for-money,Automotive,0.398181289434433
+arg_6_85,outstanding sales <SEP> positive,"Preston , Eddy , and Trent , were outstanding as my sales representatives .  ",value-for-money,Automotive,0.602969229221344
+arg_6_86,over battery <SEP> negative,Said it was a battery issue which cost me over $ 500 to repair .,value-for-money,Automotive,0.3243941366672516
+arg_6_87,overshot era estimate <SEP> negative,"I called 30 minutes in , thinking surely that initial era estimate was overshot - nope !",value-for-money,Automotive,0.9142263531684875
+arg_6_88,perfect financing plan <SEP> positive,Cody was excellent at helping me organize the perfect financing plan to fit my budget .  ,value-for-money,Automotive,0.6968142986297607
+arg_6_89,pretty expensive prices <SEP> negative,Prices were pretty expensive but you have to expect that at a dealership .,value-for-money,Automotive,0.3756271004676819
+arg_6_90,quite easy car buying <SEP> positive,I am so happy she made my first car buying experience quite easy !,value-for-money,Automotive,0.41709721088409424
+arg_6_91,really affordable price <SEP> positive,They make sure to explain to you what they are doing to your vehicle and most importantly they give you peace of mind knowing that they took carevof every bit of preventive maintenance for a really affordable price .,value-for-money,Automotive,0.7580887675285339
+arg_6_92,really good prices <SEP> positive,Really good prices check them out,value-for-money,Automotive,0.7727749347686768
+arg_6_93,reasonable expectation <SEP> negative,"It was busy , but still , a more reasonable expectation should have been set .",value-for-money,Automotive,0.363657683134079
+arg_6_94,reasonable gas prices <SEP> positive,The gas prices where reasonable as well .,value-for-money,Automotive,0.4976326823234558
+arg_6_95,reasonable price <SEP> positive,"The price was reasonable , they were fast and they also gave me recommendations for things that needed to be worked on for my car to run better .",value-for-money,Automotive,0.46409544348716736
+arg_6_97,reasonable rates <SEP> positive,Rates are reasonable .,value-for-money,Automotive,0.43687400221824646
+arg_6_98,reasonably priced <SEP> positive,This is so easy and so reasonably priced at $ 11/day for covered .  ,value-for-money,Automotive,0.6550077199935913
+arg_6_99,remarkable sale <SEP> positive,I have purchased a lot of used vehicles and normally avoid dealers however the clarity of the sale was remarkable .,value-for-money,Automotive,0.3681553900241852
+arg_6_100,remarkably easy purchase <SEP> positive,I purchased a used Ford Expedition for my winter home in PHX and found the purchase remarkably easy .,value-for-money,Automotive,0.6354895234107971
+arg_6_101,satisfied discount tire center <SEP> positive,I am beyond satisfied with Discount Tire Center ! ! !,value-for-money,Automotive,0.6355370879173279
+arg_6_102,second to none price <SEP> positive,The quality and price are second to none,value-for-money,Automotive,0.5763174295425415
+arg_6_103,selling oil changes <SEP> positive,The promise of free oil changes was one of the selling points to purchasing the vehicle .  ,value-for-money,Automotive,0.5425710678100586
+arg_6_104,terrible finance <SEP> negative,Terrible finance officer telling us if u do n't want the car we should walk away .,value-for-money,Automotive,0.5309935808181763
+arg_6_105,top notch prices <SEP> negative,Yes prices can seem a bit high however you know your getting top notch service .,value-for-money,Automotive,0.4339851438999176
+arg_6_106,true no commission store <SEP> negative,They are a true no commission store .  ,value-for-money,Automotive,0.5222010612487793
+arg_6_107,unbeatable price <SEP> positive,"Job done right , quickly , and at an unbeatable price .",value-for-money,Automotive,0.7603932619094849
+arg_6_108,unbelievable deal <SEP> positive,Unbelievable deal if you score a $ 2 groupon deal ... like getting paid to park .,value-for-money,Automotive,0.3147382140159607
+arg_6_109,uncomfortable sell <SEP> negative,There has never been an uncomfortable hard sell from them .,value-for-money,Automotive,0.42869439721107483
+arg_6_110,unheard of prices <SEP> positive,"Also , after doing my research their prices are unheard of .   ",value-for-money,Automotive,0.44340598583221436
+arg_6_111,unreasonable expectation <SEP> negative,The missing fifth star is for the unreasonable expectation that was set with us vs the reality of how long it actually took .,value-for-money,Automotive,0.453800231218338
+arg_6_112,valued investment <SEP> positive,""" Valued investment .",value-for-money,Automotive,0.21282292902469635
+arg_6_113,very affordable price <SEP> positive,The price is also very affordable !,value-for-money,Automotive,0.6257500052452087
+arg_6_114,very clear pricing <SEP> positive,"They were very attentive to the complexity of the move , were very clear about the pricing of the 2 different moves , handled my stuff with the utmost care , and were wonderfully pleasant to work with .  ",value-for-money,Automotive,0.37936875224113464
+arg_6_115,very competitive prices <SEP> positive,I got quotes from several other companies before selecting Christopher Moving and can say that their prices were very competitive .,value-for-money,Automotive,0.7907100915908813
+arg_6_116,very fair price <SEP> positive,The price was very fair .,value-for-money,Automotive,0.24489212036132812
+arg_6_117,very low monthly payment <SEP> positive,"Louise is top notch at getting your monthly payment very low , she 's VERY good at what she does !",value-for-money,Automotive,0.3381566107273102
+arg_6_118,very reasonable amount <SEP> positive,Very reasonable amount .   ,value-for-money,Automotive,0.44751301407814026
+arg_6_119,very reasonable deal <SEP> positive,Gave me a very reasonable deal for my budget !,value-for-money,Automotive,0.5747336149215698
+arg_6_120,very reasonable price <SEP> positive,We drove away in the car we wanted at a very reasonable price .   ,value-for-money,Automotive,0.3102141320705414
+arg_6_121,very reasonable prices <SEP> positive,"Overall would buy again from here , prices are very reasonable .",value-for-money,Automotive,0.30246418714523315
+arg_6_122,very reasonable pricing <SEP> positive,Their pricing is very reasonable here .   ,value-for-money,Automotive,0.352177232503891
+arg_6_123,wasted money <SEP> negative,No Stars because my money is wasted .,value-for-money,Automotive,0.4111141264438629
+arg_6_124,way over deal <SEP> positive,They ended up giving me a great deal and giving me way over kbb value on my trade in and got me into a brand new WRX the next day .,value-for-money,Automotive,0.42037826776504517
+arg_6_125,worthwhile experience <SEP> positive,Adam and Rick made our experience worthwhile ! ! !  ,value-for-money,Automotive,0.4815254211425781
+arg_6_96,reasonable prices <SEP> positive,I 've been to other locations previously and loved it and thought the prices were reasonable .,value-for-money,Automotive,0.6152052879333496
+arg_7_0,2 hour wait <SEP> negative,"Insurance agent reffered them , called & girl on the phone told me a 2 hour wait & told driver wrong location , had to call back 4 times and had to wait 4 HOURS for a tow truck .  ",wait-time,Automotive,0.18867060542106628
+arg_7_1,5 star service <SEP> positive,"But overall , 5 star service from my Sales Associate and the Finance Associate .  ",wait-time,Automotive,0.33654674887657166
+arg_7_2,always fastand service <SEP> positive,It is totally worth finding because the service is always fastand exactly as promised .  ,wait-time,Automotive,0.2331712245941162
+arg_7_3,always great and quick bus drivers <SEP> positive,Bus drivers are always great and quick .,wait-time,Automotive,0.651066780090332
+arg_7_4,always helpful morning hours <SEP> positive,They have early morning hours which are also always helpful .  ,wait-time,Automotive,0.5231183767318726
+arg_7_5,awesome waiting room <SEP> positive,They got my oil change done in 45 minutes and had an awesome waiting room that made the time go by quickly .,wait-time,Automotive,0.7238625288009644
+arg_7_6,boring waiting room <SEP> negative,"( and I waited in their boring waiting room for 6 hours each day , not exaggerating.)This place is dogs%!t .",wait-time,Automotive,0.21495714783668518
+arg_7_7,busy dealership <SEP> positive,We faced no pressure at this busy dealership .,wait-time,Automotive,0.3441605865955353
+arg_7_8,busy service <SEP> positive,And the service is so quick even though it was busy as hell .,wait-time,Automotive,0.4476834237575531
+arg_7_9,busy weekends <SEP> negative,Weekends are busy so expect to wait .,wait-time,Automotive,0.2106882780790329
+arg_7_10,clean and well kept waiting area <SEP> positive,Their waiting area is clean and well kept .,wait-time,Automotive,0.2746731638908386
+arg_7_11,clean shuttle <SEP> positive,The shuttle was clean and did n't smell .  ,wait-time,Automotive,0.2754499316215515
+arg_7_12,clean waiting area <SEP> positive,The waiting area is clean and I love how they keep it simple !,wait-time,Automotive,0.5333154797554016
+arg_7_13,clean waiting room <SEP> positive,"Sure , they pay attention to the small things like coffee and a clean waiting room .",wait-time,Automotive,0.3049328029155731
+arg_7_14,comfortable waiting area <SEP> positive,Waiting area is comfortable .,wait-time,Automotive,0.4388103187084198
+arg_7_15,consistent visits <SEP> positive,I guarantee that my consistent visits would have earned you more income than transitory customers,wait-time,Automotive,0.4033273160457611
+arg_7_16,convenient store <SEP> positive,"I think they are not as easy to work with as the Henderson office , but it is a convenient store for those on the West side .  ",wait-time,Automotive,0.44780293107032776
+arg_7_17,could not be happier vehicle <SEP> negative,I could not be happier with the vehicle or the dealer .,wait-time,Automotive,0.5150910019874573
+arg_7_18,curb long waiting <SEP> negative,I 'm never on the curb long waiting after my return trip .,wait-time,Automotive,0.5905038714408875
+arg_7_19,decent waiting area <SEP> positive,"The waiting area is decent , but could use some modern improvements .",wait-time,Automotive,0.6108129620552063
+arg_7_20,downhill car <SEP> negative,I just want to say the Green valley car wash is going downhill !,wait-time,Automotive,0.8674582839012146
+arg_7_21,easiest car buying experience <SEP> negative,This was the easiest car buying experience I 've ever had .,wait-time,Automotive,0.4509083032608032
+arg_7_22,easy and smooth experience <SEP> positive,Easy and smooth experience .,wait-time,Automotive,0.36213237047195435
+arg_7_23,easy to reach location <SEP> negative,"They gave me an ETA of 60 minutes , which is ridiculous when I 'm in an easy to reach location at 7 : 00 on a weekday morning .",wait-time,Automotive,0.7704033851623535
+arg_7_24,enjoyable day <SEP> negative,"And the movers themselves made what can be a stressful , painful day actually enjoyable .  ",wait-time,Automotive,0.6882914900779724
+arg_7_25,fairly quick and easy process <SEP> positive,Bought a 2018 Jeep Wrangler last month and the process was fairly quick and easy .,wait-time,Automotive,0.5907823443412781
+arg_7_26,fast and easy process <SEP> positive,Process was fast and easy !,wait-time,Automotive,0.7947248220443726
+arg_7_27,fast and friendly service <SEP> positive,The service is fast and friendly and they do n't try to rip you off !,wait-time,Automotive,0.6148447394371033
+arg_7_28,fast crew <SEP> positive,"This crew was fast , and I mean really fast .",wait-time,Automotive,0.28096306324005127
+arg_7_29,fast employees <SEP> positive,"so it was n't to busy , but the employees where fast and knew their job .  ",wait-time,Automotive,0.4278535544872284
+arg_7_30,fast oil change <SEP> positive,Did a fast oil change and inspection .,wait-time,Automotive,0.6031720638275146
+arg_7_31,fast pick - up <SEP> positive,Fast pick - up noted .,wait-time,Automotive,0.27070796489715576
+arg_7_32,fast service <SEP> positive,Fast service .,wait-time,Automotive,0.27141499519348145
+arg_7_33,fast work <SEP> positive,They do honest and fast work !,wait-time,Automotive,0.28063175082206726
+arg_7_34,free car wash <SEP> positive,I visited for an oil change that came with a free car wash .,wait-time,Automotive,0.4504282772541046
+arg_7_35,free loaner <SEP> positive,They detail the car after each service & they have always given me a free loaner car to get back to work .,wait-time,Automotive,0.5918638110160828
+arg_7_36,frequently shuttles <SEP> negative,Shuttles run frequently and using them is so much more convenient than trying to beg a friend for a ride to the airport .  ,wait-time,Automotive,0.6782662272453308
+arg_7_37,fun test drive <SEP> positive,Made test drive fun and informative .,wait-time,Automotive,0.2302122712135315
+arg_7_38,good running condition vehicle <SEP> positive,so I know the vehicle is in good running condition ! !,wait-time,Automotive,0.5772319436073303
+arg_7_39,great full service car wash <SEP> positive,Great full service car wash .,wait-time,Automotive,0.3194923400878906
+arg_7_40,great hours <SEP> positive,Hours are great .,wait-time,Automotive,0.47120562195777893
+arg_7_41,great job <SEP> positive,Great job ; must recommend .,wait-time,Automotive,0.27398526668548584
+arg_7_42,great on time service <SEP> positive,Great on time service .,wait-time,Automotive,0.2294405698776245
+arg_7_43,great shuttle service <SEP> positive,Shuttle service was great and the employees are so friendly and polite .,wait-time,Automotive,0.3356347680091858
+arg_7_44,hour and a half late service <SEP> negative,And the service was also an hour and a half late .,wait-time,Automotive,0.5540524125099182
+arg_7_45,incredibly slow car wash <SEP> negative,", car wash incredibly slow .",wait-time,Automotive,0.4002131223678589
+arg_7_46,less than 5 minutes wait <SEP> negative,"Once we retuned home , the wait for the shuttle was less than 5 minutes and got us to our car within 10 minutes max .",wait-time,Automotive,0.6543083190917969
+arg_7_47,little long wait time <SEP> negative,The wait time can be a little long at certain times of day for oil changes .,wait-time,Automotive,0.28200364112854004
+arg_7_48,long buying process <SEP> negative,They only thing I would change is how long the buying process takes .  ,wait-time,Automotive,0.7485821843147278
+arg_7_49,long drive <SEP> negative,It was worth the long drive !,wait-time,Automotive,0.5127504467964172
+arg_7_50,long wait <SEP> negative,"I would recommend purchasing a vehicle here , but make sure you have time for the long wait .",wait-time,Automotive,0.2153957486152649
+arg_7_51,long wait time <SEP> negative,Gave me a wait time of 2 hours ( which is long ) and at the 2 hour mark they called to say it 's another two hours .   ,wait-time,Automotive,0.663338840007782
+arg_7_52,low mileage <SEP> positive,"We found a great used 528i , low mileage .",wait-time,Automotive,0.8154787421226501
+arg_7_53,never step foot this <SEP> negative,I will never step foot on this property again .,wait-time,Automotive,0.5059571266174316
+arg_7_54,nice and clean waiting area <SEP> positive,They have a nice and clean waiting area with a big screen flat tv .,wait-time,Automotive,0.5590779781341553
+arg_7_55,nice shuttle service <SEP> positive,They have a nice shuttle service as well .  ,wait-time,Automotive,0.49356627464294434
+arg_7_56,nice student military discount <SEP> positive,They even offer student military discount which is nice since I 'm a student with not a lot of income .,wait-time,Automotive,0.47166356444358826
+arg_7_57,nice waiting room <SEP> positive,They also have a nice waiting room with drinks / food and TV .,wait-time,Automotive,0.3249897062778473
+arg_7_58,not open 24 hr store <SEP> negative,Also this store is NOT OPEN 24 HR .,wait-time,Automotive,0.30853185057640076
+arg_7_59,off time <SEP> negative,"Everytime I come in for something minor ( Oil Change etc . ) , the expected time is always off .  ",wait-time,Automotive,0.22516830265522003
+arg_7_60,on time and efficient movers <SEP> positive,Movers were on time and efficient .,wait-time,Automotive,0.26219964027404785
+arg_7_61,on time crew <SEP> positive,The crew was on time and did an amazing job !,wait-time,Automotive,0.39430075883865356
+arg_7_62,on time movers <SEP> positive,"The movers were on time , efficient , professional and funny .",wait-time,Automotive,0.5696978569030762
+arg_7_63,organized moving day <SEP> positive,They packed everything beautifully and moving day was organized and on schedule .,wait-time,Automotive,0.5588197112083435
+arg_7_64,painless enjoyable process <SEP> positive,"Our salesperson Susanne , and our financing person Suzanne made this a painless enjoyable process .  ",wait-time,Automotive,0.5235681533813477
+arg_7_65,pleased process <SEP> positive,We are absolutely pleased with the ease of process .   ,wait-time,Automotive,0.3795333504676819
+arg_7_66,pretty straight forward service <SEP> positive,We 've used Blue Sky many times and the service is pretty straight forward .,wait-time,Automotive,0.4085793197154999
+arg_7_67,quick and pleasant process <SEP> positive,"No hassle , no haggle , no stress , just a quick and pleasant process .",wait-time,Automotive,0.35925838351249695
+arg_7_68,quick deal <SEP> positive,Quick deal in and out in about one hour !,wait-time,Automotive,0.4126425087451935
+arg_7_69,quick process <SEP> positive,Most importantly I was delighted with how quick the process is .,wait-time,Automotive,0.6577377319335938
+arg_7_70,quick service <SEP> positive,Quick service .,wait-time,Automotive,0.357797235250473
+arg_7_71,quick shuttle <SEP> positive,The shuttle was quick and dropped me off at my car .  ,wait-time,Automotive,0.26464730501174927
+arg_7_72,quick speedy service <SEP> positive,Quick speedy service .,wait-time,Automotive,0.5881340503692627
+arg_7_73,quickly line <SEP> positive,so the line went quickly ( in and out in about 15 minutes ) .  ,wait-time,Automotive,0.41725650429725647
+arg_7_74,quickly work <SEP> positive,The work was done quickly even though it was a busy Saturday morning .,wait-time,Automotive,0.6311484575271606
+arg_7_75,really smooth transaction <SEP> positive,VW Passat the Process of getting a Car is always a really smooth transaction we are never waiting to long to Drive our New Cars off the lot .,wait-time,Automotive,0.24422399699687958
+arg_7_76,replaced brakes <SEP> negative,I will be back when my brakes need replaced and my oil needs changed !,wait-time,Automotive,0.17333777248859406
+arg_7_77,right there shuttles <SEP> positive,The shuttles are ALWAYS right there to take you when you park and never making you wait when you return .  ,wait-time,Automotive,0.377506285905838
+arg_7_78,rushed ticket writer <SEP> negative,Ticket writer was rushed to take my car and seemed annoyed about everything overall .,wait-time,Automotive,0.5635598301887512
+arg_7_79,rushed vehicle <SEP> negative,"They always do a subpar job on your vehicle , probably because they are so rushed .",wait-time,Automotive,0.2753128707408905
+arg_7_80,short staffed <SEP> negative,They are short staffed .,wait-time,Automotive,0.6997870206832886
+arg_7_81,shorter shuttle ride <SEP> negative,The shuttle ride was much shorter than using the airport open air lots to Terminal 3 .  ,wait-time,Automotive,0.35914281010627747
+arg_7_82,slow leak <SEP> negative,They even found a slow leak on one of his tires and fixed it free of charge .,wait-time,Automotive,0.34371286630630493
+arg_7_83,slowest car wash <SEP> negative,This has to be the slowest car wash ever .,wait-time,Automotive,0.40204042196273804
+arg_7_84,smooth move <SEP> positive,Our move was smooth .,wait-time,Automotive,0.4971022307872772
+arg_7_85,smooth process <SEP> positive,It was really a smooth process and it did n't take hours and hours like other times,wait-time,Automotive,0.31123921275138855
+arg_7_86,sometimes long wait times <SEP> negative,With regards to the sometimes long wait times .,wait-time,Automotive,0.18496981263160706
+arg_7_87,squealing brakes <SEP> negative,"I purchased a car from CarMax less than 6 months ago and the brakes are squealing / squeaking which I went 3 different times and sat for hours while they "" checked it out "" just to determine that it 's more cosmetic damage and not a safety issue .",wait-time,Automotive,0.7504163384437561
+arg_7_88,straight forward staff <SEP> positive,"The staff is straight forward with all customers , and honest .  ",wait-time,Automotive,0.5718749165534973
+arg_7_89,stupid tow <SEP> negative,i was two minutes from my job and the stupid tow guy would nt stop .,wait-time,Automotive,0.25989386439323425
+arg_7_90,super easy process <SEP> positive,Super easy process !,wait-time,Automotive,0.6632218956947327
+arg_7_91,super fast smog waiting <SEP> positive,There is no lines and no waiting and they have a super fast smog on location too .   ,wait-time,Automotive,0.4030640721321106
+arg_7_92,took longer purchasing process <SEP> negative,The purchasing process took longer than last time and overall that is the only negative thing I can state about them .,wait-time,Automotive,0.48793524503707886
+arg_7_93,top notch service <SEP> positive,Their service is definitely top notch and I will never park at the airport again !,wait-time,Automotive,0.8463070392608643
+arg_7_94,very fast service <SEP> positive,Very fast service .,wait-time,Automotive,0.33178919553756714
+arg_7_95,very ride <SEP> positive,The ride to and from the airport was very quick and efficient .,wait-time,Automotive,0.8155200481414795
+arg_7_96,very short waiting time <SEP> negative,It always easy to get your car in for servicing and with a very short waiting time .    ,wait-time,Automotive,0.3891943097114563
+arg_7_97,very smoothly purchase <SEP> positive,The purchase went very smoothly and we were in and out with all financing completed within 2 1/2 hours from initial arrival .    ,wait-time,Automotive,0.15586970746517181
+arg_7_98,worth service fee <SEP> negative,The service fee may cost a little extra but it was worth it,wait-time,Automotive,0.3496435880661011
