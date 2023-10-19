@@ -40,29 +40,26 @@ Files in each folder:
 * ```.jsonl```: data in .jsonl format (only for Yelp raw data).
 
 ## Model checkpoints
-Model checkpoints are saved and accessed under the [```code/model/```](/code/model) folder. We released models trained under different settings (e.g. in-category/out-of-category)
-for reproducibility and evaluation.
-
 Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1XvjLh3IrpfCxnPoxphId0DYTQB3Eca2Q?usp=sharing).
+Please download the file and unzip the [```checkpoints```]() directory into the main working directory.
 
-We release three pretrained checkpoints for reproducibility of ABKPA. All checkpoints must be located under The checkpoint must be located 
-under the [```code/model/```](/model) directory.
-- `model/roberta-large-pretrained-yelp.zip` The model checkpoint of the RoBERTa-large model adapted to Yelp business reviews
+All model checkpoints are located under the [```checkpoints/```](/model) directory. We release three pretrained checkpoints for reproducibility of ABKPA, including:
+- `roberta-large-pretrained-yelp` The model checkpoint of the RoBERTa-large model adapted to Yelp business reviews
 by pretraining on the Masked LM task. For reproducibility, it can be utilized to fine-tune new KP Matching models for review summarization.
-- `model/ABKPA.zip` The model checkpoint of ABKPA's contrastive KP Matching learning model, trained with data in different settings 
+- `ABKPA` The model checkpoint of aspect-based KP Matching model of ABKPA, trained with data in different settings 
 and business categories of reviews for evaluation.
 Each model checkpoint is located in the respective ```{setting}/{category}/``` folder, while ```setting``` can either be **in-category** or **out-of-category**.
 Simply place ABKPA folder into [```code/model/```](/model) from the working directory to reproduce evaluation results in the paper.
 Any newly fine-tuned models can also be found in the under the same ```{setting}/{category}/``` folder.
-- `model/roberta-large-finetuned-yelp-argument-quality-WA.zip` The model checkpoint of the argument quality ranking model fine-tuned on the Yelp-pretrained RoBERTa-large model, 
-using ArgQ-14kPairs dataset. The model is used at the first stage of the KP Extraction process to select high-quality KPs that can be used to construct contrastive exmaples to train ABKPA.
+- `roberta-large-finetuned-yelp-argument-quality-WA` The model checkpoint of the argument quality ranking model fine-tuned on the Yelp-pretrained RoBERTa-large model, 
+using ArgQ-14kPairs dataset. The model is used in as part of our aspect-based KP Extraction process to select high-quality KPs.
 
 ## Code
 For reproducing the ABKPA training and evaluation, we provide the following notebooks:
--  [```contrastive_examples_data_preprocessing.ipynb```](/code/contrastive_examples_data_preprocessing.ipynb) The notebook contains the code to pre-process, sample and select good data entries from 
-the Yelp dataset to later construct contrastive examples in ```contrastive_examples_data_construction.ipynb```
--  [```contrastive_examples_data_construction.ipynb```](/code/contrastive_examples_data_construction.ipynb) The notebook contains the code to construct contrastive examples for training the ABKPA model.
+-  [```data_preprocessing.ipynb```](/code/data_preprocessing.ipynb) The notebook contains the code to pre-process, sample and select good data entries from 
+the Yelp dataset to later construct aspect-sentiment matching pairs and automatically annotate their silver labels in ```automatic_silver_label_annotation.ipynb```
+-  [```automatic_silver_label_annotation.ipynb```](/code/automatic_silver_label_annotation.ipynb) The notebook contains the code to aspect-sentiment matching pairs and automatically annotate their silver labels for training the ABKPA model.
 -  [```ABKPA_training_preparation.ipynb```](/code/ABKPA_training_preparation.ipynb) The notebook contains the code to prepare and transform the training data into desired input to ABKPA's siamese model in in-category/out-of-category settings
--  [```ABKPA_training.ipynb```](/code/ABKPA_training.ipynb) The notebook contains the code to train the KP Matching model of ABKPA in in-category/out-of-category settings
+-  [```ABKPA_training.ipynb```](/code/ABKPA_training.ipynb) The notebook contains the code to train the KP Matching model of ABKPA in in-category/out-of-category settings, using contrastive learning
 -  [```ABKPA_evaluation.ipynb```](/code/ABKPA_evaluation.ipynb) The notebook contains the code for inference and evaluating the ABKPA model
 -  [```ABKPA¬c_evaluation.ipynb```](/code/ABKPA¬c_evaluation.ipynb) The notebook contains the code to conduct evaluation on ABKPA¬c (the ablation study of ABKPA without contrastive learning)

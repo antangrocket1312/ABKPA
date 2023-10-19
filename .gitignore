@@ -1,5 +1,4 @@
-/code/model/*
-!/code/model/*.md
+/checkpoints/*
 
 /data/yelp/*
 
