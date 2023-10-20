@@ -30,9 +30,8 @@ We released the training and evaluation datasets of ABKPA. Datasets can be acces
 following the [```training/```](/data/training) and [```evaluation/```](/data/evaluation) subdirectories for each dataset.
 
 Additionally, we provide the  [```yelp/```](/data/yelp) subdirectory that contains the raw, unprocessed and preprocessed data from Yelp
-to allow reproducibility and extensibility. This folder can be downloaded
-from this [Google Drive link](https://drive.google.com/drive/folders/1kIEsac0e819rX63PmENPfTctWWww1mIC?usp=sharing), 
-under the `data/` directory.
+to allow reproducibility and extensibility. The zipped folder of [```yelp/```]() can be downloaded
+from this [Google Drive link](https://drive.google.com/drive/folders/1NrO0GgMoV13PwixVd9qk90HZtlu23wqg?usp=sharing). Note that [```yelp/```]() must be unzipped and placed under [```data/```]().
 
 Files in each folder:
 * ```.pkl```: data in .pkl format, accessible via Pandas library.
@@ -40,7 +39,7 @@ Files in each folder:
 * ```.jsonl```: data in .jsonl format (only for Yelp raw data).
 
 ## Model checkpoints
-Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1XvjLh3IrpfCxnPoxphId0DYTQB3Eca2Q?usp=sharing).
+Model checkpoints can be downloaded from this [Google Drive link](https://drive.google.com/drive/folders/1NrO0GgMoV13PwixVd9qk90HZtlu23wqg?usp=sharing).
 Please download the file and unzip the [```checkpoints```]() directory into the main working directory.
 
 All model checkpoints are located under the [```checkpoints/```](/model) directory. We release three pretrained checkpoints for reproducibility of ABKPA, including:

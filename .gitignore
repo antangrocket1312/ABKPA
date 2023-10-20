@@ -1,6 +1,8 @@
 /checkpoints/*
+/*.zip
 
 /data/yelp/*
+/data/*.zip
 
 /code/Model_Upload.ipynb
 
