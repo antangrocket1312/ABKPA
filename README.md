@@ -4,7 +4,7 @@
 
 </div>
 
-This repository maintains the code, data, and model checkpoints for the paper *Aspect-based Key Point Analysis for Quantitative Summarization of Business Reviews*
+This repository maintains the code, data, and model checkpoints for the paper *Aspect-based Key Point Analysis for Quantitative Summarization of Reviews*
 
 ## Installation
 ### 1. Create new virtual environment by
