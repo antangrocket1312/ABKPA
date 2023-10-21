@@ -4,7 +4,7 @@
 /data/yelp/*
 /data/*.zip
 
-/code/Model_Upload.ipynb
+/notebook/Model_Upload.ipynb
 
 __pycache__/
 *.py[cod]
